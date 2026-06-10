@@ -173,6 +173,34 @@ Se o pool de clipes se esgotar, o script para e avisa — sem tentar acessar a i
 
 ---
 
+## Painel Administrativo Web
+
+O projeto conta com um painel administrativo baseado em Flask para visualizar o progresso de geração de vídeos e gerenciar as postagens/metadados.
+
+### Como Iniciar no Terminal
+
+1. **Ative o ambiente virtual** local (instalado na raiz do projeto):
+   * Se você estiver na raiz do projeto:
+     ```bash
+     source .venv/bin/activate
+     cd admin
+     ```
+   * Se você já estiver dentro da pasta `admin/`:
+     ```bash
+     source ../.venv/bin/activate
+     ```
+2. **Instale o Flask** (caso não esteja instalado no ambiente virtual):
+   ```bash
+   pip install flask
+   ```
+3. **Execute o aplicativo**:
+   ```bash
+   python app.py
+   ```
+4. **Acesse no navegador**: [http://localhost:5000](http://localhost:5000)
+
+---
+
 ## Resultado
 
 | Arquivo | Descrição |

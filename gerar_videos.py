@@ -430,26 +430,25 @@ def selecionar_clipes(conn: sqlite3.Connection, duracao_necessaria: float,
 def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
                        saida: Path) -> Path:
     """
-    Monta o vídeo de fundo concatenando os clipes com transição blur.
-    Usa loop espelhado (original→reverso→original) se houver apenas 1 clipe.
+    Monta o vídeo de fundo concatenando os clipes.
+    Usa o concat demuxer do ffmpeg (via arquivo de lista) — robusto para
+    qualquer quantidade de clipes, sem SIGSEGV causado por filter_complex longo.
     Corta no final para exatamente duracao_total segundos.
     """
     if len(clipes) == 1:
         caminho, dur = clipes[0]
-        # loop espelhado para preencher a duração
         clipes_expandidos = []
         total = 0.0
-        sentido = 1
-        while total < duracao_total + 2:  # margem para corte final
-            clipes_expandidos.append((caminho, dur, sentido == -1))
+        while total < duracao_total + 2:
+            clipes_expandidos.append((caminho, dur))
             total += dur
-            sentido *= -1
-        clipes = [(c, d) for c, d, _ in clipes_expandidos]
+        clipes = clipes_expandidos
 
-    # Normalizar cada clipe individualmente; pular os corrompidos
+    # --- Normalizar cada clipe; pular corrompidos ---
     partes: list[Path] = []
+    out_dir = saida.parent
     for i, (caminho, _) in enumerate(clipes):
-        parte = saida.parent / f"_parte_{saida.stem}_{i}.mp4"
+        parte = out_dir / f"_parte_{saida.stem}_{i}.mp4"
         try:
             subprocess.run([
                 "ffmpeg", "-y", "-i", caminho,
@@ -467,50 +466,35 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     if not partes:
         raise RuntimeError("Todos os clipes selecionados falharam na normalização.")
 
-    if len(partes) == 1:
-        video_concat = partes[0]
-    else:
-        # Concatenar com transição xfade entre cada par
-        # Construir filtergraph encadeado
-        inputs = []
-        for p in partes:
-            inputs += ["-i", str(p)]
+    # --- Concatenar via concat demuxer (sem limite de clipes, sem SIGSEGV) ---
+    lista_txt = out_dir / f"_lista_{saida.stem}_bg.txt"
+    lista_txt.write_text(
+        "\n".join(f"file '{p.name}'" for p in partes) + "\n",
+        encoding="utf-8",
+    )
 
-        filter_parts = []
-        offset = 0.0
-        prev = "[0:v]"
-        for i, (_, dur) in enumerate(clipes[:-1]):
-            offset += dur - TRANSITION_SECS
-            label = f"[v{i+1}]"
-            filter_parts.append(
-                f"{prev}[{i+1}:v]xfade=transition=fade:duration={TRANSITION_SECS}:offset={offset:.2f}{label}"
-            )
-            prev = label
-            offset -= TRANSITION_SECS  # xfade encurta o tempo total
+    video_concat = out_dir / f"_concat_{saida.stem}.mp4"
+    subprocess.run([
+        "ffmpeg", "-y",
+        "-f", "concat", "-safe", "0",
+        "-i", lista_txt.name,
+        "-c", "copy",
+        video_concat.name,
+    ], check=True, capture_output=True, cwd=str(out_dir))
 
-        filtergraph = ";".join(filter_parts)
-        video_concat = saida.parent / f"_concat_{saida.stem}.mp4"
+    lista_txt.unlink(missing_ok=True)
+    for p in partes:
+        p.unlink(missing_ok=True)
 
-        cmd = ["ffmpeg", "-y"] + inputs + [
-            "-filter_complex", filtergraph,
-            "-map", prev,
-            "-c:v", "libx264", "-pix_fmt", "yuv420p",
-            str(video_concat),
-        ]
-        subprocess.run(cmd, check=True, capture_output=True)
-        for p in partes:
-            p.unlink(missing_ok=True)
-
-    # Cortar exatamente na duração necessária
-    video_cortado = saida.parent / f"_fundo_{saida.stem}.mp4"
+    # --- Cortar exatamente na duração necessária ---
+    video_cortado = out_dir / f"_fundo_{saida.stem}.mp4"
     subprocess.run([
         "ffmpeg", "-y", "-i", str(video_concat),
         "-t", str(duracao_total),
         "-c:v", "libx264", "-pix_fmt", "yuv420p",
         str(video_cortado),
     ], check=True, capture_output=True)
-    if video_concat != partes[0]:
-        video_concat.unlink(missing_ok=True)
+    video_concat.unlink(missing_ok=True)
 
     return video_cortado
 

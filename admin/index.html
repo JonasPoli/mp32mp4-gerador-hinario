@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Painel Hinário CCB — YouTube Admin</title>
+  <meta name="description" content="Painel administrativo para gerenciamento dos vídeos do Hinário CCB no YouTube." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════ SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-brand">
+    <span class="brand-icon">🎹</span>
+    <span class="brand-text">Hinário CCB</span>
+  </div>
+  <nav class="sidebar-nav">
+    <button class="nav-item active" data-view="dashboard" id="nav-dashboard">
+      <span class="nav-icon">📊</span><span>Dashboard</span>
+    </button>
+    <button class="nav-item" data-view="videos" id="nav-videos">
+      <span class="nav-icon">🎬</span><span>Vídeos</span>
+    </button>
+    <button class="nav-item" data-view="search" id="nav-search">
+      <span class="nav-icon">🔍</span><span>Pesquisa</span>
+    </button>
+    <button class="nav-item" data-view="schedule" id="nav-schedule">
+      <span class="nav-icon">📅</span><span>Agendamento</span>
+    </button>
+  </nav>
+  <div class="sidebar-footer">
+    <span class="version-tag">v1.0</span>
+  </div>
+</aside>
+
+<!-- ═══════════════════════════════════════════════════════ MAIN -->
+<main class="main-content">
+
+  <!-- ─── HEADER ─── -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <h1 class="page-title" id="page-title">Dashboard</h1>
+    </div>
+    <div class="topbar-right">
+      <div class="status-badge" id="status-badge">
+        <span class="pulse-dot"></span>
+        <span id="status-text">Carregando…</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ─── VIEW: DASHBOARD ─── -->
+  <section class="view active" id="view-dashboard">
+    <div class="stats-grid" id="stats-grid">
+      <div class="stat-card stat-total">
+        <div class="stat-icon">🎵</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-total">—</div>
+          <div class="stat-label">Total de Hinos</div>
+        </div>
+      </div>
+      <div class="stat-card stat-concluido">
+        <div class="stat-icon">✅</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-concluido">—</div>
+          <div class="stat-label">Vídeos Gerados</div>
+        </div>
+      </div>
+      <div class="stat-card stat-pendente">
+        <div class="stat-icon">⏳</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-pendente">—</div>
+          <div class="stat-label">Pendentes</div>
+        </div>
+      </div>
+      <div class="stat-card stat-erro">
+        <div class="stat-icon">⚠️</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-erro">—</div>
+          <div class="stat-label">Com Erro</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="progress-card glass-card">
+      <h2 class="card-title">Progresso de Geração</h2>
+      <div class="progress-bar-wrapper">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>
+      <div class="progress-label" id="progress-label">—</div>
+    </div>
+
+    <div class="glass-card recent-card">
+      <h2 class="card-title">Últimos Vídeos Gerados</h2>
+      <div class="recent-list" id="recent-list">
+        <div class="loader-inline">Carregando…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── VIEW: VIDEOS ─── -->
+  <section class="view" id="view-videos">
+    <div class="list-controls glass-card">
+      <span class="total-count" id="videos-count">—</span>
+      <div class="pagination" id="pagination-top"></div>
+    </div>
+
+    <div class="videos-grid" id="videos-grid">
+      <div class="loader-inline">Carregando vídeos…</div>
+    </div>
+
+    <div class="glass-card" style="margin-top:1rem;padding:0.75rem 1.5rem;">
+      <div class="pagination" id="pagination-bottom"></div>
+    </div>
+  </section>
+
+  <!-- ─── VIEW: SEARCH ─── -->
+  <section class="view" id="view-search">
+    <div class="glass-card search-card">
+      <h2 class="card-title">🔍 Pesquisar por Arquivo de Vídeo</h2>
+      <div class="search-row">
+        <input type="text" id="search-input" class="search-input"
+               placeholder="Ex.: hino_290, 290.mp3, hino_005…"
+               autocomplete="off" spellcheck="false" />
+        <button class="btn-primary" id="search-btn">Pesquisar</button>
+      </div>
+      <div class="search-results" id="search-results"></div>
+    </div>
+
+    <!-- Detail panel that opens when a video is selected -->
+    <div class="glass-card detail-panel" id="detail-panel" style="display:none">
+      <div class="detail-header">
+        <h2 class="card-title" id="detail-title">Hino —</h2>
+        <span class="badge" id="detail-status-badge"></span>
+      </div>
+      <div class="detail-form" id="detail-form"></div>
+    </div>
+  </section>
+
+  <!-- ─── VIEW: SCHEDULE ─── -->
+  <section class="view" id="view-schedule">
+    <div class="glass-card schedule-card">
+      <h2 class="card-title">📅 Gerar Datas de Postagem</h2>
+      <p class="card-desc">
+        Informe a data do primeiro vídeo e o sistema calculará automaticamente
+        uma data para cada vídeo gerado (em ordem numérica), incrementando o
+        número de dias configurado.
+      </p>
+
+      <div class="schedule-form">
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="sch-data-base">Data de início</label>
+            <input type="date" id="sch-data-base" class="form-input" />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="sch-intervalo">Intervalo (dias)</label>
+            <input type="number" id="sch-intervalo" class="form-input" value="1" min="1" max="30" />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="sch-hora">Horário</label>
+            <input type="time" id="sch-hora" class="form-input" value="15:00" />
+          </div>
+        </div>
+
+        <div class="preview-banner" id="sch-preview" style="display:none"></div>
+
+        <div class="schedule-actions">
+          <button class="btn-secondary" id="sch-preview-btn">Pré-visualizar</button>
+          <button class="btn-primary" id="sch-apply-btn">Aplicar Datas</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Schedule preview table -->
+    <div class="glass-card" id="sch-table-card" style="display:none">
+      <h2 class="card-title">Pré-visualização do Agendamento</h2>
+      <div class="table-wrapper">
+        <table class="data-table" id="sch-table">
+          <thead>
+            <tr>
+              <th>Nº</th>
+              <th>Arquivo</th>
+              <th>Data de Postagem</th>
+            </tr>
+          </thead>
+          <tbody id="sch-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ═══════════════════════════════════════════════════════ MODAL: VIDEO DETAIL -->
+<div class="modal-backdrop" id="modal-backdrop" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal glass-card" id="modal">
+    <button class="modal-close" id="modal-close" aria-label="Fechar">✕</button>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TOAST -->
+<div class="toast" id="toast"></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
