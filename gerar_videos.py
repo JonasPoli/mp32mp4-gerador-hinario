@@ -45,6 +45,7 @@ THUMBS_DIR   = ROOT / "thumbs"   # miniaturas PNG para upload no YouTube
 FONTES_DIR   = ROOT / "fontes"
 DB_PATH      = ROOT / "progresso.db"
 DOWNLOAD_SCRIPT = ROOT / "baixar_videos_flores.py"
+LETRAS_DIR   = ROOT / "hinos_txt" / "letras_separadas"  # letras individuais dos hinos
 
 FRAME_DURATION   = 5      # segundos do frame inicial com o número
 TRANSITION_SECS  = 1      # duração da transição blur entre clipes
@@ -97,6 +98,62 @@ def carregar_templates_youtube() -> dict:
     except Exception as e:
         print(f"[aviso] Erro ao carregar youtube.md: {e}")
         return {}
+
+
+def carregar_letra_hino(numero, projeto_nome: str = "") -> str:
+    """
+    Busca a letra do hino/coro no diretório letras_separadas via _indice.csv.
+    Retorna o conteúdo do .txt (sem a primeira linha de título) ou string vazia se não encontrado.
+    """
+    indice_path = LETRAS_DIR / "_indice.csv"
+    if not indice_path.exists():
+        return ""
+
+    try:
+        # Determinar tipo: coro ou hino
+        num_str = str(numero).strip()
+        is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
+        if not is_coro:
+            is_coro = "coro" in projeto_nome.lower()
+
+        if is_coro:
+            if num_str.upper().startswith("C"):
+                num_int = int(num_str[1:])
+            else:
+                try:
+                    num_int = int(num_str)
+                except ValueError:
+                    num_int = 0
+            tipo_busca = "coro"
+        else:
+            try:
+                num_int = int(num_str)
+            except ValueError:
+                return ""
+            tipo_busca = "hino"
+
+        with open(indice_path, newline="", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                tipo_csv = row.get("tipo", "").strip().lower()
+                try:
+                    num_csv = int(row.get("numero", "").strip())
+                except (ValueError, AttributeError):
+                    continue
+                if tipo_csv == tipo_busca and num_csv == num_int:
+                    arquivo = row.get("arquivo", "").strip()
+                    letra_path = LETRAS_DIR / arquivo
+                    if letra_path.exists():
+                        linhas = letra_path.read_text(encoding="utf-8").splitlines()
+                        # Pular a primeira linha (título) e linhas em branco iniciais
+                        corpo = linhas[1:] if linhas else []
+                        while corpo and not corpo[0].strip():
+                            corpo = corpo[1:]
+                        return "\n".join(corpo).rstrip()
+                    return ""
+    except Exception as e:
+        print(f"[aviso] Erro ao carregar letra do hino {numero}: {e}")
+    return ""
 
 
 def formatar_template(template: str, variables: dict) -> str:
@@ -962,6 +1019,29 @@ def gerar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict
             else:
                 break
         tags = ", ".join(valid_parts)
+
+    # Carregar letra do hino e inserir na descrição
+    letra = carregar_letra_hino(numero, projeto_nome)
+    if letra:
+        # Inserir a letra após a apresentação, antes das hashtags (#Hino...)
+        # Estratégia: separar a descrição na primeira linha que começa com "#"
+        linhas_desc = descricao.splitlines()
+        idx_hashtag = next(
+            (i for i, ln in enumerate(linhas_desc) if ln.strip().startswith("#")),
+            None
+        )
+        if idx_hashtag is not None:
+            parte_apresentacao = "\n".join(linhas_desc[:idx_hashtag]).rstrip()
+            parte_hashtags = "\n".join(linhas_desc[idx_hashtag:])
+            descricao = (
+                parte_apresentacao
+                + "\n\n📜 Letra:\n\n"
+                + letra
+                + "\n\n"
+                + parte_hashtags
+            )
+        else:
+            descricao = descricao.rstrip() + "\n\n📜 Letra:\n\n" + letra
 
     return f"""# {numero}
 
