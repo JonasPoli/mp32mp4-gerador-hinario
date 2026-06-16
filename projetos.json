@@ -1,0 +1,142 @@
+{
+  "hinario4": {
+    "nome_exibicao": "Teclado Yamaha PSR",
+    "csv_path": "fontes/hinario4_sequential.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "images/sem-numero.png",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 4 CCB | <nome-do-projeto>",
+    "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 4, hinario 4, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino <numero-do-hino> instrumental",
+    "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 4 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 4\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Hino<numero-do-hino> #Hinario4 #CCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [26, 45, 90, 255],
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [26, 45, 90, 255],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      }
+    }
+  },
+  "hinario5": {
+    "nome_exibicao": "Teclado Yamaha PSR",
+    "csv_path": "fontes/hinario5.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "images/sem-numero.png",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
+    "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino <numero-do-hino> instrumental",
+    "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Hino<numero-do-hino> #Hinario5 #CCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [26, 45, 90, 255],
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [26, 45, 90, 255],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      }
+    }
+  },
+  "hinos_de_ninar": {
+    "nome_exibicao": "Hinos de Ninar",
+    "csv_path": "fontes/hinario5.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "images/hinos_de_ninar.png",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
+    "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino <numero-do-hino> instrumental",
+    "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Hino<numero-do-hino> #Hinario5 #CCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [26, 45, 90, 255],
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [26, 45, 90, 255],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      }
+    }
+  },
+  "coros": {
+    "nome_exibicao": "Coros Hinário 5",
+    "csv_path": "fontes/coros.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "images/sem-numero.png",
+    "titulo_template": "Coro <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
+    "palavras_chaves": "coro <numero-do-hino>, coro <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb coro <numero-do-hino>, coros ccb, hinos ccb, congregação cristã no brasil, congregacao crista no brasil, coros tocados no teclado, coro no teclado, teclado yamaha psr, yamaha psr, ccb coro teclado, coro instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, música instrumental cristã, louvor instrumental, teclado evangélico, coro <numero-do-hino> instrumental",
+    "descricao": "Coro <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do coro <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Coro: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Coro<numero-do-hino> #Hinario5 #CCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [26, 45, 90, 255],
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [26, 45, 90, 255],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": {
+          "raio": 3,
+          "cor": [255, 255, 255, 255]
+        }
+      }
+    }
+  }
+}

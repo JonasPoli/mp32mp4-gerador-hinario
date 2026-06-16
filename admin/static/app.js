@@ -11,6 +11,8 @@ const state = {
   videosPages: 1,
   perPage:     20,
   schedulePreview: [],
+  activeProject: '',
+  projects: {},
 };
 
 // ── DOM shortcuts ─────────────────────────────────────────────────────
@@ -38,6 +40,7 @@ function switchView(name) {
     videos:    'Vídeos Gerados',
     search:    'Pesquisa',
     schedule:  'Agendamento de Postagem',
+    'new-project': 'Cadastrar Novo Projeto',
   };
   $('#page-title').textContent = titles[name] || name;
 
@@ -51,7 +54,12 @@ $$('.nav-item').forEach(btn => {
 
 // ── API helpers ───────────────────────────────────────────────────────
 async function api(path, opts = {}) {
-  const res  = await fetch(path, opts);
+  let url = path;
+  if (state.activeProject) {
+    const separator = path.includes('?') ? '&' : '?';
+    url = `${path}${separator}projeto=${state.activeProject}`;
+  }
+  const res  = await fetch(url, opts);
   const data = await res.json();
   if (!res.ok) throw new Error(data.error || 'Erro na API');
   return data;
@@ -259,7 +267,24 @@ async function showDetail(numero) {
 // DETAIL FORM (shared between search panel and modal)
 // ════════════════════════════════════════════════════════════════════════
 function detailFormHTML(v) {
+  const thumbUrl = v.thumb_exists 
+    ? `/thumbs/${v.thumb_file}?t=${Date.now()}` 
+    : '';
+
   return `
+    <div class="field-group full" style="display: flex; flex-direction: column; gap: 0.5rem; align-items: center; margin-bottom: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 1.5rem;">
+      <span class="field-label" style="align-self: flex-start;">Visualização da Miniatura (Thumbnail)</span>
+      <div class="thumb-preview-container" style="width: 100%; max-width: 480px; aspect-ratio: 16/9; background: rgba(0,0,0,0.2); border-radius: var(--radius-sm); border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; overflow: hidden; position: relative;">
+        ${thumbUrl 
+          ? `<img src="${thumbUrl}" id="thumb-preview-img-${v.numero}" style="width: 100%; height: 100%; object-fit: contain;" />` 
+          : `<span id="thumb-preview-placeholder-${v.numero}" style="color: var(--text-3); font-size: 0.9rem;">Imagem não gerada</span>`
+        }
+      </div>
+      <button type="button" class="btn-secondary" onclick="gerarThumbHino('${v.projeto}', ${v.numero})" style="margin-top: 0.5rem; padding: 0.5rem 1rem; font-size: 0.85rem; font-weight: 500; cursor: pointer; display: flex; align-items: center; gap: 0.25rem;">
+        🖼️ Gerar Apenas Imagem/Thumb
+      </button>
+    </div>
+
     <div class="field-group">
       <span class="field-label">Título para o YouTube</span>
       <input class="field-input" readonly value="${escAttr(v.titulo)}" />
@@ -349,6 +374,7 @@ $('#sch-apply-btn').addEventListener('click', applySchedule);
 
 function getScheduleParams() {
   return {
+    projeto:        state.activeProject,
     data_base:      $('#sch-data-base').value,
     intervalo_dias: parseInt($('#sch-intervalo').value) || 1,
     hora:           $('#sch-hora').value || '15:00',
@@ -429,10 +455,159 @@ function escHTML(s) {
 function escAttr(s) { return escHTML(s); }
 
 // ── Init ──────────────────────────────────────────────────────────────
-(function init() {
+async function init() {
   // Set today as default schedule date
   const today = new Date().toISOString().slice(0, 10);
   $('#sch-data-base').value = today;
 
+  try {
+    const res = await fetch('/api/projects');
+    const projects = await res.json();
+    state.projects = projects;
+    
+    const selector = $('#project-select');
+    selector.innerHTML = Object.entries(projects).map(([key, cfg]) => 
+      `<option value="${key}">${escHTML(cfg.nome_exibicao || key)}</option>`
+    ).join('');
+    
+    state.activeProject = selector.value;
+    
+    selector.addEventListener('change', (e) => {
+      state.activeProject = e.target.value;
+      if (state.currentView === 'dashboard') loadDashboard();
+      if (state.currentView === 'videos') loadVideos(1);
+      if (state.currentView === 'search') runSearch();
+    });
+    
+    const csvBtn = $('#download-csv-btn');
+    if (csvBtn) {
+      csvBtn.addEventListener('click', () => {
+        if (!state.activeProject) {
+          toast('Nenhum projeto ativo selecionado.', 'error');
+          return;
+        }
+        window.open(`/api/projects/${state.activeProject}/export-csv`, '_blank');
+      });
+    }
+    
+    switchView('dashboard');
+  } catch (err) {
+    toast('Erro ao carregar projetos: ' + err.message, 'error');
+    switchView('dashboard');
+  }
+  // Set up auto-slugification for new project form
+  const nameInput = $('#proj-nome');
+  const idInput = $('#proj-id');
+  if (nameInput && idInput) {
+    nameInput.addEventListener('input', () => {
+      if (!idInput.dataset.manual) {
+        idInput.value = nameInput.value
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '') // Remove accents
+          .replace(/[^a-z0-9_]/g, '_')     // Replace non-alphanumeric with underline
+          .replace(/_+/g, '_')              // Collapse multiple underlines
+          .replace(/^_+|_+$/g, '');         // Trim underlines
+      }
+    });
+    idInput.addEventListener('input', () => {
+      idInput.dataset.manual = 'true';
+    });
+  }
+
+  // Set up project creation form submission
+  const form = $('#new-project-form');
+  if (form) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const submitBtn = $('#proj-submit-btn');
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Criando...';
+      
+      const formData = new FormData(form);
+      try {
+        const res = await fetch('/api/projects/create', {
+          method: 'POST',
+          body: formData
+        });
+        
+        const result = await res.json();
+        if (!res.ok) {
+          throw new Error(result.error || 'Erro ao criar o projeto');
+        }
+        
+        toast('Projeto criado com sucesso!', 'success');
+        form.reset();
+        if (idInput) delete idInput.dataset.manual;
+        
+        // Reload projects and select the new one
+        await reloadProjects(result.projeto_key);
+        
+      } catch (err) {
+        toast('Erro: ' + err.message, 'error');
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Cadastrar Projeto';
+      }
+    });
+  }
+
   switchView('dashboard');
-})();
+}
+
+async function reloadProjects(selectKey = null) {
+  try {
+    const res = await fetch('/api/projects');
+    const projects = await res.json();
+    state.projects = projects;
+    
+    const selector = $('#project-select');
+    selector.innerHTML = Object.entries(projects).map(([key, cfg]) => 
+      `<option value="${key}">${escHTML(cfg.nome_exibicao || key)}</option>`
+    ).join('');
+    
+    if (selectKey && projects[selectKey]) {
+      selector.value = selectKey;
+    }
+    
+    state.activeProject = selector.value;
+    switchView('dashboard');
+  } catch (err) {
+    toast('Erro ao atualizar lista de projetos: ' + err.message, 'error');
+  }
+}
+
+async function gerarThumbHino(projeto, numero) {
+  try {
+    toast(`Gerando imagem do hino ${numero}...`, 'info');
+    
+    const res = await fetch(`/api/videos/${projeto}/${numero}/gerar-thumb`, {
+      method: 'POST'
+    });
+    
+    const result = await res.json();
+    if (!res.ok) {
+      throw new Error(result.error || 'Erro ao gerar imagem');
+    }
+    
+    toast('Imagem gerada com sucesso!', 'success');
+    
+    // Update the image preview in the UI
+    const img = $(`#thumb-preview-img-${numero}`);
+    const placeholder = $(`#thumb-preview-placeholder-${numero}`);
+    const newSrc = `${result.thumb_url}?t=${Date.now()}`;
+    
+    if (img) {
+      img.src = newSrc;
+    } else if (placeholder) {
+      const container = placeholder.parentElement;
+      container.innerHTML = `<img src="${newSrc}" id="thumb-preview-img-${numero}" style="width: 100%; height: 100%; object-fit: contain;" />`;
+    }
+    
+  } catch (err) {
+    toast('Erro: ' + err.message, 'error');
+  }
+}
+
+init();

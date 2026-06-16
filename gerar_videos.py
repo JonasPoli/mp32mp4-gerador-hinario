@@ -20,6 +20,7 @@ Dependências:
 
 import argparse
 import csv
+import json
 import os
 import re
 import sqlite3
@@ -37,25 +38,100 @@ from PIL import Image, ImageDraw, ImageFont
 # =============================================================================
 
 ROOT         = Path(__file__).parent
-MP3_DIR      = ROOT / "mp3"
 FLORES_DIR   = ROOT / "videos_flores"
 PHOTOS_DIR   = ROOT / "Photos-1-001"
 OUTPUT_DIR   = ROOT / "output"
 THUMBS_DIR   = ROOT / "thumbs"   # miniaturas PNG para upload no YouTube
-IMAGES_DIR   = ROOT / "images"
 FONTES_DIR   = ROOT / "fontes"
 DB_PATH      = ROOT / "progresso.db"
-METADATA_OUT = ROOT / "videos_gerados.md"
 DOWNLOAD_SCRIPT = ROOT / "baixar_videos_flores.py"
-
-CSV_HINARIO4 = FONTES_DIR / "hinario4_sequential.csv"
-FRAME_BASE   = IMAGES_DIR / "sem-numero.png"
 
 FRAME_DURATION   = 5      # segundos do frame inicial com o número
 TRANSITION_SECS  = 1      # duração da transição blur entre clipes
 
 # Sequência de queries de fallback para download automático
 DOWNLOAD_QUERIES = ["flores", "flowers", "natureza", "nature", "campo", "jardim", "primavera"]
+
+
+def carregar_projetos() -> dict:
+    caminho = ROOT / "projetos.json"
+    if not caminho.exists():
+        raise FileNotFoundError(f"Arquivo projetos.json não encontrado em {caminho}")
+    with open(caminho, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def carregar_templates_youtube() -> dict:
+    youtube_path = ROOT / "youtube.md"
+    if not youtube_path.exists():
+        return {}
+    try:
+        linhas = youtube_path.read_text(encoding="utf-8").splitlines()
+        secoes = {}
+        secao_atual = None
+        linhas_secao = []
+        
+        for linha in linhas:
+            linha_stripped = linha.strip()
+            if linha_stripped.startswith("## "):
+                if secao_atual:
+                    secoes[secao_atual] = "\n".join(linhas_secao).strip()
+                secao_atual = linha_stripped[3:].strip()
+                linhas_secao = []
+            elif secao_atual is not None:
+                linhas_secao.append(linha)
+                
+        if secao_atual:
+            secoes[secao_atual] = "\n".join(linhas_secao).strip()
+            
+        templates = {}
+        for nome_secao, conteudo in secoes.items():
+            if "título" in nome_secao.lower() or "titulo" in nome_secao.lower():
+                templates["titulo"] = conteudo
+            elif "descrição" in nome_secao.lower() or "descricao" in nome_secao.lower():
+                templates["descricao"] = conteudo
+            elif "tags" in nome_secao.lower():
+                templates["tags"] = conteudo
+                
+        return templates
+    except Exception as e:
+        print(f"[aviso] Erro ao carregar youtube.md: {e}")
+        return {}
+
+
+def formatar_template(template: str, variables: dict) -> str:
+    res = template
+    
+    # 1. Substituir pares de tags/nomes para evitar duplicatas erradas
+    res = re.sub(
+        r'<nome-do-hino>\s*,\s*<nome-do-hino>',
+        f"{variables.get('nome', '')}, {variables.get('nome_sem_acento', '')}",
+        res
+    )
+    
+    res = re.sub(
+        r'<nome-do-projeto>\s*,\s*<nome-do-projeto>',
+        f"{variables.get('nome_exibicao', '')}, {variables.get('nome_exibicao', '').lower()}",
+        res
+    )
+    
+    # 2. Substituir variáveis explícitas
+    res = res.replace("<numero-do-hino>", variables.get("numero", ""))
+    res = res.replace("<numero-do-hino", variables.get("numero", ""))  # Tratar falta de fechamento
+    res = res.replace("<nome-do-hino>", variables.get("nome", ""))
+    res = res.replace("<nome-do-projeto>", variables.get("nome_exibicao", ""))
+    res = res.replace("<nome-sem-acento>", variables.get("nome_sem_acento", ""))
+    res = res.replace("<numero-do-hinario>", variables.get("numero_do_hinario", ""))
+    
+    # 3. Resolver amostra literal solicitada
+    res = res.replace("cristo jesus sua mao me da", variables.get("nome_sem_acento", ""))
+    res = res.replace("cristo jesus sua mão me dá", variables.get("nome", ""))
+    
+    # 4. Suportar chaves legadas (caso projetos.json ou banco use)
+    for k, v in variables.items():
+        res = res.replace("{" + k + "}", str(v))
+        
+    return res
 
 
 # =============================================================================
@@ -79,16 +155,59 @@ def camel_case(texto: str) -> str:
     return "".join(p.capitalize() for p in palavras)
 
 
-def extrair_numero_mp3(nome: str) -> int | None:
-    """Extrai o número do hino do nome do arquivo MP3 (ex.: '290.mp3' → 290)."""
+def extrair_numero_mp3(nome: str) -> str | int | None:
+    """Extrai o número do hino do nome do arquivo MP3 (ex.: '290.mp3' → 290, 'Coro 001.mp3' → 'C1')."""
+    m_coro = re.match(r"^Coro\s+(\d+)", nome, re.IGNORECASE)
+    if m_coro:
+        return f"C{int(m_coro.group(1))}"
     m = re.match(r"^(\d+)", nome)
-    return int(m.group(1)) if m else None
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def formatar_numero_completo(numero) -> str:
+    if isinstance(numero, int):
+        return f"{numero:03d}"
+    num_str = str(numero).strip()
+    if num_str.isdigit():
+        return f"{int(num_str):03d}"
+    if num_str.upper().startswith("C") and num_str[1:].isdigit():
+        return f"C{int(num_str[1:]):03d}"
+    return num_str
+
+
+def limpar_nome_hino(nome: str) -> str:
+    res = nome.strip()
+    if res.lower().endswith(".mp3"):
+        res = res[:-4].strip()
+    # Remove prefixo tipo "Coro 001- " ou "Coro 001 -" ou "Coro 1 -"
+    res = re.sub(r"^Coro\s+\d+\s*-\s*", "", res, flags=re.IGNORECASE)
+    res = re.sub(r"^Coro\s+\w+\s*-\s*", "", res, flags=re.IGNORECASE)
+    return res.strip()
 
 
 def duracao_mp3(caminho: Path) -> float:
     """Retorna a duração em segundos de um arquivo MP3."""
-    audio = MP3(str(caminho))
-    return audio.info.length
+    try:
+        audio = MP3(str(caminho))
+        if audio.info.length > 0.0:
+            return audio.info.length
+    except Exception:
+        pass
+
+    # Fallback para ffprobe se o mutagen falhar ou retornar 0.0
+    cmd = [
+        "ffprobe", "-v", "error",
+        "-show_entries", "format=duration",
+        "-of", "default=noprint_wrappers=1:nokey=1",
+        str(caminho),
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    try:
+        return float(result.stdout.strip())
+    except ValueError:
+        return 0.0
 
 
 def duracao_video(caminho: Path) -> float:
@@ -114,30 +233,125 @@ def abrir_banco() -> sqlite3.Connection:
     conn = sqlite3.connect(str(DB_PATH))
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA journal_mode=WAL")
+    # Migra primeiro, depois habilita foreign keys e cria tabelas
+    migrar_banco_para_projetos(conn)
     conn.execute("PRAGMA foreign_keys=ON")
     _criar_tabelas(conn)
     return conn
 
 
+def migrar_banco_para_projetos(conn: sqlite3.Connection):
+    cursor = conn.execute("PRAGMA table_info(videos)")
+    cols = [r[1] for r in cursor.fetchall()]
+    if not cols:
+        return
+        
+    if "projeto" not in cols:
+        print("[banco] Migrando banco de dados para suportar múltiplos projetos...")
+        conn.execute("PRAGMA foreign_keys=OFF")
+        conn.execute("BEGIN TRANSACTION")
+        try:
+            conn.execute("ALTER TABLE videos RENAME TO _videos_old")
+            conn.execute("""
+                CREATE TABLE videos (
+                    projeto       TEXT NOT NULL DEFAULT 'hinario4',
+                    numero        INTEGER NOT NULL,
+                    mp3_file      TEXT NOT NULL,
+                    hinario       TEXT NOT NULL DEFAULT 'hinario4',
+                    status        TEXT NOT NULL DEFAULT 'pendente',
+                    output        TEXT,
+                    erro_msg      TEXT,
+                    criado_em     TEXT,
+                    atualizado_em TEXT,
+                    data_postagem TEXT,
+                    PRIMARY KEY (projeto, numero)
+                )
+            """)
+            
+            cols_to_copy = "numero, mp3_file, hinario, status, output, erro_msg, criado_em, atualizado_em"
+            if "data_postagem" in cols:
+                cols_to_copy += ", data_postagem"
+                conn.execute(f"""
+                    INSERT INTO videos (projeto, numero, mp3_file, hinario, status, output, erro_msg, criado_em, atualizado_em, data_postagem)
+                    SELECT 'hinario4', {cols_to_copy} FROM _videos_old
+                """)
+            else:
+                conn.execute(f"""
+                    INSERT INTO videos (projeto, numero, mp3_file, hinario, status, output, erro_msg, criado_em, atualizado_em)
+                    SELECT 'hinario4', {cols_to_copy} FROM _videos_old
+                """)
+            conn.execute("DROP TABLE _videos_old")
+            
+            c_cursor = conn.execute("PRAGMA table_info(clipes)")
+            c_cols = [r[1] for r in c_cursor.fetchall()]
+            if c_cols:
+                conn.execute("ALTER TABLE clipes RENAME TO _clipes_old")
+                conn.execute("""
+                    CREATE TABLE clipes (
+                        id             INTEGER PRIMARY KEY AUTOINCREMENT,
+                        caminho        TEXT UNIQUE NOT NULL,
+                        fonte          TEXT,
+                        duracao_s      REAL,
+                        projeto_usado  TEXT,
+                        usado_em       INTEGER,
+                        vezes_usado    INTEGER NOT NULL DEFAULT 0,
+                        FOREIGN KEY (projeto_usado, usado_em) REFERENCES videos(projeto, numero)
+                    )
+                """)
+                conn.execute("""
+                    INSERT INTO clipes (id, caminho, fonte, duracao_s, projeto_usado, usado_em, vezes_usado)
+                    SELECT id, caminho, fonte, duracao_s, 
+                           CASE WHEN usado_em IS NOT NULL THEN 'hinario4' ELSE NULL END, 
+                           usado_em,
+                           CASE WHEN usado_em IS NOT NULL THEN 1 ELSE 0 END
+                    FROM _clipes_old
+                """)
+                conn.execute("DROP TABLE _clipes_old")
+                
+            conn.commit()
+            print("[banco] Migração concluída com sucesso.")
+        except Exception as e:
+            conn.execute("ROLLBACK")
+            print(f"[banco] ERRO na migração: {e}")
+            raise
+        finally:
+            conn.execute("PRAGMA foreign_keys=ON")
+
+
 def _criar_tabelas(conn: sqlite3.Connection):
+    # Garantir que a coluna vezes_usado existe na tabela clipes (para bancos de dados já criados)
+    c_cursor = conn.execute("PRAGMA table_info(clipes)")
+    c_cols = [r[1] for r in c_cursor.fetchall()]
+    if c_cols and "vezes_usado" not in c_cols:
+        print("[banco] Adicionando coluna 'vezes_usado' na tabela 'clipes'...")
+        conn.execute("ALTER TABLE clipes ADD COLUMN vezes_usado INTEGER NOT NULL DEFAULT 0")
+        conn.execute("UPDATE clipes SET vezes_usado = 1 WHERE projeto_usado IS NOT NULL OR usado_em IS NOT NULL")
+        conn.commit()
+
     conn.executescript("""
         CREATE TABLE IF NOT EXISTS videos (
-            numero        INTEGER PRIMARY KEY,
+            projeto       TEXT NOT NULL DEFAULT 'hinario4',
+            numero        INTEGER NOT NULL,
             mp3_file      TEXT NOT NULL,
             hinario       TEXT NOT NULL DEFAULT 'hinario4',
             status        TEXT NOT NULL DEFAULT 'pendente',
             output        TEXT,
             erro_msg      TEXT,
             criado_em     TEXT,
-            atualizado_em TEXT
+            atualizado_em TEXT,
+            data_postagem TEXT,
+            PRIMARY KEY (projeto, numero)
         );
 
         CREATE TABLE IF NOT EXISTS clipes (
-            id         INTEGER PRIMARY KEY AUTOINCREMENT,
-            caminho    TEXT UNIQUE NOT NULL,
-            fonte      TEXT,
-            duracao_s  REAL,
-            usado_em   INTEGER REFERENCES videos(numero)
+            id             INTEGER PRIMARY KEY AUTOINCREMENT,
+            caminho        TEXT UNIQUE NOT NULL,
+            fonte          TEXT,
+            duracao_s      REAL,
+            projeto_usado  TEXT,
+            usado_em       INTEGER,
+            vezes_usado    INTEGER NOT NULL DEFAULT 0,
+            FOREIGN KEY (projeto_usado, usado_em) REFERENCES videos(projeto, numero)
         );
 
         CREATE TABLE IF NOT EXISTS downloads (
@@ -171,31 +385,38 @@ def config_set(conn: sqlite3.Connection, chave: str, valor: str):
 # Sincronização de dados
 # =============================================================================
 
-def sincronizar_mp3s(conn: sqlite3.Connection, hinario: str = "hinario4"):
-    """Insere na tabela videos os MP3s que ainda não estão registrados."""
+def sincronizar_mp3s(conn: sqlite3.Connection, projeto_nome: str, projeto_cfg: dict):
+    """Insere na tabela videos os MP3s que ainda não estão registrados para o projeto."""
     existentes = {
         row["numero"]
-        for row in conn.execute("SELECT numero FROM videos")
+        for row in conn.execute("SELECT numero FROM videos WHERE projeto = ?", (projeto_nome,))
     }
     inseridos = 0
-    for mp3 in sorted(MP3_DIR.glob("*.mp3")):
+    mp3_dir = ROOT / projeto_cfg.get("mp3_dir", "mp3")
+    if not mp3_dir.exists():
+        print(f"[banco] Diretório de MP3 não existe: {mp3_dir}")
+        return
+    for mp3 in sorted(mp3_dir.glob("*.mp3")):
         numero = extrair_numero_mp3(mp3.name)
         if numero is None or numero in existentes:
             continue
+        # Filtro específico para o projeto 'coros'
+        if projeto_nome == "coros" and not str(numero).upper().startswith("C"):
+            continue
         conn.execute(
-            "INSERT OR IGNORE INTO videos (numero, mp3_file, hinario, status, criado_em, atualizado_em) "
-            "VALUES (?, ?, ?, 'pendente', ?, ?)",
-            (numero, str(mp3.relative_to(ROOT)), hinario, now_iso(), now_iso()),
+            "INSERT OR IGNORE INTO videos (projeto, numero, mp3_file, hinario, status, criado_em, atualizado_em) "
+            "VALUES (?, ?, ?, ?, 'pendente', ?, ?)",
+            (projeto_nome, numero, str(mp3.relative_to(ROOT)), projeto_nome, now_iso(), now_iso()),
         )
         inseridos += 1
-    # Hinos presos em 'processando' (interrupção abrupta) voltam para pendente
+    # Hinos presos em 'processando' (interrupção abrupta) voltam para pendente para este projeto
     conn.execute(
-        "UPDATE videos SET status = 'pendente', atualizado_em = ? WHERE status = 'processando'",
-        (now_iso(),),
+        "UPDATE videos SET status = 'pendente', atualizado_em = ? WHERE status = 'processando' AND projeto = ?",
+        (now_iso(), projeto_nome),
     )
     conn.commit()
     if inseridos:
-        print(f"[banco] {inseridos} novo(s) MP3(s) registrado(s).")
+        print(f"[banco] {inseridos} novo(s) MP3(s) registrado(s) para o projeto '{projeto_nome}'.")
 
 
 def sincronizar_clipes(conn: sqlite3.Connection):
@@ -235,7 +456,7 @@ def sincronizar_clipes(conn: sqlite3.Connection):
 # =============================================================================
 
 def clipes_disponiveis(conn: sqlite3.Connection) -> int:
-    row = conn.execute("SELECT COUNT(*) AS n FROM clipes WHERE usado_em IS NULL").fetchone()
+    row = conn.execute("SELECT COUNT(*) AS n FROM clipes WHERE projeto_usado IS NULL AND usado_em IS NULL").fetchone()
     return row["n"]
 
 
@@ -273,16 +494,23 @@ def baixar_mais_clipes(conn: sqlite3.Connection):
 # Carregamento do CSV
 # =============================================================================
 
-def carregar_csv(caminho: Path) -> dict[int, str]:
-    """Retorna dicionário {numero: nome} a partir do CSV do hinário."""
+def carregar_csv(caminho: Path) -> dict:
+    """Retorna dicionário {numero: nome} a partir do CSV do hinário com suporte a colunas dinâmicas."""
     hinos = {}
     with open(caminho, newline="", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         for row in reader:
             try:
-                num = int(row["Número"])
-                hinos[num] = row["Nome"].strip()
-            except (KeyError, ValueError):
+                num_key = next((k for k in row.keys() if "número" in k.lower() or "numero" in k.lower()), None)
+                nome_key = next((k for k in row.keys() if "nome" in k.lower() or "título" in k.lower() or "titulo" in k.lower()), None)
+                if num_key and nome_key:
+                    num_str = row[num_key].strip()
+                    try:
+                        num = int(num_str)
+                    except ValueError:
+                        num = num_str
+                    hinos[num] = row[nome_key].strip()
+            except (KeyError, ValueError, TypeError):
                 continue
     return hinos
 
@@ -291,70 +519,177 @@ def carregar_csv(caminho: Path) -> dict[int, str]:
 # Geração do frame inicial (número sobre a imagem)
 # =============================================================================
 
-def gerar_frame_video(numero: int, duracao: int = FRAME_DURATION) -> Path:
-    """
-    Renderiza o número do hino sobre images/sem-numero.png seguindo o modelo
-    de images/com-numero.png:
-      - Número em cor azul-marinho (#1a2d5a), fonte serifada grande
-      - Posicionado no lado esquerdo da imagem, abaixo do cabeçalho "Hinário 4"
-    Salva o PNG em thumbs/hino_NNN.png (thumbnail para YouTube).
-    Gera e retorna o vídeo estático temporário em output/_frame_NNN.mp4.
-    """
-    img = Image.open(FRAME_BASE).convert("RGBA")
-    draw = ImageDraw.Draw(img)
-    W, H = img.size  # 1672 x 941
+def draw_text_effects(draw, pos, text, font, fill_color, config_desenho, is_multiline=False):
+    x, y = pos
+    sombra = config_desenho.get("sombra")
+    brilho = config_desenho.get("brilho")
+    
+    # 1. Desenhar brilho (glow) se configurado
+    if brilho:
+        raio = brilho.get("raio", 2)
+        cor_brilho = tuple(brilho.get("cor", [255, 255, 255, 255]))
+        for dx in range(-raio, raio + 1):
+            for dy in range(-raio, raio + 1):
+                if dx*dx + dy*dy <= raio*raio and (dx != 0 or dy != 0):
+                    if is_multiline:
+                        draw.multiline_text((x + dx, y + dy), text, font=font, fill=cor_brilho)
+                    else:
+                        draw.text((x + dx, y + dy), text, font=font, fill=cor_brilho)
+                        
+    # 2. Desenhar sombra (drop shadow) se configurada
+    elif sombra:
+        dx, dy = sombra.get("deslocamento", [3, 3])
+        cor_sombra = tuple(sombra.get("cor", [0, 0, 0, 128]))
+        if is_multiline:
+            draw.multiline_text((x + dx, y + dy), text, font=font, fill=cor_sombra)
+        else:
+            draw.text((x + dx, y + dy), text, font=font, fill=cor_sombra)
+            
+    # 3. Desenhar o texto principal
+    if is_multiline:
+        draw.multiline_text((x, y), text, font=font, fill=fill_color)
+    else:
+        draw.text((x, y), text, font=font, fill=fill_color)
 
-    # --- Posição medida a partir de images/com-numero.png --------------------
-    # Número ocupa Y: 169–767px (18% a 81.5%) e X a partir de 139px (8.3%)
-    # A fonte é dimensionada para que o texto caiba nessa altura.
-    Y_TOP        = int(H * 0.180)   # 169px — top do número
-    Y_BOT        = int(H * 0.815)   # 767px — bottom do número
-    MARGIN_LEFT  = int(W * 0.083)   # 139px — margem esquerda
-    target_h     = Y_BOT - Y_TOP    # altura alvo: ~598px
 
-    # --- Fonte serifada (Georgia, igual ao modelo) ---------------------------
+def desenhar_texto_campo(draw, texto, config_desenho, W, H, is_num=False):
+    x = config_desenho.get("x", 139)
+    y_top = config_desenho.get("y_top", 169)
+    y_bottom = config_desenho.get("y_bottom", 767)
+    cor = tuple(config_desenho.get("cor", [26, 45, 90, 255]))
+    align = config_desenho.get("align", "left")
+    
+    target_h = y_bottom - y_top
+    max_w = config_desenho.get("max_width", W - x - 50)
+    
     font = None
-    for path in [
+    wrapped_text = texto
+    
+    font_paths = [
         "/System/Library/Fonts/Supplemental/Georgia.ttf",
         "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
         "/Library/Fonts/Georgia.ttf",
         "/System/Library/Fonts/Times.ttc",
-    ]:
+    ]
+    
+    # Determine max font size
+    default_max_size = target_h if is_num else 42
+    max_size = config_desenho.get("max_font_size", default_max_size)
+    
+    for path in font_paths:
         try:
-            # Ajusta o tamanho para que a altura do texto bata com target_h
-            for size in range(target_h, target_h // 2, -10):
+            # We decrease size until it fits
+            for size in range(max_size, 12, -2):
                 candidate = ImageFont.truetype(path, size=size)
-                bbox = draw.textbbox((0, 0), str(numero), font=candidate)
-                if (bbox[3] - bbox[1]) <= target_h:
+                
+                # If it's a number, we don't wrap it
+                if is_num:
+                    lines = [texto]
+                else:
+                    # Wrap the text
+                    lines = []
+                    current_line = []
+                    for word in texto.split(' '):
+                        test_line = ' '.join(current_line + [word])
+                        bbox = draw.textbbox((0, 0), test_line, font=candidate)
+                        w = bbox[2] - bbox[0]
+                        if w <= max_w:
+                            current_line.append(word)
+                        else:
+                            if current_line:
+                                lines.append(' '.join(current_line))
+                                current_line = [word]
+                            else:
+                                lines.append(word)
+                                current_line = []
+                    if current_line:
+                        lines.append(' '.join(current_line))
+                
+                wrapped_candidate = '\n'.join(lines)
+                bbox = draw.multiline_textbbox((0, 0), wrapped_candidate, font=candidate)
+                h = bbox[3] - bbox[1]
+                w = bbox[2] - bbox[0]
+                
+                # Check height and width
+                if h <= target_h and w <= max_w:
                     font = candidate
+                    wrapped_text = wrapped_candidate
                     break
             if font:
                 break
         except OSError:
             continue
+            
     if font is None:
         font = ImageFont.load_default()
+        wrapped_text = texto
+        
+    bbox = draw.multiline_textbbox((0, 0), wrapped_text, font=font)
+    ascent_offset = bbox[1]
+    y = y_top - ascent_offset
+    
+    if align == "center":
+        for line in wrapped_text.split('\n'):
+            line_bbox = draw.textbbox((0, 0), line, font=font)
+            line_w = line_bbox[2] - line_bbox[0]
+            draw_text_effects(draw, (x + (max_w - line_w) // 2, y), line, font, cor, config_desenho, is_multiline=False)
+            y += (line_bbox[3] - line_bbox[1]) + 5
+    elif align == "right":
+        for line in wrapped_text.split('\n'):
+            line_bbox = draw.textbbox((0, 0), line, font=font)
+            line_w = line_bbox[2] - line_bbox[0]
+            draw_text_effects(draw, (x + max_w - line_w, y), line, font, cor, config_desenho, is_multiline=False)
+            y += (line_bbox[3] - line_bbox[1]) + 5
+    else:
+        draw_text_effects(draw, (x, y), wrapped_text, font, cor, config_desenho, is_multiline=True)
 
-    texto = str(numero)
-    COR_NUMERO = (26, 45, 90, 255)   # #1a2d5a — azul-marinho do modelo
 
-    # Posiciona com y_top alinhado à borda superior do número no modelo
-    bbox = draw.textbbox((0, 0), texto, font=font)
-    ascent_offset = bbox[1]  # Pillow inclui espaço acima do glifo no bbox
-    y = Y_TOP - ascent_offset
-
-    draw.text((MARGIN_LEFT, y), texto, font=font, fill=COR_NUMERO)
-
+def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict) -> Path:
+    """
+    Renderiza o número e o nome do hino sobre a imagem base e salva como PNG.
+    """
+    imagem_base_path = ROOT / projeto_cfg.get("imagem_base", "images/sem-numero.png")
+    if not imagem_base_path.exists():
+        raise FileNotFoundError(f"Imagem base não encontrada: {imagem_base_path}")
+        
+    img = Image.open(imagem_base_path).convert("RGBA")
+    draw = ImageDraw.Draw(img)
+    W, H = img.size
+    
+    desenho_num = projeto_cfg.get("desenho", {}).get("numero", {})
+    num_str = str(numero).strip()
+    if num_str.upper().startswith("C") and num_str[1:].isdigit():
+        texto_numero = f"Coro {int(num_str[1:])}"
+    elif "coro" in projeto_nome.lower():
+        texto_numero = f"Coro {numero}"
+    else:
+        texto_numero = str(numero)
+    desenhar_texto_campo(draw, texto_numero, desenho_num, W, H, is_num=True)
+    
+    # 2. Desenhar o nome do hino
+    desenho_nome = projeto_cfg.get("desenho", {}).get("nome", {})
+    desenhar_texto_campo(draw, nome, desenho_nome, W, H, is_num=False)
+    
     # --- Salvar thumbnail para o YouTube em thumbs/ --------------------------
     THUMBS_DIR.mkdir(exist_ok=True)
-    thumb_path = THUMBS_DIR / f"hino_{numero:03d}.png"
+    num_formatted = formatar_numero_completo(numero)
+    thumb_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_formatted}.png"
     img.convert("RGB").save(str(thumb_path))
-    print(f"  Thumbnail salva em: thumbs/hino_{numero:03d}.png")
+    return thumb_path
 
+
+def gerar_frame_video(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict, duracao: int = FRAME_DURATION) -> Path:
+    """
+    Renderiza a imagem base e cria um arquivo MP4 temporário estático.
+    """
+    thumb_path = gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
+    num_formatted = formatar_numero_completo(numero)
+    print(f"  Thumbnail salva em: thumbs/hino-{projeto_nome}-{num_formatted}.png")
+    
     # --- Gerar vídeo estático temporário -------------------------------------
     OUTPUT_DIR.mkdir(exist_ok=True)
-    frame_mp4 = OUTPUT_DIR / f"_frame_{numero}.mp4"
-
+    frame_mp4 = OUTPUT_DIR / f"_frame_{projeto_nome}_{numero}.mp4"
+    
     subprocess.run([
         "ffmpeg", "-y", "-loop", "1",
         "-i", str(thumb_path),
@@ -362,10 +697,11 @@ def gerar_frame_video(numero: int, duracao: int = FRAME_DURATION) -> Path:
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                "pad=1920:1080:(ow-iw)/2:(oh-ih)/2",
         "-c:v", "libx264", "-pix_fmt", "yuv420p",
+        "-threads", "4",
         "-r", "30",
         str(frame_mp4),
-    ], check=True, capture_output=True)
-
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    
     return frame_mp4
 
 
@@ -374,54 +710,59 @@ def gerar_frame_video(numero: int, duracao: int = FRAME_DURATION) -> Path:
 # =============================================================================
 
 def selecionar_clipes(conn: sqlite3.Connection, duracao_necessaria: float,
-                      sem_download: bool, numero: int) -> list[tuple[str, float]]:
+                      sem_download: bool, projeto_nome: str, numero: int) -> list[tuple[str, float]]:
     """
-    Seleciona clipes disponíveis para cobrir duracao_necessaria segundos.
+    Seleciona clipes locais (videos_flores/ e Photos-1-001/) ordenados por vezes_usado ASC, RANDOM().
     Retorna lista de (caminho_absoluto, duracao_s).
-    Faz download automático se o pool se esgotar.
-    Se mesmo após download não houver clipes livres, reutiliza clipes já usados
-    em outros hinos (preferência para os menos recentes), em vez de travar.
+    Não realiza downloads da internet.
+    Garante que não repete o mesmo clipe dentro do mesmo vídeo, a não ser que não existam outros clipes.
     """
     selecionados: list[tuple[str, float]] = []
     total = 0.0
+    ids_selecionados: list[int] = []
 
     while total < duracao_necessaria:
-        row = conn.execute(
-            "SELECT id, caminho, duracao_s FROM clipes WHERE usado_em IS NULL ORDER BY RANDOM() LIMIT 1"
-        ).fetchone()
-
+        # Procurar clipes excluindo os já selecionados para esta composição atual
+        query = "SELECT id, caminho, duracao_s, vezes_usado FROM clipes"
+        params = []
+        if ids_selecionados:
+            placeholders = ",".join("?" for _ in ids_selecionados)
+            query += f" WHERE id NOT IN ({placeholders})"
+            params.extend(ids_selecionados)
+            
+        query += " ORDER BY vezes_usado ASC, RANDOM() LIMIT 1"
+        
+        row = conn.execute(query, params).fetchone()
+        
         if row is None:
-            if not sem_download:
-                baixar_mais_clipes(conn)
-                row = conn.execute(
-                    "SELECT id, caminho, duracao_s FROM clipes WHERE usado_em IS NULL ORDER BY RANDOM() LIMIT 1"
-                ).fetchone()
-
-            if row is None:
-                # Fallback: reutilizar clipes já usados em outros hinos
-                print("  [aviso] Pool esgotado — reutilizando clipes de outros hinos.")
-                row = conn.execute(
-                    "SELECT id, caminho, duracao_s FROM clipes "
-                    "WHERE usado_em != ? ORDER BY RANDOM() LIMIT 1",
-                    (numero,)
-                ).fetchone()
-                if row is None:
-                    raise RuntimeError("Nenhum clipe disponível em nenhuma fonte. Adicione vídeos.")
+            # Se não há mais clipes excluindo os já selecionados (por ex. a duração exigida
+            # é muito longa ou há pouquíssimos clipes no total), limpamos ids_selecionados
+            # para permitir repetir clipes no mesmo vídeo se necessário.
+            if ids_selecionados:
+                print("  [aviso] Clipes únicos esgotados para este vídeo, permitindo repetições.")
+                ids_selecionados = []
+                continue
+            else:
+                raise RuntimeError("Nenhum clipe disponível no banco de dados. Certifique-se de que os arquivos locais existem e foram sincronizados.")
 
         caminho = ROOT / row["caminho"]
         if not caminho.exists():
-            print(f"  [aviso] Clipe não encontrado, pulando: {caminho.name}")
+            print(f"  [aviso] Clipe não encontrado, pulando e removendo do banco: {caminho.name}")
             conn.execute("DELETE FROM clipes WHERE id = ?", (row["id"],))
             conn.commit()
             continue
 
         dur = row["duracao_s"] or duracao_video(caminho)
+        
+        # Incrementar a contagem vezes_usado e atualizar o projeto_usado/usado_em para rastreamento
         conn.execute(
-            "UPDATE clipes SET usado_em = ? WHERE id = ?", (numero, row["id"])
+            "UPDATE clipes SET vezes_usado = vezes_usado + 1, projeto_usado = ?, usado_em = ? WHERE id = ?",
+            (projeto_nome, numero, row["id"])
         )
         conn.commit()
 
         selecionados.append((str(caminho), dur))
+        ids_selecionados.append(row["id"])
         total += dur
 
     return selecionados
@@ -455,9 +796,10 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
                 "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                        "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
                 "-c:v", "libx264", "-pix_fmt", "yuv420p",
+                "-threads", "4",
                 "-an",
                 str(parte),
-            ], check=True, capture_output=True)
+            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             partes.append(parte)
         except subprocess.CalledProcessError:
             print(f"  [aviso] Clipe problemático ignorado: {Path(caminho).name}")
@@ -480,7 +822,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
         "-i", lista_txt.name,
         "-c", "copy",
         video_concat.name,
-    ], check=True, capture_output=True, cwd=str(out_dir))
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
 
     lista_txt.unlink(missing_ok=True)
     for p in partes:
@@ -492,8 +834,9 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
         "ffmpeg", "-y", "-i", str(video_concat),
         "-t", str(duracao_total),
         "-c:v", "libx264", "-pix_fmt", "yuv420p",
+        "-threads", "4",
         str(video_cortado),
-    ], check=True, capture_output=True)
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     video_concat.unlink(missing_ok=True)
 
     return video_cortado
@@ -532,8 +875,9 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         "-f", "concat", "-safe", "0",
         "-i", lista.name,          # nome relativo; cwd = out_dir
         "-c:v", "libx264", "-pix_fmt", "yuv420p",
+        "-threads", "4",
         video_concat.name,         # idem
-    ], check=True, capture_output=True, cwd=str(out_dir))
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
     lista.unlink(missing_ok=True)
 
     # Duração total exata: frame inicial + áudio completo
@@ -554,7 +898,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         "-c:a", "aac", "-b:a", "192k",
         "-t", f"{total_dur:.3f}",
         str(saida),
-    ], check=True, capture_output=True)
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     video_concat.unlink(missing_ok=True)
 
 
@@ -562,73 +906,87 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
 # Geração dos metadados para YouTube
 # =============================================================================
 
-def gerar_metadados(numero: int, nome: str) -> str:
+def gerar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict) -> str:
     tag_hino = f"Hino{numero}"
     tag_nome = camel_case(nome)
     nome_sem_acento = remover_acentos(nome).lower()
-    n = numero
 
-    return f"""# {n}
+    titulo_temp = projeto_cfg.get("titulo_template", "Hino {numero} - {nome}")
+    desc_temp = projeto_cfg.get("descricao", "")
+    tags_temp = projeto_cfg.get("palavras_chaves", "")
+
+    yt_templates = carregar_templates_youtube()
+    if yt_templates:
+        titulo_temp = yt_templates.get("titulo", titulo_temp)
+        desc_temp = yt_templates.get("descricao", desc_temp)
+        tags_temp = yt_templates.get("tags", tags_temp)
+
+    csv_path = projeto_cfg.get("csv_path", "")
+    if "hinario4" in csv_path:
+        numero_do_hinario = "4"
+    elif "hinario5" in csv_path:
+        numero_do_hinario = "5"
+    else:
+        match = re.search(r'\d+', csv_path)
+        if match:
+            numero_do_hinario = match.group(0)
+        else:
+            match = re.search(r'\d+', projeto_nome)
+            numero_do_hinario = match.group(0) if match else ""
+
+    variables = {
+        "numero": str(numero),
+        "nome": nome,
+        "tag_hino": tag_hino,
+        "tag_nome": tag_nome,
+        "nome_sem_acento": nome_sem_acento,
+        "nome_projeto": projeto_nome,
+        "nome_exibicao": projeto_cfg.get("nome_exibicao", projeto_nome),
+        "numero_do_hinario": numero_do_hinario
+    }
+
+    titulo = formatar_template(titulo_temp, variables)
+    descricao = formatar_template(desc_temp, variables)
+    tags = formatar_template(tags_temp, variables)
+
+    # Garantir limite de 500 caracteres, removendo as últimas tags se passar
+    if len(tags) > 500:
+        parts = [t.strip() for t in tags.split(",") if t.strip()]
+        valid_parts = []
+        current_len = 0
+        for part in parts:
+            added_len = len(part) + (2 if valid_parts else 0)
+            if current_len + added_len <= 500:
+                valid_parts.append(part)
+                current_len += added_len
+            else:
+                break
+        tags = ", ".join(valid_parts)
+
+    return f"""# {numero}
 
 ## Título para o vídeo
-Hino {n} - {nome} | Hinário 4 CCB | Teclado Yamaha PSR
+{titulo}
 
 
 ## Descrição para o YouTube
 
-Hino {n} - {nome}
-Hinário 4 - Congregação Cristã no Brasil
-
-Execução instrumental no teclado Yamaha PSR.
-
-Este vídeo apresenta o áudio do hino {n}, "{nome}", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
-
-Que esta melodia possa trazer paz, comunhão e edificação.
-
-🎹 Instrumento: Teclado Yamaha PSR
-🎵 Hino: {n}
-📖 Hinário: Hinário 4
-🎶 Título: {nome}
-
-Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
-
-#{tag_hino} #Hinario4 #CCB
-
-
-## Descrição mais completa
-
-Hino {n} - {nome}
-Hinário 4 - Congregação Cristã no Brasil
-
-Neste vídeo, apresento o áudio instrumental do hino {n}, "{nome}", tocado em teclado Yamaha PSR.
-
-A proposta deste conteúdo é compartilhar uma versão instrumental simples, tranquila e reverente, ideal para quem deseja ouvir, estudar, acompanhar ou meditar por meio dos hinos.
-
-🎹 Instrumento utilizado: Teclado Yamaha PSR
-🎼 Hino: {n}
-📖 Hinário: Hinário 4
-🎵 Nome do hino: {nome}
-🎧 Tipo de conteúdo: Áudio instrumental
-
-Se este hino falou ao seu coração, deixe seu like, compartilhe com alguém e inscreva-se no canal para acompanhar novos hinos tocados no teclado.
-
-Que Deus abençoe a todos.
-
-#{tag_hino} #Hinario4 #CCB #{tag_nome}
+{descricao}
 
 
 ## Tags para YouTube
 
-hino {n}, hino {n} ccb, {nome_sem_acento}, hinário 4, hinario 4, ccb hino {n}, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino {n} instrumental
+{tags}
 
 ---
 """
 
 
-def acrescentar_metadados(numero: int, nome: str):
-    """Acrescenta (não sobrescreve) a entrada do hino no arquivo de metadados."""
-    conteudo = gerar_metadados(numero, nome)
-    with open(METADATA_OUT, "a", encoding="utf-8") as f:
+def acrescentar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict):
+    """Acrescenta (não sobrescreve) a entrada do hino no arquivo de metadados do projeto."""
+    conteudo = gerar_metadados(numero, nome, projeto_nome, projeto_cfg)
+    metadata_out = ROOT / f"videos_gerados_{projeto_nome}.md"
+    with open(metadata_out, "a", encoding="utf-8") as f:
         f.write(conteudo + "\n")
 
 
@@ -637,26 +995,28 @@ def acrescentar_metadados(numero: int, nome: str):
 # =============================================================================
 
 def processar_hino(numero: int, mp3_path: Path, nome: str,
-                   conn: sqlite3.Connection, sem_download: bool):
-    """Gera o vídeo completo para um único hino."""
-    print(f"\n[hino {numero:03d}] {nome}")
+                   conn: sqlite3.Connection, sem_download: bool,
+                   projeto_nome: str, projeto_cfg: dict):
+    """Gera o vídeo completo para um único hino do projeto."""
+    num_formatted = formatar_numero_completo(numero)
+    print(f"\n[hino {num_formatted}] {nome} (Projeto: {projeto_nome})")
 
     OUTPUT_DIR.mkdir(exist_ok=True)
-    saida = OUTPUT_DIR / f"hino_{numero:03d}.mp4"
+    saida = OUTPUT_DIR / f"hino-{projeto_nome}-{num_formatted}.mp4"
 
     # Apagar o vídeo final existente e quaisquer temporários de uma run anterior
-    # para evitar que arquivos corrompidos ou incompletos interfiram na nova geração.
     saida.unlink(missing_ok=True)
-    for tmp in OUTPUT_DIR.glob(f"_*_{numero}*.mp4"):
+    for tmp in OUTPUT_DIR.glob(f"_*_{projeto_nome}_{numero}*.mp4"):
         tmp.unlink(missing_ok=True)
-    for tmp in OUTPUT_DIR.glob(f"_*hino_{numero:03d}*.mp4"):
+    for tmp in OUTPUT_DIR.glob(f"_*hino-{projeto_nome}-{num_formatted}*.mp4"):
         tmp.unlink(missing_ok=True)
-    for tmp in OUTPUT_DIR.glob(f"_lista_hino_{numero:03d}.txt"):
+    for tmp in OUTPUT_DIR.glob(f"_lista_hino-{projeto_nome}-{num_formatted}.txt"):
         tmp.unlink(missing_ok=True)
 
+
     conn.execute(
-        "UPDATE videos SET status = 'processando', atualizado_em = ? WHERE numero = ?",
-        (now_iso(), numero),
+        "UPDATE videos SET status = 'processando', atualizado_em = ? WHERE projeto = ? AND numero = ?",
+        (now_iso(), projeto_nome, numero),
     )
     conn.commit()
 
@@ -666,11 +1026,11 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
 
         # 1. Frame inicial
         print("  Gerando frame inicial...")
-        frame_mp4 = gerar_frame_video(numero)
+        frame_mp4 = gerar_frame_video(numero, nome, projeto_nome, projeto_cfg)
 
         # 2. Selecionar e compor vídeo de fundo
         print("  Selecionando clipes de fundo...")
-        clipes = selecionar_clipes(conn, dur_mp3, sem_download, numero)
+        clipes = selecionar_clipes(conn, dur_mp3, sem_download, projeto_nome, numero)
         print(f"  {len(clipes)} clipe(s) selecionado(s).")
 
         print("  Compondo vídeo de fundo...")
@@ -686,19 +1046,19 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
 
         # 5. Registrar sucesso
         conn.execute(
-            "UPDATE videos SET status = 'concluido', output = ?, atualizado_em = ? WHERE numero = ?",
-            (str(saida.relative_to(ROOT)), now_iso(), numero),
+            "UPDATE videos SET status = 'concluido', output = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
+            (str(saida.relative_to(ROOT)), now_iso(), projeto_nome, numero),
         )
         conn.commit()
 
         # 6. Metadados YouTube
-        acrescentar_metadados(numero, nome)
+        acrescentar_metadados(numero, nome, projeto_nome, projeto_cfg)
         print(f"  ✓ Salvo em: {saida.relative_to(ROOT)}")
 
     except Exception as e:
         conn.execute(
-            "UPDATE videos SET status = 'erro', erro_msg = ?, atualizado_em = ? WHERE numero = ?",
-            (str(e), now_iso(), numero),
+            "UPDATE videos SET status = 'erro', erro_msg = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
+            (str(e), now_iso(), projeto_nome, numero),
         )
         conn.commit()
         print(f"  ✗ ERRO: {e}")
@@ -710,94 +1070,142 @@ def main():
         description="Gerador de vídeos para o Hinário CCB.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument("--apenas", type=int, metavar="NUMERO",
+    parser.add_argument("--apenas", type=str, metavar="NUMERO",
                         help="Processa somente este hino.")
     parser.add_argument("--forcar-inicio", type=int, metavar="NUMERO",
                         help="Começa a partir deste número.")
-    parser.add_argument("--resetar", type=int, metavar="NUMERO",
+    parser.add_argument("--resetar", type=str, metavar="NUMERO",
                         help="Marca um hino como pendente e libera seus clipes.")
     parser.add_argument("--resetar-todos", action="store_true",
                         help="Marca todos os hinos como pendente.")
+    parser.add_argument("--projeto", default=None,
+                        help="Nome do projeto a ser executado (ex.: hinario4).")
     parser.add_argument("--hinario", default=None,
-                        help="Filtra por hinário (ex.: hinario4, hinario5).")
+                        help="Depreciado (use --projeto). Filtra por hinário.")
     parser.add_argument("--forcar-download", action="store_true",
                         help="Baixa novos clipes antes de começar.")
     parser.add_argument("--sem-download", action="store_true",
                         help="Nunca acessa a internet para baixar clipes.")
+    parser.add_argument("--apenas-imagem", action="store_true",
+                        help="Gera somente a imagem de miniatura (thumbnail) do hino, sem renderizar o vídeo.")
     args = parser.parse_args()
 
+    projetos = carregar_projetos()
+    projeto_nome = args.projeto or args.hinario
+    if not projeto_nome:
+        projeto_nome = list(projetos.keys())[0]
+
+    if projeto_nome not in projetos:
+        print(f"ERRO: Projeto '{projeto_nome}' não está configurado em projetos.json.")
+        sys.exit(1)
+
+    projeto_cfg = projetos[projeto_nome]
     conn = abrir_banco()
+
+    apenas_val = args.apenas
+    if apenas_val is not None:
+        try:
+            apenas_val = int(apenas_val)
+        except ValueError:
+            pass
+
+    resetar_val = args.resetar
+    if resetar_val is not None:
+        try:
+            resetar_val = int(resetar_val)
+        except ValueError:
+            pass
 
     # ---- Operações de reset ------------------------------------------------
     if args.resetar_todos:
         conn.execute(
-            "UPDATE videos SET status = 'pendente', atualizado_em = ?", (now_iso(),)
+            "UPDATE videos SET status = 'pendente', atualizado_em = ? WHERE projeto = ?",
+            (now_iso(), projeto_nome),
         )
-        conn.execute("UPDATE clipes SET usado_em = NULL")
+        conn.execute(
+            "UPDATE clipes SET vezes_usado = MAX(0, vezes_usado - 1), projeto_usado = NULL, usado_em = NULL WHERE projeto_usado = ?",
+            (projeto_nome,),
+        )
         conn.commit()
-        print("[reset] Todos os hinos marcados como pendente.")
+        print(f"[reset] Todos os hinos do projeto '{projeto_nome}' marcados como pendente.")
         return
 
-    if args.resetar:
+    if resetar_val is not None:
         conn.execute(
-            "UPDATE clipes SET usado_em = NULL WHERE usado_em = ?", (args.resetar,)
+            "UPDATE clipes SET vezes_usado = MAX(0, vezes_usado - 1), projeto_usado = NULL, usado_em = NULL WHERE projeto_usado = ? AND usado_em = ?",
+            (projeto_nome, resetar_val),
         )
         conn.execute(
             "UPDATE videos SET status = 'pendente', output = NULL, erro_msg = NULL, atualizado_em = ? "
-            "WHERE numero = ?",
-            (now_iso(), args.resetar),
+            "WHERE projeto = ? AND numero = ?",
+            (now_iso(), projeto_nome, resetar_val),
         )
         conn.commit()
-        print(f"[reset] Hino {args.resetar} marcado como pendente.")
+        print(f"[reset] Hino {resetar_val} do projeto '{projeto_nome}' marcado como pendente.")
         return
 
     # ---- Inicialização -----------------------------------------------------
-    hinario = args.hinario or "hinario4"
-    sincronizar_mp3s(conn, hinario)
+    sincronizar_mp3s(conn, projeto_nome, projeto_cfg)
     sincronizar_clipes(conn)
 
     if args.forcar_download:
         baixar_mais_clipes(conn)
 
-    hinos = carregar_csv(CSV_HINARIO4)
+    csv_path = ROOT / projeto_cfg.get("csv_path", "fontes/hinario4_sequential.csv")
+    hinos = carregar_csv(csv_path)
 
     # ---- Seleção de hinos a processar --------------------------------------
-    query = "SELECT numero, mp3_file FROM videos WHERE status = 'pendente'"
-    params: list = []
-
-    if args.hinario:
-        query += " AND hinario = ?"
-        params.append(args.hinario)
-
-    if args.apenas:
-        query += " AND numero = ?"
-        params.append(args.apenas)
-    elif args.forcar_inicio:
-        query += " AND numero >= ?"
-        params.append(args.forcar_inicio)
+    if apenas_val is not None:
+        query = "SELECT numero, mp3_file FROM videos WHERE projeto = ? AND numero = ?"
+        params = [projeto_nome, apenas_val]
+    else:
+        query = "SELECT numero, mp3_file FROM videos WHERE status = 'pendente' AND projeto = ?"
+        params = [projeto_nome]
+        
+        if args.forcar_inicio:
+            query += " AND numero >= ?"
+            params.append(args.forcar_inicio)
 
     query += " ORDER BY numero"
     pendentes = conn.execute(query, params).fetchall()
 
     if not pendentes:
-        print("Nada a processar. Todos os hinos já estão concluídos.")
+        print(f"Nada a processar para o projeto '{projeto_nome}'.")
         return
 
-    print(f"\n{len(pendentes)} hino(s) a processar.\n")
+    if args.apenas_imagem:
+        print(f"\nGerando apenas {len(pendentes)} imagem(ns) de miniatura (thumbnail) para o projeto '{projeto_nome}'...\n")
+    else:
+        print(f"\n{len(pendentes)} hino(s) a processar no projeto '{projeto_nome}'.\n")
 
     for row in pendentes:
         numero = row["numero"]
         mp3_path = ROOT / row["mp3_file"]
-        nome = hinos.get(numero, f"Hino {numero}")
+        num_key = numero
+        if isinstance(numero, str) and numero.upper().startswith("C") and numero[1:].isdigit():
+            try:
+                num_key = int(numero[1:])
+            except ValueError:
+                pass
+        raw_nome = hinos.get(numero) or hinos.get(num_key) or f"Hino {numero}"
+        nome = limpar_nome_hino(raw_nome)
 
         if not mp3_path.exists():
             print(f"[aviso] MP3 não encontrado: {mp3_path} — pulando.")
             continue
 
-        processar_hino(numero, mp3_path, nome, conn, args.sem_download)
+        if args.apenas_imagem:
+            print(f"[imagem] Gerando thumbnail do hino {formatar_numero_completo(numero)} - {nome}")
+            gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
+            continue
+
+        processar_hino(numero, mp3_path, nome, conn, args.sem_download, projeto_nome, projeto_cfg)
 
     conn.close()
-    print("\n✓ Processamento concluído.")
+    if args.apenas_imagem:
+        print(f"\n✓ Geração de miniaturas do projeto '{projeto_nome}' concluída.")
+    else:
+        print(f"\n✓ Processamento do projeto '{projeto_nome}' concluído.")
 
 
 if __name__ == "__main__":

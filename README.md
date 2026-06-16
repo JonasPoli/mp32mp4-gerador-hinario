@@ -173,6 +173,32 @@ Se o pool de clipes se esgotar, o script para e avisa — sem tentar acessar a i
 
 ---
 
+## Gerador de Coletâneas
+
+Após gerar todos os hinos individuais de um projeto, você pode agrupá-los em coletâneas (vídeos longos compilados por temas) prontas para publicação no YouTube.
+
+Para rodar o gerador de coletâneas:
+
+```bash
+python gerar_coletaneas.py --projeto hinos_de_ninar
+```
+
+Flags opcionais:
+* `--forcar`: Força a regeração das capas e a concatenação dos vídeos, mesmo que os arquivos correspondentes já existam.
+
+### Como funciona:
+1. **Definições**: O script possui 10 coletâneas temáticas pré-definidas (Ex: *Oração e Comunhão*, *Esperança e Vida Eterna*, *Louvor e Gratidão*, etc.).
+2. **Criação de Pastas**: Cada coletânea é criada dentro de uma pasta própria no diretório `output/coletaneas/` (ex: `output/coletaneas/01 - Coletânea de Oração e Comunhão/`).
+3. **Capa Personalizada (`capa.png`)**: O script usa a imagem de base do projeto (especificada no `projetos.json`) e escreve o nome da coletânea no local do número (com quebra de linha dinâmica), adicionando a lista dos hinos participantes logo abaixo.
+4. **Concatenação Lossless**: Une os vídeos individuais em um único arquivo de vídeo longo (ex: `Coletânea de Oração e Comunhão.mp4`) utilizando o concat demuxer do FFmpeg. Como todos os vídeos possuem o mesmo codec e dimensões, o merge é feito sem re-codificação, finalizando em segundos sem perda de qualidade.
+5. **Timeline e Capítulos (`capitulos.txt`)**: O script calcula dinamicamente o ponto de início (timeline) de cada hino dentro do vídeo longo, gerando um arquivo contendo a minutagem exata.
+6. **Metadados (`info.md`)**: Produz um arquivo Markdown contendo:
+   - **Título** ideal para o YouTube.
+   - **Descrição** pronta contendo as informações das coletâneas e os capítulos já formatados para o YouTube gerar a linha do tempo clicável automaticamente.
+   - **Tags** temáticas consolidadas que respeitam o limite máximo de 400 caracteres.
+
+---
+
 ## Painel Administrativo Web
 
 O projeto conta com um painel administrativo baseado em Flask para visualizar o progresso de geração de vídeos e gerenciar as postagens/metadados.
@@ -242,10 +268,24 @@ hinário/
 | Comando | O que faz |
 |---|---|
 | `python gerar_videos.py` | Gera tudo / continua de onde parou |
-| `python gerar_videos.py --apenas 290` | Gera somente o hino 290 |
+| `python gerar_videos.py --projeto hinario4` | Executa o gerador para o projeto `hinario4` |
+| `python gerar_videos.py --projeto hinario5` | Executa o gerador para o projeto `hinario5` |
+| `python gerar_videos.py --apenas 290` | Gera somente o hino 290 do projeto selecionado |
+| `python gerar_videos.py --apenas-imagem` | Gera apenas a miniatura (thumbnail) de todos os hinos do projeto selecionado, sem renderizar o vídeo |
+| `python gerar_videos.py --projeto hinario4 --apenas 5 --apenas-imagem` | Gera apenas a miniatura do hino 5 do projeto `hinario4` (excelente para testar layout de texto) |
 | `python gerar_videos.py --forcar-inicio 100` | Começa a partir do hino 100 |
 | `python gerar_videos.py --resetar 290` | Marca o hino 290 para regerar |
 | `python gerar_videos.py --resetar-todos` | Marca tudo para regerar do zero |
-| `python gerar_videos.py --hinario hinario5` | Processa apenas o Hinário 5 |
 | `python gerar_videos.py --forcar-download` | Baixa novos clipes antes de começar |
 | `python gerar_videos.py --sem-download` | Nunca acessa a internet |
+
+
+# Comandos mais usados
+cd ~/work/hinário/
+source .venv/bin/activate
+python gerar_videos.py --projeto hinos_de_ninar
+
+# Admin
+source .venv/bin/activate
+cd admin
+python app.py
