@@ -4,14 +4,21 @@
 gerar_videos.py — Gerador de vídeos para o Hinário CCB
 
 Uso:
-  python gerar_videos.py                     # gera tudo / continua de onde parou
-  python gerar_videos.py --apenas 290        # gera somente o hino 290
-  python gerar_videos.py --forcar-inicio 100 # processa a partir do hino 100
-  python gerar_videos.py --resetar 290       # marca o hino 290 como pendente
-  python gerar_videos.py --resetar-todos     # marca tudo como pendente
-  python gerar_videos.py --hinario hinario5  # processa somente um hinário específico
-  python gerar_videos.py --forcar-download   # baixa novos clipes antes de começar
-  python gerar_videos.py --sem-download      # nunca acessa a internet
+  python gerar_videos.py                              # gera tudo / continua de onde parou
+  python gerar_videos.py --apenas 290                 # gera somente o hino 290
+  python gerar_videos.py --forcar-inicio 100          # processa a partir do hino 100
+  python gerar_videos.py --resetar 290                # marca o hino 290 como pendente
+  python gerar_videos.py --resetar-todos              # marca tudo como pendente
+  python gerar_videos.py --hinario hinario5           # processa somente um hinário específico
+  python gerar_videos.py --forcar-download            # baixa novos clipes antes de começar
+  python gerar_videos.py --sem-download               # nunca acessa a internet
+  python gerar_videos.py --vinheta /caminho/vinheta.mp4  # usa vinheta de abertura
+
+Vinheta de abertura:
+  A vinheta é inserida antes do frame inicial (número/nome do hino).
+  Pode ser definida via argumento --vinheta ou pelo campo "vinheta" em projetos.json.
+  O argumento --vinheta tem precedência sobre projetos.json.
+  O delay do áudio é ajustado automaticamente: dur_vinheta + FRAME_DURATION.
 
 Dependências:
   pip install Pillow mutagen requests tqdm
@@ -900,17 +907,79 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
 
 
 # =============================================================================
-# Montagem final: frame + vídeo de fundo + áudio
+# Vinheta de abertura
+# =============================================================================
+
+def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | None]:
+    """
+    Normaliza o arquivo de vinheta para 1920×1080, libx264, 30fps.
+    O vídeo normalizado é gerado SEM áudio (para que o concat demuxer funcione
+    uniformemente junto ao frame e ao fundo, que também não têm áudio).
+    Se a vinheta contiver uma faixa de áudio, ela é extraída e codificada
+    separadamente em AAC — será misturada no passo de montagem final.
+
+    Retorna:
+        (vinheta_video_norm, vinheta_audio_norm)  — audio_norm é None se não houver áudio.
+    """
+    if not vinheta_path.exists():
+        raise FileNotFoundError(f"Arquivo de vinheta não encontrado: {vinheta_path}")
+
+    # 1. Normalizar vídeo (sem áudio)
+    vinheta_v = saida_dir / f"_vinheta_v_{vinheta_path.stem}.mp4"
+    subprocess.run([
+        "ffmpeg", "-y", "-i", str(vinheta_path),
+        "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
+               "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
+        "-c:v", "libx264", "-pix_fmt", "yuv420p",
+        "-threads", "4",
+        "-an",
+        str(vinheta_v),
+    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+    # 2. Verificar se a vinheta possui faixa de áudio
+    probe = subprocess.run([
+        "ffprobe", "-v", "error",
+        "-select_streams", "a",
+        "-show_entries", "stream=index",
+        "-of", "default=noprint_wrappers=1:nokey=1",
+        str(vinheta_path),
+    ], capture_output=True, text=True)
+
+    vinheta_a: Path | None = None
+    if probe.stdout.strip():
+        # Extrair e re-codificar o áudio da vinheta em AAC
+        vinheta_a = saida_dir / f"_vinheta_a_{vinheta_path.stem}.aac"
+        subprocess.run([
+            "ffmpeg", "-y", "-i", str(vinheta_path),
+            "-vn", "-c:a", "aac", "-b:a", "192k",
+            str(vinheta_a),
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+    return vinheta_v, vinheta_a
+
+
+# =============================================================================
+# Montagem final: [vinheta +] frame + vídeo de fundo + áudio
 # =============================================================================
 
 def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
-                       mp3: Path, saida: Path, dur_mp3: float):
+                       mp3: Path, saida: Path, dur_mp3: float,
+                       vinheta_mp4: Path | None = None,
+                       vinheta_audio: Path | None = None):
     """
-    Concatena frame inicial (sem áudio) + vídeo de fundo,
-    adiciona o MP3 como trilha de áudio e salva o vídeo final.
+    Concatena [vinheta +] frame inicial + vídeo de fundo, adiciona áudio e salva.
 
-    O áudio nunca é cortado: usa -t com a duração total exata e apad para
-    preencher com silêncio caso o vídeo seja ligeiramente mais longo.
+    Faixas de áudio no vídeo final:
+      - Se vinheta_audio for fornecida: o áudio original da vinheta é preservado
+        e misturado (amix) com o MP3 do hino (que começa após dur_vinheta + FRAME_DURATION).
+        As duas faixas não se sobrepõem: a vinheta ocupa 0→dur_vinheta e o MP3
+        começa em dur_vinheta + FRAME_DURATION.
+      - Se não houver áudio na vinheta: comportamento original — apenas o MP3
+        com adelay.
+
+    O vídeo da vinheta (vinheta_mp4) deve ser passado SEM áudio (normalizado por
+    preparar_vinheta) para que o concat demuxer funcione uniformemente com o
+    frame e o fundo, que também não possuem faixa de áudio.
 
     Usa nomes relativos no arquivo de lista do ffmpeg concat para evitar
     erros com caminhos contendo caracteres especiais (acentos, ç etc.).
@@ -918,11 +987,15 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
     out_dir = saida.parent
     lista = out_dir / f"_lista_{saida.stem}.txt"
 
-    # Caminhos relativos ao diretório de saída — evita problemas com acentos
-    frame_rel = frame_mp4.relative_to(out_dir)
-    fundo_rel = fundo_mp4.relative_to(out_dir)
+    # Monta a lista de partes (todas sem áudio): [vinheta_v], frame, fundo
+    entradas = []
+    if vinheta_mp4 is not None:
+        entradas.append(vinheta_mp4.relative_to(out_dir))
+    entradas.append(frame_mp4.relative_to(out_dir))
+    entradas.append(fundo_mp4.relative_to(out_dir))
+
     lista.write_text(
-        f"file '{frame_rel}'\nfile '{fundo_rel}'\n",
+        "\n".join(f"file '{p}'" for p in entradas) + "\n",
         encoding="utf-8",
     )
 
@@ -930,32 +1003,62 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
     subprocess.run([
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0",
-        "-i", lista.name,          # nome relativo; cwd = out_dir
+        "-i", lista.name,
         "-c:v", "libx264", "-pix_fmt", "yuv420p",
         "-threads", "4",
-        video_concat.name,         # idem
+        video_concat.name,
     ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
     lista.unlink(missing_ok=True)
 
-    # Duração total exata: frame inicial + áudio completo
-    # Nunca usar -shortest pois o adelay faz o ffmpeg subestimar a duração do áudio.
-    # Em vez disso: -t define o limite superior e apad preenche silêncio se necessário.
-    total_dur = FRAME_DURATION + dur_mp3
+    # Calcular o delay do MP3: começa após vinheta + frame inicial
+    dur_vinheta = duracao_video(vinheta_mp4) if vinheta_mp4 is not None else 0.0
+    audio_delay_s = dur_vinheta + FRAME_DURATION
+    audio_delay_ms = int(audio_delay_s * 1000)
+    total_dur = audio_delay_s + dur_mp3
 
-    subprocess.run([
-        "ffmpeg", "-y",
-        "-i", str(video_concat),
-        "-i", str(mp3),
-        "-map", "0:v:0",
-        "-map", "1:a:0",
-        "-af", f"adelay={FRAME_DURATION * 1000}|{FRAME_DURATION * 1000},"
-               f"afade=t=in:st={FRAME_DURATION}:d=0.5,"
-               f"apad=whole_dur={total_dur}",
-        "-c:v", "copy",
-        "-c:a", "aac", "-b:a", "192k",
-        "-t", f"{total_dur:.3f}",
-        str(saida),
-    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    if vinheta_audio is not None:
+        # Misturar: áudio da vinheta (natural) + MP3 com delay via amix.
+        # As faixas não se sobrepõem: vinheta 0→dur_vinheta, MP3 começa em audio_delay_s.
+        # [va] — áudio da vinheta preenchido com silêncio até total_dur
+        # [ma] — MP3 atrasado, com fade-in e preenchido até total_dur
+        # amix com normalize=0 garante que os volumes não sejam reduzidos.
+        filter_complex = (
+            f"[1:a]apad=whole_dur={total_dur}[va];"
+            f"[2:a]adelay={audio_delay_ms}|{audio_delay_ms},"
+            f"afade=t=in:st={audio_delay_s}:d=0.5,"
+            f"apad=whole_dur={total_dur}[ma];"
+            f"[va][ma]amix=inputs=2:duration=first:normalize=0[aout]"
+        )
+        subprocess.run([
+            "ffmpeg", "-y",
+            "-i", str(video_concat),   # 0: vídeo
+            "-i", str(vinheta_audio),  # 1: áudio da vinheta
+            "-i", str(mp3),            # 2: MP3 do hino
+            "-map", "0:v:0",
+            "-filter_complex", filter_complex,
+            "-map", "[aout]",
+            "-c:v", "copy",
+            "-c:a", "aac", "-b:a", "192k",
+            "-t", f"{total_dur:.3f}",
+            str(saida),
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    else:
+        # Sem áudio de vinheta — apenas o MP3 com delay (comportamento original)
+        subprocess.run([
+            "ffmpeg", "-y",
+            "-i", str(video_concat),
+            "-i", str(mp3),
+            "-map", "0:v:0",
+            "-map", "1:a:0",
+            "-af", f"adelay={audio_delay_ms}|{audio_delay_ms},"
+                   f"afade=t=in:st={audio_delay_s}:d=0.5,"
+                   f"apad=whole_dur={total_dur}",
+            "-c:v", "copy",
+            "-c:a", "aac", "-b:a", "192k",
+            "-t", f"{total_dur:.3f}",
+            str(saida),
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
     video_concat.unlink(missing_ok=True)
 
 
@@ -1076,10 +1179,30 @@ def acrescentar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg
 
 def processar_hino(numero: int, mp3_path: Path, nome: str,
                    conn: sqlite3.Connection, sem_download: bool,
-                   projeto_nome: str, projeto_cfg: dict):
-    """Gera o vídeo completo para um único hino do projeto."""
+                   projeto_nome: str, projeto_cfg: dict,
+                   vinheta_path: Path | None = None):
+    """Gera o vídeo completo para um único hino do projeto.
+
+    Se vinheta_path for fornecida, ela será inserida antes do frame inicial.
+    Caso contrário, verifica o campo 'vinheta' em projeto_cfg.
+    """
     num_formatted = formatar_numero_completo(numero)
     print(f"\n[hino {num_formatted}] {nome} (Projeto: {projeto_nome})")
+
+    # Resolver vinheta: argumento CLI > projetos.json > nenhuma
+    vinheta_efetiva: Path | None = vinheta_path
+    if vinheta_efetiva is None:
+        vinheta_cfg = projeto_cfg.get("vinheta", "")
+        if vinheta_cfg:
+            candidata = Path(vinheta_cfg)
+            if not candidata.is_absolute():
+                candidata = ROOT / candidata
+            vinheta_efetiva = candidata if candidata.exists() else None
+            if vinheta_efetiva is None:
+                print(f"  [aviso] Vinheta configurada não encontrada: {vinheta_cfg}")
+
+    if vinheta_efetiva:
+        print(f"  Vinheta de abertura: {vinheta_efetiva.name}")
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     saida = OUTPUT_DIR / f"hino-{projeto_nome}-{num_formatted}.mp4"
@@ -1093,22 +1216,31 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
     for tmp in OUTPUT_DIR.glob(f"_lista_hino-{projeto_nome}-{num_formatted}.txt"):
         tmp.unlink(missing_ok=True)
 
-
     conn.execute(
         "UPDATE videos SET status = 'processando', atualizado_em = ? WHERE projeto = ? AND numero = ?",
         (now_iso(), projeto_nome, numero),
     )
     conn.commit()
 
+    vinheta_norm: Path | None = None
+    vinheta_audio_norm: Path | None = None
     try:
         dur_mp3 = duracao_mp3(mp3_path)
         print(f"  Duração do MP3: {dur_mp3:.1f}s")
 
-        # 1. Frame inicial
+        # 1. Normalizar vinheta (se houver)
+        if vinheta_efetiva:
+            print("  Normalizando vinheta de abertura...")
+            vinheta_norm, vinheta_audio_norm = preparar_vinheta(vinheta_efetiva, OUTPUT_DIR)
+            dur_vin = duracao_video(vinheta_norm)
+            tem_audio = "com áudio" if vinheta_audio_norm else "sem áudio"
+            print(f"  Duração da vinheta: {dur_vin:.1f}s ({tem_audio})")
+
+        # 2. Frame inicial
         print("  Gerando frame inicial...")
         frame_mp4 = gerar_frame_video(numero, nome, projeto_nome, projeto_cfg)
 
-        # 2. Selecionar e compor vídeo de fundo
+        # 3. Selecionar e compor vídeo de fundo
         print("  Selecionando clipes de fundo...")
         clipes = selecionar_clipes(conn, dur_mp3, sem_download, projeto_nome, numero)
         print(f"  {len(clipes)} clipe(s) selecionado(s).")
@@ -1116,26 +1248,36 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
         print("  Compondo vídeo de fundo...")
         fundo_mp4 = compor_video_fundo(clipes, dur_mp3, saida)
 
-        # 3. Montagem final
+        # 4. Montagem final
         print("  Montando vídeo final...")
-        montar_video_final(frame_mp4, fundo_mp4, mp3_path, saida, dur_mp3)
+        montar_video_final(frame_mp4, fundo_mp4, mp3_path, saida, dur_mp3,
+                           vinheta_mp4=vinheta_norm,
+                           vinheta_audio=vinheta_audio_norm)
 
-        # 4. Limpeza de temporários
+        # 5. Limpeza de temporários
         frame_mp4.unlink(missing_ok=True)
         fundo_mp4.unlink(missing_ok=True)
+        if vinheta_norm:
+            vinheta_norm.unlink(missing_ok=True)
+        if vinheta_audio_norm:
+            vinheta_audio_norm.unlink(missing_ok=True)
 
-        # 5. Registrar sucesso
+        # 6. Registrar sucesso
         conn.execute(
             "UPDATE videos SET status = 'concluido', output = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
             (str(saida.relative_to(ROOT)), now_iso(), projeto_nome, numero),
         )
         conn.commit()
 
-        # 6. Metadados YouTube
+        # 7. Metadados YouTube
         acrescentar_metadados(numero, nome, projeto_nome, projeto_cfg)
         print(f"  ✓ Salvo em: {saida.relative_to(ROOT)}")
 
     except Exception as e:
+        if vinheta_norm:
+            vinheta_norm.unlink(missing_ok=True)
+        if vinheta_audio_norm:
+            vinheta_audio_norm.unlink(missing_ok=True)
         conn.execute(
             "UPDATE videos SET status = 'erro', erro_msg = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
             (str(e), now_iso(), projeto_nome, numero),
@@ -1168,6 +1310,9 @@ def main():
                         help="Nunca acessa a internet para baixar clipes.")
     parser.add_argument("--apenas-imagem", action="store_true",
                         help="Gera somente a imagem de miniatura (thumbnail) do hino, sem renderizar o vídeo.")
+    parser.add_argument("--vinheta", type=str, default=None, metavar="ARQUIVO",
+                        help="Caminho para o vídeo de vinheta de abertura (MP4). "
+                             "Tem precedência sobre o campo 'vinheta' em projetos.json.")
     args = parser.parse_args()
 
     projetos = carregar_projetos()
@@ -1231,6 +1376,18 @@ def main():
     if args.forcar_download:
         baixar_mais_clipes(conn)
 
+    # ---- Resolver vinheta (argumento CLI) ----------------------------------
+    vinheta_arg: Path | None = None
+    if args.vinheta:
+        candidata = Path(args.vinheta)
+        if not candidata.is_absolute():
+            candidata = Path.cwd() / candidata
+        if not candidata.exists():
+            print(f"[erro] Vinheta não encontrada: {candidata}")
+            sys.exit(1)
+        vinheta_arg = candidata
+        print(f"[vinheta] Usando vinheta de abertura: {vinheta_arg}")
+
     csv_path = ROOT / projeto_cfg.get("csv_path", "fontes/hinario4_sequential.csv")
     hinos = carregar_csv(csv_path)
 
@@ -1258,6 +1415,8 @@ def main():
     else:
         print(f"\n{len(pendentes)} hino(s) a processar no projeto '{projeto_nome}'.\n")
 
+    mp3s_nao_encontrados: list[tuple] = []
+
     for row in pendentes:
         numero = row["numero"]
         mp3_path = ROOT / row["mp3_file"]
@@ -1272,6 +1431,7 @@ def main():
 
         if not mp3_path.exists():
             print(f"[aviso] MP3 não encontrado: {mp3_path} — pulando.")
+            mp3s_nao_encontrados.append((numero, nome, str(mp3_path.relative_to(ROOT))))
             continue
 
         if args.apenas_imagem:
@@ -1279,9 +1439,26 @@ def main():
             gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
             continue
 
-        processar_hino(numero, mp3_path, nome, conn, args.sem_download, projeto_nome, projeto_cfg)
+        processar_hino(numero, mp3_path, nome, conn, args.sem_download, projeto_nome, projeto_cfg,
+                       vinheta_path=vinheta_arg)
 
     conn.close()
+
+    # ---- Relatório final de MP3s não encontrados ----------------------------
+    if mp3s_nao_encontrados:
+        print(f"\n{'='*60}")
+        print(f"⚠️  RELATÓRIO: {len(mp3s_nao_encontrados)} MP3(s) não encontrado(s) no projeto '{projeto_nome}'")
+        print(f"{'='*60}")
+        for num, nome, caminho in mp3s_nao_encontrados:
+            num_fmt = formatar_numero_completo(num)
+            print(f"  [{num_fmt}] {nome}")
+            print(f"        Esperado em: {caminho}")
+        print(f"{'='*60}")
+        print("  Esses hinos foram pulados e permanecem como 'pendente' no banco.")
+        print("  Adicione os arquivos MP3 e rode novamente para gerá-los.")
+    else:
+        print("\n✅  Nenhum MP3 faltante — todos os hinos foram processados.")
+
     if args.apenas_imagem:
         print(f"\n✓ Geração de miniaturas do projeto '{projeto_nome}' concluída.")
     else:
