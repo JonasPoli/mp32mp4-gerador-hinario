@@ -24,6 +24,7 @@ from flask import Flask, jsonify, request, send_from_directory
 ROOT  = Path(__file__).parent.parent          # /Volumes/Dados/work/hinário
 DB    = ROOT / "progresso.db"
 ADMIN = Path(__file__).parent                 # pasta admin/
+LETRAS_DIR = ROOT / "hinos_txt" / "letras_separadas"
 
 app = Flask(__name__, static_folder=str(ADMIN / "static"), static_url_path="/static")
 
@@ -80,6 +81,84 @@ def remover_acentos(texto: str) -> str:
 def camel_case(texto: str) -> str:
     sem = remover_acentos(texto)
     return "".join(p.capitalize() for p in re.findall(r"[A-Za-z0-9]+", sem))
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Letras dos hinos
+# ─────────────────────────────────────────────────────────────────────────────
+
+def carregar_indice_letras() -> dict:
+    """Carrega o _indice.csv das letras e retorna {(tipo, numero_int): arquivo}."""
+    indice: dict = {}
+    indice_path = LETRAS_DIR / "_indice.csv"
+    if not indice_path.exists():
+        return indice
+    try:
+        with open(indice_path, newline="", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                tipo = row.get("tipo", "").strip().lower()
+                try:
+                    num = int(row.get("numero", "").strip())
+                except (ValueError, TypeError):
+                    continue
+                arquivo = row.get("arquivo", "").strip()
+                if tipo and num and arquivo:
+                    indice[(tipo, num)] = arquivo
+    except Exception as e:
+        print(f"[aviso] Erro ao carregar índice de letras: {e}")
+    return indice
+
+
+# Cache do índice de letras (carregado uma vez)
+LETRAS_INDICE: dict = carregar_indice_letras()
+
+
+def buscar_letra_hino(numero) -> str:
+    """Busca a letra do hino ou coro a partir do número.
+    
+    Para coros, o número deve ser string "C1", "C2", etc.
+    Para hinos, o número pode ser int ou string numérica.
+    Retorna o conteúdo do arquivo .txt sem a primeira linha (título), ou string vazia.
+    """
+    global LETRAS_INDICE
+    
+    # Determinar tipo e numero_int
+    tipo = "hino"
+    numero_int = 0
+    num_str = str(numero).strip()
+    
+    if num_str.upper().startswith("C") and num_str[1:].isdigit():
+        tipo = "coro"
+        numero_int = int(num_str[1:])
+    else:
+        try:
+            numero_int = int(num_str)
+            tipo = "hino"
+        except (ValueError, TypeError):
+            return ""
+    
+    chave = (tipo, numero_int)
+    arquivo = LETRAS_INDICE.get(chave)
+    if not arquivo:
+        return ""
+    
+    txt_path = LETRAS_DIR / arquivo
+    if not txt_path.exists():
+        return ""
+    
+    try:
+        linhas = txt_path.read_text(encoding="utf-8").splitlines()
+        # Pular primeira linha (título) e linha em branco seguinte
+        inicio = 0
+        if linhas and linhas[0].strip():
+            inicio = 1  # pular título
+        if inicio < len(linhas) and not linhas[inicio].strip():
+            inicio += 1  # pular linha em branco após título
+        return "\n".join(linhas[inicio:]).rstrip()
+    except Exception as e:
+        print(f"[aviso] Erro ao ler letra {arquivo}: {e}")
+        return ""
 
 
 def carregar_templates_youtube() -> dict:
@@ -205,6 +284,11 @@ def gerar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict
     titulo = formatar_template(titulo_temp, variables)
     descricao = formatar_template(desc_temp, variables)
     tags = formatar_template(tags_temp, variables)
+
+    # Incluir letra do hino/coro na descrição
+    letra = buscar_letra_hino(numero)
+    if letra:
+        descricao = descricao + "\n\n🎵 Letra:\n" + letra
 
     # Garantir limite de 500 caracteres, removendo as últimas tags se passar
     if len(tags) > 500:
@@ -370,6 +454,166 @@ def serve_image(filename):
 @app.route("/api/projects")
 def api_projects():
     return jsonify(PROJETOS)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Utilitários de Coletâneas
+# ─────────────────────────────────────────────────────────────────────────────
+
+def gerar_slug_coletanea(cid: int, titulo: str) -> str:
+    """Gera um slug único e determinístico para identificar uma coletânea no disco.
+    Deve ser idêntico à função em gerar_coletaneas.py.
+    Ex.: (1, 'Coletânea de Oração e Comunhão') -> 'coletanea-01-coletanea-de-oracao-e-comunhao'
+    """
+    slug = remover_acentos(titulo).lower()
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    slug = slug.strip("-")
+    return f"coletanea-{cid:02d}-{slug}"
+
+def parsear_info_md(info_path: Path) -> dict:
+    """Parseia um arquivo info.md de coletânea e retorna dict com titulo, descricao, tags e nome_projeto."""
+    resultado = {"titulo": "", "descricao": "", "tags": "", "nome_projeto": ""}
+    if not info_path.exists():
+        return resultado
+    try:
+        texto = info_path.read_text(encoding="utf-8")
+        # Extrair blocos ```text ... ```
+        blocos = re.findall(r'```text\n(.*?)\n```', texto, re.DOTALL)
+        secoes = re.findall(r'^## (.+)$', texto, re.MULTILINE)
+        for i, secao in enumerate(secoes):
+            if i >= len(blocos):
+                break
+            secao_lower = secao.lower()
+            if "título" in secao_lower or "titulo" in secao_lower:
+                resultado["titulo"] = blocos[i].strip()
+            elif "descrição" in secao_lower or "descricao" in secao_lower:
+                resultado["descricao"] = blocos[i].strip()
+                # Extrair nome do projeto da linha 'Projeto: X'
+                m = re.search(r'Projeto:\s*(.+)', blocos[i])
+                if m:
+                    resultado["nome_projeto"] = m.group(1).strip()
+            elif "tags" in secao_lower:
+                resultado["tags"] = blocos[i].strip()
+    except Exception as e:
+        print(f"[aviso] Erro ao parsear {info_path}: {e}")
+    return resultado
+
+
+def carregar_coletaneas() -> list:
+    """Carrega todas as coletâneas disponíveis no diretório output/coletaneas/."""
+    coletaneas_dir = ROOT / "output" / "coletaneas"
+    coletaneas = []
+    if not coletaneas_dir.exists():
+        return coletaneas
+    for folder in sorted(coletaneas_dir.iterdir()):
+        if not folder.is_dir() or folder.name.startswith('.'):
+            continue
+        info_path = folder / "info.md"
+
+        # Detectar o ID numérico do prefixo do nome da pasta (ex: '01 - Coletânea...')
+        m_cid = re.match(r'^(\d+)\s*-\s*(.+)$', folder.name)
+        cid = int(m_cid.group(1)) if m_cid else 0
+        titulo_pasta = m_cid.group(2).strip() if m_cid else folder.name
+
+        # Buscar capa pelo slug determinístico, com fallback para capa.png
+        slug = gerar_slug_coletanea(cid, titulo_pasta) if cid else ""
+        capa_path = folder / f"{slug}.png" if slug else None
+        if capa_path is None or not capa_path.exists():
+            capa_path = folder / "capa.png"
+
+        # Encontrar arquivo de vídeo (.mp4)
+        video_path = None
+        for f in folder.iterdir():
+            if f.suffix == ".mp4" and not f.name.startswith('.'):
+                video_path = f
+                break
+
+        meta = parsear_info_md(info_path)
+        coletaneas.append({
+            "folder": folder.name,
+            "cid": cid,
+            "titulo": meta["titulo"],
+            "descricao": meta["descricao"],
+            "tags": meta["tags"],
+            "nome_projeto": meta["nome_projeto"],
+            "video_file": video_path.name if video_path else "",
+            "video_path": str(video_path) if video_path else "",
+            "capa_file": capa_path.name if capa_path.exists() else "",
+            "has_info": info_path.exists(),
+        })
+    return coletaneas
+
+
+@app.route("/api/coletaneas")
+def api_coletaneas():
+    """Lista todas as coletâneas disponíveis."""
+    coletaneas = carregar_coletaneas()
+    return jsonify(coletaneas)
+
+
+@app.route("/api/coletaneas/export-csv")
+def api_coletaneas_export_csv():
+    """Exporta CSV de todas as coletâneas para upload no YouTube Studio."""
+    coletaneas = carregar_coletaneas()
+
+    import io
+    output = io.StringIO()
+    output.write('\ufeff')  # UTF-8 BOM para Excel
+
+    writer = csv.writer(output, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+    writer.writerow([
+        "ID",
+        "Arquivo de vídeo",
+        "Arquivo de vídeo limpo",
+        "Título",
+        "Descrição",
+        "Miniatura",
+        "Nome do projeto",
+        "Tags",
+        "Data de publicação",
+        "Hora de publicação"
+    ])
+
+    for i, col in enumerate(coletaneas, start=1):
+        video_file = col["video_file"]
+        video_file_clean = ""
+        if video_file:
+            stem = Path(video_file).stem
+            video_file_clean = stem.replace("-", " ").replace("_", " ")
+
+        tags = col["tags"]
+        if len(tags) > 400:
+            parts = [t.strip() for t in tags.split(",") if t.strip()]
+            valid_parts = []
+            current_len = 0
+            for part in parts:
+                added_len = len(part) + (2 if valid_parts else 0)
+                if current_len + added_len <= 400:
+                    valid_parts.append(part)
+                    current_len += added_len
+                else:
+                    break
+            tags = ", ".join(valid_parts)
+
+        writer.writerow([
+            i,
+            video_file,
+            video_file_clean,
+            col["titulo"],
+            col["descricao"],
+            col["capa_file"],
+            col["nome_projeto"],   # Nome do projeto extraído do info.md
+            tags,
+            "",   # Data (sem agendamento por padrão)
+            "",   # Hora
+        ])
+
+    response = app.response_class(
+        output.getvalue(),
+        mimetype="text/csv; charset=utf-8"
+    )
+    response.headers["Content-Disposition"] = "attachment; filename=coletaneas.csv"
+    return response
 
 
 @app.route("/api/projects/<projeto>/export-csv")
@@ -543,11 +787,13 @@ def api_video_detail(numero):
 
 @app.route("/api/schedule", methods=["POST"])
 def api_schedule():
-    body          = request.get_json(force=True)
-    projeto       = body.get("projeto", list(PROJETOS.keys())[0])
-    data_base_str = body.get("data_base", "")
-    intervalo     = int(body.get("intervalo_dias", 1))
-    hora          = body.get("hora", "15:00")
+    body              = request.get_json(force=True)
+    projeto           = body.get("projeto", list(PROJETOS.keys())[0])
+    data_base_str     = body.get("data_base", "")
+    intervalo         = int(body.get("intervalo_dias", 1))
+    hora              = body.get("hora", "15:00")
+    incluir_coletaneas = body.get("incluir_coletaneas", False)
+    intervalo_col     = int(body.get("intervalo_coletaneas", intervalo))
 
     try:
         base = date.fromisoformat(data_base_str)
@@ -572,7 +818,30 @@ def api_schedule():
 
     conn.commit()
     conn.close()
-    return jsonify({"atualizados": len(atualizados), "videos": atualizados})
+
+    # Programar coletâneas (retorna apenas a lista de datas sugeridas, sem banco)
+    coletaneas_agendadas = []
+    if incluir_coletaneas:
+        coletaneas = carregar_coletaneas()
+        # Primeira data de coletânea = após todos os hinos individuais
+        total_hinos = len(atualizados)
+        for j, col in enumerate(coletaneas):
+            if not col["video_file"]:
+                continue
+            data_col = base + timedelta(days=total_hinos * intervalo + j * intervalo_col)
+            data_col_str = f"{data_col.isoformat()}T{hora}:00"
+            coletaneas_agendadas.append({
+                "folder": col["folder"],
+                "titulo": col["titulo"],
+                "video_file": col["video_file"],
+                "data_postagem": data_col_str,
+            })
+
+    return jsonify({
+        "atualizados": len(atualizados),
+        "videos": atualizados,
+        "coletaneas": coletaneas_agendadas,
+    })
 
 
 @app.route("/api/videos/<numero>/postagem", methods=["PATCH"])

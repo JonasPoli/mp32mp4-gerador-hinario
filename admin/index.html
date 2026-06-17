@@ -22,8 +22,11 @@
     <select id="project-select" class="form-input" style="width: 100%; padding: 0.4rem 0.6rem; background: rgba(255,255,255,0.03); border: 1px solid var(--border); color: var(--text-2); border-radius: var(--radius-sm); font-family: inherit; font-size: 0.85rem; cursor: pointer; outline: none; transition: border-color var(--t-fast); margin-bottom: 0.6rem;">
       <!-- Carregado via API -->
     </select>
-    <button id="download-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit;">
-      📥 Exportar CSV
+    <button id="download-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit; margin-bottom: 0.4rem;">
+      📥 Exportar CSV Hinos
+    </button>
+    <button id="download-coletaneas-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit;">
+      📦 Exportar CSV Coletâneas
     </button>
   </div>
   <nav class="sidebar-nav">
@@ -178,6 +181,20 @@
           </div>
         </div>
 
+        <div style="margin-top: 1rem; padding: 1rem; background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: var(--radius-sm);">
+          <label style="display: flex; align-items: center; gap: 0.6rem; cursor: pointer; font-size: 0.9rem; color: var(--text-2); font-weight: 500;">
+            <input type="checkbox" id="sch-incluir-coletaneas" style="width: 16px; height: 16px; accent-color: var(--accent); cursor: pointer;" />
+            📦 Incluir coletâneas na programação
+          </label>
+          <div id="sch-coletaneas-options" style="display: none; margin-top: 0.75rem;">
+            <div class="form-group" style="max-width: 200px;">
+              <label class="form-label" for="sch-intervalo-coletaneas">Intervalo coletâneas (dias)</label>
+              <input type="number" id="sch-intervalo-coletaneas" class="form-input" value="7" min="1" max="60" />
+            </div>
+            <p style="font-size: 0.78rem; color: var(--text-3); margin-top: 0.5rem;">As coletâneas serão agendadas após todos os hinos individuais, com este intervalo entre elas.</p>
+          </div>
+        </div>
+
         <div class="preview-banner" id="sch-preview" style="display:none"></div>
 
         <div class="schedule-actions">
@@ -189,7 +206,7 @@
 
     <!-- Schedule preview table -->
     <div class="glass-card" id="sch-table-card" style="display:none">
-      <h2 class="card-title">Pré-visualização do Agendamento</h2>
+      <h2 class="card-title">Pré-visualização — Hinos Individuais</h2>
       <div class="table-wrapper">
         <table class="data-table" id="sch-table">
           <thead>
@@ -200,6 +217,23 @@
             </tr>
           </thead>
           <tbody id="sch-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Coletâneas schedule preview table -->
+    <div class="glass-card" id="sch-col-table-card" style="display:none">
+      <h2 class="card-title">Pré-visualização — Coletâneas</h2>
+      <div class="table-wrapper">
+        <table class="data-table" id="sch-col-table">
+          <thead>
+            <tr>
+              <th>Coletânea</th>
+              <th>Arquivo</th>
+              <th>Data de Postagem</th>
+            </tr>
+          </thead>
+          <tbody id="sch-col-tbody"></tbody>
         </table>
       </div>
     </div>

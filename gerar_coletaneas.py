@@ -172,6 +172,16 @@ def remover_acentos(texto: str) -> str:
     return "".join(c for c in normalizado if unicodedata.category(c) != "Mn")
 
 
+def gerar_slug_coletanea(cid: int, titulo: str) -> str:
+    """Gera um slug único e determinístico para identificar uma coletânea no disco.
+    Ex.: (1, 'Coletânea de Oração e Comunhão') -> 'coletanea-01-coletanea-de-oracao-e-comunhao'
+    """
+    slug = remover_acentos(titulo).lower()
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    slug = slug.strip("-")
+    return f"coletanea-{cid:02d}-{slug}"
+
+
 def duracao_video(caminho: Path) -> float:
     cmd = [
         "ffprobe", "-v", "error",
@@ -360,9 +370,16 @@ def main():
         col_dir.mkdir(parents=True, exist_ok=True)
         
         video_output = col_dir / f"{titulo}.mp4"
-        capa_output = col_dir / "capa.png"
+        slug_capa = gerar_slug_coletanea(cid, titulo)
+        capa_output = col_dir / f"{slug_capa}.png"
         info_output = col_dir / "info.md"
         capitulos_output = col_dir / "capitulos.txt"
+
+        # Renomear capa.png genérica para slug único, se existir
+        capa_legada = col_dir / "capa.png"
+        if capa_legada.exists() and not capa_output.exists():
+            capa_legada.rename(capa_output)
+            print(f"  → Capa renomeada: capa.png → {capa_output.name}")
         
         print(f"\n========================================================")
         print(f"Processando Coletânea {cid}: {titulo}")
@@ -387,11 +404,11 @@ def main():
             
         # 2. Gerar a capa (Thumbnail) da Coletânea se não existir ou se --forcar
         if not capa_output.exists() or args.forcar:
-            print("Gerando capa...")
+            print(f"Gerando capa '{capa_output.name}'...")
             gerar_capa_coletanea(titulo, hinos_list, projeto_cfg, capa_output)
             print(f"  ✓ Capa salva em {capa_output.relative_to(ROOT)}")
         else:
-            print("Capa já existe, pulando...")
+            print(f"Capa já existe ({capa_output.name}), pulando...")
             
         # 3. Concatenar vídeos e calcular os capítulos
         timeline = []

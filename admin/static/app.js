@@ -372,12 +372,23 @@ document.addEventListener('keydown', e => {
 $('#sch-preview-btn').addEventListener('click', previewSchedule);
 $('#sch-apply-btn').addEventListener('click', applySchedule);
 
+// Toggle coletâneas options
+const schColCheck = $('#sch-incluir-coletaneas');
+if (schColCheck) {
+  schColCheck.addEventListener('change', () => {
+    const opts = $('#sch-coletaneas-options');
+    if (opts) opts.style.display = schColCheck.checked ? 'block' : 'none';
+  });
+}
+
 function getScheduleParams() {
   return {
-    projeto:        state.activeProject,
-    data_base:      $('#sch-data-base').value,
-    intervalo_dias: parseInt($('#sch-intervalo').value) || 1,
-    hora:           $('#sch-hora').value || '15:00',
+    projeto:               state.activeProject,
+    data_base:             $('#sch-data-base').value,
+    intervalo_dias:        parseInt($('#sch-intervalo').value) || 1,
+    hora:                  $('#sch-hora').value || '15:00',
+    incluir_coletaneas:    $('#sch-incluir-coletaneas')?.checked || false,
+    intervalo_coletaneas:  parseInt($('#sch-intervalo-coletaneas')?.value) || 7,
   };
 }
 
@@ -386,13 +397,15 @@ function previewSchedule() {
   if (!p.data_base) { toast('Informe a data de início.', 'error'); return; }
 
   // Local preview: build dates without calling the API
-  const tableCard = $('#sch-table-card');
-  const tbody     = $('#sch-tbody');
-  const banner    = $('#sch-preview');
+  const tableCard    = $('#sch-table-card');
+  const tbody        = $('#sch-tbody');
+  const banner       = $('#sch-preview');
+  const colTableCard = $('#sch-col-table-card');
+  const colTbody     = $('#sch-col-tbody');
 
   // Fetch the concluded videos to build preview
   api(`/api/videos?page=1&per_page=500`)
-    .then(data => {
+    .then(async data => {
       const vids = data.videos;
 
       const rows = vids.map((v, i) => {
@@ -415,6 +428,39 @@ function previewSchedule() {
           <td class="date-cell">${r.date}</td>
         </tr>
       `).join('');
+
+      // Coletâneas preview
+      if (p.incluir_coletaneas) {
+        try {
+          const coletaneas = await fetch('/api/coletaneas').then(r => r.json());
+          const colRows = coletaneas
+            .filter(c => c.video_file)
+            .map((c, j) => {
+              const baseOffset = rows.length * p.intervalo_dias;
+              const dt = new Date(p.data_base + 'T' + p.hora);
+              dt.setDate(dt.getDate() + baseOffset + j * p.intervalo_coletaneas);
+              const iso = dt.toISOString().slice(0, 16).replace('T', ' ');
+              return { titulo: c.titulo, file: c.video_file, date: iso };
+            });
+
+          colTableCard.style.display = colRows.length > 0 ? 'block' : 'none';
+          colTbody.innerHTML = colRows.map(r => `
+            <tr>
+              <td>${escHTML(r.titulo)}</td>
+              <td>${escHTML(r.file)}</td>
+              <td class="date-cell">${r.date}</td>
+            </tr>
+          `).join('');
+
+          if (colRows.length > 0) {
+            banner.textContent += ` | ${colRows.length} coletâneas — primeira: ${colRows[0]?.date || '—'}`;
+          }
+        } catch (err) {
+          toast('Aviso: erro ao carregar coletâneas: ' + err.message, 'error');
+        }
+      } else {
+        colTableCard.style.display = 'none';
+      }
     })
     .catch(err => toast('Erro ao pré-visualizar: ' + err.message, 'error'));
 }
@@ -433,7 +479,25 @@ async function applySchedule() {
       body:    JSON.stringify(p),
     });
 
-    toast(`✅ ${result.atualizados} datas aplicadas com sucesso!`, 'success', 4000);
+    let msg = `✅ ${result.atualizados} datas aplicadas com sucesso!`;
+    if (result.coletaneas && result.coletaneas.length > 0) {
+      msg += ` | ${result.coletaneas.length} coletâneas incluídas na visualização.`;
+      // Exibir tabela de coletâneas com as datas retornadas pela API
+      const colTableCard = $('#sch-col-table-card');
+      const colTbody     = $('#sch-col-tbody');
+      colTableCard.style.display = 'block';
+      colTbody.innerHTML = result.coletaneas.map(c => {
+        const dataPart = c.data_postagem.replace('T', ' ').slice(0, 16);
+        return `
+          <tr>
+            <td>${escHTML(c.titulo)}</td>
+            <td>${escHTML(c.video_file)}</td>
+            <td class="date-cell">${dataPart}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+    toast(msg, 'success', 5000);
     previewSchedule(); // refresh table
   } catch (err) {
     toast('Erro: ' + err.message, 'error');
@@ -487,6 +551,13 @@ async function init() {
           return;
         }
         window.open(`/api/projects/${state.activeProject}/export-csv`, '_blank');
+      });
+    }
+
+    const colCsvBtn = $('#download-coletaneas-csv-btn');
+    if (colCsvBtn) {
+      colCsvBtn.addEventListener('click', () => {
+        window.open('/api/coletaneas/export-csv', '_blank');
       });
     }
     
