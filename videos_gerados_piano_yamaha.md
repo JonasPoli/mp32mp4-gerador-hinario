@@ -101,3 +101,47 @@ hino 1, hino 1 ccb, Cristo, meu Mestre..., cristo, meu mestre..., Hinário 5, hi
 
 ---
 
+# C1
+
+## Título para o vídeo
+Hino C1 - Aleluia! Aleluia | Hinário 5 CCB | Hinos em Piano Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C1 - Aleluia! Aleluia
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Piano Yamaha.
+
+Este vídeo apresenta o áudio do hino C1, “Aleluia! Aleluia”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Piano Yamaha
+🎵 Hino: C1
+📖 Hinário: Hinário 5
+🎶 Título: Aleluia! Aleluia
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor,
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor
+Glória ao Redentor! Aleluia!
+Santo Remidor! Aleluia!
+Nosso Salvador! Aleluia!
+Glória a Jesus!
+
+#HinoC1 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C1, hino C1 ccb, Aleluia! Aleluia, aleluia! aleluia, Hinário 5, hinario C1, ccb hino C1, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Piano Yamaha, hinos em piano yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+

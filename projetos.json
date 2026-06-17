@@ -274,5 +274,61 @@
         }
       }
     }
+  },
+  "orgao_yamaha": {
+    "nome_exibicao": "Hinos em Orgão Yamaha",
+    "csv_path": "fontes/hinario5.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "images/hinos_de_orgao.png",
+    "vinheta": "vinheta/vinheta-hinario-04-v1.mp4",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
+    "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no orgão, hino no orgão, orgão yamaha, yamaha orgão, hinos ccb orgão, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, orgão evangélico, hinos evangélicos no orgão, hino <numero-do-hino> instrumental",
+    "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em orgão, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no orgão.\n\n#Hino<numero-do-hino> #Hinario5 #CCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [
+          26,
+          45,
+          90,
+          255
+        ],
+        "brilho": {
+          "raio": 3,
+          "cor": [
+            255,
+            255,
+            255,
+            255
+          ]
+        }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [
+          26,
+          45,
+          90,
+          255
+        ],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": {
+          "raio": 3,
+          "cor": [
+            255,
+            255,
+            255,
+            255
+          ]
+        }
+      }
+    }
   }
 }
