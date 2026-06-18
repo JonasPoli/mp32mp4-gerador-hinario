@@ -40,6 +40,14 @@ from pathlib import Path
 from mutagen.mp3 import MP3
 from PIL import Image, ImageDraw, ImageFont
 
+# ── Novo pipeline de thumbnails (gerar_thumb_v01) ──────────────────────────────
+try:
+    from gerar_thumb_v01 import gerar_thumb as _gerar_thumb_v01
+    _THUMB_V01_DISPONIVEL = True
+except ImportError:
+    _THUMB_V01_DISPONIVEL = False
+    print("[aviso] gerar_thumb_v01.py não encontrado — thumbs do hinario5 usarão layout legado")
+
 # =============================================================================
 # Caminhos do projeto
 # =============================================================================
@@ -708,18 +716,74 @@ def desenhar_texto_campo(draw, texto, config_desenho, W, H, is_num=False):
         draw_text_effects(draw, (x, y), wrapped_text, font, cor, config_desenho, is_multiline=True)
 
 
+# Projetos que usam o novo pipeline de thumbnails (gerar_thumb_v01)
+_PROJETOS_THUMB_V01 = {"hinario5", "hinos_de_ninar", "orgao_yamaha", "piano_yamaha", "coros"}
+
 def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict) -> Path:
     """
-    Renderiza o número e o nome do hino sobre a imagem base e salva como PNG.
+    Renderiza a thumbnail do hino e salva em thumbs/hino-{projeto}-NNN.png.
+
+    Roteador de pipelines: decide entre o novo sistema visual (v01) e o
+    layout legado baseado na lista _PROJETOS_THUMB_V01.
+
+    Pipeline v01 (projetos em _PROJETOS_THUMB_V01):
+      Chama gerar_thumb_v01.gerar_thumb → gera JPEG temporário →
+      converte para PNG no caminho legado. Salva cópia JPG em thumbs/v01/.
+      Layers: frame de vídeo → overlay de cor → arte-linhas → máscara do
+      canal → número → título → instrumento full-height.
+
+    Pipeline legado (demais projetos):
+      Abre a imagem base do projeto (projetos.json:imagem_base) e renderiza
+      o número e o nome do hino com PIL diretamente sobre ela.
+
+    Em ambos os casos o arquivo de saída é um PNG em thumbs/ que será usado
+    por gerar_frame_video() para criar o vídeo estático de abertura.
+
+    Args:
+        numero:      Número do hino (inteiro ou string com prefixo C para coros).
+        nome:        Nome do hino.
+        projeto_nome: Chave do projeto (ex: "hinario5", "orgao_yamaha").
+        projeto_cfg: Dicionário de configuração do projeto (do projetos.json).
+
+    Returns:
+        Path do arquivo PNG salvo em thumbs/.
+
+    Raises:
+        FileNotFoundError: Se a imagem base (pipeline legado) não for encontrada.
     """
+    THUMBS_DIR.mkdir(exist_ok=True)
+    num_formatted = formatar_numero_completo(numero)
+    thumb_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_formatted}.png"
+
+    # ── Novo pipeline (hinario5) ──────────────────────────────────────────────
+    if projeto_nome in _PROJETOS_THUMB_V01 and _THUMB_V01_DISPONIVEL:
+        # Salva JPG em thumbs/v01/ e depois copia como PNG para o caminho esperado
+        v01_dir = THUMBS_DIR / "v01"
+        v01_dir.mkdir(parents=True, exist_ok=True)
+        v01_path = v01_dir / f"thumb_v01_{num_formatted}.jpg"
+        try:
+            _gerar_thumb_v01(
+                numero_hino=int(numero),
+                titulo_hino=nome,
+                output_path=str(v01_path),
+            )
+            # Converte o JPG gerado para PNG na pasta thumbs/ (caminho legado)
+            Image.open(str(v01_path)).convert("RGB").save(str(thumb_path))
+            print(f"  Thumbnail v01 salva em: thumbs/v01/thumb_v01_{num_formatted}.jpg")
+            return thumb_path
+        except Exception as e:
+            print(f"  [aviso] Erro no pipeline v01, usando legado: {e}")
+            # Fallthrough para o pipeline legado
+
+    # ── Pipeline legado (todos os outros projetos) ────────────────────────────
     imagem_base_path = ROOT / projeto_cfg.get("imagem_base", "images/sem-numero.png")
     if not imagem_base_path.exists():
         raise FileNotFoundError(f"Imagem base não encontrada: {imagem_base_path}")
-        
+
     img = Image.open(imagem_base_path).convert("RGBA")
     draw = ImageDraw.Draw(img)
     W, H = img.size
-    
+
     desenho_num = projeto_cfg.get("desenho", {}).get("numero", {})
     num_str = str(numero).strip()
     if num_str.upper().startswith("C") and num_str[1:].isdigit():
@@ -729,22 +793,34 @@ def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg:
     else:
         texto_numero = str(numero)
     desenhar_texto_campo(draw, texto_numero, desenho_num, W, H, is_num=True)
-    
-    # 2. Desenhar o nome do hino
+
     desenho_nome = projeto_cfg.get("desenho", {}).get("nome", {})
     desenhar_texto_campo(draw, nome, desenho_nome, W, H, is_num=False)
-    
-    # --- Salvar thumbnail para o YouTube em thumbs/ --------------------------
-    THUMBS_DIR.mkdir(exist_ok=True)
-    num_formatted = formatar_numero_completo(numero)
-    thumb_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_formatted}.png"
+
     img.convert("RGB").save(str(thumb_path))
     return thumb_path
 
 
 def gerar_frame_video(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict, duracao: int = FRAME_DURATION) -> Path:
     """
-    Renderiza a imagem base e cria um arquivo MP4 temporário estático.
+    Gera o frame estático de abertura do vídeo (número/nome do hino em loop).
+
+    Fluxo:
+      1. Chama gerar_thumbnail_hino() para renderizar e salvar a thumbnail.
+      2. Usa ffmpeg para criar um vídeo MP4 estático a partir da thumbnail,
+         com a duração configurada em FRAME_DURATION (padrão 5 segundos).
+      3. O MP4 temporário é salvo em output/_frame_{projeto}_{numero}.mp4
+         e será concatenado com os clipes de fundo pelo pipeline principal.
+
+    Args:
+        numero:      Número do hino.
+        nome:        Nome do hino.
+        projeto_nome: Chave do projeto.
+        projeto_cfg: Configurações do projeto.
+        duracao:     Duração em segundos do frame estático (padrão: FRAME_DURATION).
+
+    Returns:
+        Path do arquivo MP4 temporário gerado em output/.
     """
     thumb_path = gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
     num_formatted = formatar_numero_completo(numero)

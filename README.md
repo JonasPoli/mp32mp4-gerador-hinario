@@ -1,291 +1,209 @@
-# Gerador de Vídeos — Hinário CCB
+# Hinário CCB — Gerador de Vídeos e Thumbnails
 
-Gera automaticamente um vídeo por hino a partir dos arquivos MP3, combinando vídeos de flores como fundo, com frame inicial numerado e metadados prontos para publicação no YouTube.
-
----
-
-## Instalação
-
-### 1. Dependências do sistema
-
-```bash
-# macOS
-brew install ffmpeg
-```
-
-### 2. Ambiente virtual Python (local no projeto)
-
-Crie o venv **dentro da pasta do projeto** e ative-o:
-
-```bash
-# criar o venv na pasta .venv/ (dentro do projeto)
-python3 -m venv .venv
-
-# ativar (macOS / Linux)
-source .venv/bin/activate
-
-# instalar dependências
-pip install Pillow mutagen requests tqdm
-```
-
-> O `.venv/` já está no `.gitignore` e nunca será enviado ao repositório.
-
-Para desativar o ambiente quando terminar:
-
-```bash
-deactivate
-```
-
-**Sempre que abrir um novo terminal para trabalhar no projeto, ative o venv primeiro:**
-
-```bash
-source .venv/bin/activate
-```
-
-### 3. Chaves de API para download de vídeos de fundo
-
-O sistema baixa vídeos automaticamente do Pexels e Pixabay quando o pool local se esgota. Crie as chaves gratuitamente e configure as variáveis de ambiente:
-
-```bash
-export PEXELS_API_KEY="sua_chave_aqui"
-export PIXABAY_API_KEY="sua_chave_aqui"
-```
-
-Coloque essas linhas no seu `~/.zshrc` para não precisar repetir.
+Pipeline automatizado para geração de vídeos e thumbnails para o **Hinário 5 da Congregação Cristã no Brasil** no YouTube.
 
 ---
 
-## Uso
+## Projetos Suportados
 
-### Gerar todos os vídeos
+| Chave | Nome exibido | Instrumento |
+|-------|-------------|-------------|
+| `hinario5` | Teclado Yamaha PSR | Teclado |
+| `hinos_de_ninar` | Hinos de Ninar | Caixinha de música |
+| `orgao_yamaha` | Hinos em Orgão Yamaha | Órgão |
+| `piano_yamaha` | Hinos em Piano Yamaha | Piano |
+| `coros` | Coros Hinário 5 | Teclado |
+| `hinario4` | Teclado Yamaha PSR (H4) | Teclado |
 
-Roda pela primeira vez, gera tudo do zero:
+---
+
+## Scripts
+
+### `gerar_videos.py` — Pipeline principal de vídeos
+Gera os vídeos completos de cada hino:
+1. Seleciona clipes de vídeo de fundo (natureza/flores)
+2. Gera o frame inicial com o número e nome do hino (**thumbnail**)
+3. Monta a sequência: frame estático → transição blur → clipes de fundo
+4. Mixa o áudio MP3 com o vídeo de fundo
+5. Salva o MP4 final em `output/`
+6. Registra o progresso no banco SQLite (`progresso.db`)
 
 ```bash
+# Gera todos os hinos pendentes:
 python gerar_videos.py
-```
 
-O script:
-1. Lê todos os MP3s da pasta `mp3/`
-2. Busca vídeos de fundo em `videos_flores/` e `Photos-1-001/`
-3. Baixa mais vídeos automaticamente se o pool acabar
-4. Gera cada vídeo em `output/`
-5. Atualiza `videos_gerados.md` com os metadados para YouTube
+# Gera apenas um hino:
+python gerar_videos.py --apenas 290
 
----
-
-### Continuar de onde parou
-
-Se o processo foi interrompido (queda de energia, `Ctrl+C`, erro), basta rodar o mesmo comando novamente:
-
-```bash
-python gerar_videos.py
-```
-
-O banco `progresso.db` registra o status de cada hino (`pendente`, `processando`, `concluido`, `erro`). O script pula automaticamente tudo que já está `concluido` e retoma os `pendente`.
-
-> Hinos que ficaram presos em `processando` (interrupção abrupta) são tratados como `pendente` na próxima inicialização.
-
----
-
-### Gerar apenas os novos (novos MP3s adicionados)
-
-Adicione os novos arquivos MP3 à pasta `mp3/` e rode normalmente:
-
-```bash
-python gerar_videos.py
-```
-
-O script detecta automaticamente os hinos que ainda não estão no banco e os adiciona como `pendente`. Os vídeos já gerados **não são refeitos**.
-
-#### Adicionar um novo hinário completo (ex.: Hinário 5)
-
-1. Adicione o CSV com os nomes dos hinos em `fontes/hinario5_sequential.csv`
-2. Adicione os MP3s em `mp3/` (com o número do hino no nome)
-3. Rode filtrando pelo hinário:
-
-```bash
+# Especifica o projeto:
 python gerar_videos.py --hinario hinario5
+
+# Força regerar um hino já processado:
+python gerar_videos.py --resetar 290 && python gerar_videos.py --apenas 290
 ```
 
 ---
 
-### Gerar um hino específico
+### `gerar_thumb_v01.py` — Gerador de thumbnails (Pipeline v01)
+Novo pipeline visual para thumbnails. Cria imagens 1920×1080px com 7 layers:
 
-Útil para testar ou regravar um hino individualmente:
+| Layer | O que é | Como funciona |
+|-------|---------|--------------|
+| 1 | Frame de vídeo | Frame aleatório extraído de um clipe MP4 com ffmpeg |
+| 2 | Overlay de cor | Blend de cor sólida (preset) + vinheta radial nas bordas |
+| 3 | Arte de linhas | Textura artística P&B, 12% opacidade |
+| 4 | Máscara do canal | Identidade visual em PNG RGBA (moldura, logo, faixa bege) |
+| 5 | Número do hino | Fonte Montserrat Black, rotacionado +3.5°, na faixa bege |
+| 6 | Nome do hino | Caixa alta, multi-linha, rotacionado +3.5°, sombra difusa |
+| 7 | Instrumento | PNG sem fundo, altura total (1080px), canto direito |
 
 ```bash
-python gerar_videos.py --apenas 290
-```
+# Gera 10 thumbs aleatórias:
+python gerar_thumb_v01.py
 
-Isso processa **somente** o hino 290, mesmo que esteja marcado como `concluido`.
+# Hinos específicos:
+python gerar_thumb_v01.py --numero 53 328 5
+
+# Com preset de cor fixo:
+python gerar_thumb_v01.py --numero 53 --preset 2
+
+# Lista os 8 presets disponíveis:
+python gerar_thumb_v01.py --listar-presets
+```
 
 ---
 
-### Regerar um hino que já foi gerado
-
-Para forçar a regeração de um vídeo específico (ex.: o resultado ficou ruim):
+### `gerar_thumbs_batch.py` — Regeneração em lote de thumbnails
+Regenera as thumbnails de múltiplos hinos usando o pipeline v01.
+Salva em `thumbs/hino-{projeto}-NNN.png` (sobrescreve).
 
 ```bash
-python gerar_videos.py --resetar 290
-python gerar_videos.py --apenas 290
-```
+# Regenera hinos_de_ninar (todos) + orgao_yamaha (concluídos):
+python gerar_thumbs_batch.py
 
-O `--resetar` volta o status do hino para `pendente` no banco e libera os clipes que ele havia reservado.
+# Só um projeto:
+python gerar_thumbs_batch.py --projeto hinos_de_ninar
+
+# Só um hino específico:
+python gerar_thumbs_batch.py --apenas 53
+```
 
 ---
 
-### Começar a partir de um número específico
-
-Para pular os primeiros hinos e começar a partir de um número determinado:
+### `baixar_videos_flores.py` — Download de clipes de fundo
+Baixa clipes de vídeo de natureza de provedores gratuitos (Pexels, Pixabay)
+para usar como fundo nos vídeos.
 
 ```bash
-python gerar_videos.py --forcar-inicio 100
-```
-
-Processa os hinos de 100 em diante que ainda estiverem `pendente`.
-
----
-
-### Forçar download de novos vídeos de fundo antes de começar
-
-Se quiser garantir um pool grande de vídeos antes de gerar:
-
-```bash
-python gerar_videos.py --forcar-download
-```
-
-Ou baixar manualmente com mais controle:
-
-```bash
-python baixar_videos_flores.py --query "natureza" --max-pages 10
+python baixar_videos_flores.py --query flores --out videos_flores/ --per-page 40
 ```
 
 ---
 
-### Gerar sem baixar vídeos (apenas o que já tem localmente)
-
-```bash
-python gerar_videos.py --sem-download
-```
-
-Se o pool de clipes se esgotar, o script para e avisa — sem tentar acessar a internet.
+### `gerar_coletaneas.py` — Coletâneas temáticas
+Gera vídeos de coletâneas de múltiplos hinos.
 
 ---
 
-## Gerador de Coletâneas
-
-Após gerar todos os hinos individuais de um projeto, você pode agrupá-los em coletâneas (vídeos longos compilados por temas) prontas para publicação no YouTube.
-
-Para rodar o gerador de coletâneas:
-
-```bash
-python gerar_coletaneas.py --projeto hinos_de_ninar
-```
-
-Flags opcionais:
-* `--forcar`: Força a regeração das capas e a concatenação dos vídeos, mesmo que os arquivos correspondentes já existam.
-
-### Como funciona:
-1. **Definições**: O script possui 10 coletâneas temáticas pré-definidas (Ex: *Oração e Comunhão*, *Esperança e Vida Eterna*, *Louvor e Gratidão*, etc.).
-2. **Criação de Pastas**: Cada coletânea é criada dentro de uma pasta própria no diretório `output/coletaneas/` (ex: `output/coletaneas/01 - Coletânea de Oração e Comunhão/`).
-3. **Capa Personalizada (`capa.png`)**: O script usa a imagem de base do projeto (especificada no `projetos.json`) e escreve o nome da coletânea no local do número (com quebra de linha dinâmica), adicionando a lista dos hinos participantes logo abaixo.
-4. **Concatenação Lossless**: Une os vídeos individuais em um único arquivo de vídeo longo (ex: `Coletânea de Oração e Comunhão.mp4`) utilizando o concat demuxer do FFmpeg. Como todos os vídeos possuem o mesmo codec e dimensões, o merge é feito sem re-codificação, finalizando em segundos sem perda de qualidade.
-5. **Timeline e Capítulos (`capitulos.txt`)**: O script calcula dinamicamente o ponto de início (timeline) de cada hino dentro do vídeo longo, gerando um arquivo contendo a minutagem exata.
-6. **Metadados (`info.md`)**: Produz um arquivo Markdown contendo:
-   - **Título** ideal para o YouTube.
-   - **Descrição** pronta contendo as informações das coletâneas e os capítulos já formatados para o YouTube gerar a linha do tempo clicável automaticamente.
-   - **Tags** temáticas consolidadas que respeitam o limite máximo de 400 caracteres.
-
----
-
-## Painel Administrativo Web
-
-O projeto conta com um painel administrativo baseado em Flask para visualizar o progresso de geração de vídeos e gerenciar as postagens/metadados.
-
-### Como Iniciar no Terminal
-
-1. **Ative o ambiente virtual** local (instalado na raiz do projeto):
-   * Se você estiver na raiz do projeto:
-     ```bash
-     source .venv/bin/activate
-     cd admin
-     ```
-   * Se você já estiver dentro da pasta `admin/`:
-     ```bash
-     source ../.venv/bin/activate
-     ```
-2. **Instale o Flask** (caso não esteja instalado no ambiente virtual):
-   ```bash
-   pip install flask
-   ```
-3. **Execute o aplicativo**:
-   ```bash
-   python app.py
-   ```
-4. **Acesse no navegador**: [http://localhost:5000](http://localhost:5000)
-
----
-
-## Resultado
-
-| Arquivo | Descrição |
-|---|---|
-| `output/hino_001.mp4` | Vídeos gerados, um por hino |
-| `videos_gerados.md` | Títulos, descrições e tags prontos para o YouTube |
-| `progresso.db` | Banco SQLite com o estado completo do processo |
-
----
-
-## Estrutura do Projeto
+## Estrutura de Pastas
 
 ```
 hinário/
-├── mp3/                        ← coloque aqui os áudios dos hinos
-├── videos_flores/              ← vídeos de fundo (baixados automaticamente)
-│   └── _baixados.json          ← índice de downloads já feitos
-├── Photos-1-001/               ← vídeos extras para composição
-├── images/
-│   ├── sem-numero.png          ← frame base (sem número)
-│   └── com-numero.png          ← modelo de referência (não é gerado pelo script)
-├── fontes/
-│   └── hinario4_sequential.csv ← nomes dos hinos (Número, Nome)
-├── thumbs/                     ← thumbnails PNG para upload no YouTube (geradas automaticamente)
-│   ├── hino_001.png
-│   └── ...
-├── output/                     ← vídeos gerados
-├── videos_gerados.md           ← metadados para YouTube
-├── progresso.db                ← banco de controle (gerado automaticamente)
-├── baixar_videos_flores.py     ← script de download de vídeos de fundo
-├── gerar_videos.py             ← script principal ← EXECUTE ESTE
-└── README.md                   ← este arquivo
+│
+├── assets/                      ← Todos os assets visuais do projeto
+│   ├── mascaras/                ← Overlay de identidade visual
+│   │   └── mascara-do-canal.png ← Máscara principal (moldura + logo CCB)
+│   ├── texturas/                ← Texturas decorativas
+│   │   └── arte-linhas/         ← PNGs P&B para efeito clarão (12% opac)
+│   ├── imagens-base/            ← Imagens base para pipeline legado
+│   │   ├── sem-numero.png       ← Base genérica (hinario4/5/coros)
+│   │   ├── com-numero.png       ← Variante com campo de número
+│   │   ├── hinos_de_ninar.png   ← Base do projeto hinos de ninar
+│   │   ├── hinos_de_orgao.png   ← Base do projeto órgão
+│   │   └── hinos_de_piano.png   ← Base do projeto piano
+│   ├── instrumentos/            ← PNGs dos instrumentos (fundo transparente)
+│   │   ├── teclado.png
+│   │   ├── orgao.png
+│   │   ├── piano.png
+│   │   └── caixa-de-musica.png
+│   └── logos/                   ← Logos sobrepostos nas thumbnails
+│       ├── ninar.png
+│       ├── orgao.png
+│       └── piano.png
+│
+├── fontes/                      ← Dados e tipografia
+│   ├── Montserrat.ttf           ← Fonte principal (variável, weight 400-900)
+│   ├── fonts/                   ← Outras fontes
+│   ├── hinario5.csv             ← Lista de hinos (Número, Nome) — Hinário 5
+│   ├── hinario4_sequential.csv  ← Lista de hinos — Hinário 4
+│   ├── coros.csv                ← Lista de coros
+│   └── hinario04.pdf            ← PDF original do Hinário 4
+│
+├── mp3/                         ← Arquivos de áudio dos hinos
+├── videos_flores/               ← Clipes de natureza/flores (fundo dos vídeos)
+├── Photos-1-001/                ← Clipes adicionais (biblioteca local)
+├── vinheta/                     ← Vinheta de abertura (MP4)
+│
+├── thumbs/                      ← Thumbnails geradas para upload no YouTube
+│   └── v01/                     ← Versões JPG nativas do novo pipeline
+├── output/                      ← Vídeos MP4 finais
+├── hinos_txt/                   ← Letras dos hinos (TXT individuais + índice)
+│
+├── projetos.json                ← Configuração de todos os projetos
+├── progresso.db                 ← Banco SQLite com status de geração
+├── gerar_videos.py              ← Pipeline principal de vídeos
+├── gerar_thumb_v01.py           ← Gerador de thumbnails (pipeline v01)
+├── gerar_thumbs_batch.py        ← Regeneração em lote de thumbnails
+├── gerar_coletaneas.py          ← Gerador de coletâneas temáticas
+└── baixar_videos_flores.py      ← Downloader de clipes de fundo
 ```
 
 ---
 
-## Referência Rápida de Flags
+## Configuração de Projetos (`projetos.json`)
 
-| Comando | O que faz |
-|---|---|
-| `python gerar_videos.py` | Gera tudo / continua de onde parou |
-| `python gerar_videos.py --projeto hinario4` | Executa o gerador para o projeto `hinario4` |
-| `python gerar_videos.py --projeto hinario5` | Executa o gerador para o projeto `hinario5` |
-| `python gerar_videos.py --apenas 290` | Gera somente o hino 290 do projeto selecionado |
-| `python gerar_videos.py --apenas-imagem` | Gera apenas a miniatura (thumbnail) de todos os hinos do projeto selecionado, sem renderizar o vídeo |
-| `python gerar_videos.py --projeto hinario4 --apenas 5 --apenas-imagem` | Gera apenas a miniatura do hino 5 do projeto `hinario4` (excelente para testar layout de texto) |
-| `python gerar_videos.py --forcar-inicio 100` | Começa a partir do hino 100 |
-| `python gerar_videos.py --resetar 290` | Marca o hino 290 para regerar |
-| `python gerar_videos.py --resetar-todos` | Marca tudo para regerar do zero |
-| `python gerar_videos.py --forcar-download` | Baixa novos clipes antes de começar |
-| `python gerar_videos.py --sem-download` | Nunca acessa a internet |
+Cada projeto no `projetos.json` define:
 
+```json
+{
+  "nome_projeto": {
+    "nome_exibicao": "Nome que aparece no YouTube",
+    "csv_path": "fontes/hinario5.csv",
+    "mp3_dir": "mp3",
+    "imagem_base": "assets/imagens-base/sem-numero.png",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | ...",
+    "palavras_chaves": "...",
+    "descricao": "...",
+    "vinheta": "vinheta/vinheta.mp4",
+    "desenho": { ... }
+  }
+}
+```
 
-# Comandos mais usados
-cd ~/work/hinário/
-source .venv/bin/activate
-python gerar_videos.py --projeto hinos_de_ninar
+**Variáveis de template disponíveis:**
+- `<numero-do-hino>` — número do hino
+- `<nome-do-hino>` — nome do hino com acentos
+- `<nome-sem-acento>` — nome sem acentos
+- `<nome-do-projeto>` — nome de exibição do projeto
 
-# Admin
-source .venv/bin/activate
-cd admin
-python app.py
+---
+
+## Banco de Dados (`progresso.db`)
+
+SQLite com 4 tabelas:
+
+| Tabela | Função |
+|--------|--------|
+| `videos` | Status de geração por projeto+hino (`pendente`, `processando`, `concluido`, `erro`) |
+| `clipes` | Catálogo de clipes de vídeo disponíveis com contagem de usos |
+| `downloads` | Histórico de downloads de clipes |
+| `config` | Configurações gerais (ex: última query de download) |
+
+---
+
+## Dependências
+
+```bash
+pip install Pillow mutagen requests tqdm
+brew install ffmpeg
+```
