@@ -115,7 +115,7 @@ def hinos_concluidos_db(projeto_nome: str) -> list[int]:
     return [r["numero"] for r in rows]
 
 
-def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str) -> Path:
+def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str, instrumento_path: str | None = None) -> Path:
     """
     Gera uma thumbnail no novo formato para um hino e salva no caminho esperado.
 
@@ -127,20 +127,18 @@ def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str) -> Path:
     O arquivo PNG de saída sobrescreve qualquer versão anterior sem aviso.
 
     Args:
-        numero:       Número do hino (inteiro).
-        nome:         Nome do hino.
-        projeto_nome: Chave do projeto (ex: "hinos_de_ninar").
+        numero:           Número do hino (inteiro).
+        nome:             Nome do hino.
+        projeto_nome:     Chave do projeto (ex: "hinos_de_ninar").
+        instrumento_path: Caminho do PNG do instrumento definido no projeto
+                          (campo "instrumento" em projetos.json). None = aleatório.
 
     Returns:
         Path do arquivo PNG salvo em thumbs/.
-
-    Raises:
-        Exception: Propagada do gerar_thumb_v01 em caso de falha na geração.
     """
     num_fmt   = formatar_numero_completo(numero)
     dest_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_fmt}.png"
 
-    # Gera em arquivo temporário JPG (gerar_thumb_v01 salva sempre em JPEG)
     with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp:
         tmp_path = tmp.name
 
@@ -149,8 +147,8 @@ def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str) -> Path:
             numero_hino=numero,
             titulo_hino=nome,
             output_path=tmp_path,
+            instrumento_path=instrumento_path,
         )
-        # Converte JPEG → PNG e salva no destino final (sobrescreve)
         Image.open(tmp_path).convert("RGB").save(str(dest_path))
     finally:
         try:
@@ -159,6 +157,7 @@ def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str) -> Path:
             pass
 
     return dest_path
+
 
 
 def gerar_thumbs_projeto(projeto_nome: str, projeto_cfg: dict, numeros: list[int]) -> tuple[int, int]:
@@ -187,7 +186,8 @@ def gerar_thumbs_projeto(projeto_nome: str, projeto_cfg: dict, numeros: list[int
             erros += 1
             continue
         try:
-            gerar_thumb_novo(numero, nome, projeto_nome)
+            gerar_thumb_novo(numero, nome, projeto_nome, instrumento_path=projeto_cfg.get("instrumento"))
+
             num_fmt = formatar_numero_completo(numero)
             print(f"  ✓ {num_fmt}  {nome[:55]}")
             ok += 1

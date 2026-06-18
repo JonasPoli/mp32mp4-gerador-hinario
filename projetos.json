@@ -58,7 +58,7 @@
     "nome_exibicao": "Teclado Yamaha PSR",
     "csv_path": "fontes/hinario5.csv",
     "mp3_dir": "mp3",
-    "imagem_base": "assets/imagens-base/sem-numero.png",
+    "thumb_pipeline": "v01",
     "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
     "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino <numero-do-hino> instrumental",
     "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Hino<numero-do-hino> #Hinario5 #CCB",
@@ -113,7 +113,7 @@
     "nome_exibicao": "Hinos de Ninar",
     "csv_path": "fontes/hinario5.csv",
     "mp3_dir": "mp3",
-    "imagem_base": "assets/imagens-base/hinos_de_ninar.png",
+    "thumb_pipeline": "v01",
     "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
     "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, teclado yamaha psr, yamaha psr, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico, hinos evangélicos no teclado, hino <numero-do-hino> instrumental",
     "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Hino<numero-do-hino> #Hinario5 #CCB",
@@ -162,13 +162,14 @@
           ]
         }
       }
-    }
+    },
+    "instrumento": "assets/instrumentos/caixa-de-musica.png"
   },
   "coros": {
     "nome_exibicao": "Coros Hinário 5",
     "csv_path": "fontes/coros.csv",
     "mp3_dir": "mp3",
-    "imagem_base": "assets/imagens-base/sem-numero.png",
+    "thumb_pipeline": "v01",
     "titulo_template": "Coro <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
     "palavras_chaves": "coro <numero-do-hino>, coro <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb coro <numero-do-hino>, coros ccb, hinos ccb, congregação cristã no brasil, congregacao crista no brasil, coros tocados no teclado, coro no teclado, teclado yamaha psr, yamaha psr, ccb coro teclado, coro instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, música instrumental cristã, louvor instrumental, teclado evangélico, coro <numero-do-hino> instrumental",
     "descricao": "Coro <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do coro <numero-do-hino>, \"<nome-do-hino>\", tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação.\n\n🎹 Instrumento: <nome-do-projeto>\n🎵 Coro: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.\n\n#Coro<numero-do-hino> #Hinario5 #CCB",
@@ -223,7 +224,7 @@
     "nome_exibicao": "Hinos em Piano Yamaha",
     "csv_path": "fontes/hinario5.csv",
     "mp3_dir": "mp3",
-    "imagem_base": "assets/imagens-base/hinos_de_piano.png",
+    "thumb_pipeline": "v01",
     "vinheta": "vinheta/vinheta-hinario-04-v1.mp4",
     "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
     "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no piano, hino no piano, piano yamaha, yamaha piano, hinos ccb piano, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, piano evangélico, hinos evangélicos no piano, hino <numero-do-hino> instrumental",
@@ -273,13 +274,14 @@
           ]
         }
       }
-    }
+    },
+    "instrumento": "assets/instrumentos/piano.png"
   },
   "orgao_yamaha": {
     "nome_exibicao": "Hinos em Orgão Yamaha",
     "csv_path": "fontes/hinario5.csv",
     "mp3_dir": "mp3",
-    "imagem_base": "assets/imagens-base/hinos_de_orgao.png",
+    "thumb_pipeline": "v01",
     "vinheta": "vinheta/vinheta-hinario-04-v1.mp4",
     "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
     "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no orgão, hino no orgão, orgão yamaha, yamaha orgão, hinos ccb orgão, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, orgão evangélico, hinos evangélicos no orgão, hino <numero-do-hino> instrumental",
@@ -329,6 +331,7 @@
           ]
         }
       }
-    }
+    },
+    "instrumento": "assets/instrumentos/orgao.png"
   }
 }

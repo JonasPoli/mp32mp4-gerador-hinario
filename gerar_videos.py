@@ -33,9 +33,18 @@ import re
 import sqlite3
 import subprocess
 import sys
+import time
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
+
+try:
+    import psutil
+    _PSUTIL_DISPONIVEL = True
+except ImportError:
+    _PSUTIL_DISPONIVEL = False
+    print("[aviso] psutil não encontrado — monitoramento de memória desabilitado.")
+    print("         Instale com: pip install psutil")
 
 from mutagen.mp3 import MP3
 from PIL import Image, ImageDraw, ImageFont
@@ -64,6 +73,14 @@ LETRAS_DIR   = ROOT / "hinos_txt" / "letras_separadas"  # letras individuais dos
 
 FRAME_DURATION   = 5      # segundos do frame inicial com o número
 TRANSITION_SECS  = 1      # duração da transição blur entre clipes
+
+# ── Controle de recursos ──────────────────────────────────────────────────────
+# Limites para pausar automaticamente e evitar travamentos
+RAM_LIMITE_PCT   = 85     # pausa se RAM usada ultrapassar este % (0 = desabilitar)
+CPU_LIMITE_PCT   = 90     # pausa se CPU média (5s) ultrapassar este % (0 = desabilitar)
+RAM_PAUSA_S      = 30     # segundos de pausa quando sob pressão de memória
+FFMPEG_PRESET    = "fast" # preset libx264: ultrafast/superfast/veryfast/faster/fast/medium
+# 'fast' é equilibrado; troque por 'veryfast' se ainda travar
 
 # Sequência de queries de fallback para download automático
 DOWNLOAD_QUERIES = ["flores", "flowers", "natureza", "nature", "campo", "jardim", "primavera"]
@@ -212,6 +229,54 @@ def formatar_template(template: str, variables: dict) -> str:
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+def verificar_recursos(pausa_extra_s: float = 0.0):
+    """
+    Verifica uso de RAM e CPU. Se estiver sob pressão, pausa o processo
+    para evitar travamentos no sistema.
+    Também aplica uma pausa extra configurável entre hinos.
+    """
+    if pausa_extra_s > 0:
+        time.sleep(pausa_extra_s)
+
+    if not _PSUTIL_DISPONIVEL:
+        return
+
+    while True:
+        ram = psutil.virtual_memory()
+        cpu = psutil.cpu_percent(interval=2)
+        ram_pct = ram.percent
+
+        sob_pressao = False
+        motivos = []
+
+        if RAM_LIMITE_PCT > 0 and ram_pct >= RAM_LIMITE_PCT:
+            sob_pressao = True
+            motivos.append(f"RAM {ram_pct:.1f}% (limite {RAM_LIMITE_PCT}%)")
+
+        if CPU_LIMITE_PCT > 0 and cpu >= CPU_LIMITE_PCT:
+            sob_pressao = True
+            motivos.append(f"CPU {cpu:.1f}% (limite {CPU_LIMITE_PCT}%)")
+
+        if sob_pressao:
+            ram_livre_mb = ram.available / 1024 / 1024
+            print(f"  [recursos] ⚠️  Pressão detectada: {', '.join(motivos)} — "
+                  f"RAM livre: {ram_livre_mb:.0f} MB — pausando {RAM_PAUSA_S}s...")
+            time.sleep(RAM_PAUSA_S)
+        else:
+            break
+
+
+def log_recursos(prefixo: str = ""):
+    """Imprime snapshot de RAM e CPU (requer psutil)."""
+    if not _PSUTIL_DISPONIVEL:
+        return
+    ram = psutil.virtual_memory()
+    cpu = psutil.cpu_percent(interval=1)
+    ram_pct = ram.percent
+    ram_livre_mb = ram.available / 1024 / 1024
+    print(f"  {prefixo}[recursos] RAM {ram_pct:.1f}% (livre: {ram_livre_mb:.0f} MB) | CPU {cpu:.1f}%")
 
 
 def remover_acentos(texto: str) -> str:
@@ -716,23 +781,24 @@ def desenhar_texto_campo(draw, texto, config_desenho, W, H, is_num=False):
         draw_text_effects(draw, (x, y), wrapped_text, font, cor, config_desenho, is_multiline=True)
 
 
-# Projetos que usam o novo pipeline de thumbnails (gerar_thumb_v01)
-_PROJETOS_THUMB_V01 = {"hinario5", "hinos_de_ninar", "orgao_yamaha", "piano_yamaha", "coros"}
-
 def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict) -> Path:
     """
     Renderiza a thumbnail do hino e salva em thumbs/hino-{projeto}-NNN.png.
 
     Roteador de pipelines: decide entre o novo sistema visual (v01) e o
-    layout legado baseado na lista _PROJETOS_THUMB_V01.
+    layout legado com base no campo "thumb_pipeline" do projetos.json.
 
-    Pipeline v01 (projetos em _PROJETOS_THUMB_V01):
-      Chama gerar_thumb_v01.gerar_thumb → gera JPEG temporário →
-      converte para PNG no caminho legado. Salva cópia JPG em thumbs/v01/.
+    Pipeline v01 (thumb_pipeline == "v01"):
+      Chama gerar_thumb_v01.gerar_thumb → gera JPEG em thumbs/v01/ →
+      converte para PNG no caminho legado thumbs/hino-{projeto}-NNN.png.
       Layers: frame de vídeo → overlay de cor → arte-linhas → máscara do
       canal → número → título → instrumento full-height.
+      Parâmetros opcionais via projetos.json:
+        "instrumento"   : caminho fixo do PNG do instrumento (ou omitir para aleatório)
+        "thumb_preset"  : índice do preset de cor (0–7); omitir para aleatório
+        "thumb_seed"    : semente aleatória por hino (None = aleatório)
 
-    Pipeline legado (demais projetos):
+    Pipeline legado (thumb_pipeline ausente ou outro valor):
       Abre a imagem base do projeto (projetos.json:imagem_base) e renderiza
       o número e o nome do hino com PIL diretamente sobre ela.
 
@@ -740,10 +806,10 @@ def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg:
     por gerar_frame_video() para criar o vídeo estático de abertura.
 
     Args:
-        numero:      Número do hino (inteiro ou string com prefixo C para coros).
-        nome:        Nome do hino.
+        numero:       Número do hino (inteiro ou string com prefixo C para coros).
+        nome:         Nome do hino.
         projeto_nome: Chave do projeto (ex: "hinario5", "orgao_yamaha").
-        projeto_cfg: Dicionário de configuração do projeto (do projetos.json).
+        projeto_cfg:  Dicionário de configuração do projeto (do projetos.json).
 
     Returns:
         Path do arquivo PNG salvo em thumbs/.
@@ -755,19 +821,34 @@ def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg:
     num_formatted = formatar_numero_completo(numero)
     thumb_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_formatted}.png"
 
-    # ── Novo pipeline (hinario5) ──────────────────────────────────────────────
-    if projeto_nome in _PROJETOS_THUMB_V01 and _THUMB_V01_DISPONIVEL:
-        # Salva JPG em thumbs/v01/ e depois copia como PNG para o caminho esperado
+    # ── Novo pipeline v01 (controlado pelo campo thumb_pipeline no projetos.json) ──
+    usa_v01 = projeto_cfg.get("thumb_pipeline") == "v01" and _THUMB_V01_DISPONIVEL
+    if usa_v01:
         v01_dir = THUMBS_DIR / "v01"
         v01_dir.mkdir(parents=True, exist_ok=True)
         v01_path = v01_dir / f"thumb_v01_{num_formatted}.jpg"
+
+        # Converte numero para int de forma segura (ex: "C001" → mantém string p/ coros)
+        num_str = str(numero).strip()
+        if num_str.upper().startswith("C") and num_str[1:].isdigit():
+            # Coros: usa o número inteiro após o 'C'
+            numero_int = int(num_str[1:])
+        else:
+            try:
+                numero_int = int(num_str)
+            except ValueError:
+                numero_int = 0
+
         try:
             _gerar_thumb_v01(
-                numero_hino=int(numero),
+                numero_hino=numero_int,
                 titulo_hino=nome,
                 output_path=str(v01_path),
+                instrumento_path=projeto_cfg.get("instrumento"),   # None = aleatório
+                preset_idx=projeto_cfg.get("thumb_preset"),         # None = aleatório
+                seed=projeto_cfg.get("thumb_seed"),                  # None = aleatório
             )
-            # Converte o JPG gerado para PNG na pasta thumbs/ (caminho legado)
+            # Converte o JPG gerado para PNG no caminho legado (usado pelo gerar_frame_video)
             Image.open(str(v01_path)).convert("RGB").save(str(thumb_path))
             print(f"  Thumbnail v01 salva em: thumbs/v01/thumb_v01_{num_formatted}.jpg")
             return thumb_path
@@ -836,8 +917,8 @@ def gerar_frame_video(numero: int, nome: str, projeto_nome: str, projeto_cfg: di
         "-t", str(duracao),
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                "pad=1920:1080:(ow-iw)/2:(oh-ih)/2",
-        "-c:v", "libx264", "-pix_fmt", "yuv420p",
-        "-threads", "4",
+        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+        "-threads", "2",
         "-r", "30",
         str(frame_mp4),
     ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -935,8 +1016,8 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
                 "ffmpeg", "-y", "-i", caminho,
                 "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                        "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
-                "-c:v", "libx264", "-pix_fmt", "yuv420p",
-                "-threads", "4",
+                "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+                "-threads", "2",
                 "-an",
                 str(parte),
             ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -973,8 +1054,8 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     subprocess.run([
         "ffmpeg", "-y", "-i", str(video_concat),
         "-t", str(duracao_total),
-        "-c:v", "libx264", "-pix_fmt", "yuv420p",
-        "-threads", "4",
+        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+        "-threads", "2",
         str(video_cortado),
     ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     video_concat.unlink(missing_ok=True)
@@ -1006,8 +1087,8 @@ def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | 
         "ffmpeg", "-y", "-i", str(vinheta_path),
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
-        "-c:v", "libx264", "-pix_fmt", "yuv420p",
-        "-threads", "4",
+        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+        "-threads", "2",
         "-an",
         str(vinheta_v),
     ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -1080,8 +1161,8 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0",
         "-i", lista.name,
-        "-c:v", "libx264", "-pix_fmt", "yuv420p",
-        "-threads", "4",
+        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+        "-threads", "2",
         video_concat.name,
     ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
     lista.unlink(missing_ok=True)
@@ -1256,7 +1337,8 @@ def acrescentar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg
 def processar_hino(numero: int, mp3_path: Path, nome: str,
                    conn: sqlite3.Connection, sem_download: bool,
                    projeto_nome: str, projeto_cfg: dict,
-                   vinheta_path: Path | None = None):
+                   vinheta_path: Path | None = None,
+                   pausa_entre_hinos: float = 0.0):
     """Gera o vídeo completo para um único hino do projeto.
 
     Se vinheta_path for fornecida, ela será inserida antes do frame inicial.
@@ -1298,8 +1380,14 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
     )
     conn.commit()
 
+    # Verificar recursos antes de começar (pausa se RAM/CPU sob pressão)
+    verificar_recursos(pausa_extra_s=pausa_entre_hinos)
+    log_recursos("  ")
+
     vinheta_norm: Path | None = None
     vinheta_audio_norm: Path | None = None
+    # Lista de todos temporários para garantir limpeza mesmo em erro
+    _temporarios: list[Path] = []
     try:
         dur_mp3 = duracao_mp3(mp3_path)
         print(f"  Duração do MP3: {dur_mp3:.1f}s")
@@ -1314,7 +1402,9 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
 
         # 2. Frame inicial
         print("  Gerando frame inicial...")
+        verificar_recursos()
         frame_mp4 = gerar_frame_video(numero, nome, projeto_nome, projeto_cfg)
+        _temporarios.append(frame_mp4)
 
         # 3. Selecionar e compor vídeo de fundo
         print("  Selecionando clipes de fundo...")
@@ -1322,17 +1412,20 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
         print(f"  {len(clipes)} clipe(s) selecionado(s).")
 
         print("  Compondo vídeo de fundo...")
+        verificar_recursos()
         fundo_mp4 = compor_video_fundo(clipes, dur_mp3, saida)
+        _temporarios.append(fundo_mp4)
 
         # 4. Montagem final
         print("  Montando vídeo final...")
+        verificar_recursos()
         montar_video_final(frame_mp4, fundo_mp4, mp3_path, saida, dur_mp3,
                            vinheta_mp4=vinheta_norm,
                            vinheta_audio=vinheta_audio_norm)
 
         # 5. Limpeza de temporários
-        frame_mp4.unlink(missing_ok=True)
-        fundo_mp4.unlink(missing_ok=True)
+        for _tmp in _temporarios:
+            _tmp.unlink(missing_ok=True)
         if vinheta_norm:
             vinheta_norm.unlink(missing_ok=True)
         if vinheta_audio_norm:
@@ -1350,6 +1443,14 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
         print(f"  ✓ Salvo em: {saida.relative_to(ROOT)}")
 
     except Exception as e:
+        # Garantir limpeza de TODOS os temporários mesmo em caso de erro
+        for _tmp in _temporarios:
+            _tmp.unlink(missing_ok=True)
+        # Limpeza adicional de quaisquer _parte_ ou _concat_ que possam ter sobrado
+        for _glob_tmp in OUTPUT_DIR.glob(f"_*hino-{projeto_nome}-{num_formatted}*.mp4"):
+            _glob_tmp.unlink(missing_ok=True)
+        for _glob_tmp in OUTPUT_DIR.glob(f"_*_{projeto_nome}_{numero}*.mp4"):
+            _glob_tmp.unlink(missing_ok=True)
         if vinheta_norm:
             vinheta_norm.unlink(missing_ok=True)
         if vinheta_audio_norm:
@@ -1389,7 +1490,29 @@ def main():
     parser.add_argument("--vinheta", type=str, default=None, metavar="ARQUIVO",
                         help="Caminho para o vídeo de vinheta de abertura (MP4). "
                              "Tem precedência sobre o campo 'vinheta' em projetos.json.")
+    parser.add_argument("--pausa-entre-hinos", type=float, default=5.0, metavar="SEGUNDOS",
+                        help="Pausa em segundos entre cada hino para deixar o sistema respirar (padrão: 5s). "
+                             "Use 0 para desabilitar. Aumentar reduz o risco de travamento.")
+    parser.add_argument("--preset-ffmpeg", type=str, default=None,
+                        metavar="PRESET",
+                        help="Preset do libx264 (ultrafast/superfast/veryfast/faster/fast/medium). "
+                             "Padrão: 'fast'. Use 'veryfast' ou 'ultrafast' se o sistema ainda travar.")
+    parser.add_argument("--ram-limite", type=int, default=None, metavar="PERCENT",
+                        help="Pausa automática quando RAM usada ultrapassar este %% (padrão: 85). Use 0 para desabilitar.")
+    parser.add_argument("--thumbnail-apenas", action="store_true",
+                        help="Gera apenas a thumbnail do hino informado via --numero, sem tocar no banco de dados ou renderizar vídeo.")
+    parser.add_argument("--numero", type=str, metavar="NUMERO",
+                        help="Número do hino a usar com --thumbnail-apenas (ex: 53 ou C1 para coros).")
     args = parser.parse_args()
+
+    # Aplicar overrides de CLI nas constantes globais
+    global FFMPEG_PRESET, RAM_LIMITE_PCT
+    if args.preset_ffmpeg:
+        FFMPEG_PRESET = args.preset_ffmpeg
+        print(f"[config] ffmpeg preset: {FFMPEG_PRESET}")
+    if args.ram_limite is not None:
+        RAM_LIMITE_PCT = args.ram_limite
+        print(f"[config] RAM limite: {RAM_LIMITE_PCT}%")
 
     projetos = carregar_projetos()
     projeto_nome = args.projeto or args.hinario
@@ -1401,6 +1524,31 @@ def main():
         sys.exit(1)
 
     projeto_cfg = projetos[projeto_nome]
+
+    # ---- Atalho: --thumbnail-apenas --numero N --projeto P -----------------
+    if args.thumbnail_apenas:
+        if not args.numero:
+            print("ERRO: --thumbnail-apenas exige --numero.")
+            sys.exit(1)
+
+        # Converte o número
+        num_str = args.numero.strip()
+        try:
+            numero = int(num_str)
+        except ValueError:
+            numero = num_str  # coros: "C1"
+
+        # Busca o nome no CSV do projeto
+        csv_path = ROOT / projeto_cfg.get("csv_path", "fontes/hinario4_sequential.csv")
+        hinos_csv = carregar_csv(csv_path)
+        nome = hinos_csv.get(numero) or hinos_csv.get(num_str) or f"Hino {numero}"
+        nome = limpar_nome_hino(nome)
+
+        print(f"\nGerando thumbnail: [{formatar_numero_completo(numero)}] {nome} — projeto: {projeto_nome}")
+        thumb = gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
+        print(f"\n✓ Thumbnail salva em: {thumb}")
+        return
+
     conn = abrir_banco()
 
     apenas_val = args.apenas
@@ -1516,7 +1664,8 @@ def main():
             continue
 
         processar_hino(numero, mp3_path, nome, conn, args.sem_download, projeto_nome, projeto_cfg,
-                       vinheta_path=vinheta_arg)
+                       vinheta_path=vinheta_arg,
+                       pausa_entre_hinos=args.pausa_entre_hinos)
 
     conn.close()
 

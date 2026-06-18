@@ -107,6 +107,56 @@ COLETANEAS = {
         "titulo": "Coletânea da Santa Ceia",
         "hinos": [408, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425],
         "descricao_intro": "Hinos especialmente selecionados para o momento sagrado da Santa Ceia. Cada melodia convida à memória do sacrifício de Cristo e à comunhão com Deus."
+    },
+    14: {
+        "titulo": "Coletânea de Funeral e Consolação",
+        "hinos": [426, 427, 428, 429, 430, 236, 330, 335, 343, 362, 377, 380, 394],
+        "descricao_intro": "Uma seleção de hinos para momentos de luto e despedida. Melodias de esperança na ressurreição e no reencontro eterno, trazendo conforto a quem chora."
+    },
+    15: {
+        "titulo": "Coletânea de Marcha e Combate Espiritual",
+        "hinos": [179, 209, 233, 266, 275, 280, 281, 287, 288, 289, 290, 291, 294, 298, 329, 336, 398],
+        "descricao_intro": "Hinos de ânimo e firmeza espiritual. Melodias marcantes com letras de combate, vitória e caminhada avante na fé."
+    },
+    16: {
+        "titulo": "Coletânea de Graça, Perdão e Redenção",
+        "hinos": [162, 166, 188, 229, 234, 246, 253, 254, 257, 267, 269, 278, 295, 356, 384, 386],
+        "descricao_intro": "Hinos que narram a experiência pessoal da salvação. Cada melodia celebra a graça de Deus, o perdão dos pecados e a transformação operada por Cristo."
+    },
+    17: {
+        "titulo": "Coletânea de Louvor e Adoração a Deus",
+        "hinos": [147, 148, 149, 164, 170, 240, 258, 271, 272, 277, 284, 285, 306, 310, 312, 319, 325, 345, 359, 378],
+        "descricao_intro": "Uma seleção de hinos de exaltação e adoração. Melodias alegres e jubilosas para glorificar a Deus em conjunto."
+    },
+    18: {
+        "titulo": "Coletânea da Segunda Vinda e Esperança Eterna",
+        "hinos": [182, 201, 213, 214, 215, 219, 220, 222, 250, 264, 301, 302, 315, 339, 340, 341, 342, 357, 379, 381, 388, 409],
+        "descricao_intro": "Hinos sobre a gloriosa volta de Cristo, os novos céus, a ressurreição e a vida eterna. Uma seleção cheia de esperança e expectativa."
+    },
+    19: {
+        "titulo": "Coletânea de Paz, Conforto e Abrigo",
+        "hinos": [135, 189, 191, 192, 197, 208, 211, 245, 297, 349, 361, 375, 397, 402, 403],
+        "descricao_intro": "Hinos de serenidade e consolo. Para momentos em que o coração precisa de paz e a alma busca refúgio no Senhor."
+    },
+    20: {
+        "titulo": "Coletânea de Fidelidade e Perseverança",
+        "hinos": [132, 140, 176, 190, 195, 207, 231, 259, 303, 326, 337, 346, 347, 348, 350, 353, 360],
+        "descricao_intro": "Hinos de caminhada firme e fidelidade até o fim. Uma seleção para fortalecer o compromisso de nunca abandonar a fé."
+    },
+    21: {
+        "titulo": "Coletânea de Oração e Intimidade com Deus",
+        "hinos": [131, 139, 142, 169, 177, 199, 238, 282, 283, 293, 351, 355, 363, 365, 371, 376, 401],
+        "descricao_intro": "Hinos de oração, entrega e comunhão íntima com Deus. Melodias suaves e profundas para momentos de meditação e dependência do Senhor."
+    },
+    22: {
+        "titulo": "Coletânea do Amor de Deus e a Sua Palavra",
+        "hinos": [136, 146, 159, 160, 168, 178, 235, 241, 242, 249, 268, 292, 358, 384, 407],
+        "descricao_intro": "Hinos que exaltam o amor incondicional de Deus e a Sua Palavra como guia e sustento. Uma seleção repleta de ternura e profundidade teológica."
+    },
+    23: {
+        "titulo": "Coletânea da Pátria Celestial e Peregrinação",
+        "hinos": [158, 171, 333, 334, 335, 340, 342, 343, 344, 354, 388, 391, 392, 393, 394, 396],
+        "descricao_intro": "Hinos sobre a condição de peregrino neste mundo e o anseio pela pátria celestial. Melodias que elevam o olhar para Sião e para as moradas eternas preparadas por Cristo."
     }
 }
 

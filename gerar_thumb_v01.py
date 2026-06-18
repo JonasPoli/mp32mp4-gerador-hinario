@@ -380,17 +380,37 @@ def apply_fast_vignette(img: Image.Image, intensidade: float = 0.5) -> Image.Ima
 # LAYER 7 — INSTRUMENTO (canto inferior direito, altura total)
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def get_instrumento(exclude: str | None = None) -> tuple[Image.Image | None, str | None]:
+def get_instrumento(exclude: str | None = None, path: str | None = None) -> tuple[Image.Image | None, str | None]:
     """
-    Carrega um PNG de instrumento aleatório da pasta assets/instrumentos/.
+    Carrega um PNG de instrumento da pasta assets/instrumentos/.
+
+    Modo fixo (path fornecido):
+      Carrega diretamente o arquivo apontado por path. Usado quando o projeto
+      define um instrumento fixo em projetos.json (campo "instrumento").
+
+    Modo aleatório (path=None):
+      Escolhe aleatoriamente entre os PNGs disponíveis, excluindo opcionalmente
+      um arquivo já usado (para evitar repetir o mesmo instrumento em duas posições).
 
     Args:
-        exclude: Nome de arquivo a excluir da seleção (ex: "piano.png"),
-                 para evitar repetir o mesmo instrumento em duas posições.
+        exclude: Nome de arquivo a excluir da seleção aleatória.
+        path:    Caminho fixo para um instrumento específico (relativo a BASE_DIR
+                 ou absoluto). Quando fornecido, ignora INSTRUMENTOS_DIR e exclude.
 
     Returns:
-        Tupla (imagem_RGBA, nome_do_arquivo) ou (None, None) se não houver PNGs.
+        Tupla (imagem_RGBA, nome_do_arquivo) ou (None, None) se não encontrado.
     """
+    if path:
+        # Modo fixo: carrega o instrumento definido pelo projeto
+        instr_path = Path(path) if Path(path).is_absolute() else BASE_DIR / path
+        if instr_path.exists():
+            print(f"  Instrumento: {instr_path.name} (fixo)")
+            return Image.open(instr_path).convert("RGBA"), instr_path.name
+        else:
+            print(f"  AVISO: instrumento não encontrado: {instr_path}")
+            return None, None
+
+    # Modo aleatório
     instrumentos = [
         f for f in INSTRUMENTOS_DIR.iterdir()
         if f.suffix.lower() == ".png" and not f.name.startswith("._")
@@ -400,7 +420,7 @@ def get_instrumento(exclude: str | None = None) -> tuple[Image.Image | None, str
     if exclude is not None and len(instrumentos) > 1:
         instrumentos = [f for f in instrumentos if f.name != exclude]
     escolha = random.choice(instrumentos)
-    print(f"  Instrumento: {escolha.name}")
+    print(f"  Instrumento: {escolha.name} (aleatório)")
     return Image.open(escolha).convert("RGBA"), escolha.name
 
 
@@ -664,14 +684,14 @@ def draw_titulo(img: Image.Image, titulo_hino: str, preset: dict):
       5. Rotaciona +3.5° e cola na imagem.
 
     SOMBRAS:
-      - Difusa: cor #3A4A2D, offset 10px, alpha 200/255, blur raio 10
-        → profundidade e legibilidade sobre o fundo variável
-      - Sharp: cor preta, offset 3px, alpha 130/255
+      - Difusa: creme claro #FBF4D9, offset 10px, alpha 200/255, blur raio 10
+        → clarão suave que realça o texto escuro
+      - Sharp: branco, offset 3px, alpha 130/255
         → nítidez e definição das bordas dos caracteres
 
     CORES:
-      - Linhas pares  (0, 2, ...): preset["titulo_cor"]   (geralmente creme)
-      - Linhas ímpares (1, 3, ...): preset["titulo_acento"] (geralmente dourado)
+      - Linhas pares  (0, 2, ...): verde floresta escuro #3A4A2D
+      - Linhas ímpares (1, 3, ...): verde oliva médio #485B46
 
     Args:
         img:         Imagem PIL RGB de destino (modificada in-place).
@@ -712,8 +732,17 @@ def draw_titulo(img: Image.Image, titulo_hino: str, preset: dict):
     canvas_w = total_w + pad * 2
     canvas_h = total_h + pad * 2
 
-    # ── Sombra difusa #3A4A2D (render separado + blur) ──────────────────────
-    SOMBRA_COR = (58, 74, 45)  # #3A4A2D — verde floresta escuro
+    # ── Sombra halo amplo creme (muito suave, grande, translúcida) ───────────
+    SOMBRA_COR = (251, 244, 217)  # #FBF4D9 — creme claro
+    halo_canvas = Image.new("RGBA", (canvas_w, canvas_h), (0, 0, 0, 0))
+    hdraw = ImageDraw.Draw(halo_canvas)
+    cy_off = pad
+    for linha in linhas:
+        hdraw.text((pad + 18, cy_off + 18), linha, font=font, fill=(*SOMBRA_COR, 90))
+        cy_off += linha_h
+    halo_canvas = halo_canvas.filter(ImageFilter.GaussianBlur(radius=28))
+
+    # ── Sombra difusa creme claro #FBF4D9 (render separado + blur) ──────────
     sombra_canvas = Image.new("RGBA", (canvas_w, canvas_h), (0, 0, 0, 0))
     sdraw = ImageDraw.Draw(sombra_canvas)
     cy_off = pad
@@ -722,17 +751,22 @@ def draw_titulo(img: Image.Image, titulo_hino: str, preset: dict):
         cy_off += linha_h
     sombra_canvas = sombra_canvas.filter(ImageFilter.GaussianBlur(radius=10))
 
-    # ── Canvas principal: sombra difusa + sombra sharp + texto ──────────────
-    canvas = Image.alpha_composite(Image.new("RGBA", (canvas_w, canvas_h), (0, 0, 0, 0)), sombra_canvas)
+    # ── Canvas principal: halo + sombra difusa + sombra sharp + texto ────────
+    canvas = Image.alpha_composite(Image.new("RGBA", (canvas_w, canvas_h), (0, 0, 0, 0)), halo_canvas)
+    canvas = Image.alpha_composite(canvas, sombra_canvas)
     cdraw = ImageDraw.Draw(canvas)
+
+    # Cores escuras do texto: verde floresta (par) e verde oliva (ímpar)
+    COR_PAR    = (58,  74,  45)   # #3A4A2D — verde floresta escuro
+    COR_IMPAR  = (72,  91,  70)   # #485B46  — verde oliva médio
 
     cy_off = pad
     for i, linha in enumerate(linhas):
-        # Alterna entre cor base e cor de acento do preset
-        cor = preset["titulo_cor"] if i % 2 == 0 else preset["titulo_acento"]
-        # Sombra sharp pequena (definição das bordas)
-        cdraw.text((pad + 3, cy_off + 3), linha, font=font, fill=(0, 0, 0, 130))
-        # Texto principal
+        # Alterna entre as duas cores escuras
+        cor = COR_PAR if i % 2 == 0 else COR_IMPAR
+        # Sombra sharp pequena clara (branco, definição das bordas)
+        cdraw.text((pad + 3, cy_off + 3), linha, font=font, fill=(255, 255, 255, 130))
+        # Texto principal escuro
         cdraw.text((pad, cy_off), linha, font=font, fill=(*cor, 255))
         cy_off += linha_h
 
@@ -762,7 +796,8 @@ def gerar_thumb(
     titulo_hino: str,
     output_path: str | Path,
     seed: int | None = None,
-    preset_idx: int | None = None
+    preset_idx: int | None = None,
+    instrumento_path: str | None = None,
 ) -> Image.Image:
     """
     Executa o pipeline completo de geração de thumbnail para um hino.
@@ -772,13 +807,16 @@ def gerar_thumb(
     scripts (ex: gerar_thumbs_batch.py, gerar_videos.py).
 
     Args:
-        numero_hino: Número do hino (inteiro, ex: 53).
-        titulo_hino: Nome completo do hino (ex: "Nós somos luz do mundo").
-        output_path: Caminho de saída para o arquivo JPEG.
-        seed:        Semente aleatória para resultados determinísticos.
-                     None = aleatório a cada execução.
-        preset_idx:  Índice fixo do preset de cor (0–7).
-                     None = preset aleatório.
+        numero_hino:     Número do hino (inteiro, ex: 53).
+        titulo_hino:     Nome completo do hino (ex: "Nós somos luz do mundo").
+        output_path:     Caminho de saída para o arquivo JPEG.
+        seed:            Semente aleatória para resultados determinísticos.
+                         None = aleatório a cada execução.
+        preset_idx:      Índice fixo do preset de cor (0–7).
+                         None = preset aleatório.
+        instrumento_path: Caminho para o PNG do instrumento a usar (relativo
+                         a BASE_DIR ou absoluto). Quando None, escolhe
+                         aleatoriamente de assets/instrumentos/.
 
     Returns:
         Objeto Image PIL com a thumbnail final (também salva em output_path).
@@ -823,8 +861,10 @@ def gerar_thumb(
     # ── LAYER 6: Nome do hino abaixo da faixa ────────────────────────────────
     draw_titulo(resultado, titulo_hino, preset)
 
-    # ── LAYER 7: Instrumento (altura total, canto direito) ───────────────────
-    instrumento, _ = get_instrumento()
+    # ── LAYER 7: Instrumento (altura total, canto direito) ────────────────
+    # Se instrumento_path foi fornecido, usa o instrumento fixo do projeto;
+    # caso contrário escolhe aleatoriamente de assets/instrumentos/.
+    instrumento, _ = get_instrumento(path=instrumento_path)
     if instrumento:
         resultado = composite_instrumento_direita(resultado, instrumento)
 
