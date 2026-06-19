@@ -28,7 +28,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).parent
 OUTPUT_DIR = ROOT / "output"
-COLETANEAS_DIR = OUTPUT_DIR / "coletaneas"
+# COLETANEAS_DIR é definido por projeto dentro de main()
 
 # Fontes padrão do sistema macOS
 FONT_PATHS = [
@@ -408,7 +408,8 @@ def main():
     hinos_nomes = carregar_csv(csv_path)
     
     print(f"Iniciando gerador de coletâneas para o projeto '{args.projeto}'...")
-    COLETANEAS_DIR.mkdir(parents=True, exist_ok=True)
+    coletaneas_dir = OUTPUT_DIR / "coletaneas" / args.projeto
+    coletaneas_dir.mkdir(parents=True, exist_ok=True)
     
     for cid, col in COLETANEAS.items():
         titulo = col["titulo"]
@@ -416,7 +417,7 @@ def main():
         descricao_intro = col["descricao_intro"]
         
         folder_name = f"{cid:02d} - {titulo}"
-        col_dir = COLETANEAS_DIR / folder_name
+        col_dir = coletaneas_dir / folder_name
         col_dir.mkdir(parents=True, exist_ok=True)
         
         video_output = col_dir / f"{titulo}.mp4"

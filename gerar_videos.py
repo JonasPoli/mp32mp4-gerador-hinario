@@ -1525,28 +1525,41 @@ def main():
 
     projeto_cfg = projetos[projeto_nome]
 
-    # ---- Atalho: --thumbnail-apenas --numero N --projeto P -----------------
+    # ---- Atalho: --thumbnail-apenas [--numero N] --projeto P ---------------
     if args.thumbnail_apenas:
-        if not args.numero:
-            print("ERRO: --thumbnail-apenas exige --numero.")
-            sys.exit(1)
-
-        # Converte o número
-        num_str = args.numero.strip()
-        try:
-            numero = int(num_str)
-        except ValueError:
-            numero = num_str  # coros: "C1"
-
-        # Busca o nome no CSV do projeto
         csv_path = ROOT / projeto_cfg.get("csv_path", "fontes/hinario4_sequential.csv")
         hinos_csv = carregar_csv(csv_path)
-        nome = hinos_csv.get(numero) or hinos_csv.get(num_str) or f"Hino {numero}"
-        nome = limpar_nome_hino(nome)
 
-        print(f"\nGerando thumbnail: [{formatar_numero_completo(numero)}] {nome} — projeto: {projeto_nome}")
-        thumb = gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
-        print(f"\n✓ Thumbnail salva em: {thumb}")
+        if args.numero:
+            # Modo hino único
+            num_str = args.numero.strip()
+            try:
+                numero = int(num_str)
+            except ValueError:
+                numero = num_str  # coros: "C1"
+
+            nome = hinos_csv.get(numero) or hinos_csv.get(num_str) or f"Hino {numero}"
+            nome = limpar_nome_hino(nome)
+            print(f"\nGerando thumbnail: [{formatar_numero_completo(numero)}] {nome} — projeto: {projeto_nome}")
+            thumb = gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
+            print(f"\n✓ Thumbnail salva em: {thumb}")
+        else:
+            # Modo completo: todos os hinos do CSV do projeto
+            total = len(hinos_csv)
+            print(f"\nGerando {total} thumbnails para o projeto '{projeto_nome}'...\n")
+            erros = 0
+            for i, (numero, nome_raw) in enumerate(hinos_csv.items(), 1):
+                nome = limpar_nome_hino(nome_raw)
+                print(f"[{i}/{total}] {formatar_numero_completo(numero)} — {nome}")
+                try:
+                    gerar_thumbnail_hino(numero, nome, projeto_nome, projeto_cfg)
+                except Exception as e:
+                    print(f"  ✗ ERRO: {e}")
+                    erros += 1
+            print(f"\n{'='*50}")
+            print(f"✓ {total - erros}/{total} thumbnails geradas para '{projeto_nome}'.")
+            if erros:
+                print(f"✗ {erros} erro(s).")
         return
 
     conn = abrir_banco()

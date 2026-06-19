@@ -10291,3 +10291,16326 @@ hino 187, hino 187 ccb, O que hoje é mistério para os santos..., o que hoje e 
 
 ---
 
+# 188
+
+## Título para o vídeo
+Hino 188 - O Mestre habita em mim | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 188 - O Mestre habita em mim
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 188, “O Mestre habita em mim”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 188
+📖 Hinário: Hinário 5
+🎶 Título: O Mestre habita em mim
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Conversão gloriosa operou-se em meu ser,
+Pois Cristo habita em mim;
+Sinto paz que outrora não pude haver,
+O Mestre habita em mim.
+
+Com Cristo em meu coração
+Eu sinto real salvação.
+Venturoso, aguardo a glória de Deus,
+Pois Cristo me leva aos céus.
+
+2. Separado da tenda do mal eu estou,
+Pois Cristo habita em mim;
+Dos pecados passados Deus me perdoou,
+O Mestre habita em mim.
+
+3. Findarei os meus dias na graça de Deus,
+Pois Cristo habita em mim;
+Sentirei Sua paz, pois irei para os céus;
+O Mestre habita em mim.
+
+#Hino188 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 188, hino 188 ccb, O Mestre habita em mim, o mestre habita em mim, Hinário 5, hinario 188, ccb hino 188, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 189
+
+## Título para o vídeo
+Hino 189 - Oh! Que preciosa paz | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 189 - Oh! Que preciosa paz
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 189, “Oh! Que preciosa paz”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 189
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Que preciosa paz
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Que preciosa paz provém
+De Jesus, o Salvador!
+Os fiéis desfrutam desse bem:
+Paz de Deus, o Criador.
+
+Coro:
+Oh! Que paz preciosa
+É a paz de Deus!
+Dádiva gloriosa
+Que somente vem dos céus!
+
+2. Para essa paz Deus nos chamou,
+Por Jesus, o Emanuel;
+Abundantemente a derramou
+Sobre o justo e fiel.
+
+3. Só a paz de Deus protegerá
+Nossa mente e coração;
+E de transgredir nos livrará,
+Vindo a nós a tentação.
+
+#Hino189 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 189, hino 189 ccb, Oh! Que preciosa paz, oh! que preciosa paz, Hinário 5, hinario 189, ccb hino 189, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 190
+
+## Título para o vídeo
+Hino 190 - Mantendo nossa vida consagrada ao Senhor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 190 - Mantendo nossa vida consagrada ao Senhor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 190, “Mantendo nossa vida consagrada ao Senhor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 190
+📖 Hinário: Hinário 5
+🎶 Título: Mantendo nossa vida consagrada ao Senhor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Mantendo nossa vida consagrada ao Senhor,
+Do céu virão as bênçãos, pois fiel é o Criador;
+A graça retenhamos, sem jamais esmorecer;
+Jesus venceu o mundo e nos fará prevalecer.
+
+Coro:
+Amados, não temamos
+Na marcha para os céus;
+A Cristo obedeçamos,
+Pois nos leva para Deus.
+
+2. Na fé, fortalecidos, revestidos de poder
+Seremos pelo Mestre, que nos dá o Seu saber;
+Avante, esforcemo-nos em obras divinais;
+O prêmio é vida eterna nas moradas celestiais.
+
+3. Lembremo-nos de todos os conselhos que nos
+deu
+Jesus, o Verdadeiro, que a glória prometeu;
+Avante, com propósito em nosso coração
+De sempre a Deus servir e assim chegar à
+perfeição.
+
+#Hino190 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 190, hino 190 ccb, Mantendo nossa vida consagrada ao Senhor..., mantendo nossa vida consagrada ao senhor..., Hinário 5, hinario 190, ccb hino 190, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 191
+
+## Título para o vídeo
+Hino 191 - Vem, vem consolar-me | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 191 - Vem, vem consolar-me
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 191, “Vem, vem consolar-me”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 191
+📖 Hinário: Hinário 5
+🎶 Título: Vem, vem consolar-me
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Em Ti, Senhor, abrigado,
+Terei força na provação;
+Também serei consolado
+Na hora da aflição.
+
+Vem, vem consolar-me
+Pai celestial, com Teu amor;
+Confio em Ti, ó Deus Criador,
+Poderoso e fiel Senhor.
+
+2. Ó Deus eterno, enviaste,
+Por Cristo veraz salvação;
+Minh'alma justificaste,
+Me concedeste perdão.
+
+3. Por Ti, ó Deus, eu existo,
+Caminho Contigo por fé;
+A paz que sinto de Cristo
+Do Teu amor, fruto é.
+
+#Hino191 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 191, hino 191 ccb, Vem, vem consolar-me, vem, vem consolar-me, Hinário 5, hinario 191, ccb hino 191, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 192
+
+## Título para o vídeo
+Hino 192 - Quão fiel promessa Jesus nos fez | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 192 - Quão fiel promessa Jesus nos fez
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 192, “Quão fiel promessa Jesus nos fez”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 192
+📖 Hinário: Hinário 5
+🎶 Título: Quão fiel promessa Jesus nos fez
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus, o Senhor, preparou
+O lugar aos filhos de Deus;
+No eterno lar onde Ele entrou
+Fará entrar os santos Seus.
+
+Quão fiel promessa Jesus nos fez:
+“Convosco sempre estarei";
+Brevemente em nuvens retornará,
+O nosso grande Rei.
+
+2. Jesus, órfãos não nos deixou;
+Enviou o Consolador;
+Por imenso amor, nos abençoou
+Com vida eterna e esplendor.
+
+3. Quão doce é saber que Jesus
+Nos deu fé, a fim de andar
+Pela Sua senda de paz e luz,
+Até o breve Seu voltar.
+
+#Hino192 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 192, hino 192 ccb, Quão fiel promessa Jesus nos fez, quao fiel promessa jesus nos fez, Hinário 5, hinario 192, ccb hino 192, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 193
+
+## Título para o vídeo
+Hino 193 - Sigo de perto meu grande Mestre... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 193 - Sigo de perto meu grande Mestre...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 193, “Sigo de perto meu grande Mestre...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 193
+📖 Hinário: Hinário 5
+🎶 Título: Sigo de perto meu grande Mestre...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Apascentado por Jesus Cristo
+Nada jamais me faltará;
+De confiança eu me revisto,
+O meu Pastor não falhará.
+
+Coro:
+Sigo de perto meu grande Mestre,
+Nada jamais me faltará;
+No Seu aprisco santo e celeste
+Todo o fiel protegido está.
+
+2. Passo a passo, por fé prossigo
+Rumo à pátria celestial;
+Na tempestade tenho abrigo;
+Tenho socorro divinal.
+
+3. Eu vou vencendo de dia em dia
+As minhas provas, pela fé.
+Cristo me unge com alegria;
+Sempre presente Ele é.
+
+#Hino193 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 193, hino 193 ccb, Sigo de perto meu grande Mestre..., sigo de perto meu grande mestre..., Hinário 5, hinario 193, ccb hino 193, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 194
+
+## Título para o vídeo
+Hino 194 - "Vós chorareis e vos lamentareis" | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 194 - "Vós chorareis e vos lamentareis"
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 194, “"Vós chorareis e vos lamentareis"”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 194
+📖 Hinário: Hinário 5
+🎶 Título: "Vós chorareis e vos lamentareis"
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. "Vós, na verdade, chorareis e vos lamentareis;
+O mundo se alegrará"; disse o Reis dos reis;
+Mas eis que, muito em breve, Cristo retornará,
+E nossa alegria nunca terminará.
+
+2. Orando em nome de Jesus, Deus nos atenderá,
+Por Seus fiéis, o Redentor intercedendo está;
+Por grande amor paterno, Deus ouve as orações;
+E forças nos concede nas nossas provações.
+
+3. Nós sofreremos aflições como Jesus sofreu;
+Bom animo devemos ter, pois Cristo já venceu;
+O reino Lhe pertence na terra e nos céus;
+Com Ele reinaremos junto aos santos Seus.
+
+#Hino194 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 194, hino 194 ccb, "Vós chorareis e vos lamentareis", "vos chorareis e vos lamentareis", Hinário 5, hinario 194, ccb hino 194, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 195
+
+## Título para o vídeo
+Hino 195 - Senhor, estou disposto | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 195 - Senhor, estou disposto
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 195, “Senhor, estou disposto”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 195
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, estou disposto
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, estou disposto a sempre Te seguir;
+No teu caminho santo, terei feliz porvir;
+Quão bela é a herança que me darás nos céus,
+Desejo recebê-la, ó glorioso Deus.
+
+2. Senhor, os Teus preceitos
+Disponho-me a cumprir;
+E sigo os Teus conselhos; ao céu desejo ir;
+Unidos aos santos anjos, em glória viverei
+No Teu celeste reino com Cristo, o grande Rei.
+
+3. Senhor,a Tua face desejo contemplar
+Na glória incomparável do Teu eterno lar.
+Eu sinto a Tua graça, também o Teu vigor,
+E nada me impede de honrar-Te com fervor.
+
+#Hino195 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 195, hino 195 ccb, Senhor, estou disposto, senhor, estou disposto, Hinário 5, hinario 195, ccb hino 195, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 196
+
+## Título para o vídeo
+Hino 196 - É Jesus Cristo Quem nos convida... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 196 - É Jesus Cristo Quem nos convida...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 196, “É Jesus Cristo Quem nos convida...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 196
+📖 Hinário: Hinário 5
+🎶 Título: É Jesus Cristo Quem nos convida...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sem Deus Pai somos frágeis humanos,
+Sem Deus, não há em nós esperança;
+Neste mundo em que peregrinamos,
+Só por Ele nos vem segurança.
+
+Vamos com Cristo, que nos convida
+Ao Seu reino de glória nos céus;
+Ele nos dá poder, graça e vida,
+E as santas promessas de Deus.
+
+2. Sem Jesus Cristo não temos vida,
+Sem Jesus, santo amor não provamos;
+Ele, por graça, nos dá guarida
+Nos perigos que aqui encontramos.
+
+3. Sem o Espírito Santo não vemos,
+Sem o Espírito, andamos errantes;
+Só por Ele a palavra entendemos
+E seremos, então, triunfantes.
+
+#Hino196 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 196, hino 196 ccb, É Jesus Cristo Quem nos convida..., e jesus cristo quem nos convida..., Hinário 5, hinario 196, ccb hino 196, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 197
+
+## Título para o vídeo
+Hino 197 - Senhor, por Teu poder | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 197 - Senhor, por Teu poder
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 197, “Senhor, por Teu poder”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 197
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, por Teu poder
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, por Teu poder, vem nos conceder
+Celestial ciência, ó Criador;
+Aqui nos encontramos para aprender
+A Tua sã doutrina cheia de amor.
+
+A Tua igreja Te roga, ó Deus;
+Envia, do alto, Teu Consolador;
+Em nossos corações desperta o fervor,
+Assim caminharemos rumo aos céus.
+
+2. Os nossos corações conheces, ó Deus;
+Em comunhão Contigo estamos, Senhor;
+Tu prometeste para todos os Teus,
+O Teu divino e santo Consolador.
+
+3. Com Teus conselhos santos vem ensinar
+Teus filhos muito amados, ó Criador;
+O nosso entendimento vem renovar
+E faz-nos meditar no Teu grande amor.
+
+#Hino197 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 197, hino 197 ccb, Senhor, por Teu poder, senhor, por teu poder, Hinário 5, hinario 197, ccb hino 197, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 198
+
+## Título para o vídeo
+Hino 198 - Sempre, com fé, procuremos agradar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 198 - Sempre, com fé, procuremos agradar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 198, “Sempre, com fé, procuremos agradar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 198
+📖 Hinário: Hinário 5
+🎶 Título: Sempre, com fé, procuremos agradar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Nosso Pai celeste sabe e provê
+O que temos de mister;
+Nada deixará faltar ao que crê,
+Pois grande é Seu poder.
+
+Sempre, com fé, procuremos agradar a Deus;
+Sempre, por fé, aceitemos o que vem dos céus;
+Deus tem, por nós, o cuidado santo e paternal;
+Glória, sempiterna glória ao Deus vivo.
+Nosso Pai celestial!
+
+2. Duvidosos não devemos estar,
+Pois Deus tudo proverá;
+Caminhemos firmes, sem vacilar,
+Ajuda dos céus virá.
+
+3. Que cuidado tem das aves dos céus.
+Nosso Pai celestial!
+Muito mais terá cuidado dos Seus,
+Com Seu zelo Paternal.
+
+#Hino198 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 198, hino 198 ccb, Sempre, com fé, procuremos agradar..., sempre, com fe, procuremos agradar..., Hinário 5, hinario 198, ccb hino 198, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 199
+
+## Título para o vídeo
+Hino 199 - És minha Porção... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 199 - És minha Porção...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 199, “És minha Porção...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 199
+📖 Hinário: Hinário 5
+🎶 Título: És minha Porção...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, Tu és a minha Porção,
+Em Ti me alegrarei;
+Em Ti está minha salvação
+Senhor, meu grande Rei.
+
+És minha Porção
+És meu galardão
+Bem-aventurado sou,
+Tu És minha porção.
+
+2. Imenso e puro é Teu amor,
+Meu Salvador Jesus
+Estás em meu coração, Senhor;
+Por Ti vivo na luz.
+
+3 Sublime sorte coube a mim,
+Por Ti, ó meu Senhor,
+Pois vida eterna terei ao fim,
+No Teu reino de amor.
+
+#Hino199 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 199, hino 199 ccb, És minha Porção..., es minha porcao..., Hinário 5, hinario 199, ccb hino 199, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 200
+
+## Título para o vídeo
+Hino 200 - Mui breve Jesus retornará... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 200 - Mui breve Jesus retornará...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 200, “Mui breve Jesus retornará...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 200
+📖 Hinário: Hinário 5
+🎶 Título: Mui breve Jesus retornará...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. " Não se turbe vosso coração",
+Assim falou Jesus,
+Nosso Mestre que a Glória nos conduz,
+Pela fé no Pai celeste caminhemos pra os céus;
+Lar sublime indescritível, do bom Deus.
+
+Mui breve Jesus retornará,
+Com glória, em nuvens voltará;
+Majestoso surgirá,
+Para o céu conduzirá os Seus fiéis
+E a coroa lhes dará.
+
+2. Não temamos, ó eleitos, pois o Pai se agradou
+Em nos dar o reino que Ele preparou;
+Por bondade infinita, por afeto paternal,
+Nos concederá o premio eternal.
+
+3. Aguardemos, ó amados com real consagração,
+De Jesus a gloriosa aparição;
+Com a lâmpada acesa, Ele quer nos encontrar
+Para o reino eterno, em glória, nos levar.
+
+#Hino200 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 200, hino 200 ccb, Mui breve Jesus retornará..., mui breve jesus retornara..., Hinário 5, hinario 200, ccb hino 200, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 201
+
+## Título para o vídeo
+Hino 201 - Deus nos guarde... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 201 - Deus nos guarde...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 201, “Deus nos guarde...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 201
+📖 Hinário: Hinário 5
+🎶 Título: Deus nos guarde...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Deus nos guarde em Seu santo amor;
+O Seu Nome louvaremos,
+Onde quer que nos achemos;
+Deus nos guarde em Seu santo amor.
+
+Ao Voltar Jesus, estaremos
+Livres de qualquer condenação;
+Junto aos santos nós reinaremos;
+Que perfeita e santa união
+
+2. Deus nos guarde em santificação
+Nos perigos da jornada,
+Dentro em breve terminada;
+Deus nos guarde em santificação
+
+3. Deus nos guarde com a Sua paz,
+Para em comunhão vivermos
+E ao fim perfeitos sermos;
+Deus nos guarde com a Sua paz.
+
+#Hino201 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 201, hino 201 ccb, Deus nos guarde..., deus nos guarde..., Hinário 5, hinario 201, ccb hino 201, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 202
+
+## Título para o vídeo
+Hino 202 - Eu sinto, por fé, em meu coração... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 202 - Eu sinto, por fé, em meu coração...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 202, “Eu sinto, por fé, em meu coração...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 202
+📖 Hinário: Hinário 5
+🎶 Título: Eu sinto, por fé, em meu coração...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eu sinto por fé em meu coração
+A Tua presença, Senhor Jesus;
+Por ela eu vivo em comunhão,
+Guiado por Tua divina luz.
+
+Em Ti me alegro, Senhor,
+Tu És o fiel Salvador;
+Reinar lá no céu, onde tudo é luz,
+Contigo irei, meu Jesus.
+
+2. A Tuas promessas, ó Salvador,
+Em meu coração quero conservar;
+Por elas desfruto do Teu amor,
+Enquanto na terra peregrinar.
+
+3. Transborda de bênçãos meu coração,
+Alegre me sinto em Te louvar;
+Em prova, angústia ou aflição,
+A Tua presença vem me alegrar.
+
+#Hino202 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 202, hino 202 ccb, Eu sinto, por fé, em meu coração..., eu sinto, por fe, em meu coracao..., Hinário 5, hinario 202, ccb hino 202, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 203
+
+## Título para o vídeo
+Hino 203 - O meu vero Amigo é Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 203 - O meu vero Amigo é Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 203, “O meu vero Amigo é Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 203
+📖 Hinário: Hinário 5
+🎶 Título: O meu vero Amigo é Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus é o meu vero Amigo,
+E jamais me deixará;
+Pois quando estiver em perigo,
+Sua mão me livrará.
+
+O meu vero amigo é Jesus,
+Na senda de paz já me conduz
+Nunca outro haverá que ofereça graça tal,
+Preciosa, divinal.
+
+2. Amigo fiel e bondoso,
+Em Jesus eu encontrei;
+Em Seu doce amor, glorioso,
+Sempre me deleitarei.
+
+3. Por Cristo estou protegido
+Na angústia ou na dor;
+E, quando me sinto abatido,
+É veraz Consolador.
+
+#Hino203 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 203, hino 203 ccb, O meu vero Amigo é Jesus, o meu vero amigo e jesus, Hinário 5, hinario 203, ccb hino 203, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 204
+
+## Título para o vídeo
+Hino 204 - Só Jesus é Amigo verdadeiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 204 - Só Jesus é Amigo verdadeiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 204, “Só Jesus é Amigo verdadeiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 204
+📖 Hinário: Hinário 5
+🎶 Título: Só Jesus é Amigo verdadeiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Contarei a todos a real grandeza,
+A virtude recebida do Senhor,
+Transformou a minha vida de tristeza,
+Em alegre vida, cheia de amor.
+
+Só Jesus é Amigo verdadeiro,
+Conservar desejo Seu amor;
+Por minh'alma deu a vida no madeiro;
+Glória, glória ao Salvador!
+
+2. Eu jamais me esquecerei do amor sincero
+Que o Senhor manifestou por mim na cruz;
+No meu coração, senti-lo sempre quero,
+Pois é esse o amor que ao céu conduz.
+
+3. Não existe amor maior que o de Cristo,
+Não existe outro é amigo tão fiel;
+Um sublime amor assim jamais foi visto,
+A não ser em Jesus Cristo, Emanuel.
+
+#Hino204 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 204, hino 204 ccb, Só Jesus é Amigo verdadeiro, so jesus e amigo verdadeiro, Hinário 5, hinario 204, ccb hino 204, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 205
+
+## Título para o vídeo
+Hino 205 - Salvo por Seu poder | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 205 - Salvo por Seu poder
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 205, “Salvo por Seu poder”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 205
+📖 Hinário: Hinário 5
+🎶 Título: Salvo por Seu poder
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Fiel Amigo eu encontrei
+Em Cristo, Salvador;
+Alegremente eu cantarei
+O Seu sublime e grande amor.
+
+Salvo por Seu poder,
+Salvo por Seu amor,
+Sinto em meu coração
+A virtude do Salvador.
+
+2. Retido estava em todo o mal
+Que me escravizou;
+Mas Cristo, Amigo celestial,
+Com Seu poder me libertou.
+
+3. Bem longe estava do meu Senhor,
+Sem paz, sem salvação,
+Mas sinto agora o doce amor
+De Cristo, em meu coração.
+
+#Hino205 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 205, hino 205 ccb, Salvo por Seu poder, salvo por seu poder, Hinário 5, hinario 205, ccb hino 205, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 206
+
+## Título para o vídeo
+Hino 206 - Tu és o Amigo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 206 - Tu és o Amigo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 206, “Tu és o Amigo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 206
+📖 Hinário: Hinário 5
+🎶 Título: Tu és o Amigo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tu és o Amigo sincero e leal
+Dos que Te adoram, Senhor;
+Tu sempre os protege e os livra do mal,
+Por Tua Palavra de amor.
+
+Com Teu poder, Senhor,
+Sempre guardas
+As nossas almas no Teu grande amor,
+Ó Jesus, Redentor
+
+2. És sempre fiel, ó Jesus Salvador,
+Do céu nos trouxeste a luz;
+Sofreste, por nós, amargura e dor,
+No duro madeiro da cruz.
+
+3. Por Ti, Ó Jesus temos vida eternal,
+Também as riquezas reais,
+As quais nos darás no Teu lar celestial,
+Se formos, em tudo, leais.
+
+#Hino206 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 206, hino 206 ccb, Tu és o Amigo, tu es o amigo, Hinário 5, hinario 206, ccb hino 206, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 207
+
+## Título para o vídeo
+Hino 207 - Fortes ventos soprarão... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 207 - Fortes ventos soprarão...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 207, “Fortes ventos soprarão...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 207
+📖 Hinário: Hinário 5
+🎶 Título: Fortes ventos soprarão...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Fortes ventos soprarão
+Contra o crente em Deus;
+Temporais sobrevirão
+Aos amados Seus.
+
+Coro:
+Cristo é fiel,
+Nunca falhará;
+Ao seu servo ajudará
+E forças lhe dará.
+
+2. Incertezas surgirão
+Para te abater,
+Mas não prevalecerão,
+Vais vitória ter.
+
+3. Horas de amargor cruel
+Os remidos têm,
+Mas o Guardião fiel
+Socorrê-los vem.
+
+#Hino207 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 207, hino 207 ccb, Fortes ventos soprarão..., fortes ventos soprarao..., Hinário 5, hinario 207, ccb hino 207, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 208
+
+## Título para o vídeo
+Hino 208 - Conserva a paz, ó minha alma | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 208 - Conserva a paz, ó minha alma
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 208, “Conserva a paz, ó minha alma”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 208
+📖 Hinário: Hinário 5
+🎶 Título: Conserva a paz, ó minha alma
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Conserva a paz, tem fé, ó minha alma,
+Suporta a cruz, com paciência e fé;
+Deus te provê de confiança e calma
+O teu Senhor contigo sempre é;
+Oh! Fica em paz, pois Deus te guardará;
+O seu favor jamais te faltará.
+
+2. Conserva a paz, feliz é o teu futuro,
+Junto a Jesus, amado Salvador;
+Teu galardão no céu está seguro,
+Breve o terás das mãos do Redentor;
+Oh! Fica em paz, pois tens a salvação,
+Ao teu redor está o Guardião.
+
+3. Conserva a paz, descansa bem tranquila,
+O teu Senhor de ti cuidando está;
+Amparo tens se o teu pé vacila,
+Das mãos de Deus ninguém te tirará;
+Oh! Fica em paz e os receios teus
+Dissipará O que formou os céus.
+
+#Hino208 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 208, hino 208 ccb, Conserva a paz, ó minha alma, conserva a paz, o minha alma, Hinário 5, hinario 208, ccb hino 208, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 209
+
+## Título para o vídeo
+Hino 209 - Oh! Marchai, soldados | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 209 - Oh! Marchai, soldados
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 209, “Oh! Marchai, soldados”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 209
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Marchai, soldados
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Oh! Marchai, soldados sois de Cristo!
+Vós deveis com fé aqui marchar;
+Em justiça vós deveis andar
+Até entrardes no eterno lar.
+
+Coro:
+Oh! Marchai, com valor,
+Olhai a Cristo, o Senhor,
+Pois só d’Ele vos virá coragem
+Para avançardes com o Redentor.
+
+Oh! Marchai, soldados sois de Cristo!
+A tormenta tendes que enfrentar,
+Mas bem firmes e sem duvidar,
+Resistireis sem nunca vacilar.
+
+Oh! Marchai, soldados sois de Cristo!
+A vitória vós ireis cantar;
+As primícias do eterno lar,
+Jesus, o Salvador, vos faz provar
+
+#Hino209 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 209, hino 209 ccb, Oh! Marchai, soldados, oh! marchai, soldados, Hinário 5, hinario 209, ccb hino 209, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 210
+
+## Título para o vídeo
+Hino 210 - Quão grandes promessas fez... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 210 - Quão grandes promessas fez...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 210, “Quão grandes promessas fez...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 210
+📖 Hinário: Hinário 5
+🎶 Título: Quão grandes promessas fez...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Quão grandes promessas fez Cristo,
+nosso Redentor;
+Crendo, participarei com os santos
+no reino de amor;
+Temos em Jesus, o Rei,
+santo e eternal poder
+Para que os Seus fiéis possam
+todo mal vencer.
+
+Cristo nos promete dar vida eternal nos céus
+E galardoar, ao fim, todos os fiéis
+servos de Deus.
+Creio no meu Salvador, justo e fiel juiz.
+Ele me fará, no céu, mui ditoso e mui feliz.
+
+Modelo perfeito é, o santo e fiel Jesus;
+Vida que Imitarei, caminhando
+na senda de luz;
+Tenho, por Jesus, no céu,
+parte com o Criador
+E, em santa adoração,
+estarei com meu Senhor.
+
+#Hino210 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 210, hino 210 ccb, Quão grandes promessas fez..., quao grandes promessas fez..., Hinário 5, hinario 210, ccb hino 210, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 211
+
+## Título para o vídeo
+Hino 211 - O Senhor Jesus passava... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 211 - O Senhor Jesus passava...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 211, “O Senhor Jesus passava...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 211
+📖 Hinário: Hinário 5
+🎶 Título: O Senhor Jesus passava...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Senhor Jesus passava, com Ele ia a multidão;
+Eis que um cego, junto ao caminho,
+Esperava por compaixão;
+E, ouvindo que falavam sobre o Nome de Jesus,
+Levantou-se e foi ao bom Mestre,
+Para receber a luz.
+
+2. A Palavra virtuosa tão esperada, escutou;
+A visão lhe foi restaurada e, por fé,
+Também se salvou;
+Libertado por Jesus Cristo,
+Dava glória ao grande Deus;
+Exaltou o Mestre divino e seguiu os passos Seus.
+
+3. Jesus Cristo é o mesmo,
+Entre os fiéis também está,
+E, quem crer, verá Sua glória; Seu favor,
+Por certo, terá.
+Ele é a Luz preciosa que, dos céus, Deus enviou;
+Quem em trevas se encontrava, essa Luz iluminou.
+
+#Hino211 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 211, hino 211 ccb, O Senhor Jesus passava..., o senhor jesus passava..., Hinário 5, hinario 211, ccb hino 211, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 212
+
+## Título para o vídeo
+Hino 212 - Testemunhas verazes nós somos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 212 - Testemunhas verazes nós somos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 212, “Testemunhas verazes nós somos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 212
+📖 Hinário: Hinário 5
+🎶 Título: Testemunhas verazes nós somos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Testemunhas verazes nós somos
+Do que Cristo em nós operou:
+Seus passos agora seguimos,
+Pois Cristo Jesus nos transformou,
+Sim, Cristo nos transformou.
+
+Coro:
+Eis que as trevas já são passadas,
+Veio o dia com esplendor;
+Chegado é o reino de Deus a nós,
+O reino de luz e amor.
+
+2. Esconder não devemos ao mundo
+Nossa fé em Cristo Jesus;
+Amor celestial e profundo
+O Justo mostrou por nós na cruz,
+Sim, Cristo mostrou na cruz.
+
+3. O Evangelho da graça divina
+Sobre a terra ouvido será;
+Por Sua celeste doutrina,
+Os homens, Jesus converterá,
+Sim, Ele os converterá.
+
+#Hino212 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 212, hino 212 ccb, Testemunhas verazes nós somos, testemunhas verazes nos somos, Hinário 5, hinario 212, ccb hino 212, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 213
+
+## Título para o vídeo
+Hino 213 - Quando vier do céu | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 213 - Quando vier do céu
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 213, “Quando vier do céu”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 213
+📖 Hinário: Hinário 5
+🎶 Título: Quando vier do céu
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quando vier do céu Cristo Jesus, o Rei,
+O mundo de ilusão vencido eu terei;
+Repouso celestial e vida eternal
+Receberei de Deus, a Quem me consagrei.
+
+2. Consiste o meu viver em agradar a Deus,
+Em revestir-me aqui da vida lá dos céus;
+Unido eu estou a Cristo, que me amou;
+Com sangue Remidor pagou os erros meus.
+
+3. Bendito é o Senhor, meu Redentor Jesus,
+Que, pelo Seu amor, à glória me conduz;
+O santo Seu poder aqui me faz vencer.
+Bendito é o Senhor, que é a minha Luz.
+
+#Hino213 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 213, hino 213 ccb, Quando vier do céu, quando vier do ceu, Hinário 5, hinario 213, ccb hino 213, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 214
+
+## Título para o vídeo
+Hino 214 - Como foi para os céus, assim virá | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 214 - Como foi para os céus, assim virá
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 214, “Como foi para os céus, assim virá”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 214
+📖 Hinário: Hinário 5
+🎶 Título: Como foi para os céus, assim virá
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao subir Jesus a Deus, vieram anjos lá dos céus
+Declarando que o Mestre voltaria para os Seus;
+A resplandecente Estrela da Manhã ressurgirá,
+Que alegria o povo santo sentirá!
+
+2. Cristo voltará em nuvens quando o tempo se
+cumprir,
+Para, à glória prometida, Seus remidos conduzir;
+Bem-aventurados todos que O servem com o amor,
+A coroa lhes dará o Criador.
+
+3. A Palavra do Senhor no mundo se cumprindo
+está,
+Os sinais dos tempos mostram que Ele em breve,
+voltará;
+Oh! que glorioso "vinde" Seus eleitos ouvirão
+De Jesus, na gloriosa aparição.
+
+Como foi para os céus, assim virá
+O Senhor, com celeste esplendor;
+A promessa preciosa que Deus fez se
+cumprirá:
+Breve voltará Jesus, o Redentor
+
+#Hino214 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 214, hino 214 ccb, Como foi para os céus, assim virá, como foi para os ceus, assim vira, Hinário 5, hinario 214, ccb hino 214, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 215
+
+## Título para o vídeo
+Hino 215 - Em breve ao céu irei | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 215 - Em breve ao céu irei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 215, “Em breve ao céu irei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 215
+📖 Hinário: Hinário 5
+🎶 Título: Em breve ao céu irei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Em breve ao céu irei, e lá contemplarei
+A glória do bom Pai e a face do meu Rei;
+Oh! Quão feliz serei na pátria divinal,
+Ao receber, de Deus, vida eternal.
+
+2. Somente ao meu Jesus sempre pertencerei,
+No sangue expiador refugiar-me-ei;
+Glória sublime, Deus, por Cristo, prometeu,
+E a vida perenal ao povo Seu.
+
+3. Com todos os fiéis jubilarei nos céus
+Onde terei lugar junto do grande Deus;
+Hinos celestiais a Ele entoarei,
+Incomparável paz desfrutarei.
+
+Com meu Senhor logo estarei;
+Seu esplendor contemplarei;
+Corpo eternal receberei
+Para viver com Deus, excelso Rei.
+
+#Hino215 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 215, hino 215 ccb, Em breve ao céu irei, em breve ao ceu irei, Hinário 5, hinario 215, ccb hino 215, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 216
+
+## Título para o vídeo
+Hino 216 - Irmãos, amemos ao Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 216 - Irmãos, amemos ao Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 216, “Irmãos, amemos ao Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 216
+📖 Hinário: Hinário 5
+🎶 Título: Irmãos, amemos ao Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Irmãos, amemos o Senhor
+Pois grande é o Seu amor;
+Seu precioso sangue derramou –
+E nossas almas lavou.
+
+Com todo a nossa devoção,
+Com toda a força e fervor,
+Com toda a alma e entendimento,
+Amemos o Senhor.
+
+2. Irmão, amemos o Senhor
+Divino Ensinador,
+A perfeita fonte do saber
+Que faz na graça crescer
+.
+
+3. Irmãos, amemos o Senhor
+Autor e Consumador
+Desta fé, que dá a Salvação
+E celestial galardão.
+
+#Hino216 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 216, hino 216 ccb, Irmãos, amemos ao Senhor, irmaos, amemos ao senhor, Hinário 5, hinario 216, ccb hino 216, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 217
+
+## Título para o vídeo
+Hino 217 - Vem, Jesus, os Teus fiéis buscar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 217 - Vem, Jesus, os Teus fiéis buscar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 217, “Vem, Jesus, os Teus fiéis buscar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 217
+📖 Hinário: Hinário 5
+🎶 Título: Vem, Jesus, os Teus fiéis buscar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos, unidos, a Deus louvar
+E a Jesus, nosso Rei, cantar,
+Pelo Evangelho assegurar
+Que Cristo vai voltar.
+
+Vem, Jesus, os Teus fiéis buscar,
+Pois desejamos, um dia nos céus habitar.
+
+2. Vamos a todos testificar
+Que Deus mandou Cristo a salvar;
+E quem a Ele se entregar,
+No céu irá reinar.
+
+3. Vamos, irmãos, a Deus celebrar,
+E não cessemos de afirmar
+Que só por Cristo se pode entrar
+No céu, eterno lar.
+
+#Hino217 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 217, hino 217 ccb, Vem, Jesus, os Teus fiéis buscar..., vem, jesus, os teus fieis buscar..., Hinário 5, hinario 217, ccb hino 217, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 218
+
+## Título para o vídeo
+Hino 218 - Oh! Jubilemos, devotos de Cristo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 218 - Oh! Jubilemos, devotos de Cristo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 218, “Oh! Jubilemos, devotos de Cristo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 218
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Jubilemos, devotos de Cristo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Jubilemos, devotos de Cristo,
+E entoemos a Ele louvor;
+Ressuscitado, por muitos foi visto;
+Sobre o mal foi, na Cruz, Vencedor;
+Deus exaltou o Seu Filho benquisto,
+Que lá no céu é fiel Mediador.
+
+2. Oh! Jubilemos em Cristo, o Vivente,
+Que sobre a Cruz, por amor padeceu.
+Ele, o Forte e Onipotente,
+Todas as forças do mal abateu
+Para podermos dizer livremente:
+Nós fomos feitos herdeiros do céu.
+
+3. Oh! Jubilemos, remidos do Santo,
+Que prometeu Sua glória nos dar;
+Lá no Seu reino, com um novo canto,
+Nós poderemos a Deus exaltar;
+O regozijo será, no céu, tanto,
+Que não se pode aqui imaginar.
+
+#Hino218 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 218, hino 218 ccb, Oh! Jubilemos, devotos de Cristo, oh! jubilemos, devotos de cristo, Hinário 5, hinario 218, ccb hino 218, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 219
+
+## Título para o vídeo
+Hino 219 - Novos céus nós aguardamos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 219 - Novos céus nós aguardamos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 219, “Novos céus nós aguardamos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 219
+📖 Hinário: Hinário 5
+🎶 Título: Novos céus nós aguardamos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Novos céus nós aguardamos
+E nova terra também;
+Neles nós sempre pensamos;
+Neles está nosso bem;
+Por isso estamos servindo a Deus, o Criador;
+Sua vontade cumprindo, veremos Seu esplendor.
+
+Novos céus Deus aos Seus fiéis dará;
+Nova terra, onde a justiça está;
+Em breve volta o Rei, Cristo Jesus, Senhor;
+Firmes na graça sejamos, firmes na fé e
+No amor.
+
+2. Pelo Espírito andemos
+Dentro da lei do bom Deus;
+O coração inclinemos para as coisas dos céus;
+Do mundo toda a vaidade devemos rejeitar;
+Temos de Deus uma herdade:
+A terra que nos vai dar.
+
+#Hino219 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 219, hino 219 ccb, Novos céus nós aguardamos, novos ceus nos aguardamos, Hinário 5, hinario 219, ccb hino 219, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 220
+
+## Título para o vídeo
+Hino 220 - Cristo voltará | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 220 - Cristo voltará
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 220, “Cristo voltará”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 220
+📖 Hinário: Hinário 5
+🎶 Título: Cristo voltará
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Com poder e glória e total vitória,
+Cristo, sobre as nuvens, breve voltará;
+Oh! que grande dia! Oh! que alegria
+Para os fiéis o pranto findará.
+
+Cristo voltará, Cristo voltará
+E a Sua Igreja arrebatará;
+E então no céu a coroará
+Com a glória eterna que Ele lhe dará.
+
+2. Eis que se apressa fiel promessa
+Do Senhor Jesus, que breve há de voltar;
+Quero nesse dia, cheio de alegria,
+Juntamente aos salvos, Cristo encontrar.
+
+3. Sempre vigiando, contra o mal lutando,
+Vamos aguardar a volta do Senhor;
+O que for achado servindo ao pecado,
+Não terá lugar nas bodas de amor.
+
+#Hino220 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 220, hino 220 ccb, Cristo voltará, cristo voltara, Hinário 5, hinario 220, ccb hino 220, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 221
+
+## Título para o vídeo
+Hino 221 - Reunidos se encontravam... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 221 - Reunidos se encontravam...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 221, “Reunidos se encontravam...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 221
+📖 Hinário: Hinário 5
+🎶 Título: Reunidos se encontravam...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Reunidos se encontravam os discípulos do
+Senhor;
+Com fervor eles esperavam, de Deus,
+O Consolador.
+Eis que um som, mui de repente,
+Ecoar ouviu-se lá dos céus,
+Qual um vento veemente: Era o Espírito de Deus.
+
+2. Línguas, como de fogo, viram em si mesmo então
+pousar;
+Sobre eles se repartiram, fazendo-os a Deus
+louvar.
+Em linguagens diferentes, começaram a manifestar
+As grandezas excelentes que Deus Pai lhes fez
+provar.
+
+3. A promessa é feita a tantos quantos Deus,
+Nosso Pai, chamar;
+Com fervor todos os Seus santos
+Devem os Seus dons buscar;
+Se os homens a seus filhos, boas coisas sabem
+ofertar,
+Muito mais o Pai bendito, aos que pedem,
+Pode dar.
+
+#Hino221 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 221, hino 221 ccb, Reunidos se encontravam..., reunidos se encontravam..., Hinário 5, hinario 221, ccb hino 221, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 222
+
+## Título para o vídeo
+Hino 222 - Brevemente virá o Senhor Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 222 - Brevemente virá o Senhor Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 222, “Brevemente virá o Senhor Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 222
+📖 Hinário: Hinário 5
+🎶 Título: Brevemente virá o Senhor Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Breve voltará Jesus Cristo,
+Glorioso, com grande esplendor;
+Que alegria será para os fiéis
+Que aguardam o Seu Redentor!
+
+Brevemente virá o Senhor Jesus
+Premiar, com o Seu galardão,
+Os que fielmente aguardam
+Sua gloriosa aparição.
+
+2. Breve voltará Jesus Cristo,
+Triunfante, com rijo clamor;
+Levará os remidos, por Seu poder,
+Para o reino de paz e amor.
+
+3. Breve voltará Jesus Cristo,
+Quando, então, para nós surgirá
+Nova aurora do reino de eterna luz,
+Onde o justo resplandecerá.
+
+#Hino222 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 222, hino 222 ccb, Brevemente virá o Senhor Jesus, brevemente vira o senhor jesus, Hinário 5, hinario 222, ccb hino 222, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 223
+
+## Título para o vídeo
+Hino 223 - Muitos, por fé, aceitaram Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 223 - Muitos, por fé, aceitaram Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 223, “Muitos, por fé, aceitaram Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 223
+📖 Hinário: Hinário 5
+🎶 Título: Muitos, por fé, aceitaram Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Muitos, por fé aceitaram Jesus,
+E alcançaram salvação;
+O pecador que recebe a luz
+Tem perdão.
+
+Muitos já sentem o grande amor
+De Jesus Cristo, Amigo sem par;
+Oh! não rejeites o bom Redentor
+Que te quer salvar.
+
+2. Muitos já trilham a senda do bem;
+Sobre o mal vão triunfar;
+Deves juntar-te a eles também,
+Sem tardar.
+
+3. Muitos aguardam a vida eternal,
+Para descansar nos céus;
+Crê em Jesus, o Amigo leal;
+Crê em Deus.
+
+#Hino223 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 223, hino 223 ccb, Muitos, por fé, aceitaram Jesus, muitos, por fe, aceitaram jesus, Hinário 5, hinario 223, ccb hino 223, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 224
+
+## Título para o vídeo
+Hino 224 - Só Jesus concede paz e salvação | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 224 - Só Jesus concede paz e salvação
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 224, “Só Jesus concede paz e salvação”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 224
+📖 Hinário: Hinário 5
+🎶 Título: Só Jesus concede paz e salvação
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quem, disposto, segue ao Senhor Jesus,
+Com virtude e força leva a sua cruz;
+Tem poder divino em seu coração,
+Não será vencido pela tentação.
+
+Só Jesus concede paz e salvação,
+E, na glória eterna, grande galardão;
+Quem também deseja ir com Deus morar,
+Sente que, a Cristo, deve aceitar.
+
+2. Todos os cansados, vinde ao Senhor,
+Vinde sem demora, Ele é o Salvador;
+E dizei a Cristo, com satisfação:
+"Nós Te consagramos nosso coração"
+
+3. Com a nova vida no Senhor Jesus
+Mostrareis ao mundo que Ele é a Luz;
+Seja a vossa obra um louvor a Deus,
+E a vida eterna vós tereis nos céus.
+
+#Hino224 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 224, hino 224 ccb, Só Jesus concede paz e salvação, so jesus concede paz e salvacao, Hinário 5, hinario 224, ccb hino 224, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 225
+
+## Título para o vídeo
+Hino 225 - Senhor, com Tua voz me chamas | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 225 - Senhor, com Tua voz me chamas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 225, “Senhor, com Tua voz me chamas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 225
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, com Tua voz me chamas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Senhor, com tua voz me chamas;
+Os Teus caminhos me ensinas;
+Eu sei, Senhor, que Tu me amas
+Com Teu amor celestial.
+
+Coro:
+Oh! que voz tão preciosa
+É Tua voz, ó Criador:
+Meiga, santa e poderosa,
+Que me alegra, ó Senhor.
+
+Senhor, a Tua voz sublime
+Me traz consolo e regozijo,
+E, quando a angústia me oprime,
+É bálsamo consolador.
+
+Senhor, a Tua voz potente,
+Que faz cessar a tempestade
+E que apaga o fogo ardente,
+Me guiará até o céu.
+
+#Hino225 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 225, hino 225 ccb, Senhor, com Tua voz me chamas, senhor, com tua voz me chamas, Hinário 5, hinario 225, ccb hino 225, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 226
+
+## Título para o vídeo
+Hino 226 - É a história do Evangelho que nos fala... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 226 - É a história do Evangelho que nos fala...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 226, “É a história do Evangelho que nos fala...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 226
+📖 Hinário: Hinário 5
+🎶 Título: É a história do Evangelho que nos fala...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. É a historia do Evangelho que nos fala de Jesus,
+Que ao Pai obedeceu e veio a ser a nossa luz;
+Para dar-nos vida eterna, dura morte suportou,
+Pela glória que antevia, ao Seu Pai se humilhou.
+
+2. Transpassado com a lança foi o corpo do
+Senhor,
+Sobre a cruz foi derramado o Seu sangue Remidor;
+E, por esse sacrifício, recebemos salvação,
+O Evangelho nos declara: "Só em Cristo há perdão."
+
+3. Comovente é ouvir contar a história de Jesus;
+Quem, atento escutá-la, participará da luz;;
+Ela ensina que o castigo foi trocado por perdão,
+Glória ao divinal Cordeiro, todos os fiéis darão.
+
+Não se existe outra historia que se iguale à do
+Senhor,
+Alegria dá aos mansos e converte o pecador;
+Essa historia manifesta a Verdade e a Luz
+Que restauram nossas vidas e nos guiam a Jesus.
+
+#Hino226 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 226, hino 226 ccb, É a história do Evangelho que nos fala..., e a historia do evangelho que nos fala..., Hinário 5, hinario 226, ccb hino 226, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 227
+
+## Título para o vídeo
+Hino 227 - Procuras tu ao Salvador? | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 227 - Procuras tu ao Salvador?
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 227, “Procuras tu ao Salvador?”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 227
+📖 Hinário: Hinário 5
+🎶 Título: Procuras tu ao Salvador?
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Procuras tu ao Salvador,
+Que dá a bem-aventurança?
+Qual é a tua confiança
+Aqui no mundo enganador?
+Em Cristo tens a vida, tens a força e o favor.
+O Santo Redentor
+Será a tua Segurança.
+
+2. A Cristo vem, sem duvidar,
+Vem dar o teus primeiros passos;
+Jesus remove os embaraços,
+Perdão e vida quer te dar.
+É Cristo Quem te salva, faz de ti um vencedor.
+Deseja, o Redentor.
+Manter contigo eternos laços.
+
+3. Findando a peregrinação,
+Terás com Ele eterna vida;
+Jesus aqui te dá guarida
+E lá no céu o galardão.
+É Cristo Fonte eterna de virtude e de fé.
+Potente Ele é
+E te socorre em toda a lida.
+
+#Hino227 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 227, hino 227 ccb, Procuras tu ao Salvador?, procuras tu ao salvador?, Hinário 5, hinario 227, ccb hino 227, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 228
+
+## Título para o vídeo
+Hino 228 - Vem do céu alegre som... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 228 - Vem do céu alegre som...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 228, “Vem do céu alegre som...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 228
+📖 Hinário: Hinário 5
+🎶 Título: Vem do céu alegre som...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vem do céu alegre som: Salvação! Salvação!
+Só em Cristo há perdão. Salvação! Salvação!
+Paz e graça proclamar vão os servos do Senhor
+Pelo ar, por terra e mar. Salvação! Salvação!
+
+2. Anunciemos sem cessar: Salvação! Salvação!
+Que alegria em pensar. Salvação! Salvação!
+Só o sangue do Senhor, derramado sobre a cruz,
+Tem resgate o pecador. Salvação! Salvação!
+
+3. Do pecado e maldição, Salvo estou! Salvo estou!
+Recebi de Deus, perdão. Salvo estou! Salvo estou!
+Mesmo à hora de expirar, sentirei a salvação,
+Pois no céu vou habitar. Salvo estou! Salvo estou!
+
+#Hino228 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 228, hino 228 ccb, Vem do céu alegre som..., vem do ceu alegre som..., Hinário 5, hinario 228, ccb hino 228, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 229
+
+## Título para o vídeo
+Hino 229 - Eu vivia no pecado | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 229 - Eu vivia no pecado
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 229, “Eu vivia no pecado”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 229
+📖 Hinário: Hinário 5
+🎶 Título: Eu vivia no pecado
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eu vivia no pecado,
+Sem a paz e sem a luz,
+Quando Deus, o Pai amado,
+Revelou-me a graça de Jesus.
+
+Como poderei eu esquecer-me
+Da mercê do meu bom Criador?!
+Pois livrou-me do pecado
+Pelo Seu imenso amor.
+A celeste paz agora sinto
+Por Jesus, o meu Intercessor,
+Minha Rocha e Justiça,
+Meu fiel e forte Defensor.
+
+2. Foi Jesus, por Deus, mandado,
+Sendo o Cristo e Salvador;
+E, na cruz, vituperado,
+Consumou a obra de amor.
+
+3. Deus me libertou da morte
+Por sublime e grande amor;
+Oh! Que grandiosa sorte
+Alcancei do meu bom Criador!
+
+#Hino229 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 229, hino 229 ccb, Eu vivia no pecado, eu vivia no pecado, Hinário 5, hinario 229, ccb hino 229, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 230
+
+## Título para o vídeo
+Hino 230 - A Ti rendemos graças (Encerramento) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 230 - A Ti rendemos graças (Encerramento)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 230, “A Ti rendemos graças (Encerramento)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 230
+📖 Hinário: Hinário 5
+🎶 Título: A Ti rendemos graças (Encerramento)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A Ti rendemos graças, majestoso Criador,
+Findando este culto de louvor a Ti,
+Ó Deus Formador;
+As nossas forças foram renovadas
+Por Teu bom Consolador.
+
+2. Senhor, com Tua ajuda, desejamos atender
+A tudo o que por Tua sã Palavra nos fizeste saber,
+Pois nós queremos sobre esta terra
+Sempre mais resplandecer.
+
+3. Despede-nos em paz da Tua casa, ó Senhor,
+Levando em nossos corações
+As bênçãos do Teu grande amor;
+Agradecidos nós Te tributamos honra,
+Glória e louvor.
+
+#Hino230 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 230, hino 230 ccb, A Ti rendemos graças (Encerramento), a ti rendemos gracas (encerramento), Hinário 5, hinario 230, ccb hino 230, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 231
+
+## Título para o vídeo
+Hino 231 - Que grande amor, aleluia!... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 231 - Que grande amor, aleluia!...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 231, “Que grande amor, aleluia!...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 231
+📖 Hinário: Hinário 5
+🎶 Título: Que grande amor, aleluia!...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Provemos, irmãos, o amor do Senhor,
+Quem dele provar lutará com valor,
+Com força divina prevalecerá,
+Pois Cristo Jesus, triunfante será.
+
+Que grande amor, aleluia!
+Provamos em Cristo Jesus!
+Amor sem igual, amor divinal,
+Amor que ao céu nos conduz.
+
+2. Na hora da luta, o nosso Senhor
+Virá ajudar-nos por Seu grande amor;
+Fiéis, confiantes, marchemos aos céus;
+Rejubilaremos ao ver nosso Deus.
+
+3. O nosso inimigo não nos vencerá,
+O braço de Cristo nos auxiliará;
+Teremos vitória se, de coração,
+Ficarmos unidos ao bom Guardião.
+
+#Hino231 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 231, hino 231 ccb, Que grande amor, aleluia!..., que grande amor, aleluia!..., Hinário 5, hinario 231, ccb hino 231, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 232
+
+## Título para o vídeo
+Hino 232 - Seguro estou... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 232 - Seguro estou...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 232, “Seguro estou...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 232
+📖 Hinário: Hinário 5
+🎶 Título: Seguro estou...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Seguro estou de que Jesus me ajudará
+E, lá do céu, de força e fé me proverá;
+Se a Ele eu servir e a Sua lei cumprir,
+Bem certo estou de que Jesus me ajudará.
+
+2. Não deixará a minha fé se abalar;
+Eu seguirei ao meu Senhor sem duvidar;
+Com afeto guardarei a doutrina do meu Rei
+Que, neste mundo, orientará meu caminhar.
+
+3. Meu coração esta firmado no Senhor,
+Alicerçado nessa Rocha de amor;
+Cristo irá me receber quando,
+Em glória aparecer;
+Firmado estou no meu bendito Redentor.
+
+#Hino232 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 232, hino 232 ccb, Seguro estou..., seguro estou..., Hinário 5, hinario 232, ccb hino 232, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 233
+
+## Título para o vídeo
+Hino 233 - Vamos marchar por fé... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 233 - Vamos marchar por fé...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 233, “Vamos marchar por fé...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 233
+📖 Hinário: Hinário 5
+🎶 Título: Vamos marchar por fé...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A-vante, santos e fiéis de Deus,
+Até o fim, até vencer,
+Pois Ele as forças mandará dos céus;
+É sem limite o Seu poder.
+
+Vamos marchar por fé, vamos seguir Jesus,
+Pois à frente Ele está e à glória nos conduz;
+Junto a Deus, nos céus, o galardão sem par
+Breve iremos desfrutar.
+
+2. A-vante com celestial valor;
+Os dons de Deus não faltarão;
+Em nós se manifestará o Senhor
+Durante a peregrinação.
+
+3. Com fé em Deus e no Senhor Jesus,
+Sinais dos céus iremos ver;
+Tomando cada dia a nossa cruz,
+Sigamos Quem nos faz vencer.
+
+#Hino233 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 233, hino 233 ccb, Vamos marchar por fé..., vamos marchar por fe..., Hinário 5, hinario 233, ccb hino 233, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 234
+
+## Título para o vídeo
+Hino 234 - O meu ser entrego a Cristo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 234 - O meu ser entrego a Cristo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 234, “O meu ser entrego a Cristo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 234
+📖 Hinário: Hinário 5
+🎶 Título: O meu ser entrego a Cristo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O meu ser entrego a Cristo,
+d´Ele sempre eu serei;
+Ele é o sábio Mestre, só a Ele ouvirei.
+
+Coro:
+Cristo me salvou e me perdoou;
+O meu ser a Ele entrego, servo d´Ele sou.
+
+2. O meu ser entrego a Cristo,
+Sempre a Ele amarei;
+Cristo é o Pastor celeste, n’Ele me deleitarei.
+
+3. O meu ser entrego a Cristo,
+Perto d´Ele quero estar;
+Seu poder é infinito para, à glória, me levar.
+
+#Hino234 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 234, hino 234 ccb, O meu ser entrego a Cristo, o meu ser entrego a cristo, Hinário 5, hinario 234, ccb hino 234, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 235
+
+## Título para o vídeo
+Hino 235 - Um amor imenso | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 235 - Um amor imenso
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 235, “Um amor imenso”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 235
+📖 Hinário: Hinário 5
+🎶 Título: Um amor imenso
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Um amor imenso, santo e celestial,
+Sinto agora em Cristo, Mestre divinal;
+Deu, o Pai bendito, transformou meu ser;
+Revelou-me a graça, pelo Seu poder.
+
+2. Nada me separa do divino amor
+Que me une a Cristo, o meu Salvador;
+O fervor glorioso de servir a Deus
+Me conduz avante rumo aos céus dos céus.
+
+3. Paz e vida eterna tenho por Jesus,
+Bem-aventurança, regozijo e luz;
+Meu Tesouro é Cristo, Ele é meu Viver;
+Quero ao Mestre amado, sempre obedecer.
+
+#Hino235 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 235, hino 235 ccb, Um amor imenso, um amor imenso, Hinário 5, hinario 235, ccb hino 235, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 236
+
+## Título para o vídeo
+Hino 236 - Os santos do Senhor em terra estranha estão... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 236 - Os santos do Senhor em terra estranha estão...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 236, “Os santos do Senhor em terra estranha estão...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 236
+📖 Hinário: Hinário 5
+🎶 Título: Os santos do Senhor em terra estranha estão...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Os santos do Senhor em terra estranha estão,
+Caminham com fervor, em peregrinação;
+Estão buscando o lar de esplendor sem par,
+São coherdeiros de Jesus.
+
+Há um lugar de eterna paz
+E de consolação veraz;
+Quem se entregar a Deus,
+Quem crer no Salvador,
+Irá morar no lar de amor.
+
+2. Quem pode exprimir, quem pode explicar
+A glória do porvir, que o justo vai herdar?
+Certeza deste bem, por fé, agora têm
+Os resgatados de Jesus.
+
+3. Mandado é, dos céus, que o homem pecador
+Aceite a eterna lei de Deus, o Criador;
+Justificado, então terá o galardão
+Com os que creram em Jesus.
+
+#Hino236 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 236, hino 236 ccb, Os santos do Senhor em terra estranha estão..., os santos do senhor em terra estranha estao..., Hinário 5, hinario 236, ccb hino 236, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 237
+
+## Título para o vídeo
+Hino 237 - Do mundo já separado estou... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 237 - Do mundo já separado estou...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 237, “Do mundo já separado estou...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 237
+📖 Hinário: Hinário 5
+🎶 Título: Do mundo já separado estou...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Deus é por mim, nada tenho a temer;
+Por que hei de duvidar?
+Ele em tudo me pode valer,
+Só n`Ele vou confiar.
+
+Coro:
+Do mundo já separado estou,
+Foi Jesus Quem me separou;
+Com seu Sangue precioso me resgatou.
+
+2. Nada no mundo jamais poderá,
+Privar-me do Seu amor;
+É esse amor que me conduzirá
+Ao reino do Criador.
+
+3. Para os féis não há condenação.
+Jesus é seu Defensor;
+Sobre a Morte eles triunfarão,
+Na volta do Seu Senhor.
+
+#Hino237 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 237, hino 237 ccb, Do mundo já separado estou..., do mundo ja separado estou..., Hinário 5, hinario 237, ccb hino 237, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 238
+
+## Título para o vídeo
+Hino 238 - Teu servo ouve; fala, Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 238 - Teu servo ouve; fala, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 238, “Teu servo ouve; fala, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 238
+📖 Hinário: Hinário 5
+🎶 Título: Teu servo ouve; fala, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Para ouvir-Te, ó Criador,
+Me apresento diante de Ti;
+Tua Palavra manda, Senhor;
+Para ouvi-la, eis-me aqui.
+
+2. Ao meu desejo renunciarei
+Para servir-Te e Te agradar;
+E os preceitos da Tua lei
+Quero, contente, executar.
+
+3. Serve-Te deste meu fraco ser
+Como instrumento ao Teu louvor;
+E Te servindo, quero dizer:
+“Servo inútil sou, ó Senhor.”
+
+Teu servo ouve; fala, Senhor;
+O que requeres de mim, ó Deus?
+A voz divina, que vem dos céus,
+Teu servo ouve; fala, Senhor.
+
+#Hino238 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 238, hino 238 ccb, Teu servo ouve; fala, Senhor, teu servo ouve; fala, senhor, Hinário 5, hinario 238, ccb hino 238, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 239
+
+## Título para o vídeo
+Hino 239 - Ó Jesus, por Tua graça... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 239 - Ó Jesus, por Tua graça...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 239, “Ó Jesus, por Tua graça...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 239
+📖 Hinário: Hinário 5
+🎶 Título: Ó Jesus, por Tua graça...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eis que a noite é passada; pra mim surgiu o dia;
+De Jesus estou mais perto, oh! que alegria!
+Sempre mais eu vou crescendo
+Nas virtudes do Senhor,
+Para um dia ser perfeito no divino amor.
+
+Ó Jesus, por Tuas graça,
+Glória sempre Te darei;
+Resgatado por Teu sangue,
+Só a Ti servirei.
+
+2. Eis que a noite é passada, já surgiu a Luz divina;
+Essa Luz é Jesus Cristo, que me ilumina;
+Bem cingido de justiça e das armas do Senhor,
+Eu espero, confiante, ser um vencedor.
+
+#Hino239 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 239, hino 239 ccb, Ó Jesus, por Tua graça..., o jesus, por tua graca..., Hinário 5, hinario 239, ccb hino 239, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 240
+
+## Título para o vídeo
+Hino 240 - Não me cansarei de cantar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 240 - Não me cansarei de cantar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 240, “Não me cansarei de cantar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 240
+📖 Hinário: Hinário 5
+🎶 Título: Não me cansarei de cantar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Não me cansarei de cantar
+Louvores ao meu Criador;
+A paz que me faz exultar
+É fruto do Seu amor.
+
+Glória! Glória dou a Jesus com fervor;
+Por Ele serei vencedor;
+Oh! Glória ao meu Redentor!
+
+2. De quando Jesus me chamou,
+Não cesso de dar-Lhe louvor;
+Foi ele que me resgatou,
+Bendito é Cristo, o Senhor!
+
+3. A santa presença de Deus,
+Meu cálice faz transbordar;
+Terei regozijo nos céus:
+Glorioso, eterno, sem par.
+
+#Hino240 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 240, hino 240 ccb, Não me cansarei de cantar, nao me cansarei de cantar, Hinário 5, hinario 240, ccb hino 240, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 241
+
+## Título para o vídeo
+Hino 241 - Deus quis ao mundo manifestar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 241 - Deus quis ao mundo manifestar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 241, “Deus quis ao mundo manifestar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 241
+📖 Hinário: Hinário 5
+🎶 Título: Deus quis ao mundo manifestar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Deus quis ao mundo manifestar,
+A perfeita Caridade;
+Pelos profetas, fez anunciar
+A justiça e a Verdade.
+Essa justiça, que é Jesus
+Enviada foi ao mundo,
+Manifestando, por Sua luz,
+O amor que ao céu conduz.
+
+A Justiça divina é Jesus, o Salvador,
+Sua sã doutrina nos conduz ao Criador.
+
+2. Essa Justiça nos libertou,
+Da condenação vindoura
+Deus, por Jesus, nos predestinou
+Para a glória duradoura.
+Somos, agora, remidos Seus,
+Exaltemos o Seu Nome;
+Ele nos fez cidadãos dos céus
+E herdeiros do bom Deus.
+
+#Hino241 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 241, hino 241 ccb, Deus quis ao mundo manifestar..., deus quis ao mundo manifestar..., Hinário 5, hinario 241, ccb hino 241, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 242
+
+## Título para o vídeo
+Hino 242 - Profundo é o saber de Deus, Criador | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 242 - Profundo é o saber de Deus, Criador
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 242, “Profundo é o saber de Deus, Criador”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 242
+📖 Hinário: Hinário 5
+🎶 Título: Profundo é o saber de Deus, Criador
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Profundo é o saber de Deus, Criador,
+Saber sem igual, de grande esplendor;
+O intento de Deus ninguém pode sondar;
+Conselhos ninguém foi ao grande Deus ditar.
+
+2. Perfeito saber é só o de Deus,
+Altíssimos são os pensamentos Seus;
+Por Ele e d’Ele é tudo o que há;
+É Deus que, aos homens, sustento sempre dá.
+
+3. Sublime saber pertence a Deus,
+Ciência dos céus não negará aos Seus;
+Riquezas perpétuas só Ele é quem tem;
+A Ele a glória e - ternamente. Amém.
+
+#Hino242 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 242, hino 242 ccb, Profundo é o saber de Deus, Criador, profundo e o saber de deus, criador, Hinário 5, hinario 242, ccb hino 242, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 243
+
+## Título para o vídeo
+Hino 243 - É Jesus o nosso Intercessor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 243 - É Jesus o nosso Intercessor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 243, “É Jesus o nosso Intercessor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 243
+📖 Hinário: Hinário 5
+🎶 Título: É Jesus o nosso Intercessor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sumo Sacerdote santo, eternal,
+É Jesus, o Senhor;
+Intercede junto ao Pai celestial,
+Nosso Deus, Criador.
+
+É Jesus o nosso Intercessor
+Junto a Deus, o Formador;
+Em Seu nome, a nossa oração
+Chegará ao Criador.
+
+2. Sacerdote compassivo é o Senhor;
+Ele nos resgatou;
+É piedoso para com o transgressor,
+Pois na cruz o salvou.
+
+3. Foi tentado em tudo o Senhor Jesus,
+Resistiu com valor;
+Com Seu braço forte Ele nos conduz;
+Tem por nós grande amor.
+
+#Hino243 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 243, hino 243 ccb, É Jesus o nosso Intercessor, e jesus o nosso intercessor, Hinário 5, hinario 243, ccb hino 243, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 244
+
+## Título para o vídeo
+Hino 244 - Quando te faltam forças contra o mal... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 244 - Quando te faltam forças contra o mal...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 244, “Quando te faltam forças contra o mal...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 244
+📖 Hinário: Hinário 5
+🎶 Título: Quando te faltam forças contra o mal...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quando te faltam forças contra o mal,
+Tens o socorro dos céus;
+Cristo Jesus, Cordeiro divinal,
+É intercessor junto a Deus.
+
+Cristo intercede por ti,
+Junto a Deus, o Pai celestial;
+Cristo é o Modelo santo e perfeito,
+Cristo é o Amigo leal.
+
+2. Quando inimigo te vier tentar,
+Clama a Jesus, Redentor;
+Forças, por certo, Ele irá te dar
+E te fará vencedor.
+
+3. Quando estiveres em tribulação,
+Clama ao Filho de Deus,
+E certamente te socorrerão
+Anjos mandados dos céus.
+
+#Hino244 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 244, hino 244 ccb, Quando te faltam forças contra o mal..., quando te faltam forcas contra o mal..., Hinário 5, hinario 244, ccb hino 244, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 245
+
+## Título para o vídeo
+Hino 245 - Não pode entender o mundo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 245 - Não pode entender o mundo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 245, “Não pode entender o mundo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 245
+📖 Hinário: Hinário 5
+🎶 Título: Não pode entender o mundo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Não pode entender o mundo
+Quão alegre é o meu viver;
+Mas, de Cristo, o amor profundo
+Sentirá quem n’Ele crer.
+
+Mesmo quando em aflição, sinto a paz de Deus;
+Cristo ao meu coração, bênçãos traz dos céus;
+Se com Ele, aqui viver tão glorioso é,
+Quão Glorioso então será, se permanecer na
+fé?!
+
+2. Eu me sinto mui ditoso,
+Pela graça do bom Deus;
+Meu futuro é mui glorioso,
+Pois espero ir aos céus.
+
+3. O meu ser foi transformado
+Pela obra do Senhor
+Dia a dia mais chegado
+Eu estou, ao lar de amor.
+
+#Hino245 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 245, hino 245 ccb, Não pode entender o mundo, nao pode entender o mundo, Hinário 5, hinario 245, ccb hino 245, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 246
+
+## Título para o vídeo
+Hino 246 - Resgatados fomos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 246 - Resgatados fomos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 246, “Resgatados fomos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 246
+📖 Hinário: Hinário 5
+🎶 Título: Resgatados fomos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Irmãos, já resgatados no sangue de Jesus,
+Agora iluminados, mostremos, Sua luz;
+Do mundo, separados, o Mestre nos conduz.
+
+Resgatados fomos,
+Perdoados somos;
+Salvos nós seremos,
+Sendo a Deus fiéis.
+
+2. Com todo o povo eleito servimos ao Senhor;
+Herdeiros nos tem feito do reino de esplendor,
+Eterno e perfeito, um reino de amor-.
+
+3. No número dos santos estamos, por Jesus,
+E, com vestidos brancos, honramos Sua luz;
+Cobertos com Seu manto, o mal não nos seduz-.
+
+#Hino246 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 246, hino 246 ccb, Resgatados fomos..., resgatados fomos..., Hinário 5, hinario 246, ccb hino 246, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 247
+
+## Título para o vídeo
+Hino 247 - Só em Cristo confia, seja noite ou dia... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 247 - Só em Cristo confia, seja noite ou dia...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 247, “Só em Cristo confia, seja noite ou dia...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 247
+📖 Hinário: Hinário 5
+🎶 Título: Só em Cristo confia, seja noite ou dia...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Se fores tentado, não deves ceder,
+Resiste ao pecado, até o vencer;
+Sê mui valoroso com fé que Deus dá,
+Então o inimigo, de ti fugirá.
+
+2. Não manches as vestes que Cristo lavou;
+Para embranquecê-las, sangue derramou;
+Rejeita o pecado, procura imitar
+Os que o venceram sem desanimar.
+
+3. Se forças te faltam para combater,
+Deus, o Onipotente pode te valer;
+A quem busca auxílio, vitória dará,
+Jamais confundido Ele o deixará.
+
+Só em Cristo confia, seja noite ou dia,
+E terás alegria em teu coração.
+
+#Hino247 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 247, hino 247 ccb, Só em Cristo confia, seja noite ou dia..., so em cristo confia, seja noite ou dia..., Hinário 5, hinario 247, ccb hino 247, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 248
+
+## Título para o vídeo
+Hino 248 - Glória! Aleluia! Sinto Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 248 - Glória! Aleluia! Sinto Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 248, “Glória! Aleluia! Sinto Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 248
+📖 Hinário: Hinário 5
+🎶 Título: Glória! Aleluia! Sinto Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Glória, Aleluia! Sinto Jesus,
+Ele me guia na senda de luz;
+Seu forte braço me susterá,
+De todo o mal me defenderá.
+
+Coro:
+Glória, Aleluia! Contemplarei
+Face a face o meu Senhor;
+E então igual a Ele serei
+No Seu glorioso lar de esplendor.
+
+2. Glória, Aleluia! Santo é o Senhor,
+Três vezes Santo e rico em amor;
+Vivo seguro em Seu poder,
+E este mundo posso vencer.
+
+3. Glória, Aleluia! Amo ao Senhor
+Quero servi-Lo com todo o fervor;
+Em Sua glória eu entrarei
+E, junto aos santos, habitarei.
+
+#Hino248 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 248, hino 248 ccb, Glória! Aleluia! Sinto Jesus, gloria! aleluia! sinto jesus, Hinário 5, hinario 248, ccb hino 248, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 249
+
+## Título para o vídeo
+Hino 249 - Esperança e fé sustêm nossa vida... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 249 - Esperança e fé sustêm nossa vida...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 249, “Esperança e fé sustêm nossa vida...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 249
+📖 Hinário: Hinário 5
+🎶 Título: Esperança e fé sustêm nossa vida...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Esperança e fé sustêm nossa vida no Senhor,
+Na firmeza e na santidade;
+Esses dons que vem dos céus, levarão ao Criador
+Os que andarem na divina Caridade.
+
+Coro:
+A caridade é a perfeição
+Que permanece eternamente;
+O fiel a Deus, que em si a possuir receberá
+Galardão excelente.
+
+2. Se falarmos, ó irmão, a linguagem celestial
+E a dos homens em verdade,
+Isso não nos levará a cidade eternal,
+Se em nós não estiver a Caridade.
+
+3. Para os santos do Senhor, é virtude sem igual
+A excelente Caridade;
+Revestidos desse bem, venceremos todo o mal
+E veremos Deus, o Pai da eternidade.
+
+#Hino249 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 249, hino 249 ccb, Esperança e fé sustêm nossa vida..., esperanca e fe sustem nossa vida..., Hinário 5, hinario 249, ccb hino 249, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 250
+
+## Título para o vídeo
+Hino 250 - No dia em que Jesus vier... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 250 - No dia em que Jesus vier...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 250, “No dia em que Jesus vier...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 250
+📖 Hinário: Hinário 5
+🎶 Título: No dia em que Jesus vier...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. No dia em que Jesus vier
+Para deste mundo me recolher,
+Em Sua paz descansarei
+E a Sua volta aguardarei.
+
+Com meu Redentor viverei nos céus
+Junto ao Criador, o eterno Deus;
+Por divino amor, eu desfrutarei
+Da eterna herança com Cristo, o Rei.
+
+2. Ecoará dos altos céus,
+O som da trombeta do eterno Deus;
+E, do seu sono, acordarei,
+Para encontrar o glorioso Rei.
+
+3. Vou com Jesus me encontrar;
+Grande há de ser o meu jubilar,
+Pois transformado eu serei
+Na aparição do excelso Rei.
+
+#Hino250 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 250, hino 250 ccb, No dia em que Jesus vier..., no dia em que jesus vier..., Hinário 5, hinario 250, ccb hino 250, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 251
+
+## Título para o vídeo
+Hino 251 - Firme nas mãos de Cristo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 251 - Firme nas mãos de Cristo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 251, “Firme nas mãos de Cristo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 251
+📖 Hinário: Hinário 5
+🎶 Título: Firme nas mãos de Cristo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Firme nas mãos de Cristo, firme no Salvador,
+Minh’alma já se encontra abrigada em Seu amor;
+Sinto a voz divina de Cristo, o Rei da glória;
+Em todas as batalhas, alcançarei vitória.
+
+2. Firme nas mãos de Cristo,
+Em paz minh’alma está;
+Sobre o inimigo, pela fé triunfará.
+Forte serei na luta, na dor e na tormenta,
+Prossigo avante, em glória,
+Pois Cristo me sustenta.
+
+3. Firme nas mãos de Cristo, que padeceu por mim,
+Sigo, por fé, Seus passos, glória eu terei ao fim;
+Espero com paciência, pois não é tempo ainda;
+Breve verei, nas nuvens, Cristo, em Sua vinda.
+
+Firme nas mãos de Cristo, firme no Salvador,
+Minh’alma já se encontra,
+Abrigada em Seu amor.
+
+#Hino251 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 251, hino 251 ccb, Firme nas mãos de Cristo, firme nas maos de cristo, Hinário 5, hinario 251, ccb hino 251, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 252
+
+## Título para o vídeo
+Hino 252 - Exaltação ao Deus Onipotente! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 252 - Exaltação ao Deus Onipotente!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 252, “Exaltação ao Deus Onipotente!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 252
+📖 Hinário: Hinário 5
+🎶 Título: Exaltação ao Deus Onipotente!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Exaltação ao Deus Onipotente!
+Santo louvor Lhe dão os filhos Seus.
+Oram por fé e, reverentemente;
+Cantam ao Pai, Senhor e grande Deus.
+
+2. Veneração ao Deus Onipresente!
+Rege do céu o mundo que formou.
+Do Seu olhar, não pode o ser vivente
+Se ocultar, pois Ele o criou.
+
+3. Adoração ao Deus Onisciente!
+É mui sublime o pensamento Seu;
+Sábio, fiel e bom a todo o crente
+Que, pela fé, invoca o Rei do céu.
+
+#Hino252 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 252, hino 252 ccb, Exaltação ao Deus Onipotente!, exaltacao ao deus onipotente!, Hinário 5, hinario 252, ccb hino 252, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 253
+
+## Título para o vídeo
+Hino 253 - Foi alegre, ditoso o dia | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 253 - Foi alegre, ditoso o dia
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 253, “Foi alegre, ditoso o dia”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 253
+📖 Hinário: Hinário 5
+🎶 Título: Foi alegre, ditoso o dia
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eu estava morto no pecado,
+Mas Jesus, com Sua voz me despertou;
+Era pelo mal escravizado,
+E agora liberto estou.
+
+Coro:
+Foi alegre, ditoso o dia
+Em que Cristo, o Verdadeiro,
+Trouxe a luz divina ao meu coração
+E vestiu-me de justiça e salvação;
+Grande glória oh! Aleluia,
+No Seu reino desfrutarei;
+Lá eu cantarei “Hosana” ao Justo
+Majestoso e grande Rei.
+
+2. Eu não servirei à iniquidade,
+Pois retenho em mim a fé no Salvador;
+Entrarei na celestial cidade
+Para estar com o meu Senhor.
+
+4. Com eterna bem-aventurança,
+Os Seus santos, o Senhor coroará;
+Eu prossigo com a esperança
+Da vitória, que perto está.
+
+#Hino253 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 253, hino 253 ccb, Foi alegre, ditoso o dia, foi alegre, ditoso o dia, Hinário 5, hinario 253, ccb hino 253, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 254
+
+## Título para o vídeo
+Hino 254 - De Jesus a graça divina | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 254 - De Jesus a graça divina
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 254, “De Jesus a graça divina”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 254
+📖 Hinário: Hinário 5
+🎶 Título: De Jesus a graça divina
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. De Jesus a graça divina e, também,
+A paz de Deus,
+Com a celestial doutrina,
+Permaneçam nos filhos Seus.
+
+2. Fé e amor conservam unidos
+Os remidos do Senhor;
+Sejam eles revestidos das virtudes do Redentor.
+
+3. Sempre unidos ao sábio Mestre,
+Devem os fiéis viver;
+E a comunhão celeste,
+Nos seus corações devem ter.
+
+#Hino254 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 254, hino 254 ccb, De Jesus a graça divina, de jesus a graca divina, Hinário 5, hinario 254, ccb hino 254, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 255
+
+## Título para o vídeo
+Hino 255 - É Cristo a Rocha de eterna salvação... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 255 - É Cristo a Rocha de eterna salvação...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 255, “É Cristo a Rocha de eterna salvação...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 255
+📖 Hinário: Hinário 5
+🎶 Título: É Cristo a Rocha de eterna salvação...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus é a nossa Rocha de eterna salvação,
+Que pode abrigar-nos em toda a tentação;
+Se n'Ele confiarmos, ninguém nos vencerá,
+Pois nossa fé constante em Cristo está.
+
+É Cristo a Rocha de eterna salvação,
+Real Fundamento da nossa redenção;
+É Cristo a Rocha, autor do sumo bem,
+Quem n’Ele firme está, proteção tem.
+
+2. Seguro Alicerce é o Senhor Jesus,
+Que nos tirou das trevas, mostrando-nos a Luz;
+Será esclarecido quem nessa Rocha crer,
+Bem firme estará pelo Seu poder.
+
+3. A geração eleita nós somos, no Senhor,
+E sacerdócio santo ao nosso Criador;
+A graça, nós devemos ao mundo proclamar;
+Quem crer no Seu poder, há de triunfar.
+
+#Hino255 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 255, hino 255 ccb, É Cristo a Rocha de eterna salvação..., e cristo a rocha de eterna salvacao..., Hinário 5, hinario 255, ccb hino 255, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 256
+
+## Título para o vídeo
+Hino 256 - Sem Deus Pai, vivi no mundo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 256 - Sem Deus Pai, vivi no mundo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 256, “Sem Deus Pai, vivi no mundo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 256
+📖 Hinário: Hinário 5
+🎶 Título: Sem Deus Pai, vivi no mundo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sem Deus Pai, vivi no mundo,
+Á vaidade eu servi;
+Em tristezas me encontrava quando,
+A Cristo, conheci;
+Seu perdão, Seu amor, em minh'alma recebi.
+
+2. Eu jamais compreenderia o Evangelho do
+Senhor,
+Se não fosse Sua graça, Seu amor, imenso amor,
+Que do mal me livrou, me unindo ao Criador.
+
+3. No meu ser agora sinto Teu Espírito, ó Senhor,
+Que me guia na verdade e me leva ao lar de amor;
+Nesse lar viverei com Jesus, meu Redentor.
+
+#Hino256 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 256, hino 256 ccb, Sem Deus Pai, vivi no mundo, sem deus pai, vivi no mundo, Hinário 5, hinario 256, ccb hino 256, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 257
+
+## Título para o vídeo
+Hino 257 - Remiu-nos por graça | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 257 - Remiu-nos por graça
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 257, “Remiu-nos por graça”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 257
+📖 Hinário: Hinário 5
+🎶 Título: Remiu-nos por graça
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Remiu-nos por graça o bondoso Jesus,
+Morrendo por nós sobre a cruz;
+Pagou nossa dívida ao Criador,
+Por Seu inefável amor.
+
+Busquemos o Cristo com todo o fervor,
+Na paz, na humildade, com fé e temor;
+Divina mercê quer Jesus dispensar
+A quem confiante, a Ele clamar.
+
+2. Ninguém merecia o favor do Senhor,
+Mas Ele, por grande amor,
+A todos promete real salvação;
+Quem crê e Jesus, tem perdão.
+
+3. Só em Cristo temos veraz salvação,
+Por Ele alcançamos perdão;
+Jesus veio com Seu poder nos salvar
+E Seus fiéis ao céu guiar.
+
+#Hino257 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 257, hino 257 ccb, Remiu-nos por graça, remiu-nos por graca, Hinário 5, hinario 257, ccb hino 257, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 258
+
+## Título para o vídeo
+Hino 258 - Louvemos ao nosso Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 258 - Louvemos ao nosso Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 258, “Louvemos ao nosso Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 258
+📖 Hinário: Hinário 5
+🎶 Título: Louvemos ao nosso Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Louvemos ao nosso Senhor
+E exaltemos Seu Nome eterno,
+Pois Ele é Fonte de amor
+E é digno de todo o louvor.
+
+2. Oh! Vamos louvores cantar,
+Agradáveis louvores ao bom Deus,
+E hinos de glória entoar;
+Vamos no Seu amor jubilar!
+
+3. Oh! vamos com fé ao Senhor;
+Assentemo-nos todos à mesa,
+Pois nos servirá com amor,
+Pelo espírito Consolador.
+
+4. Aqui nos achamos, Senhor
+Ofertando tributos de glória;
+Só Tu És, do bem Doador,
+Ó eterno, bondoso Senhor.
+
+#Hino258 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 258, hino 258 ccb, Louvemos ao nosso Senhor, louvemos ao nosso senhor, Hinário 5, hinario 258, ccb hino 258, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 259
+
+## Título para o vídeo
+Hino 259 - Vamos batalhar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 259 - Vamos batalhar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 259, “Vamos batalhar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 259
+📖 Hinário: Hinário 5
+🎶 Título: Vamos batalhar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quem servir a Deus, triunfará sobre o mal
+E receberá o galardão eternal;
+Lutará com todo o fervor contra toda a tentação;
+Só triunfará o de sincero coração.
+
+Vamos pelejar
+Contra o tentador,
+Grande galardão
+Nossa salvação.
+
+2. Nada pode destruir a fé que Deus dá,
+Com Seu braço forte Seus fiéis guiará
+Quem Seu Nome sempre confessar;
+Nunca lutará em vão;
+Só triunfará o de sincero coração.
+
+3. As potentes armas do cristão são do céus,
+Armas virtuosas que provêm só de Deus,
+A espada do Espírito livrará da tentação;
+Só triunfará o de sincero coração.
+.
+
+#Hino259 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 259, hino 259 ccb, Vamos batalhar..., vamos batalhar..., Hinário 5, hinario 259, ccb hino 259, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 260
+
+## Título para o vídeo
+Hino 260 - Sou servo inútil, ó Deus piedoso | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 260 - Sou servo inútil, ó Deus piedoso
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 260, “Sou servo inútil, ó Deus piedoso”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 260
+📖 Hinário: Hinário 5
+🎶 Título: Sou servo inútil, ó Deus piedoso
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Sou servo inútil, ó Deus piedoso
+Sou sempre fraco, sinto-me faltoso
+Nesta imprudência, rogo clemência
+Lava a minha alma, clamo a Ti, Senhor
+
+Sou servo inútil, servo imperfeito
+Vivo ansioso para ser aceito
+Podes limpar-me, justificar-me
+Se Tu o quiseres nada impedirá
+
+Sou servo inútil neste caminho
+Sem Teu cuidado, que farei sozinho?
+Este Teu filho roga auxílio
+Ouve meu pedido: "Compaixão, Senhor!"
+
+#Hino260 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 260, hino 260 ccb, Sou servo inútil, ó Deus piedoso, sou servo inutil, o deus piedoso, Hinário 5, hinario 260, ccb hino 260, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 261
+
+## Título para o vídeo
+Hino 261 - Vivo por Cristo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 261 - Vivo por Cristo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 261, “Vivo por Cristo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 261
+📖 Hinário: Hinário 5
+🎶 Título: Vivo por Cristo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vivo por Cristo, o bom Salvador;
+Vivo provando do Seu grande amor.
+Cristo, o Mestre, na cruz expirou
+Por Sua morte, perdão me doou.
+
+Jesus, Pastor divino, entrego a Tu meu ser,
+Pois, com Teu sacrifício, fizeste-me viver;
+Amor celeste e santo mostraste sobre a cruz;
+Glorioso é pertencer a Ti, ó Salvador Jesus!
+
+2. É um tesouro de grande valor
+A salvação que me deu o Senhor;
+Tenho esperança de entrar lá nos céus
+E, com o Mestre, estar junto a Deus.
+
+3. Humildemente eu atenderei
+Aos bons conselhos de Cristo, meu Rei;
+Em grande apreço terei Seu amor;
+Glória e honra a Cristo, o Senhor!
+
+.
+
+#Hino261 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 261, hino 261 ccb, Vivo por Cristo, vivo por cristo, Hinário 5, hinario 261, ccb hino 261, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 262
+
+## Título para o vídeo
+Hino 262 - Senhor, a Tua igreja | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 262 - Senhor, a Tua igreja
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 262, “Senhor, a Tua igreja”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 262
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, a Tua igreja
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, a Tua igreja espera alcançar,
+O reino de glória sem par;
+No mundo ela encontra tristeza e dor,
+Aflição, fadiga e provas, Senhor.
+
+2. Senhor, a Tua igreja Te quer encontrar,
+E sempre Contigo estar;
+Oh! Guia seus passos por Teu grande amor,
+Vem lhe dar os Teus adornos, Senhor.
+
+3. Senhor, a Tua igreja quer ver-Te voltar,
+Também quer no céu habitar;
+Quer ver Tua face, ó Rei celestial,
+E adorar-Te no Teu reino eternal.
+.
+
+#Hino262 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 262, hino 262 ccb, Senhor, a Tua igreja, senhor, a tua igreja, Hinário 5, hinario 262, ccb hino 262, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 263
+
+## Título para o vídeo
+Hino 263 - Salvação terá todo o pecador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 263 - Salvação terá todo o pecador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 263, “Salvação terá todo o pecador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 263
+📖 Hinário: Hinário 5
+🎶 Título: Salvação terá todo o pecador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo é luz resplandecente ao contrito pecador.
+Que, cansado e aflito, paz espera do Senhor.
+
+Salvação, terá todo o pecador
+Que se converter ao Evangelho do Senhor.
+
+2. Cristo é Senda gloriosa que preserva no amor.
+Todo aquele que obedece à vontade do Senhor.
+
+3. É a celestial verdade que transforma o pecador,
+E quem, d´Ela se reveste, filho eleito é do Senhor.
+
+#Hino263 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 263, hino 263 ccb, Salvação terá todo o pecador..., salvacao tera todo o pecador..., Hinário 5, hinario 263, ccb hino 263, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 264
+
+## Título para o vídeo
+Hino 264 - Redentor celeste e santo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 264 - Redentor celeste e santo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 264, “Redentor celeste e santo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 264
+📖 Hinário: Hinário 5
+🎶 Título: Redentor celeste e santo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Redentor celeste e santo, puro é o Teu amor;
+Tu me deste a esperança de entrar no céu, Senhor.
+
+Oh! que feliz serei no dia
+Em que Jesus do céu voltar
+Junto aos santos, que alegria!
+O galardão vou desfrutar.
+
+2. Faz, Senhor, com que eu me aparte
+Do pecado e do mal,
+E medite noite e dia sobre a lei celestial.
+
+3. Bem firmado na esperança, a vitória alcançarei;
+Prosseguindo confiante, no Teu reino entrarei.
+
+#Hino264 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 264, hino 264 ccb, Redentor celeste e santo, redentor celeste e santo, Hinário 5, hinario 264, ccb hino 264, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 265
+
+## Título para o vídeo
+Hino 265 - Ó Criador, bênçãos dos céus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 265 - Ó Criador, bênçãos dos céus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 265, “Ó Criador, bênçãos dos céus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 265
+📖 Hinário: Hinário 5
+🎶 Título: Ó Criador, bênçãos dos céus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Bênçãos dos céus prometidas,
+Nós esperamos, Senhor,
+Pois o evangelho seguimos,
+Fruto do Teu grande amor.
+
+Ó Criador, bênçãos dos céus,
+Os Teus amados esperam ansiosamente,
+Senhor;
+Pai celestial, ouve os Teus;
+Bálsamo às nossas almas
+São Tuas bênçãos de amor.
+
+2. Nós, os Teus santos, pedimos humildemente,
+Senhor:
+"As Tuas mãos piedosas abre em nosso favor."
+
+3. Sela, Senhor, Teus remidos com o bom
+Consolador;
+Vem conduzir-nos a todos para os céus, ó Senhor.
+
+#Hino265 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 265, hino 265 ccb, Ó Criador, bênçãos dos céus..., o criador, bencaos dos ceus..., Hinário 5, hinario 265, ccb hino 265, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 266
+
+## Título para o vídeo
+Hino 266 - Vinde às fileiras | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 266 - Vinde às fileiras
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 266, “Vinde às fileiras”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 266
+📖 Hinário: Hinário 5
+🎶 Título: Vinde às fileiras
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vinde às fileiras do bom Salvador,
+Que vos cingirá com armas de amor,
+Para combaterdes sem nenhum temor
+Contra o pecado, com todo o vigor.
+
+2. Cristo, sobre a morte, foi o Vencedor,
+Sendo, do sepulcro, o Suplantador;
+Sem nenhuma culpa, sobre a cruz morreu,
+Mas vitorioso, retornou ao céu.
+
+3. Cristo, nosso Mestre, Guia celestial,
+É Quem nos defende do poder do mal;
+Sempre resplandece com a Sua luz,
+Na gloriosa senda que ao céu conduz.
+
+#Hino266 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 266, hino 266 ccb, Vinde às fileiras, vinde as fileiras, Hinário 5, hinario 266, ccb hino 266, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 267
+
+## Título para o vídeo
+Hino 267 - É maravilhosa e excelente... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 267 - É maravilhosa e excelente...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 267, “É maravilhosa e excelente...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 267
+📖 Hinário: Hinário 5
+🎶 Título: É maravilhosa e excelente...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Graça maravilhosa de Cristo, o Redentor!
+Não há em mim palavras para a descrever!
+É Dom mui excelente, grande é seu valor,
+Essa graça bendita sinto em meu ser
+
+É maravilhosa e excelente
+A divina graça de Jesus
+Nada a ela se pode igualar;
+Ela apagou os meus pecados
+E à glória eterna me conduz
+Sublime é a graça que Jesus me veio dar.
+
+2. Graça maravilhosa que traz a salvação,
+Por ela, dos pecados Cristo me libertou;
+Ela se estende a todos, a todos dá perdão,
+Pois em Cristo Jesus, aos homens, Deus amou.
+
+3. Graça maravilhosa concede paz com Deus,
+Por Sua eficácia transforma o coração;
+Essa bendita graça me levará aos céus,
+Onde Cristo dará aos santos, galardão.
+
+#Hino267 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 267, hino 267 ccb, É maravilhosa e excelente..., e maravilhosa e excelente..., Hinário 5, hinario 267, ccb hino 267, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 268
+
+## Título para o vídeo
+Hino 268 - Ó Deus bendito | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 268 - Ó Deus bendito
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 268, “Ó Deus bendito”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 268
+📖 Hinário: Hinário 5
+🎶 Título: Ó Deus bendito
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Deus bendito, ó Pai da eternidade,
+Em tua sombra me quero abrigar;
+Forças contrárias a Tua Santidade,
+Querem, da Fé, me fazer desviar.
+
+2. Quanto é frágil a minha estrutura!
+Os meus receios, dissipa Senhor;
+Dá ao Teu servo divina armadura
+Ouve, ó Deus, minha voz, meu clamor
+
+3. A minha alma por Ti foi resgatada
+Foi envolvida por Teu grande amor.
+E das ruínas também foi levantada
+Em Ti está minha sorte, Senhor.
+
+Ó Deus bendito, Pai de bondade,
+Tua Palavra me pode livrar;
+Neste deserto de iniquidade,
+Tuas virtudes me podem guardar.
+
+#Hino268 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 268, hino 268 ccb, Ó Deus bendito, o deus bendito, Hinário 5, hinario 268, ccb hino 268, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 269
+
+## Título para o vídeo
+Hino 269 - Ressuscitados, por graça, fomos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 269 - Ressuscitados, por graça, fomos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 269, “Ressuscitados, por graça, fomos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 269
+📖 Hinário: Hinário 5
+🎶 Título: Ressuscitados, por graça, fomos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ressuscitados, por graça, fomos
+Com Jesus Cristo, o Redentor;
+Filhos eleitos de Deus já somos,
+E co-herdeiros do Salvador.
+
+2. Nós buscaremos a santidade,
+A paz, a graça, todo o bem,
+A sã doutrina, a Caridade;
+Do Deus eterno tudo provém.
+
+3. Bênçãos gloriosas descem do alto
+Onde habita o Criador;
+Se rejeitarmos o mundo ingrato,
+Salvos seremos por Seu amor.
+
+#Hino269 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 269, hino 269 ccb, Ressuscitados, por graça, fomos, ressuscitados, por graca, fomos, Hinário 5, hinario 269, ccb hino 269, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 270
+
+## Título para o vídeo
+Hino 270 - Outro bem não procurarei... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 270 - Outro bem não procurarei...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 270, “Outro bem não procurarei...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 270
+📖 Hinário: Hinário 5
+🎶 Título: Outro bem não procurarei...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Deste mundo mais nada esperarei,
+Em Jesus, salvação já encontrei;
+N’Ele sempre eu hei de confiar
+E, de coração, O amar.
+
+Outro bem não procurarei,
+Outro bem não encontrarei;
+Em Jesus, meu Senhor,
+Sempre devo confiar,
+Pois quem pode me proteger
+Deste mundo enganador?
+Só Jesus, meu Mestre e Salvador,
+Meu Rei e eternal Pastor.
+
+2. É vaidade o que no mundo há,
+Tudo em breve aqui se findará;
+Viverei para sempre com Jesus,
+Se andar em Sua luz.
+
+3. Neste mundo mais nada me seduz,
+Minha glória e riqueza é Jesus;
+Receber eu desejo, lá no céu,
+Tudo o que me prometeu.
+
+#Hino270 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 270, hino 270 ccb, Outro bem não procurarei..., outro bem nao procurarei..., Hinário 5, hinario 270, ccb hino 270, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 271
+
+## Título para o vídeo
+Hino 271 - Graças dou a Ti, ó bom Deus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 271 - Graças dou a Ti, ó bom Deus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 271, “Graças dou a Ti, ó bom Deus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 271
+📖 Hinário: Hinário 5
+🎶 Título: Graças dou a Ti, ó bom Deus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Graças dou a Ti, ó bom Deus,
+Pois mandaste vida, dos céus,
+Por Jesus, que trouxe o perdão,
+Que redimiu-me da perdição.
+
+2. Graças dou a Ti, Formador,
+Pelas bênçãos, por Teu favor;
+Jubiloso agora estou,
+Pois Jesus Cristo me resgatou.
+
+3. Graças dou a Ti, Deus de amor,
+Pois Tu ouves o meu clamor;
+Só a Ti minh’alma se atém;
+Graças Te dou, Pai do sumo bem.
+
+#Hino271 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 271, hino 271 ccb, Graças dou a Ti, ó bom Deus, gracas dou a ti, o bom deus, Hinário 5, hinario 271, ccb hino 271, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 272
+
+## Título para o vídeo
+Hino 272 - O bom Jesus veio morar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 272 - O bom Jesus veio morar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 272, “O bom Jesus veio morar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 272
+📖 Hinário: Hinário 5
+🎶 Título: O bom Jesus veio morar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Louvarei ao bom Jesus, o Santo Redentor
+Sua poderosa mão veio me libertar;
+As promessas cumprirá, pelo Seu grande amor,
+E, por graça, no Seu reino irei morar.
+
+2. Glorifico ao bom Jesus, santo e fiel Senhor,
+Eu me alegro em Sua lei, sempre a seguirei;
+Nada pode me reter, vivo em Seu amor,
+Seu querer inteiramente aceitarei.
+
+3. Aleluia! Eu serei como é meu Senhor,
+No glorioso dia em que Ele do céu voltar;
+Nesta vida me sustém o bom Consolador,
+Pela fé que me ajuda a caminhar.
+
+Final: O bom Jesus veio morar
+No meu coração e assim o consolar.
+Glória sem fim ao Redentor,
+Filho do eterno Deus, o Criador.
+
+#Hino272 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 272, hino 272 ccb, O bom Jesus veio morar..., o bom jesus veio morar..., Hinário 5, hinario 272, ccb hino 272, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 273
+
+## Título para o vídeo
+Hino 273 - Tenho em mim um hino ao Criador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 273 - Tenho em mim um hino ao Criador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 273, “Tenho em mim um hino ao Criador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 273
+📖 Hinário: Hinário 5
+🎶 Título: Tenho em mim um hino ao Criador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus me deu celeste hino
+Para engrandecer a Deus;
+E pelo Espírito divino,
+Esse canto elevo aos céus.
+
+Tenho em mim um hino ao Criador,
+Um canto de amor, de eterna gratidão;
+Tenho em mim um hino ao Redentor;
+Aos céus elevo o meu louvor.
+
+2. Jesus tornou-me venturoso,
+Minha vida transformou;
+Um hino santo, glorioso,
+Em minh’alma colocou.
+
+3. Um novo hino lá na gloria
+Com os anjos cantarei,
+Será um hino de vitória
+A Jesus, o grande Rei.
+
+#Hino273 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 273, hino 273 ccb, Tenho em mim um hino ao Criador..., tenho em mim um hino ao criador..., Hinário 5, hinario 273, ccb hino 273, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 274
+
+## Título para o vídeo
+Hino 274 - Na plenitude estarei | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 274 - Na plenitude estarei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 274, “Na plenitude estarei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 274
+📖 Hinário: Hinário 5
+🎶 Título: Na plenitude estarei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Desejo ser, ó meu Senhor,
+Fiel a Ti, até ao fim;
+Meus passos guia em Teu amor,
+Senhor, és tudo para mim.
+
+Na plenitude estarei
+Os céus abertos eu verei;
+Eternas bênçãos herdarei,
+Servindo a Ti, Senhor, meu Rei.
+
+2. Veneração, fé e temor
+Estejam em meu coração;
+E do pecado, ó Senhor,
+Livrar-me pode Tua mão.
+
+3. As trevas vindo sobre mim,
+Não temerei, pois o esplendor
+Da Tua luz, que não tem fim,
+Me guia ao Teu lar, Senhor.
+
+#Hino274 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 274, hino 274 ccb, Na plenitude estarei, na plenitude estarei, Hinário 5, hinario 274, ccb hino 274, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 275
+
+## Título para o vídeo
+Hino 275 - Deus enviou do céu, Jesus, o Salvador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 275 - Deus enviou do céu, Jesus, o Salvador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 275, “Deus enviou do céu, Jesus, o Salvador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 275
+📖 Hinário: Hinário 5
+🎶 Título: Deus enviou do céu, Jesus, o Salvador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Deus enviou do céu, Jesus, o Salvador,
+A fim, de neste mundo, remir o pecador,
+A Cristo vou ouvir e pela fé andar,
+E a glória, eternamente, no céu vou desfrutar.
+
+Avante eu vou, com Cristo eu vou,
+Para entrar no eterno reino de esplendor;
+Sigo, pela graça e fé, a Jesus, o Salvador;
+Nada quero deste mundo, avante eu vou.
+
+2. No dia do Senhor, os anjos tocarão
+A celestial trombeta que todos ouvirão;
+Retornará Jesus, o nosso Redentor,
+Em glória sobre as nuvens,
+Cercado de esplendor.
+
+3. Jesus, o Salvador, ao céu me levará;
+Receberei a herança que preparada está;
+A Deus, o Pai, verei, com Cristo estarei
+E todos os remidos, no céu, contemplarei.
+
+#Hino275 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 275, hino 275 ccb, Deus enviou do céu, Jesus, o Salvador..., deus enviou do ceu, jesus, o salvador..., Hinário 5, hinario 275, ccb hino 275, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 276
+
+## Título para o vídeo
+Hino 276 - Ó Senhor da glória | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 276 - Ó Senhor da glória
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 276, “Ó Senhor da glória”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 276
+📖 Hinário: Hinário 5
+🎶 Título: Ó Senhor da glória
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Senhor da glória,
+Rei celestial,
+Sempre tens total vitória
+Sobre todo o mal.
+
+2. Redentor celeste,
+Fonte do saber,
+Para nos remir, vieste
+Sobre a cruz morrer.
+
+3. Tu nos libertaste
+Da escravidão;
+Com Teu sangue Tu pagaste
+Nossa transgressão.
+
+4. Nossa fortaleza
+Nossa Paz e Luz
+Nossa Glória e Riqueza
+És, Senhor Jesus.
+
+#Hino276 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 276, hino 276 ccb, Ó Senhor da glória, o senhor da gloria, Hinário 5, hinario 276, ccb hino 276, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 277
+
+## Título para o vídeo
+Hino 277 - Oh! Quanto é bom louvarmos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 277 - Oh! Quanto é bom louvarmos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 277, “Oh! Quanto é bom louvarmos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 277
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Quanto é bom louvarmos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Quanto é bom louvarmos a Deus, o Criador,
+E nos regozijarmos em Sua eterna luz;
+Por graça fomos salvos do mundo enganador,
+Fomos também comprados com sangue de Jesus.
+
+Coro:
+Alegres serviremos ao nosso Formador,
+Cantando santos hinos a Deus,
+Nosso bom Criador.
+
+2. Em Deus confiaremos nas nossas provações,
+A nada temeremos, com Sua proteção;
+O Seu conforto temos em nossas aflições,
+Sempre triunfaremos com Sua forte mão.
+
+3. Alegres caminhemos com o bom Pai de amor,
+Seguindo-O triunfantes, pois do mal nos livrou;
+Nós fomos adotados filhos do Criador,
+Pelo precioso sangue que Cristo derramou.
+
+#Hino277 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 277, hino 277 ccb, Oh! Quanto é bom louvarmos, oh! quanto e bom louvarmos, Hinário 5, hinario 277, ccb hino 277, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 278
+
+## Título para o vídeo
+Hino 278 - Éramos mortos nas obras más | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 278 - Éramos mortos nas obras más
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 278, “Éramos mortos nas obras más”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 278
+📖 Hinário: Hinário 5
+🎶 Título: Éramos mortos nas obras más
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Éramos mortos nas obras más;
+Jamais tivemos divina paz;
+Glória ao bom Jesus, já temos Sua luz;
+D’Ele nos vem poder para vencer.
+
+2. Nós fomos feitos do mundo a luz
+Por nosso Mestre, Cristo Jesus;
+Firmes devemos ser, nunca ao mal ceder;
+Avante para os céus, lar do bom Deus.
+
+3. Já deste mundo não somos mais;
+Temos moradas celestiais.
+Templos do grande Deus são os eleitos Seus
+Vivamos no temor do Salvador.
+
+4. To-dos unidos quer-nos Jesus;
+Os Seus remidos ao céu conduz;
+É bom viver no amor, aos olhos do Senhor,
+Humildes e fiéis ao Rei dos reis.
+
+#Hino278 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 278, hino 278 ccb, Éramos mortos nas obras más, eramos mortos nas obras mas, Hinário 5, hinario 278, ccb hino 278, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 279
+
+## Título para o vídeo
+Hino 279 - Toda a arma contra ti... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 279 - Toda a arma contra ti...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 279, “Toda a arma contra ti...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 279
+📖 Hinário: Hinário 5
+🎶 Título: Toda a arma contra ti...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Não temas tu, igreja de Jesus,
+Com justiça Ele te confirmará;
+O lugar da tua tenda e habitação
+O Senhor ampliará.
+
+Toda a arma contra ti.
+Prosperar não poderá;
+Quando o inimigo contra ti se levantar,
+Cristo te defenderá.
+
+2. Toda a arma preparada contra ti,
+Te combate, mas jamais te vencerá,
+Pois Jesus, o Teu amado Redentor,
+A vitória te dará.
+
+3. Na eterna glória, não te lembrarás
+Das angústias deste mundo enganador,
+Pois ali eternamente estarás
+Com Jesus, o Vencedor.
+
+#Hino279 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 279, hino 279 ccb, Toda a arma contra ti..., toda a arma contra ti..., Hinário 5, hinario 279, ccb hino 279, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 280
+
+## Título para o vídeo
+Hino 280 - Lutar devemos todos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 280 - Lutar devemos todos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 280, “Lutar devemos todos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 280
+📖 Hinário: Hinário 5
+🎶 Título: Lutar devemos todos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Lutar devemos todos, por fé e com valor,
+Vestido de justiça, com armas do Senhor;
+Cingidos da verdade, podemos pelejar,
+Calçados do Evangelho, iremos triunfar.
+
+De Deus a armadura devemos tomar,
+Para, na peleja, podermos triunfar.
+
+2. Da fé, o escudo temos, podemos batalhar,
+Avante! Valorosos e sem desanimar;
+Combateremos firmes com celestial valor,
+E tudo venceremos em nome do Senhor.
+
+3. Proezas nós faremos por Cristo, o Redentor,
+Vitória cantaremos em nome do Senhor;
+Mostremos as virtudes do nosso grande Rei,
+Nós somos Seus remidos, guardemos Sua lei.
+
+#Hino280 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 280, hino 280 ccb, Lutar devemos todos..., lutar devemos todos..., Hinário 5, hinario 280, ccb hino 280, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 281
+
+## Título para o vídeo
+Hino 281 - Soldados valorosos nós somos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 281 - Soldados valorosos nós somos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 281, “Soldados valorosos nós somos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 281
+📖 Hinário: Hinário 5
+🎶 Título: Soldados valorosos nós somos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Rei dos reis nos fez soldados celestiais,
+Nos revestiu de fé e armas divinais;
+A guerra se levanta com ímpeto e furor,
+Mas nós resistiremos, pois à frente esta o Senhor.
+
+Soldados valorosos nós somos de Cristo, o Rei;
+Soldados de verdade que amam a Sua lei;
+Vitória alcançaremos em nome do Redentor,
+Com valor, com fervor,
+Com a fé em Deus, eterno Dominador
+
+2. Conosco está Jesus, não há porque temer,
+Pois quando o mal vier, Deus nos fará vencer.
+Tenhamos lealdade a Cristo, o Salvador;
+É d’Ele esta guerra, atendamos ao Senhor.
+
+3. Quem fraco estiver não deve atrás voltar,
+Pois Deus dará poder a fim de batalhar;
+Ninguém se espavente nem venha a esmorecer,
+Tenhamos fé em Jesus Cristo,
+Que virá nos socorrer.
+
+#Hino281 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 281, hino 281 ccb, Soldados valorosos nós somos, soldados valorosos nos somos, Hinário 5, hinario 281, ccb hino 281, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 282
+
+## Título para o vídeo
+Hino 282 - Oremos com fervor e sem desanimar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 282 - Oremos com fervor e sem desanimar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 282, “Oremos com fervor e sem desanimar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 282
+📖 Hinário: Hinário 5
+🎶 Título: Oremos com fervor e sem desanimar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Constantemente oremos a Deus,
+Ao Pai celeste devemos clamar;
+Ele trabalha por todos os Seus
+E fará, sobre o mal, triunfar.
+
+Oremos com fervor e sem desanimar,
+Nosso clamor chegará lá nos céus;
+Deus nos atendera e nos ajudará;
+Ele é a Esperanças de todos os Seus.
+
+2. Com paciência, esperança e fé,
+Firmes sejamos em Cristo, o Senhor
+Pois Sua vinda já próxima é;
+Terminará a tristeza e a dor.
+
+3. Cristo é o caminho que leva aos céus,
+Sempre a Ele devemos seguir;
+Quem for fiel aos preceitos de Deus,
+Vida eterna irá possuir.
+
+#Hino282 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 282, hino 282 ccb, Oremos com fervor e sem desanimar..., oremos com fervor e sem desanimar..., Hinário 5, hinario 282, ccb hino 282, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 283
+
+## Título para o vídeo
+Hino 283 - Tenho, em meu coração, real certeza... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 283 - Tenho, em meu coração, real certeza...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 283, “Tenho, em meu coração, real certeza...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 283
+📖 Hinário: Hinário 5
+🎶 Título: Tenho, em meu coração, real certeza...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tenho em meu coração, real certeza
+De que, no céu, com Cristo habitarei,
+Pois minha sorte, eternal riqueza
+Está no céu, onde a desfrutarei
+
+Quero, ó Senhor, ir Contigo ao céu
+E contemplar Teu esplendor;
+Sei que me darás, na eternal Sião,
+Grande e avultado galardão.
+
+2. Bom testemunho levarei comigo,
+Se neste mundo eu manifestar
+Que Jesus Cristo é verdadeiro Amigo,
+Por Quem a paz eu pude encontrar.
+
+3. Vivendo sempre em doce esperança,
+Em Cristo sinto divinal prazer;
+Receberei no céu a minha herança
+Que Deus irá, na glória, conceder.
+
+#Hino283 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 283, hino 283 ccb, Tenho, em meu coração, real certeza..., tenho, em meu coracao, real certeza..., Hinário 5, hinario 283, ccb hino 283, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 284
+
+## Título para o vídeo
+Hino 284 - Louvor nos céus altíssimos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 284 - Louvor nos céus altíssimos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 284, “Louvor nos céus altíssimos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 284
+📖 Hinário: Hinário 5
+🎶 Título: Louvor nos céus altíssimos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Louvor nos céus altíssimos,
+Hosana ao Deus Vivente,
+Ao Forte, Onipotente, bendito, Redentor;
+Glória, glória ao Verbo Santo,
+O Autor da fé potente;
+Tem vida eterna o crente, em Jesus, o Salvador.
+
+2. O Justo e Potentíssimo do céu, nos foi mandado;
+Em forma de um servo, ao Pai obedeceu;
+Humilhou-Se até a morte,
+Foi por Deus ressuscitado.
+Jesus, por nós amado, vida e paz nos concedeu!
+
+3. Aqui no mundo de labor, Jesus é a nossa Glória,
+É firme fortaleza, é nosso Salvador;
+Só por Ele nós vencemos, Ele alcançou vitória;
+Cantemos sempre glória ao divino Remidor!
+
+#Hino284 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 284, hino 284 ccb, Louvor nos céus altíssimos, louvor nos ceus altissimos, Hinário 5, hinario 284, ccb hino 284, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 285
+
+## Título para o vídeo
+Hino 285 - Livre já sou para exaltar o meu Senhor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 285 - Livre já sou para exaltar o meu Senhor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 285, “Livre já sou para exaltar o meu Senhor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 285
+📖 Hinário: Hinário 5
+🎶 Título: Livre já sou para exaltar o meu Senhor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Glória e louvor a Jesus darei,
+Sua comunhão em mim está;
+Dádivas do céu eu alcançarei,
+E vitória Ele me dará.
+
+Coro:
+Livre já sou para exaltar o meu
+Senhor;
+Glória, glória a Jesus, o meu Libertador.
+
+2. Glória e louvor minha alma dá
+A Jesus que já me resgatou;
+Nada, do Senhor, me separará,
+Pois eu sigo a Quem me libertou.
+
+3. Glória e louvor, glória sem cessar,
+A Jesus, que a todo o mal venceu;
+Glória ao Redentor sempre devo dar,
+Pelo bem que já me concedeu.
+
+#Hino285 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 285, hino 285 ccb, Livre já sou para exaltar o meu Senhor..., livre ja sou para exaltar o meu senhor..., Hinário 5, hinario 285, ccb hino 285, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 286
+
+## Título para o vídeo
+Hino 286 - Um Nome precioso para mim... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 286 - Um Nome precioso para mim...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 286, “Um Nome precioso para mim...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 286
+📖 Hinário: Hinário 5
+🎶 Título: Um Nome precioso para mim...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Um Nome precioso para mim,
+O Nome que amarei até o fim,
+Com sincero amor, com sincero ardor,
+É o Nome de Jesus, o Mestre
+
+Nome precioso para mim
+É o de Jesus, minha Vida e Luz;
+Por fé eu quero amá-Lo até o fim.
+Jesus, o Redentor, habita em mim!
+
+2. Ao mencionar o nome do Senhor,
+Meu coração jubila de amor;
+Oh! que comunhão! Que consolação!
+Eu sinto grande regozijo!
+
+3. Perdão eu alcancei do Criador,
+Por Cristo, meu amado Remidor,
+Que na cruz morreu, Sua vida deu;
+Pagou a Deus os meus pecados.
+
+#Hino286 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 286, hino 286 ccb, Um Nome precioso para mim..., um nome precioso para mim..., Hinário 5, hinario 286, ccb hino 286, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 287
+
+## Título para o vídeo
+Hino 287 - Sempre avante! Cristo é o Valente... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 287 - Sempre avante! Cristo é o Valente...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 287, “Sempre avante! Cristo é o Valente...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 287
+📖 Hinário: Hinário 5
+🎶 Título: Sempre avante! Cristo é o Valente...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Irmãos amados, sempre avante
+Com Jesus Cristo, nosso Senhor;
+Ele em tudo foi triunfante;
+Nós venceremos por Seu valor.
+
+Sempre avante! Cristo é o Valente
+Que por Seu povo pelejará
+Cristo, o Forte, o Onipotente,
+À glória eterna nos levará.
+
+2. Sempre sejamos perseverantes,
+Pois certamente vamos vencer;
+Por Jesus Cristo, na fé constantes,
+Nós poderemos prevalecer.
+
+3. Fortes sejamos, não recuemos,
+Mas prossigamos com fé em Deus;
+Ao inimigo resistiremos
+Até chegarmos ao lar dos céus.
+
+#Hino287 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 287, hino 287 ccb, Sempre avante! Cristo é o Valente..., sempre avante! cristo e o valente..., Hinário 5, hinario 287, ccb hino 287, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 288
+
+## Título para o vídeo
+Hino 288 - Ó irmãos, com Cristo avante | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 288 - Ó irmãos, com Cristo avante
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 288, “Ó irmãos, com Cristo avante”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 288
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, com Cristo avante
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmão, com Cristo avante,
+Todo o mal iremos vencer;
+Com Sua mão poderosa, não nos deixará perecer;
+Quando lutas nós enfrentarmos, o Senhor pelejará;
+O Seu Nome invocaremos;
+Seu socorro nos mandará.
+
+2. Quando fracos estivermos
+E sem forças para lutar,
+Pela fé nós prosseguiremos, pois Jesus virá ajudar;
+Cristo é nossa grande Esperança,
+É a nossa Salvação,
+N’Ele encontraremos as forças
+Para estarmos em retidão.
+
+3. Muitas provas nesta jornada
+Nós teremos que enfrentar,
+Mas Jesus, o Mestre amado,
+Nos fará ao fim triunfar.
+Sendo nossa vida guiada pelo sábio Condutor,
+Certamente nós chegaremos
+Ao eterno lar de esplendor.
+
+Hinos Sacros – Hinário 5 CCB
+
+#Hino288 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 288, hino 288 ccb, Ó irmãos, com Cristo avante, o irmaos, com cristo avante, Hinário 5, hinario 288, ccb hino 288, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 289
+
+## Título para o vídeo
+Hino 289 - Avante, sempre avante | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 289 - Avante, sempre avante
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 289, “Avante, sempre avante”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 289
+📖 Hinário: Hinário 5
+🎶 Título: Avante, sempre avante
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Avante, sempre avante, vamos todos anunciar
+O santo Evangelho e n'Ele caminhar.
+
+Coro:
+A vitória Cristo nos dará,
+Sua glória nos concederá
+Pela fé, seguimos nosso Redentor;
+A vitória nos dará por Seu amor.
+
+2. Avante, não neguemos nosso amado Salvador;
+Com Ele venceremos, lutemos com fervor.
+
+3. Avante, confiantes, sem jamais retroceder,
+A bem aventurança iremos receber.
+
+#Hino289 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 289, hino 289 ccb, Avante, sempre avante, avante, sempre avante, Hinário 5, hinario 289, ccb hino 289, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 290
+
+## Título para o vídeo
+Hino 290 - Sempre avante! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 290 - Sempre avante!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 290, “Sempre avante!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 290
+📖 Hinário: Hinário 5
+🎶 Título: Sempre avante!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Com Jesus, irmãos, sim, marchemos,
+Ninguém poderá nos abater;
+Força celestial provaremos
+E iremos todo o mal vencer.
+
+Sempre avante, com o Valoroso!
+Todos juntos nos convém marchar;
+Somos povo do Deus poderoso,
+O inimigo não nos faz parar.
+
+2. Com Jesus, irmãos, prossigamos,
+Pois Deus nos dará força e vigor;
+Ao mal, pela fé, resistamos,
+Sempre avante, em Nome do Senhor.
+
+3. Com Jesus, irmão, entraremos,
+Todos os fiéis no lar de amor;
+Regozijo e paz sentiremos
+E daremos glória ao Criador.
+
+#Hino290 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 290, hino 290 ccb, Sempre avante!, sempre avante!, Hinário 5, hinario 290, ccb hino 290, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 291
+
+## Título para o vídeo
+Hino 291 - Irmãos, avante, avante! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 291 - Irmãos, avante, avante!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 291, “Irmãos, avante, avante!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 291
+📖 Hinário: Hinário 5
+🎶 Título: Irmãos, avante, avante!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Irmãos, avante, avante! Com nosso Salvador,
+Seremos triunfantes, lutando com fervor;
+Vitória alcançaremos, seguindo a Jesus,
+Que vai á nossa frente e á glória nos conduz.
+
+Avante, avante!
+Unidos ao Senhor,
+Só Ele é o nosso Condutor,
+Avante! Marchemos com temor.
+
+2. Lugares deleitosos Jesus nos preparou,
+De jugos mui penosos, também nos libertou;
+A herança prometida por Cristo, o Salvador,
+No céu é conservada por Deus, o Formador.
+
+3. Com nosso amado Mestre
+Marchemos com fervor!
+Com fé, perseverantes, lutemos com valor.
+Guiados nós seremos com força divinal;
+Avante! Prossigamos ao lar celestial.
+
+#Hino291 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 291, hino 291 ccb, Irmãos, avante, avante!, irmaos, avante, avante!, Hinário 5, hinario 291, ccb hino 291, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 292
+
+## Título para o vídeo
+Hino 292 - Oh! Quanto é bom o Redentor! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 292 - Oh! Quanto é bom o Redentor!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 292, “Oh! Quanto é bom o Redentor!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 292
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Quanto é bom o Redentor!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O bom Deus, Criador, a Seu filho enviou,
+A fim de nos dar a eterna redenção;
+Pelos nossos pecados Jesus suportou
+Morte de cruz, que nos trouxe a salvação.
+
+Oh! Quanto é bom o Redentor!
+Sobre a cruz, por nós a vida deu;
+E lavou-nos pelo Seu amor;
+Justificou-nos no sangue que verteu.
+
+2. O pecado em todos, a morte gerou,
+Ninguém desse mal se podia libertar;
+Sobre a morte, o Filho de Deus triunfou
+E ressurgiu para nos justificar.
+
+3. Cristo triunfantemente subiu para os céus,
+E assim voltará, Soberano e Senhor.
+Levará para a glória os filhos de Deus
+E lhes dará o Seu reino de esplendor.
+
+#Hino292 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 292, hino 292 ccb, Oh! Quanto é bom o Redentor!, oh! quanto e bom o redentor!, Hinário 5, hinario 292, ccb hino 292, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 293
+
+## Título para o vídeo
+Hino 293 - Tu és Oleiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 293 - Tu és Oleiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 293, “Tu és Oleiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 293
+📖 Hinário: Hinário 5
+🎶 Título: Tu és Oleiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tu és Oleiro, ó meu Senhor,
+Eu sou argila na Tua mão;
+Vaso de honra e de louvor
+Faz-me, Senhor, com Tua unção.
+
+2. Vem modelar-me, ó Formador,
+Pela Palavra do Teu poder;
+Humilde e manso faz-me Senhor,
+Cumpre em mim Teu santo querer.
+
+3. Em Teus preceitos quero viver,
+Para servir-Te e Te agradar;
+Pela Palavra vem remover
+O que me impede de Te louvar.
+
+#Hino293 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 293, hino 293 ccb, Tu és Oleiro, tu es oleiro, Hinário 5, hinario 293, ccb hino 293, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 294
+
+## Título para o vídeo
+Hino 294 - Coragem, irmãos, sempre avante... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 294 - Coragem, irmãos, sempre avante...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 294, “Coragem, irmãos, sempre avante...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 294
+📖 Hinário: Hinário 5
+🎶 Título: Coragem, irmãos, sempre avante...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Avante! Coragem! Marchemos com fé
+E com todo o fervor,
+Soldados nós somos de Cristo, o nosso Senhor;
+Avante! Veremos a glória de Cristo, fiel Redentor,
+Teremos completa vitória com o Salvador
+
+Coragem, irmãos, sempre avante!
+Devemos lutar pela fé;
+Nosso ânimo seja constante,
+Deus tudo provê.
+
+2. Avante! Lutar nós devemos,
+Cingidos de força e vigor,
+Amparo de Deus nós teremos,
+Por Seu grande amor;
+Voluntariamente sirvamos a Cristo, o Rei vencedor,
+Nós somos, por fé, Seus soldados,
+Mostremos valor.
+
+3. Avante! lutemos unidos,
+Marchando com todo o fervor
+Cingidos de toda armadura de Deus, Criador,
+Seguindo os passos de Cristo,
+Vitória se alcançará,
+É Ele veraz fortaleza, que nos salvará.
+
+#Hino294 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 294, hino 294 ccb, Coragem, irmãos, sempre avante..., coragem, irmaos, sempre avante..., Hinário 5, hinario 294, ccb hino 294, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 295
+
+## Título para o vídeo
+Hino 295 - Fui, Senhor, por Ti remido | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 295 - Fui, Senhor, por Ti remido
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 295, “Fui, Senhor, por Ti remido”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 295
+📖 Hinário: Hinário 5
+🎶 Título: Fui, Senhor, por Ti remido
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Fui, Senhor, por Ti remido,
+Para andar em santo amor;
+Neste mundo, a Ti unido,
+Eu serei um vencedor.
+
+2. Teu amor já me consola,
+Para sempre obedecer
+A Palavra, que controla
+Todo este fraco ser.
+
+3. Seja eu fortificado
+Com o Teu poder, Senhor,
+Para ser santificado
+Pelo Espírito de amor.
+
+4. Sou Teu servo muito amado,
+Co-herdeiro Teu, Senhor:
+E, no reino desejado,
+Eu verei o Criador.
+
+#Hino295 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 295, hino 295 ccb, Fui, Senhor, por Ti remido, fui, senhor, por ti remido, Hinário 5, hinario 295, ccb hino 295, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 296
+
+## Título para o vídeo
+Hino 296 - Teu Nome é soberano, ó Redentor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 296 - Teu Nome é soberano, ó Redentor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 296, “Teu Nome é soberano, ó Redentor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 296
+📖 Hinário: Hinário 5
+🎶 Título: Teu Nome é soberano, ó Redentor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Teu Nome é soberano, ó caro Redentor;
+Teu nome é mui sublime, de grande esplendor;
+Em espírito e verdade devemos adorar-Te,
+Devemos tributar-Te louvores, ó Senhor.
+
+Quão suave e precioso
+O Teu Nome, ó Salvador;
+Não há outro Nome pelo qual os homens
+Chegarão ao Criador.
+
+2. Teu Nome bendiremos, eterno Salvador;
+Em todos os combates, é nosso Defensor;
+Deste a todos os teus santos fé viva e esperança
+De entrar na tua glória, ó justo Redentor.
+
+3. Teu Nome respeitamos e amamos, ó Senhor;
+A paz com Deus nós temos por Ti, Ó Redentor;
+Nossas almas resgataste, a vida nos doaste,
+Herdeiros nos fizeste de Deus, o Criador
+
+#Hino296 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 296, hino 296 ccb, Teu Nome é soberano, ó Redentor, teu nome e soberano, o redentor, Hinário 5, hinario 296, ccb hino 296, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 297
+
+## Título para o vídeo
+Hino 297 - Vem, Jesus, meu Consolador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 297 - Vem, Jesus, meu Consolador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 297, “Vem, Jesus, meu Consolador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 297
+📖 Hinário: Hinário 5
+🎶 Título: Vem, Jesus, meu Consolador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, conforta meu coração
+E vem livrar-me da aflição;
+A minha suplica, ó Senhor,
+Recebe, por grande amor.
+
+Vem, Jesus, meu Consolador,
+Nas angústias, também na dor,
+Com Teu amor me confortar;
+Vem, nas provas, me libertar.
+
+2. Senhor, conforta meu coração,
+Com Tua paz e consolação;
+Alegremente eu viverei,
+Louvor a Ti cantarei.
+
+3. Senhor conforta meu coração,
+Com Teu amor e celeste unção;
+Teu refrigério eu sentirei,
+Ó meu Senhor e meu Rei.
+
+#Hino297 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 297, hino 297 ccb, Vem, Jesus, meu Consolador..., vem, jesus, meu consolador..., Hinário 5, hinario 297, ccb hino 297, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 298
+
+## Título para o vídeo
+Hino 298 - Avante sempre, sem temer! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 298 - Avante sempre, sem temer!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 298, “Avante sempre, sem temer!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 298
+📖 Hinário: Hinário 5
+🎶 Título: Avante sempre, sem temer!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Avante sempre, sem temer,
+Ó soldados verdadeiros!
+Por Cristo, nosso Ensinador, fomos feitos bom
+guerreiros;
+Ele por nós combaterá, suas armas potentes são,
+Pois nos livram sempre do mal, do poder da
+tentação.
+
+2. Avante, com o Salvador, pois é certa a vitória!
+Marchemos sempre com vigor, prosseguindo para
+a gloria;
+A coroa receberá, só quem for em tudo fiel
+A Jesus, o nosso Senhor e o nosso Emanuel.
+
+Final:
+Aleluia! Aleluia! Bendiremos nosso Salvador!
+Aleluia! Aleluia! Glória eterna ao Redentor!
+
+#Hino298 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 298, hino 298 ccb, Avante sempre, sem temer!, avante sempre, sem temer!, Hinário 5, hinario 298, ccb hino 298, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 299
+
+## Título para o vídeo
+Hino 299 - Em nome de Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 299 - Em nome de Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 299, “Em nome de Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 299
+📖 Hinário: Hinário 5
+🎶 Título: Em nome de Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Em nome de Jesus, eis-nos reunidos
+Para aprender Teu querer, ó Senhor;
+Conserva-nos, ó Deus, sempre unidos,
+Pois dependemos de Ti, Criador
+
+Com reverencia e fé Te adoramos,
+Onipotente Deus, Pai de amor.
+
+2. Dá-nos Senhor, do Teu conhecimento,
+Para que assim Te possamos honrar;
+Tua Palavra dá entendimento
+E em justiça nos faz caminhar.
+
+3. Habita em Ti, ó Deus, sabedoria,
+Toda ciência, glorioso Senhor;
+Tua eterna luz sempre nos guia
+Na sã verdade, amor e temor.
+
+#Hino299 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 299, hino 299 ccb, Em nome de Jesus, em nome de jesus, Hinário 5, hinario 299, ccb hino 299, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 300
+
+## Título para o vídeo
+Hino 300 - Tudo o que nos falta | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 300 - Tudo o que nos falta
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 300, “Tudo o que nos falta”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 300
+📖 Hinário: Hinário 5
+🎶 Título: Tudo o que nos falta
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tudo o que nos falta, Cristo suprirá;
+Quando suplicarmos, Ele ouvirá;
+De Seus dons celestes, nos revestirá,
+Quando nós batermos, Ele abrirá.
+
+Glória ao bendito Salvador,
+Forte e invencível Defensor!
+Árdua é a luta contra o pecado,
+Mas resistiremos com valor.
+
+2. Tudo o que nos falta, Cristo suprirá
+Proteção divina, Ele proverá;
+Temos que entregar-Lhe todo o nosso ser,
+Para que possamos com valor vencer.
+
+3. Tudo o que nos falta, Cristo suprirá;
+Firme e fielmente nos conduzirá
+Nesta travessia que nos leva aos céus,
+Onde iremos ver a face do bom Deus.
+
+#Hino300 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 300, hino 300 ccb, Tudo o que nos falta, tudo o que nos falta, Hinário 5, hinario 300, ccb hino 300, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 301
+
+## Título para o vídeo
+Hino 301 - Só a Jesus Cristo seguiremos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 301 - Só a Jesus Cristo seguiremos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 301, “Só a Jesus Cristo seguiremos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 301
+📖 Hinário: Hinário 5
+🎶 Título: Só a Jesus Cristo seguiremos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Nossa Esperança é Jesus;
+Ele, nesta graça, nos conduz
+Bem alegres, pela comunhão
+Que nos traz consolação.
+
+Só a Jesus Cristo seguiremos,
+Ele é o nosso bom Pastor;
+E ao fim, com Ele reinaremos
+Na cidade de esplendor.
+
+2. Cristo, o Rei dos reis e Salvador,
+Faz-nos caminhar em Seu amor;
+Do pecado veio nos remir,
+Para um feliz porvir.
+
+3. Neste mundo cheio de ilusão
+Só em Cristo existe salvação;
+Ele nos concede graça e luz
+E à glória nos conduz.
+
+#Hino301 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 301, hino 301 ccb, Só a Jesus Cristo seguiremos..., so a jesus cristo seguiremos..., Hinário 5, hinario 301, ccb hino 301, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 302
+
+## Título para o vídeo
+Hino 302 - É Jesus a Esperança... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 302 - É Jesus a Esperança...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 302, “É Jesus a Esperança...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 302
+📖 Hinário: Hinário 5
+🎶 Título: É Jesus a Esperança...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que gloriosa Esperança é Jesus, o Salvador,
+Nossa Bem-aventurança, nosso amado Remidor!
+Nossa Luz e Alegria, poderoso Defensor,
+Nosso Escudo, nosso Guia é Jesus, o Redentor.
+
+É Jesus a Esperança,
+É o Justo e Fiel,
+É a nossa Confiança,
+Poderoso Emanuel.
+
+2. Nossa vida e Riqueza, nosso Apoio é o Senhor,
+É o Pão de vida eterna que sustenta e dá vigor.
+Glória, glória nas alturas, glória, glória ao Redentor,
+Que nos dá paz sempiterna e o Seu sublime amor!
+
+3. A Jesus, o Verdadeiro, Invencível, grande Rei,
+O meu coração entrego, só a Ele servirei;
+Certo estou de que a vitória almejada alcançarei;
+E, na glória, junto a Ele, para sempre reinarei.
+
+#Hino302 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 302, hino 302 ccb, É Jesus a Esperança..., e jesus a esperanca..., Hinário 5, hinario 302, ccb hino 302, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 303
+
+## Título para o vídeo
+Hino 303 - O Senhor não mudará | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 303 - O Senhor não mudará
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 303, “O Senhor não mudará”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 303
+📖 Hinário: Hinário 5
+🎶 Título: O Senhor não mudará
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Não mudará o nosso Deus,
+Não falhará o Seu poder;
+Cumprir-se-ão os planos Seus;
+Em Deus há luz e saber.
+
+O Senhor não mudará;
+Seus intentos cumprirá;
+Firmes permanecerão,
+Pois há em Deus perfeição.
+
+2. Se formos nós fiéis a Deus,
+Também fiel Se mostrará;
+Triunfarão os filhos Seus,
+Deus Pai jamais falhará.
+
+3. Em breve irão passar os céus,
+Também a terra passará;
+Mas é eterno o nosso Deus
+E vida eterna nos dá.
+
+#Hino303 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 303, hino 303 ccb, O Senhor não mudará, o senhor nao mudara, Hinário 5, hinario 303, ccb hino 303, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 304
+
+## Título para o vídeo
+Hino 304 - Tudo é vaidade neste mundo de ilusão... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 304 - Tudo é vaidade neste mundo de ilusão...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 304, “Tudo é vaidade neste mundo de ilusão...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 304
+📖 Hinário: Hinário 5
+🎶 Título: Tudo é vaidade neste mundo de ilusão...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tudo é vaidade neste mundo de ilusão;
+Glórias terrenas breve findarão
+É um vapor a vida, que se desvanecerá;
+A Esperança é Cristo; n’Ele a graça está.
+
+Coro:
+Cristo é a Esperança,
+É do mundo o Redentor;
+N’Ele há confiança,
+Vida, paz e amor.
+
+2. Sobre a terra há tristeza, inquietação,
+Dores, enfado e perturbação;
+Não há paz no mundo, neste mundo enganador;
+A Esperança é Cristo, nosso Benfeitor.
+
+3. De Deus a ira sobre a terra descerá
+E nesse dia tudo findará;
+Nada, deste mundo, pode dar a salvação;
+A Esperança é Cristo, nossa Redenção.
+
+#Hino304 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 304, hino 304 ccb, Tudo é vaidade neste mundo de ilusão..., tudo e vaidade neste mundo de ilusao..., Hinário 5, hinario 304, ccb hino 304, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 305
+
+## Título para o vídeo
+Hino 305 - Oh! Que fundamento | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 305 - Oh! Que fundamento
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 305, “Oh! Que fundamento”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 305
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Que fundamento
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Que Fundamento em Jesus Cristo temos,
+É Ele a esperança do eterno porvir;
+As suas promessas eternas alcançamos;
+Em Seu amor, unidos, Jesus vamos servir,
+Em Seu amor, unidos, O vamos servir.
+
+2. Se, peregrinando, combates nós tivermos,
+A mão do Senhor, por graça, nos livrará;
+E contra a força do mal nós lutaremos;
+Servindo a Deus com zelo, ajuda nos dará,
+Servindo a Deus com zelo, ajuda dará.
+
+3. Ó Rocha eterna e eterna Fortaleza,
+Por fé nós vivemos no Teu grande amor;
+Fizeste-nos dignos da celestial riqueza,
+Pois todo o nosso bem vem de Ti, ó Redentor,
+Pois todo o nosso bem vem de Ti, Redentor.
+
+#Hino305 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 305, hino 305 ccb, Oh! Que fundamento, oh! que fundamento, Hinário 5, hinario 305, ccb hino 305, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 306
+
+## Título para o vídeo
+Hino 306 - Na alma do justo há voz de louvor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 306 - Na alma do justo há voz de louvor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 306, “Na alma do justo há voz de louvor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 306
+📖 Hinário: Hinário 5
+🎶 Título: Na alma do justo há voz de louvor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Na alma do justo há voz de louvor
+A Deus e a Cristo, fiel remidor;
+Há voz de alegria, há exaltação;
+Seu cálix transborda de consolação.
+
+Coro:
+Bendizei, bendizei ao Altíssimo Deus,
+Deus de amor, Deus de paz,
+Que mandou lá dos céus
+O santo Cordeiro, fiel Redentor,
+A nossa Justiça, Jesus, o Senhor.
+
+2. A Deus toda honra e glória eternal,
+Pois é piedoso o Pai celestial;
+Por Seu Filho amado, Deus reconciliou
+Os homens consigo e os resgatou.
+
+3. Por boa vontade de Deus, Criador,
+Do novo concerto é Jesus mediador;
+Preciosas promessas irão se cumprir
+Na volta de Cristo em breve porvir.
+
+#Hino306 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 306, hino 306 ccb, Na alma do justo há voz de louvor..., na alma do justo ha voz de louvor..., Hinário 5, hinario 306, ccb hino 306, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 307
+
+## Título para o vídeo
+Hino 307 - Ó irmãos, apresentemo-nos ao nosso Redentor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 307 - Ó irmãos, apresentemo-nos ao nosso Redentor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 307, “Ó irmãos, apresentemo-nos ao nosso Redentor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 307
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, apresentemo-nos ao nosso Redentor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, apresentemo-nos ao nosso Redentor,
+Prontos para O atender;
+Ao que Ele nos disser, obedeçamos com amor,
+Sem jamais esmorecer.
+
+Cristo nos dará da Sua plenitude,
+Com a fé nos cingirá e em nós derramará
+Do Espírito o poder e a virtude;
+Valoroso nos fará.
+
+2. Ó amados, aceitamos do Senhor a correção,
+Pois corrige a quem quer bem;
+Os Seus santos mandamentos leves para nós
+serão,
+Seus conselhos nos convêm.
+
+3. Pelo espírito da graça poderemos compreender
+Toda a obra de amor;
+Saberemos, ó eleitos, como a nosso Deus temer;
+Oh! Sirvamos ao Senhor.
+
+#Hino307 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 307, hino 307 ccb, Ó irmãos, apresentemo-nos ao nosso Redentor..., o irmaos, apresentemo-nos ao nosso redentor..., Hinário 5, hinario 307, ccb hino 307, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 308
+
+## Título para o vídeo
+Hino 308 - Soa a trombeta | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 308 - Soa a trombeta
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 308, “Soa a trombeta”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 308
+📖 Hinário: Hinário 5
+🎶 Título: Soa a trombeta
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ouve-se em toda parte anunciar
+Já é chegado o reino de amor,
+Cristo é potente para salvar
+E dar a vida ao pecador
+
+Soa a trombeta, oh! Escutai,
+O evangelho do Salvador;
+Vossos ouvidos, oh! Inclinai
+Às são palavras do Criador.
+
+2. Os mensageiros do Redentor
+As boas novas fazem ouvir:
+Novas de paz, de vida e de amor,
+De um feliz e eterno porvir.
+
+3. Nesta mensagem vinda de Deus,
+É manifesto ao pecador,
+Que para todos há salvação;
+Vinde aceita-la do Salvador.
+
+#Hino308 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 308, hino 308 ccb, Soa a trombeta, soa a trombeta, Hinário 5, hinario 308, ccb hino 308, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 309
+
+## Título para o vídeo
+Hino 309 - Galardão nos espera | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 309 - Galardão nos espera
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 309, “Galardão nos espera”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 309
+📖 Hinário: Hinário 5
+🎶 Título: Galardão nos espera
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. “Bem – aventurado quem aqui chorar,
+Pois de Deus conforto certo alcançará.
+Quem aqui for manso e perseverar,
+No eterno lar de Deus habitará.
+
+Galardão, galardão nos espera lá nos céus,
+Galardão, galardão junto ao nosso Deus;
+Glória indescritível na eternidade
+É o galardão de Cristo aos santos Seus
+
+2. “Bem – aventurado quem sedento está.
+E tem fome da justiça que é dos céus.
+Farto e consolado pelo Pai será;
+Quem for limpo e puro viverá com Deus.
+
+3. “Bem – aventurado quem seguir Jesus,
+Sendo aqui na terra pacificador;
+Quem for desprezado por andar na luz,
+Alegar-se-á na vinda do Senhor.
+
+#Hino309 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 309, hino 309 ccb, Galardão nos espera, galardao nos espera, Hinário 5, hinario 309, ccb hino 309, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 310
+
+## Título para o vídeo
+Hino 310 - Nós Te louvamos, ó Rei dos reis | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 310 - Nós Te louvamos, ó Rei dos reis
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 310, “Nós Te louvamos, ó Rei dos reis”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 310
+📖 Hinário: Hinário 5
+🎶 Título: Nós Te louvamos, ó Rei dos reis
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Nós Te louvamos, ó Rei dos reis,
+Pois nos tens feito santos e fiéis
+Para andarmos em Teu temor,
+Como ovelhas Tuas, ó Senhor.
+
+2. Nós esperamos, com Teu poder,
+Tua vontade sempre obedecer,
+Mostrando ao mundo obras de luz,
+Pelas virtudes Tuas, ó Jesus.
+
+3. Faz-nos saber Teu santo querer;
+Bênçãos celestes vem nos conceder.
+A sã Palavra, vinda dos céus,
+Dá nova vida aos remidos Teus.
+
+4. Com essa vida, ó Rei dos reis,
+Podemos ser-Te sempre mais fiéis;
+Tuas ovelhas somos, Senhor,
+Tu És o nosso único Pastor.
+
+#Hino310 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 310, hino 310 ccb, Nós Te louvamos, ó Rei dos reis, nos te louvamos, o rei dos reis, Hinário 5, hinario 310, ccb hino 310, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 311
+
+## Título para o vídeo
+Hino 311 - Ó Senhor, vivente Deus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 311 - Ó Senhor, vivente Deus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 311, “Ó Senhor, vivente Deus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 311
+📖 Hinário: Hinário 5
+🎶 Título: Ó Senhor, vivente Deus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Senhor, vivente Deus, a Ti daremos, sem
+cessar,
+Toda honra e louvor, com devoção;
+Pois quiseste aos pequenos Teus tesouros revelar
+Pelo Teu amor e imensa compaixão.
+
+Teus tesouros revelaste
+Aos humildes que chamaste,
+Para eles decretaste
+Vida eterna com Jesus, o Salvador
+
+2. Teus tesouros ocultaste para os sábios, ó
+Senhor,
+Mas Te aprouve revelá-los para nós
+E a todo que, igualmente, se achega ao
+Redentor,
+Atendendo, humildemente, a Sua voz.
+
+3. Anunciamos neste mundo, que Jesus é o
+Salvador
+Que com graça O enviaste, ó bom Deus;
+Mesmo que aqui sejamos oprimidos, ó Senhor,
+Nós teremos grande prêmio lá nos céus.
+
+#Hino311 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 311, hino 311 ccb, Ó Senhor, vivente Deus..., o senhor, vivente deus..., Hinário 5, hinario 311, ccb hino 311, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 312
+
+## Título para o vídeo
+Hino 312 - Tributos de louvor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 312 - Tributos de louvor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 312, “Tributos de louvor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 312
+📖 Hinário: Hinário 5
+🎶 Título: Tributos de louvor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tributos de louvor darei ao grande Deus,
+Ao Deus que escreveu meu nome lá nos céus;
+Que grande amor!
+Bendito seja sempre o Deus do meu louvor!
+
+2. Perante o Criador eu me inclinarei;
+Prostrado aos Seus pés, Seu Nome bendirei;
+Fiel é Deus!
+Do Seu lugar excelso ouve os santos Seus.
+
+3. No trono eterno está o Onipotente Deus,
+Cercado por exércitos de anjos Seus;
+Que esplendor!
+Eterna glória a Deus, o santo Criador!
+
+4. Meu Deus me contará com todos os fiéis;
+Herança me dará com Cristo, o Rei dos reis;
+Elevarei
+O meu louvor a Deus e a Jesus, meu Rei.
+
+#Hino312 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 312, hino 312 ccb, Tributos de louvor, tributos de louvor, Hinário 5, hinario 312, ccb hino 312, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 313
+
+## Título para o vídeo
+Hino 313 - O rijo clamor da trombeta ouvirão... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 313 - O rijo clamor da trombeta ouvirão...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 313, “O rijo clamor da trombeta ouvirão...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 313
+📖 Hinário: Hinário 5
+🎶 Título: O rijo clamor da trombeta ouvirão...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O rijo clamor da trombeta ouvirão
+Os filhos de Deus, que ao céu subirão;
+Vindo em nuvens, Jesus surgirá
+E visto por todos os homens será;
+Seus anjos virão, deste mundo, levar
+Os que com Cristo, irão reinar.
+Que dia de júbilo e esplendor!
+Oh! glória a Jesus, o Senhor!
+
+Arrebatado aos céus, por Cristo, eterno Rei,
+Lá eu verei o grande Deus; oh! quão feliz serei!
+Cristo Jesus dará aos escolhidos Seus
+A eternal morada: Jerusalém de Deus.
+
+2. Aos Seus Resgatados dirá o Senhor
+“Oh! vinde, benditos, com grande amor,
+Um reino eterno o Pai nos doou,
+Que desde o principio Ele nos preparou.”
+Ainda um pouco e Jesus descerá;
+A Sua igreja O encontrará.
+Que dia de júbilo e esplendor!
+Oh! glória a Jesus, o Senhor!
+
+#Hino313 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 313, hino 313 ccb, O rijo clamor da trombeta ouvirão..., o rijo clamor da trombeta ouvirao..., Hinário 5, hinario 313, ccb hino 313, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 314
+
+## Título para o vídeo
+Hino 314 - O Teu poder supremo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 314 - O Teu poder supremo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 314, “O Teu poder supremo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 314
+📖 Hinário: Hinário 5
+🎶 Título: O Teu poder supremo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Teu poder supremo, ó Rei dos reis,
+Remove os tropeços aos Teus fiéis;
+Só Tu me podes conduzir ao lar de amor;
+És Fonte de toda força, firmeza e vigor.
+
+2. Em Teu bendito Nome, ó Redentor
+Por Deus é recebido o meu clamor;
+Meu ser entrego todo a Ti, ó Salvador;
+Meus olhos a Ti levanto, atende-me, Senhor.
+
+3. Agrava-se a batalha aqui, meu Rei
+Mas sempre estás comigo, não temerei;
+De armadura divinal me proverás;
+Ao fim, na eterna glória, Tu me receberás.
+
+#Hino314 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 314, hino 314 ccb, O Teu poder supremo, o teu poder supremo, Hinário 5, hinario 314, ccb hino 314, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 315
+
+## Título para o vídeo
+Hino 315 - Que volte do céu Teu Filho, ó Deus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 315 - Que volte do céu Teu Filho, ó Deus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 315, “Que volte do céu Teu Filho, ó Deus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 315
+📖 Hinário: Hinário 5
+🎶 Título: Que volte do céu Teu Filho, ó Deus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Contempla do céu, ó Senhor, Teus fieis,
+Em nós seja feito o Teu santo querer;
+Oh! Vem ajudar-nos a peregrinar,
+Conduz-nos aos céus com o Teu poder,
+
+Que volte do céu, Teu filho, ó Deus,
+Quão desejosos estamos, Senhor;
+Rejubilaremos ao vê-Lo voltar
+Em grande esplendor.
+
+2. Ó Pai amoroso, envia Jesus,
+É grande o desejo de vê-Lo surgir;
+Queremos, com Cristo, a glória herdar
+E bens eternais com Ele fruir.
+
+3. Oh! Faz-nos perfeitos, bondoso Senhor,
+Na luz da Palavra queremos andar;
+São tempos difíceis, ó bom Redentor,
+Virtude e fé vem nos dispensar.
+
+#Hino315 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 315, hino 315 ccb, Que volte do céu Teu Filho, ó Deus..., que volte do ceu teu filho, o deus..., Hinário 5, hinario 315, ccb hino 315, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 316
+
+## Título para o vídeo
+Hino 316 - Tua vida é triste? | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 316 - Tua vida é triste?
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 316, “Tua vida é triste?”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 316
+📖 Hinário: Hinário 5
+🎶 Título: Tua vida é triste?
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Tua vida é triste? Tens profunda dor?
+Queres um auxílio, um Libertador?
+Aceitando a Cristo, paz receberás,
+Força e alegria d'Ele alcançarás.
+
+2. Fardo de pecado carregando estás?
+Jugo de justiça de Jesus terás;
+Ouve a mensagem de amor sem par,
+Para que com Cristo possas caminhar,
+
+3. Por caminho largo andas sem ter paz?
+Cristo é a Senda que feliz te faz?
+Confiando n'Ele, tu encontrarás
+Salvação eterna, salvação veraz.
+
+Olha para o alto, de onde vem a luz,
+E verás então a glória de Jesus,
+Que sublime obra consumou na cruz;
+Ao celeste reino Ele te conduz.
+
+#Hino316 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 316, hino 316 ccb, Tua vida é triste?, tua vida e triste?, Hinário 5, hinario 316, ccb hino 316, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 317
+
+## Título para o vídeo
+Hino 317 - Sinto o Senhor, por fé, em mim | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 317 - Sinto o Senhor, por fé, em mim
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 317, “Sinto o Senhor, por fé, em mim”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 317
+📖 Hinário: Hinário 5
+🎶 Título: Sinto o Senhor, por fé, em mim
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sinto o Senhor, por fé, em mim,
+E Sua comunhão;
+Por graça, paz virtude e amor, jubila meu coração.
+
+Sempre unido a meu Jesus,
+Forças terei, também valor;
+Ele é a Luz que ao céu conduz,
+Com amor.
+
+2. Sinto o Senhor, por fé, em mim,
+Liberto estou do mal;
+Desfruto já o Seu amor e a vida celestial.
+
+3. Sinto o Senhor, por fé, em mim,
+Tranquilo eu estou;
+Sentindo a paz, o Seu perdão,
+E a graça que me ofertou.
+
+#Hino317 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 317, hino 317 ccb, Sinto o Senhor, por fé, em mim, sinto o senhor, por fe, em mim, Hinário 5, hinario 317, ccb hino 317, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 318
+
+## Título para o vídeo
+Hino 318 - Ó bom Jesus! Ó Salvador!... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 318 - Ó bom Jesus! Ó Salvador!...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 318, “Ó bom Jesus! Ó Salvador!...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 318
+📖 Hinário: Hinário 5
+🎶 Título: Ó bom Jesus! Ó Salvador!...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó bom Jesus! Ó Salvador!
+O pecador pede compaixão,
+Pois só em Ti ele achará
+A salvação e o perdão.
+
+Ó Salvador, vem converter
+O pecador, por compaixão;
+Com Teu falar, vem comover
+E transformar seu coração.
+
+2. Além de Ti, ó Rei dos reis,
+Não há ninguém para dar perdão;
+Somente Tu, ó Salvador,
+És o Autor da redenção.
+
+3. O pecador vive a sofrer
+Sem salvação, sem o Teu favor.
+Mas, crendo em Ti, alcançará
+Divina graça, ó Redentor!
+
+#Hino318 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 318, hino 318 ccb, Ó bom Jesus! Ó Salvador!..., o bom jesus! o salvador!..., Hinário 5, hinario 318, ccb hino 318, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 319
+
+## Título para o vídeo
+Hino 319 - Foi Jesus Quem me salvou | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 319 - Foi Jesus Quem me salvou
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 319, “Foi Jesus Quem me salvou”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 319
+📖 Hinário: Hinário 5
+🎶 Título: Foi Jesus Quem me salvou
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Alegre canto um hino de louvor,
+Pois Cristo me salvou;
+Um hino de vitória e amor
+A Quem me libertou.
+
+Coro:
+Foi Jesus Quem me salvou,
+Minha alma resgatou,
+Minha vida transformou
+Seu amor anunciarei;
+E Seu Nome glorificarei.
+
+2. Minh’alma sente a celeste paz,
+Pois Cristo me salvou;
+Jamais voltar desejo para trás,
+Com Cristo avante eu vou.
+
+3. Só em Jesus eu conheci o amor,
+Amor que me salvou,
+Amor que me tem feito vencedor
+E a vida me doou.
+
+#Hino319 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 319, hino 319 ccb, Foi Jesus Quem me salvou, foi jesus quem me salvou, Hinário 5, hinario 319, ccb hino 319, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 320
+
+## Título para o vídeo
+Hino 320 - Que prazer é andar com Cristo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 320 - Que prazer é andar com Cristo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 320, “Que prazer é andar com Cristo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 320
+📖 Hinário: Hinário 5
+🎶 Título: Que prazer é andar com Cristo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que prazer é andar com Cristo e a Sua voz ouvir,
+Meditar em Seus conselhos que darão feliz porvir;
+Ó queridos, consagremos nossas vidas ao Senhor,
+Para termos a herança no Seu reino de esplendor.
+
+Jesus Cristo, é poderoso,
+Forte, Santo, mui Valoroso,
+Sumo, Sábio, Maravilhoso,
+É o Senhor de tudo e Rei dos reis.
+
+2. Que prazer é andar com Cristo,
+Desfrutar o Seu amor,
+Combater a iniquidade e ao fim ser vencedor;
+Neste mundo o Senhor por nós morreu na dura
+cruz,
+Para dar-nos vida e glória onde há eterna luz.
+
+3. Que prazer é andar com Cristo,
+O Caminho que conduz
+Às moradas sempiternas, de resplandecente luz;
+Só em Cristo há verdade, vida graça e perdão,
+N’Ele temos a certeza de alcançar a perfeição.
+
+#Hino320 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 320, hino 320 ccb, Que prazer é andar com Cristo, que prazer e andar com cristo, Hinário 5, hinario 320, ccb hino 320, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 321
+
+## Título para o vídeo
+Hino 321 - Bendito seja o Deus vivente | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 321 - Bendito seja o Deus vivente
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 321, “Bendito seja o Deus vivente”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 321
+📖 Hinário: Hinário 5
+🎶 Título: Bendito seja o Deus vivente
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Bendito seja o Deus Vivente
+Que nos gerou de novo, em Cristo;
+E, pela graça excelente,
+Nos deu herança lá nos céus,
+Habitação de Deus.
+
+2. A nossa fé é mais preciosa
+Do que o ouro perecível;
+O fim é a salvação gloriosa,
+Incorruptível galardão,
+Eterna redenção.
+
+3. A sã Palavra da verdade
+Que para sempre permanece,
+Nos leva ao Pai da eternidade;
+Também seremos eternais,
+Com corpos celestiais
+
+4. Perece o homem, como a erva,
+E sua glória aqui termina,
+Mas Deus, aos Seus fieis, reserva
+A glória que não findará:
+Seu povo reinará.
+
+#Hino321 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 321, hino 321 ccb, Bendito seja o Deus vivente, bendito seja o deus vivente, Hinário 5, hinario 321, ccb hino 321, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 322
+
+## Título para o vídeo
+Hino 322 - Vem, Rei eterno | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 322 - Vem, Rei eterno
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 322, “Vem, Rei eterno”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 322
+📖 Hinário: Hinário 5
+🎶 Título: Vem, Rei eterno
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A Tua obra de amor contarei, ó glorioso Jesus;
+Que os pecados perdoas, direi,
+E que do mundo és a Luz.
+
+Vem, Rei eterno, vem, Rei da gloria,
+Meu coração abençoar;
+Unge meus lábios e anunciarei
+O Evangelho da graça sem par.
+
+2. Revelarás Teus mistérios, Senhor,
+A todo aquele que crer;
+Pelo Espírito consolador, concederás Teu saber.
+
+3. Por Tua graça me deste o bem,
+a paz, a vida, o amor;
+Certo darás esta graça também
+aos que te buscam, Senhor
+
+#Hino322 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 322, hino 322 ccb, Vem, Rei eterno, vem, rei eterno, Hinário 5, hinario 322, ccb hino 322, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 323
+
+## Título para o vídeo
+Hino 323 - Oh! Não busques, ansioso | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 323 - Oh! Não busques, ansioso
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 323, “Oh! Não busques, ansioso”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 323
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Não busques, ansioso
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Oh! não busques, ansioso,
+Paz, no mundo enganador,
+Pois é só Jesus bondoso,
+O veraz consolador.
+
+Coro:
+Ao Senhor Jesus entrega
+Tua mente e coração,
+Pois o mundo só te leva
+À eterna perdição.
+
+Ouve bem, Jesus te chama
+Para te regenerar
+Com celeste amor te ama
+E deseja te salvar.
+
+Pelo mundo tens andado
+Longe do teu Redentor;
+Não mais sirvas o pecado,
+Serve a Cristo, teu Senhor.
+
+#Hino323 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 323, hino 323 ccb, Oh! Não busques, ansioso, oh! nao busques, ansioso, Hinário 5, hinario 323, ccb hino 323, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 324
+
+## Título para o vídeo
+Hino 324 - Do mal o Salvador veio me tirar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 324 - Do mal o Salvador veio me tirar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 324, “Do mal o Salvador veio me tirar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 324
+📖 Hinário: Hinário 5
+🎶 Título: Do mal o Salvador veio me tirar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Do mundo do pecado, veio me tirar
+Jesus, o Poderoso, que me fará entrar
+Na terra da promessa, pois herdeiro sou.
+Oh! Glória a Jesus Cristo, que já me
+resgatou!
+
+Coro:
+Do mal o Salvador veio me tirar,
+Com Sua forte mão ao céu vai me levar,
+Avante seguirei com o meu Senhor,
+E lá darei louvores a Deus, Criador.
+
+2. Fiel é a promessa do eterno Rei:
+Na terra gloriosa um galardão terei;
+Meu Salvador me guia com saber e luz,
+Louvores ao Eterno! Louvores a Jesus.
+
+3. Não volto ao pecado, sigo meu Senhor,
+Por fé eu já desfruto as bênçãos do amor
+Que foram prometidas pelo Criador;
+No céu, já me esperam riquezas de valor.
+
+#Hino324 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 324, hino 324 ccb, Do mal o Salvador veio me tirar, do mal o salvador veio me tirar, Hinário 5, hinario 324, ccb hino 324, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 325
+
+## Título para o vídeo
+Hino 325 - Que grande tesouro... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 325 - Que grande tesouro...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 325, “Que grande tesouro...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 325
+📖 Hinário: Hinário 5
+🎶 Título: Que grande tesouro...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Louvemos ao Rei dos reis com todo o ser e fervor
+Num só espírito, ó fieis, cantemos hinos de louvor.
+Por graça, temos paz e vida eterna no Senhor.
+
+Que grande tesouro
+Alcançaremos em glória!
+Nem ouro ou prata será,
+Mas vida que não findará.
+
+2. O santo, puro amor somente vem de Jesus,
+Por quem sentimos o vigor de suportar a nossa
+cruz
+Com fé, paciência e calma, irradiando sempre luz.
+
+3. Por Cristo, Sumo Pastor fruímos o grande bem,
+De sermos filhos do bom Deus.
+Que já nos faz provar também
+As celestiais primícias da eternal Jerusalém.
+
+#Hino325 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 325, hino 325 ccb, Que grande tesouro..., que grande tesouro..., Hinário 5, hinario 325, ccb hino 325, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 326
+
+## Título para o vídeo
+Hino 326 - Sempre a Cristo fiéis | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 326 - Sempre a Cristo fiéis
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 326, “Sempre a Cristo fiéis”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 326
+📖 Hinário: Hinário 5
+🎶 Título: Sempre a Cristo fiéis
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1: Sempre a Cristo fiéis nós seremos,
+Sempre firmes devemos lutar;
+Pela graça que nós recebemos,
+Poderemos bons frutos lhe dar.
+
+Sempre fiéis de valor em valor,
+Seguiremos o nosso Pastor;
+Entraremos no lar glorioso
+E veremos o nosso Senhor.
+
+2: Vestiremos, de Deus, a armadura
+Para o nosso inimigo enfrentar;
+A Palavra de Deus, santa e pura,
+Nos fará a vitória alcançar.
+
+3: Finalmente diremos, unidos combatemos,
+Guardamos a Fé; Na presença de Deus, reunidos
+O veremos tal como Ele é.
+
+#Hino326 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 326, hino 326 ccb, Sempre a Cristo fiéis, sempre a cristo fieis, Hinário 5, hinario 326, ccb hino 326, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 327
+
+## Título para o vídeo
+Hino 327 - Soldados somos do Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 327 - Soldados somos do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 327, “Soldados somos do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 327
+📖 Hinário: Hinário 5
+🎶 Título: Soldados somos do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Soldados somos do Senhor,
+Avante, sem temer!
+Deus nos dá força e valor,
+E nos fará vencer.
+
+Galardão nos dará,
+Eternal e excelso bem;
+Ao terminar a luta, nos exaltará
+Na eternal Jerusalém.
+
+2. Lutemos firmes, sem cessar
+Pois Cristo. O Vencedor,
+Nos auxilia a enfrentar
+O astuto tentador.
+
+3. Se forte a peleja for,
+Devemos não temer
+Pois é mais forte o Senhor,
+Imenso é Seu poder.
+
+#Hino327 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 327, hino 327 ccb, Soldados somos do Senhor, soldados somos do senhor, Hinário 5, hinario 327, ccb hino 327, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 328
+
+## Título para o vídeo
+Hino 328 - Toda a glória só a Ti pertence... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 328 - Toda a glória só a Ti pertence...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 328, “Toda a glória só a Ti pertence...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 328
+📖 Hinário: Hinário 5
+🎶 Título: Toda a glória só a Ti pertence...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Grande é o Teu poder, Senhor
+Quão imenso é, ó eterno Deus;
+Não há outro Deus dominador
+Sobre a terra, sobre os mares e nos céus.
+
+Toda a glória só a Ti pertence,
+Pois três vezes Santo és, Senhor;
+Reges tudo com o Teu poder,
+Ó Criador.
+
+2. Manifestam Teu poder os céus,
+Obra Tua é toda criação,
+São perfeitos os caminhos Teus;
+És também Quem dá ao homem salvação
+
+3. É eterno Teu Poder, Senhor;
+Passam gerações, tudo passará
+Mas o Teu poder, Ó Criador
+Para toda a eternidade durará.
+
+#Hino328 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 328, hino 328 ccb, Toda a glória só a Ti pertence..., toda a gloria so a ti pertence..., Hinário 5, hinario 328, ccb hino 328, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 329
+
+## Título para o vídeo
+Hino 329 - Com fé combate | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 329 - Com fé combate
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 329, “Com fé combate”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 329
+📖 Hinário: Hinário 5
+🎶 Título: Com fé combate
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Com Cristo podes ao mal resistir,
+Os Seus conselhos tu deves guardar;
+Se desejares coroa cingir,
+Não deves, nas lutas, desanimar.
+
+Com fé combate, sê fervoroso,
+Tu vencerás com valor;
+Cristo promete ao vitorioso,
+O galardão de esplendor.
+
+2. Em Cristo tens a divina mercê,
+Em tudo, vitorioso serás;
+Sê corajoso, combate com fé,
+Caminha com Cristo e vencerás
+
+3. “Ao que vencer”, disse Cristo Jesus,
+“Seu nome, do livro não riscarei,
+Receberá, no Meu reino de luz,
+O galardão do Senhor, nosso Rei.”
+
+#Hino329 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 329, hino 329 ccb, Com fé combate, com fe combate, Hinário 5, hinario 329, ccb hino 329, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 330
+
+## Título para o vídeo
+Hino 330 - Lá no reino dos céus rejubilarei... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 330 - Lá no reino dos céus rejubilarei...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 330, “Lá no reino dos céus rejubilarei...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 330
+📖 Hinário: Hinário 5
+🎶 Título: Lá no reino dos céus rejubilarei...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao findar a jornada, repousarei
+No reino eterna luz;
+Ao findar a jornada eu entrarei
+No céu, com o meu Jesus.
+
+Lá no reino dos céus rejubilarei
+Ao sentir o excelso amor;
+Lá no reino dos céus contemplarei
+A face do meu Senhor.
+
+2. Sem igual ha de ser minha emoção
+Ao ver o meu senhor voltar;
+E no lar da justiça e da perfeição,
+Jesus me fará morar.
+
+3. Ao findar a jornada, receberei
+O prêmio do meu labor;
+A coroa da glória das mãos do Rei,
+Santo e fiel Senhor
+
+#Hino330 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 330, hino 330 ccb, Lá no reino dos céus rejubilarei..., la no reino dos ceus rejubilarei..., Hinário 5, hinario 330, ccb hino 330, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 331
+
+## Título para o vídeo
+Hino 331 - Vem a Cristo sem tardar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 331 - Vem a Cristo sem tardar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 331, “Vem a Cristo sem tardar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 331
+📖 Hinário: Hinário 5
+🎶 Título: Vem a Cristo sem tardar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vem a Cristo, sem tardar, Sua graça quer te dar,
+Vem, contrito, receber a Sua luz;
+Seu olhar tem sobre ti, Ele quer te perdoar,
+Vem a Cristo entregar-te sem tardar.
+
+2. Vem a Cristo, sem tardar, paz e vida quer te dar,
+Deixa a senda que à morte te conduz;
+Ele quer te transformar, Ele pode te salvar;
+Vem a Cristo entregar-te sem tardar.
+
+3. Vem a Cristo, sem tardar, pois no céu quer te
+Doar
+Um tesouro que, no mundo não terás;
+Tu não deves rejeitar esta graça, que é sem par;
+Vem a Cristo entregar-te sem tardar.
+
+Sem tardar, sem mais tardar,
+A Jesus vem te entregar;
+Seu olhar tem sobre ti, Ele quer te perdoar,
+Vem depressa a Quem te chama, sem tardar.
+
+#Hino331 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 331, hino 331 ccb, Vem a Cristo sem tardar, vem a cristo sem tardar, Hinário 5, hinario 331, ccb hino 331, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 332
+
+## Título para o vídeo
+Hino 332 - É Cristo Quem cuida de ti | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 332 - É Cristo Quem cuida de ti
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 332, “É Cristo Quem cuida de ti”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 332
+📖 Hinário: Hinário 5
+🎶 Título: É Cristo Quem cuida de ti
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo Jesus, o Pastor divinal
+Sempre de ti cuidará
+Ele, que fala de vida e eternal,
+Nunca te abandonará.
+
+Coro:
+É Cristo Quem cuida de ti,
+É Ele quem zela por ti;
+N’Ele descansa, n’Ele tem fé,
+Teu forte Escudo Ele é.
+
+2. Em toda prova, irmão, o Senhor
+Forças do céu te dará;
+Cristo, te salva e faz vencedor,
+Ele jamais falhará.
+
+3. Em Sua graça, irmão, o Senhor
+Sempre te conservará.
+Cristo, teu Guia, também teu Valor,
+Em teu socorro virá.
+
+#Hino332 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 332, hino 332 ccb, É Cristo Quem cuida de ti, e cristo quem cuida de ti, Hinário 5, hinario 332, ccb hino 332, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 333
+
+## Título para o vídeo
+Hino 333 - Peregrino sou no mundo | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 333 - Peregrino sou no mundo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 333, “Peregrino sou no mundo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 333
+📖 Hinário: Hinário 5
+🎶 Título: Peregrino sou no mundo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Peregrino sou no mundo, meu desejo é ir ao céu;
+Deus, por Seu amor profundo,
+Santa pátria prometeu;
+Nas angustias dessa vida, só Jesus me dá guarida;
+Deste mundo nada espero, o meu lar está no céu;
+Consagrar-me a Deus eu quero,
+Para ser herdeiro Seu.
+
+2. Nada impede o meu caminho
+Para habitar no céu;
+Jesus Cristo, o Rei divino,
+Graça e paz me concedeu;
+Pela fé o céu contemplo, entrarei no santo templo;
+Onde Deus, o Pai bondoso, Sua Face mostrará
+Ao Seu povo vitorioso que, com Ele habitará.
+
+3. Não te aflijas, minha alma, há repouso lá no céu;
+Onde existe paz e calma que o mundo não te deu;
+De vitória em vitória, vais com Cristo, à Sua glória;
+Segue avante com o Mestre, d'Ele tens a proteção,
+Pois de força te reveste nesta peregrinação.
+
+#Hino333 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 333, hino 333 ccb, Peregrino sou no mundo, peregrino sou no mundo, Hinário 5, hinario 333, ccb hino 333, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 334
+
+## Título para o vídeo
+Hino 334 - É nos céus, é nos céus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 334 - É nos céus, é nos céus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 334, “É nos céus, é nos céus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 334
+📖 Hinário: Hinário 5
+🎶 Título: É nos céus, é nos céus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Há uma pátria perfeita em beleza,
+Pátria eterna, sublime em amor,
+Nessa pátria de infinda riqueza,
+Tudo tem eternal esplendor.
+
+É nos céus, é nos céus
+Essa pátria de vida e de amor,
+Nela está nosso Deus
+E Jesus, nosso amado Senhor.
+
+2. A Deus Pai o louvor tributemos
+E a Cristo, o Rei divinal;
+E um dia, ao céu subiremos;
+Viveremos na glória eternal.
+
+3. Ao Cordeiro de Deus cantaremos
+Nessa pátria, divino louvor;
+Congregados ali estaremos
+Ante o trono de Deus, Criador.
+
+#Hino334 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 334, hino 334 ccb, É nos céus, é nos céus..., e nos ceus, e nos ceus..., Hinário 5, hinario 334, ccb hino 334, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 335
+
+## Título para o vídeo
+Hino 335 - Sei que, ao findar aqui o meu labor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 335 - Sei que, ao findar aqui o meu labor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 335, “Sei que, ao findar aqui o meu labor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 335
+📖 Hinário: Hinário 5
+🎶 Título: Sei que, ao findar aqui o meu labor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sei que, ao findar aqui o meu labor,
+Reinarei no lar de glória e de esplendor,
+Onde a tristeza não terá lugar;
+Paz e alegria lá vou desfrutar.
+
+Coro:
+Eu almejo nessa pátria entrar,
+E, na glória, com Jesus reinar;
+Com os santos eu entoarei
+Hinos de louvores ao eterno Rei.
+
+2. Sei que, ao findar a luta contra o mal,
+Viverei com Deus na pátria celestial;
+Lá existe paz, justiça e amor,
+E os salvos louvarão ao Criador.
+
+3. Sei que, ao findar o meu peregrinar,
+Entrarei com Cristo no celeste lar,
+Onde os remidos se encontrarão
+E eternamente, a Deus, exaltarão.
+
+#Hino335 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 335, hino 335 ccb, Sei que, ao findar aqui o meu labor..., sei que, ao findar aqui o meu labor..., Hinário 5, hinario 335, ccb hino 335, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 336
+
+## Título para o vídeo
+Hino 336 - Sempre brilhar devemos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 336 - Sempre brilhar devemos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 336, “Sempre brilhar devemos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 336
+📖 Hinário: Hinário 5
+🎶 Título: Sempre brilhar devemos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Resplandecer por Cristo vamos,
+Qual luminar no céu;
+Esclarecer, irmãos, devemos
+Quem em Jesus não creu.
+
+Sempre brilhar devemos, irradiemos luz;
+Neste mundo resplandeceremos por Jesus.
+
+2. Cristo é a Luz que veio ao mundo
+Para o iluminar,
+E, pelo Seu amor profundo,
+Do sono o despertar.
+
+3. Pela Palavra que ilumina,
+Todos entenderão
+Que, só de Cristo a doutrina
+Leva à perfeição.
+
+#Hino336 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 336, hino 336 ccb, Sempre brilhar devemos, sempre brilhar devemos, Hinário 5, hinario 336, ccb hino 336, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 337
+
+## Título para o vídeo
+Hino 337 - Por fé seguimos ao Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 337 - Por fé seguimos ao Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 337, “Por fé seguimos ao Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 337
+📖 Hinário: Hinário 5
+🎶 Título: Por fé seguimos ao Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Fiéis irmãos, mostremos sempre o amor
+Do bom Jesus a todo pecador;
+Não há ninguém que poderá nos parar ou impedir
+De afirmar que Cristo há de vir.
+
+2. Fiéis irmãos, eleitos fomos do Senhor
+A proclamar o Seu eterno amor;
+Embora nós tenhamos que aqui sofrer
+Por esse amor, Jesus no fez vencer.
+
+3. Fiéis irmãos, andemos sempre nesse amor
+Sublime amor do nosso Redentor;
+O galardão receberemos lá nos céus,
+Onde é o lar do Onipresente Deus.
+
+Por fé seguimos o Senhor
+No Seu caminho de amor,
+Amor que mostra a luz divina
+E nos conduz ao Criador.
+Feliz será quem o provar,
+Pois é um amor que não tem par;
+Amor glorioso amor sublime,
+Só em Jesus se pode achar
+
+#Hino337 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 337, hino 337 ccb, Por fé seguimos ao Senhor, por fe seguimos ao senhor, Hinário 5, hinario 337, ccb hino 337, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 338
+
+## Título para o vídeo
+Hino 338 - O Senhor é sempiterno | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 338 - O Senhor é sempiterno
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 338, “O Senhor é sempiterno”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 338
+📖 Hinário: Hinário 5
+🎶 Título: O Senhor é sempiterno
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Senhor é sempiterno, Ele nunca mudará;
+Todas as fiéis promessas a Seu tempo cumprirá;
+Por Seu sangue imaculado, trouxe regeneração;
+Operou, em nossa mente, celestial transformação.
+
+2. Somos reis e sacerdotes feitos para o Criador,
+E a Ele serviremos em justiça e amor,
+Para que entrar possamos na presença
+Do bom Deus
+E viver eternamente com os santos lá nos céus.
+
+3. Não percamos a herança que nos veio por Jesus,
+Breve vamos possuí-la no eterno lar de luz.
+Prossigamos no caminho da cidade do Senhor,
+Onde juntos reinaremos com o nosso Redentor.
+
+#Hino338 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 338, hino 338 ccb, O Senhor é sempiterno, o senhor e sempiterno, Hinário 5, hinario 338, ccb hino 338, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 339
+
+## Título para o vídeo
+Hino 339 - Quando aqui terminar meu labor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 339 - Quando aqui terminar meu labor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 339, “Quando aqui terminar meu labor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 339
+📖 Hinário: Hinário 5
+🎶 Título: Quando aqui terminar meu labor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quando aqui terminar meu labor,
+Quando a minha carreira findar,
+Quando voltar meu amado Senhor,
+Glória sem par eu irei desfrutar.
+
+Glória sem par contemplarei,
+Glória sem par receberei;
+Grande tesouro Jesus vai me dar:
+Glória eterna, a glória sem par.
+
+2. Por Sua grande bondade, o meu Deus
+Me faz herdeiro com Cristo Jesus;
+Ele reserva no reino dos céus,
+Glória sem par aos que andam na luz.
+
+3. É momentânea a tribulação
+Dos que procuram a Deus agradar,
+Pois das tristezas não se lembrarão
+Quando estiverem na gloria sem par.
+
+#Hino339 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 339, hino 339 ccb, Quando aqui terminar meu labor..., quando aqui terminar meu labor..., Hinário 5, hinario 339, ccb hino 339, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 340
+
+## Título para o vídeo
+Hino 340 - No mundo sou peregrino | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 340 - No mundo sou peregrino
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 340, “No mundo sou peregrino”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 340
+📖 Hinário: Hinário 5
+🎶 Título: No mundo sou peregrino
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. No Mundo sou peregrino,
+É Cristo meu Condutor;
+Ele é o Caminho que leva ao céu.
+Também é meu Salvador.
+
+Eu subirei com Cristo à celestial Sião,
+É Ele Quem me guia na peregrinação;
+Quando eu entrar na glória o meu amado Rei,
+Ao contemplar, Sua face, regozijar-me-ei
+
+2. No mundo sou peregrino,
+Quem pode aqui me ajudar?
+Só Cristo, a Porta do reino do céus.,
+Por Quem poderei entrar.
+
+3. No mundo sou peregrino,
+Ando aqui com Jesus;
+Busco as moradas do pai celestial,
+O lar de justiça e luz.
+
+#Hino340 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 340, hino 340 ccb, No mundo sou peregrino, no mundo sou peregrino, Hinário 5, hinario 340, ccb hino 340, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 341
+
+## Título para o vídeo
+Hino 341 - Com fé espera no Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 341 - Com fé espera no Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 341, “Com fé espera no Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 341
+📖 Hinário: Hinário 5
+🎶 Título: Com fé espera no Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Com fé espera no Senhor em tuas provas,
+Também na dor,
+Paciência e paz alcançarás
+Do teu amado e fiel Senhor.
+Jesus virá te socorrer; é grande, eterno, Seu poder.
+Com fé espera no Senhor,
+Somente Ele te faz vencer
+
+2. Orando, sempre sentirás a Sua doce consolação;
+Jesus te fortalecerá; suster-te-á com a Sua mão;
+As tuas causas o Senhor resolverá, por Seu amor.
+Com fé espera no Senhor;
+Com fé espera no Salvador.
+
+3. O que recebes do Senhor,
+Com zelo deves em ti guardar,
+Á tua mão direita está o teu Pastor para te guiar.
+Depois, ao céu te levará; em glória te receberá.
+Com fé espera no Senhor;
+O teu desejo Ele cumprirá.
+
+#Hino341 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 341, hino 341 ccb, Com fé espera no Senhor, com fe espera no senhor, Hinário 5, hinario 341, ccb hino 341, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 342
+
+## Título para o vídeo
+Hino 342 - Sião celestial | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 342 - Sião celestial
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 342, “Sião celestial”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 342
+📖 Hinário: Hinário 5
+🎶 Título: Sião celestial
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sião celestial, é repouso dos santos,
+O teu arquiteto é chamado Senhor;
+Ali entrarão com louvor e com cantos,
+Aqueles que adoram o bom Criador;
+Das preciosidades esta adornada por Deus,
+É indescritível, sem par, sua luz;
+A sua grandeza, o Senhor reservou para os Seus,
+Reflete a glória de Cristo Jesus;
+De Cristo Jesus, de Cristo Jesus,
+Reflete a glória de Cristo Jesus.
+
+2. Naquela morada há luz permanente,
+A lâmpada é Cristo Jesus, o Senhor;
+Os seus pensamentos são pedras fulgentes,
+É mui majestoso o seu esplendor;
+Os santos remidos, com hino de glória triunfal,
+Caminham com Cristo e lá reinarão;
+Será para os justos o lar de repouso eternal,
+Sublime será nossa consolação;
+Sublime será, sublime será,
+Sublime será nossa consolação.
+
+#Hino342 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 342, hino 342 ccb, Sião celestial, siao celestial, Hinário 5, hinario 342, ccb hino 342, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 343
+
+## Título para o vídeo
+Hino 343 - Neste mundo somos peregrinos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 343 - Neste mundo somos peregrinos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 343, “Neste mundo somos peregrinos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 343
+📖 Hinário: Hinário 5
+🎶 Título: Neste mundo somos peregrinos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Neste mundo somos peregrinos,
+Nosso lar é a mansão de Deus;
+Que alegria já sentimos
+De, um dia, entrar nos céus!
+
+Lá no céu cantaremos,
+Todos juntos, louvores ao Senhor;
+Lá no céu veremos
+Jesus, em grande esplendor.
+
+2. Sempre por fé, ó irmãos, andemos,
+Esta vida breve findará;
+Se fiéis permanecermos,
+Deus, a glória nos dará.
+
+3. Preparados, nós esperaremos
+A Jesus, unidos em amor;
+E com Ele entraremos
+Na cidade do Senhor.
+
+#Hino343 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 343, hino 343 ccb, Neste mundo somos peregrinos..., neste mundo somos peregrinos..., Hinário 5, hinario 343, ccb hino 343, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 344
+
+## Título para o vídeo
+Hino 344 - Vou encontrar meu Deus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 344 - Vou encontrar meu Deus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 344, “Vou encontrar meu Deus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 344
+📖 Hinário: Hinário 5
+🎶 Título: Vou encontrar meu Deus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Para a cidade eterna eu vou,
+Pois bem fundado em Cristo estou;
+Tenho a certeza de nela entrar
+E com Jesus reinar
+
+Vou encontrar meu Deus,
+Com os remidos no reino de amor;
+É meu desejo ir para os céus
+E estar com o Senhor.
+
+2. Por este mundo não tenho atração;
+Firme aguardo o meu galardão;
+Para alcançá-lo, Jesus, meu Pastor,
+Me guia com amor.
+
+3. Incomparável tesouro achei
+Em Jesus Cristo, o meu grande Rei;
+Breve nos céus eu irei desfrutar
+Glória que não tem par.
+
+#Hino344 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 344, hino 344 ccb, Vou encontrar meu Deus, vou encontrar meu deus, Hinário 5, hinario 344, ccb hino 344, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 345
+
+## Título para o vídeo
+Hino 345 - Regozijo-me em falar do Salvador | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 345 - Regozijo-me em falar do Salvador
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 345, “Regozijo-me em falar do Salvador”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 345
+📖 Hinário: Hinário 5
+🎶 Título: Regozijo-me em falar do Salvador
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Regozijo-me em falar do Salvador
+Que me concedeu imenso favor;
+O Seu sangue derramou, meus pecados perdoou
+Sobre a cruz, onde tudo consumou.
+
+Louvarei! Louvarei!
+Louvarei a Quem me deu a salvação;
+Cantarei! Cantarei!
+A Jesus, Autor da minha redenção.
+
+2. Regozijo-me em falar do Salvador
+Meu amado e fiel Remidor,
+Que me deu a salvação, pela Sua compaixão.
+Aleluia! Eu sinto Seu perdão.
+
+3. Regozijo-me em falar do Salvador,
+Pois das trevas me tirou, por amor,
+Me chamou à Sua luz, e à glória me conduz
+Com fervor louvarei ao meu Jesus.
+
+#Hino345 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 345, hino 345 ccb, Regozijo-me em falar do Salvador, regozijo-me em falar do salvador, Hinário 5, hinario 345, ccb hino 345, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 346
+
+## Título para o vídeo
+Hino 346 - Longe do mal e perto de Ti | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 346 - Longe do mal e perto de Ti
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 346, “Longe do mal e perto de Ti”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 346
+📖 Hinário: Hinário 5
+🎶 Título: Longe do mal e perto de Ti
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Longe do mal e perto de Ti eu já estou,
+Ó meu Jesus;
+Paz neste mundo nunca senti, não tinha Tua luz;
+Já livre estou da condenação,
+Já livre estou da ira de Deus;
+Tu me livraste da perdição para levar-me aos céus.
+
+2. Longe do mal, ó meu Guardião,
+Vivo feliz em Teu amor;
+Sinto alegria em meu coração, ó justo Salvador.
+Com toda a alma eu cantarei hinos
+De glória em Teu louvor;
+Por toda a vida Te bendirei e Te amarei, Senhor.
+
+3. Longe do mal Contigo andarei,
+Não temerei o tentador;
+Sobre a terra Te honrarei, santo e fiel Senhor.
+Vem dilatar o meu coração,
+Vem estreitar-me em Ti, ó Jesus;
+Quero amar-Te com devoção, és minha Vida e Luz.
+
+#Hino346 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 346, hino 346 ccb, Longe do mal e perto de Ti, longe do mal e perto de ti, Hinário 5, hinario 346, ccb hino 346, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 347
+
+## Título para o vídeo
+Hino 347 - Passa o céu e a terra, mas Jesus não mudará... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 347 - Passa o céu e a terra, mas Jesus não mudará...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 347, “Passa o céu e a terra, mas Jesus não mudará...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 347
+📖 Hinário: Hinário 5
+🎶 Título: Passa o céu e a terra, mas Jesus não mudará...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Passa o céu e a terra, mas Jesus não mudará;
+O Seu reino é de grande glória que e jamais
+passará;
+Ele é sempre o mesmo, Ele é chamado “O Senhor”;
+Ao Seu santo mandado nada pode se opor.
+
+2. Ao enfermo que esperava a libertação,
+Disse: “Filho, os teus pecados perdoados estão.”
+Hoje, Cristo Jesus à destra de Deus sentado está
+E, do homem que n’Ele crer, se compadecerá.
+
+3. Sobre todas as coisas Cristo tem poder total;
+N’Ele habita a plenitude de Deus, Pai celestial.
+Esse mesmo Jesus que foi para os céus, retornará;
+Coroado de glória e honra Ele voltará.
+
+Ontem, hoje e eternamente é o mesmo,
+Cristo Jesus,
+Ele é o Verbo de Deus,
+Que nos trouxe graça, vida e luz.
+Santo e fiel é Jesus, Redentor!
+Tudo passa, mas Cristo, não;
+Glória ao Salvador!
+
+#Hino347 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 347, hino 347 ccb, Passa o céu e a terra, mas Jesus não mudará..., passa o ceu e a terra, mas jesus nao mudara..., Hinário 5, hinario 347, ccb hino 347, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 348
+
+## Título para o vídeo
+Hino 348 - Na jornada do Evangelho, caminhamos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 348 - Na jornada do Evangelho, caminhamos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 348, “Na jornada do Evangelho, caminhamos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 348
+📖 Hinário: Hinário 5
+🎶 Título: Na jornada do Evangelho, caminhamos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Na jornada do Evangelho,
+Caminhamos com Jesus;
+Ele é o Autor de todo o bem;
+A quem crê e obedece,
+O Senhor sempre enriquece com
+Os dons que d'Ele vêm.
+
+Coro:
+Em Cristo espera, sem vacilar;
+Paz, fé e virtude tem para nos dar.
+
+2. Se em mar tempestuoso nosso barco perigar,
+Em Cristo vamos confiar; perto está e nos atende,
+Sempre Sua mão estende para vir nos libertar.
+
+3. Nem os grandes sofrimentos
+Nos separam do amor
+Do Redentor, o bom Jesus, que,
+Nas lutas desta vida,
+Aos fiéis dará guarida; Ele é a nossa Luz.
+
+#Hino348 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 348, hino 348 ccb, Na jornada do Evangelho, caminhamos..., na jornada do evangelho, caminhamos..., Hinário 5, hinario 348, ccb hino 348, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 349
+
+## Título para o vídeo
+Hino 349 - Irmãos amados | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 349 - Irmãos amados
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 349, “Irmãos amados”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 349
+📖 Hinário: Hinário 5
+🎶 Título: Irmãos amados
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Irmãos amados, já resgatados
+Por Jesus Cristo, O Verdadeiro,
+Seguindo avante, com fé constante,
+Sirvamos ao Senhor Jesus.
+
+Irmãos amados, já resgatados,
+Por Cristo fomos regenerados,
+Com o Seu sangue purificados;
+Bendito é o Nome do Senhor.
+
+2. Irmãos amados, purificados,
+Jesus louvemos e O adoremos;
+Remidos somos, comprados fomos
+Com o Seu sangue expiador.
+
+3. Irmãos amados, regenerados,
+Por fé nós somos, justificados;
+Se combatemos, vitória temos
+Em nome do Senhor Jesus.
+
+#Hino349 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 349, hino 349 ccb, Irmãos amados, irmaos amados, Hinário 5, hinario 349, ccb hino 349, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 350
+
+## Título para o vídeo
+Hino 350 - Sempre unido a Cristo devo estar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 350 - Sempre unido a Cristo devo estar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 350, “Sempre unido a Cristo devo estar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 350
+📖 Hinário: Hinário 5
+🎶 Título: Sempre unido a Cristo devo estar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A jornada farei com Jesus, meu Senhor,
+Certamente ao céu chegarei;
+Peregrino aqui sou, busco o lar de esplendor,
+Onde os bens celestiais fruirei.
+
+Sempre unido a Cristo devo estar,
+Para, nos perigos não vacilar;
+Sinto a voz divina em meu coração,
+Que me oferece o galardão.
+
+2. A jornada será, para mim um prazer,
+Caminhando com meu Salvador,
+Quero ao mal renunciar e a graça reter,
+Quero ser, sobre o mal, vencedor.
+
+3. A jornada farei com a força de Deus,
+Nos perigos guardado serei,
+Pois comigo está Quem me leva aos céus;
+Bem seguro, então, marcharei.
+
+#Hino350 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 350, hino 350 ccb, Sempre unido a Cristo devo estar..., sempre unido a cristo devo estar..., Hinário 5, hinario 350, ccb hino 350, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 351
+
+## Título para o vídeo
+Hino 351 - Senhor, à Tua presença | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 351 - Senhor, à Tua presença
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 351, “Senhor, à Tua presença”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 351
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, à Tua presença
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, à Tua presença,
+Em paz vamos nos prostrar,
+E pelo Espírito Santo,
+Teu Nome celeste invocar.
+
+2. Senhor, és Tu que conheces
+O que sente o coração;
+Humildes, Te suplicamos:
+Atende a nossa oração.
+
+3. Senhor, com fé Te rogamos:
+Concede-nos mais temor,
+A fim de permanecermos
+Em Tua justiça e amor.
+
+4. Do trono da Tua graça,
+Envia consolação;
+As bênçãos nós esperamos;
+Responde a nossa oração.
+
+#Hino351 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 351, hino 351 ccb, Senhor, à Tua presença, senhor, a tua presenca, Hinário 5, hinario 351, ccb hino 351, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 352
+
+## Título para o vídeo
+Hino 352 - Sinto viva esperança | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 352 - Sinto viva esperança
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 352, “Sinto viva esperança”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 352
+📖 Hinário: Hinário 5
+🎶 Título: Sinto viva esperança
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao Seu banquete de perdão
+Me convidou Jesus;
+Por graça, deu-me introdução
+No reino Seu de luz.
+
+Sinto viva esperança em mim,
+Esperança de ver o Senhor
+E herdar as moradas eternas,
+Onde é tudo esplendor.
+
+2. Do mundo nada temerei,
+Pois vivo com Jesus,
+E confundido não serei,
+Andando em Sua luz.
+
+3. Na vida devo combater
+Com fé em meu Jesus;
+Não temerei o mau poder
+Pois tenho a eterna luz.
+
+#Hino352 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 352, hino 352 ccb, Sinto viva esperança, sinto viva esperanca, Hinário 5, hinario 352, ccb hino 352, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 353
+
+## Título para o vídeo
+Hino 353 - Nós somos eleitos por Deus, Criador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 353 - Nós somos eleitos por Deus, Criador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 353, “Nós somos eleitos por Deus, Criador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 353
+📖 Hinário: Hinário 5
+🎶 Título: Nós somos eleitos por Deus, Criador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eleito nós somos por Deus, o Verdadeiro,
+E fomos remidos por Seu grande amor;
+Vivemos por Cristo, o divinal Cordeiro,
+Oh! Glória, Aleluia! Hosana ao Senhor!
+
+Nós somos eleitos por Deus, Criador;
+Nos céus fruiremos a herança de amor.
+
+2. Do trono celeste, poder nós buscaremos
+E chuvas de bênçãos dará o Criador;
+Na graça gloriosa, por fé nós cresceremos,
+Oh! Glória, Aleluia! Hosana ao Senhor!
+
+3. Está perto a volta de Cristo, o Rei da glória,
+Irmão, aguardemos com fé e fervor;
+No céu cantaremos o hino da vitória,
+Oh! Glória, Aleluia! Hosana ao Senhor!
+
+#Hino353 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 353, hino 353 ccb, Nós somos eleitos por Deus, Criador..., nos somos eleitos por deus, criador..., Hinário 5, hinario 353, ccb hino 353, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 354
+
+## Título para o vídeo
+Hino 354 - Jerusalém celestial! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 354 - Jerusalém celestial!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 354, “Jerusalém celestial!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 354
+📖 Hinário: Hinário 5
+🎶 Título: Jerusalém celestial!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jerusalém celestial,
+Cidade do eterno Deus!
+Mui breve ali se encontrarão
+Os santos cidadãos dos céus.
+
+Jerusalém celestial,
+Lugar de paz e de esplendor;
+Por fé, podemos contemplar
+A terra que Deus nos vai dar;
+Então o exílio findará
+O povo santo reinará.
+
+2. Jerusalém celestial
+É a cidade onde entrarão
+Os que amaram o Senhor
+Com um sincero coração.
+
+3. Jerusalém celestial
+Do incomparável esplendor;
+É adornada de amor
+E majestade do Senhor.
+
+#Hino354 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 354, hino 354 ccb, Jerusalém celestial!, jerusalem celestial!, Hinário 5, hinario 354, ccb hino 354, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 355
+
+## Título para o vídeo
+Hino 355 - Ao bom Pai, o Deus eterno... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 355 - Ao bom Pai, o Deus eterno...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 355, “Ao bom Pai, o Deus eterno...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 355
+📖 Hinário: Hinário 5
+🎶 Título: Ao bom Pai, o Deus eterno...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A Ti, Deus, eu consagrei-me
+Para sempre Te servir;
+De Teus dons vem revestir-me
+E de amor também cingir.
+Vem manter-me sempre firme,
+Bem disposto a Te ouvir
+
+Coro:
+Ao bom Pai, o Deus eterno,
+Consagrei meu coração;
+Com sublime amor superno
+Me prometeu o galardão.
+
+2. Nesta graça preciosa, sou ditoso em viver;
+Que herança gloriosa do Senhor vou receber!
+Esta fé maravilhosa quero sempre em mim reter.
+
+3. Um futuro mui glorioso eu achei em Ti, Senhor;
+Ó bom Deus, fiel, piedoso, revestiste-me de amor.
+Eu aguardo, ansioso, ver Teu rosto, ó Criador.
+
+#Hino355 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 355, hino 355 ccb, Ao bom Pai, o Deus eterno..., ao bom pai, o deus eterno..., Hinário 5, hinario 355, ccb hino 355, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 356
+
+## Título para o vídeo
+Hino 356 - Por preço elevado Jesus resgatou-me | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 356 - Por preço elevado Jesus resgatou-me
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 356, “Por preço elevado Jesus resgatou-me”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 356
+📖 Hinário: Hinário 5
+🎶 Título: Por preço elevado Jesus resgatou-me
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Por preço elevado Jesus resgatou-me
+Por preço que ouro não pode pagar;
+Com Seu próprio sangue o Mestre comprou-me
+A fim de fazer-me na glória entrar.
+
+Não tem valor a prata e o ouro
+Para dar a salvação,
+Nem há na terra algum tesouro
+Que resgate e dê perdão.
+
+2. O ouro não dá remissão do pecado,
+A prata não leva ao reino dos céus,
+Somente o sangue, na cruz derramado,
+Livrou-me da morte, por graça de Deus.
+
+2. O sangue precioso e imaculado
+De Cristo Jesus conduziu-me a Deus;
+É nele que sempre estou abrigado,
+Por ele conservo a vida dos céus.
+
+#Hino356 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 356, hino 356 ccb, Por preço elevado Jesus resgatou-me, por preco elevado jesus resgatou-me, Hinário 5, hinario 356, ccb hino 356, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 357
+
+## Título para o vídeo
+Hino 357 - Face a face O verei | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 357 - Face a face O verei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 357, “Face a face O verei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 357
+📖 Hinário: Hinário 5
+🎶 Título: Face a face O verei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Aguardo a vinda do Senhor
+Que revelou- Se em meu ser;
+Aguardo Cristo, o Redentor,
+Pois vai em breve aparecer.
+
+E face a face O verei;
+Contemplarei Jesus, meu Rei,
+Que para Deus me levará;
+A herança eterna me dará.
+
+2. Jesus, o amado Redentor,
+Com voz de Arcanjo irá surgir;
+Como escolhido do Senhor,
+Irei os bens de Deus fruir.
+
+3. O céu aberto eu verei,
+Nele entrarei com meu Jesus.
+Até que venha, esperarei
+Sem que se apague a minha luz.
+
+#Hino357 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 357, hino 357 ccb, Face a face O verei, face a face o verei, Hinário 5, hinario 357, ccb hino 357, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 358
+
+## Título para o vídeo
+Hino 358 - O Teu precioso sangue | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 358 - O Teu precioso sangue
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 358, “O Teu precioso sangue”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 358
+📖 Hinário: Hinário 5
+🎶 Título: O Teu precioso sangue
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Teu precioso sangue, ó divinal cordeiro
+Do mundo resgatou-me, por teu imenso amor;
+Faz que em Ti esteja a minha confiança,
+Dá-me perseverança e fé, ó Redentor.
+
+2. Fraco eu sou, no mundo, para enfrentar a lida,
+Mas, com celeste força, o mal não temerei;
+Vindo o inimigo para enlaçar-me a vida,
+Sei que terei guarida em Ti, meu grande Rei.
+
+3. Estando sempre atento à celestial Palavra
+Nunca serei vencido do mal, ó meu Senhor
+O Teu falar divino confortará minh’alma
+Dando-lhe paz e calma, firmeza e fervor.
+
+#Hino358 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 358, hino 358 ccb, O Teu precioso sangue, o teu precioso sangue, Hinário 5, hinario 358, ccb hino 358, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 359
+
+## Título para o vídeo
+Hino 359 - Ó irmãos, de Deus diletos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 359 - Ó irmãos, de Deus diletos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 359, “Ó irmãos, de Deus diletos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 359
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, de Deus diletos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, de Deus diletos,
+Fomos já por graça eleitos;
+Cristo nos fará perfeitos
+Se O servimos pela fé
+
+Coro:
+A nosso Deus cantemos louvor,
+Por Seu amor, por Sua mercê;
+Vamos servir ao bom Criador
+E a Jesus, Autor da fé.
+
+2. Nosso Deus tem nos amado
+E nos tem justificado
+Por Jesus, o consagrado,
+O Cordeiro Remidor.
+
+3. Deus, o Pai, regenerou-nos,
+Em Jesus predestinou-se;
+Seu Espírito enviou-nos,
+Para a eterna redenção.
+
+#Hino359 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 359, hino 359 ccb, Ó irmãos, de Deus diletos, o irmaos, de deus diletos, Hinário 5, hinario 359, ccb hino 359, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 360
+
+## Título para o vídeo
+Hino 360 - Firmes sejamos no Salvador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 360 - Firmes sejamos no Salvador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 360, “Firmes sejamos no Salvador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 360
+📖 Hinário: Hinário 5
+🎶 Título: Firmes sejamos no Salvador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Do mal apartados devemos estar,
+E a todo momento em Cristo pensar;
+Unidos a ele devemos andar;
+Oh! Glória, Aleluia, vamos entoar.
+
+Firmes, sejamos no Salvador,
+Na santidade e no fervor;
+Ele, o Forte, o Defensor
+Dará vitória, Aleluia!
+
+2. Jesus nos amou, para Deus nos comprou,
+O Santo Espírito nos enviou;
+Lugar nesta graça também preparou;
+Oh! Glória! Aleluia! Cristo nos salvou.
+
+3. Está perto o dia em que o Senhor
+Virá, como Esposo, com grande esplendor,
+A todos que buscam virtude e amor;
+Oh! Glória! Aleluia! Grande é Seu favor!
+
+#Hino360 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 360, hino 360 ccb, Firmes sejamos no Salvador..., firmes sejamos no salvador..., Hinário 5, hinario 360, ccb hino 360, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 361
+
+## Título para o vídeo
+Hino 361 - Tudo entende o Salvador | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 361 - Tudo entende o Salvador
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 361, “Tudo entende o Salvador”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 361
+📖 Hinário: Hinário 5
+🎶 Título: Tudo entende o Salvador
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Atribulado te encontras, irmão?
+Quer o desanimo te dominar?
+Abre a Cristo o teu coração,
+Tudo Ele entende e te pode ajudar.
+
+Tudo entende o Salvador,
+O teu sentir, tua aflição;
+Tu provarás o Seu grande amor;
+Ele conhece o Teu coração.
+
+2. Não desanimes, pois o Redentor
+É Atalaia de todos os Seus;
+Ele, do céu, ouvirá teu clamor;
+Tudo entende o filho de Deus.
+
+3. Obra perfeita procura fazer,
+Tem paciência na luta e na dor;
+Cristo é contigo e d’Ele é o poder;
+Tudo entende o teu Salvador.
+
+#Hino361 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 361, hino 361 ccb, Tudo entende o Salvador, tudo entende o salvador, Hinário 5, hinario 361, ccb hino 361, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 362
+
+## Título para o vídeo
+Hino 362 - Que bela herança! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 362 - Que bela herança!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 362, “Que bela herança!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 362
+📖 Hinário: Hinário 5
+🎶 Título: Que bela herança!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que bela herança, Deus me reserva
+Junto a Jesus, o meu Redentor!
+Para alcançá-la Deus me preserva
+De todo o mal, por grande amor.
+
+Breve, no céu, os santos remidos
+Receberão o reino e o poder;
+Breve, os fieis por Deus escolhidos,
+Vão, com Jesus, resplandecer.
+
+2. Próximo é o dia tão esperado
+Em que Jesus do céu voltará;
+Oh! Que encontro tão desejado!
+Quem for fiel, a Deus subirá.
+
+3. É inefável, grande e superno
+O galardão que vou desfrutar;
+Com Jesus Cristo no reino eterno
+Junto a Deus, irei habitar.
+
+#Hino362 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 362, hino 362 ccb, Que bela herança!, que bela heranca!, Hinário 5, hinario 362, ccb hino 362, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 363
+
+## Título para o vídeo
+Hino 363 - Aos Teus pés estou, Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 363 - Aos Teus pés estou, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 363, “Aos Teus pés estou, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 363
+📖 Hinário: Hinário 5
+🎶 Título: Aos Teus pés estou, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Aos Teus pés estou, Senhor,
+Elevando o meu clamor;
+Faz raiar a Tua luz
+Em minh'alma, Criador.
+
+2. Junto a Ti, ó Formador,
+Dá-me graça para estar;
+Quero, com temor e fé,
+Teus conselhos escutar.
+
+3. Adorando-Te, Senhor,
+Eu espero receber
+Forças para Te servir
+E, em retidão, crescer.
+
+4. O meu cálix transbordar
+Faz por graça, ó Senhor,
+Eu desejo atender
+Teus conselhos de amor.
+
+#Hino363 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 363, hino 363 ccb, Aos Teus pés estou, Senhor, aos teus pes estou, senhor, Hinário 5, hinario 363, ccb hino 363, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 364
+
+## Título para o vídeo
+Hino 364 - Os tempos já chegados são... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 364 - Os tempos já chegados são...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 364, “Os tempos já chegados são...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 364
+📖 Hinário: Hinário 5
+🎶 Título: Os tempos já chegados são...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Os tempos já chegados são,
+Os dias Deus abreviou;
+Bem perto está a consumação
+Das promessas que Deus anunciou.
+
+O nosso Rei não tardará!
+Virá do céu com resplendor;
+O povo santo, ao vê-Lo, Lhe dirá:
+Sim, vem, amado Senhor!
+
+2. Os que servirem ao Senhor,
+Com glória aparecerão;
+No reino eterno de amor,
+Como o sol eles resplandecerão.
+
+3. Quem tem ouvidos para ouvir,
+Atenda o Espírito de Deus,
+Que fala do feliz porvir
+Preparado aos santos lá nos céus.
+
+#Hino364 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 364, hino 364 ccb, Os tempos já chegados são..., os tempos ja chegados sao..., Hinário 5, hinario 364, ccb hino 364, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 365
+
+## Título para o vídeo
+Hino 365 - Ó Pai celestial, vivente Criador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 365 - Ó Pai celestial, vivente Criador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 365, “Ó Pai celestial, vivente Criador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 365
+📖 Hinário: Hinário 5
+🎶 Título: Ó Pai celestial, vivente Criador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Pai celestial, vivente Criador,
+Contrito, venho a Ti, por Cristo, o Redentor;
+Por Tua piedade, Deus de caridade,
+Perdoa os meus erros, suplico, Senhor.
+
+2. Confesso-Te, Senhor, a minha imperfeição;
+Desejo aprender por Tua correção;
+Aguardo, Pai amado, ser justificado;
+Com arrependimento eu rogo perdão.
+
+3. É vão o meu viver sem Teu sublime amor;
+Com zelo paternal conduze-me, Senhor;
+De Ti, ó Deus bendito, sempre necessito;
+Seguir-Te-ei de perto, com todo o fervor.
+
+#Hino365 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 365, hino 365 ccb, Ó Pai celestial, vivente Criador..., o pai celestial, vivente criador..., Hinário 5, hinario 365, ccb hino 365, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 366
+
+## Título para o vídeo
+Hino 366 - Pela fé tereis vitória | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 366 - Pela fé tereis vitória
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 366, “Pela fé tereis vitória”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 366
+📖 Hinário: Hinário 5
+🎶 Título: Pela fé tereis vitória
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O santo Evangelho diz: Marchai!
+Tende fé em Deus, n´Ele confiai;
+Todas as batalhas enfrentai,
+Pela fé tereis vitória.
+
+Deus por Cristo, tudo cumprirá,
+Seu auxilio nunca faltará;
+Nos combates vos ajudará,
+Pela fé tereis vitória.
+
+2. O cristão não deve recuar;
+Mas com fé em Deus, sempre avançar;
+Com coragem ide pelejar,
+Pela fé tereis vitória.
+
+3. O mal não resiste ao Seu poder,
+Com a unção de Deus, ide combater;
+Deus coroará ao que vencer,
+Pela fé tereis vitória.
+
+#Hino366 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 366, hino 366 ccb, Pela fé tereis vitória, pela fe tereis vitoria, Hinário 5, hinario 366, ccb hino 366, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 367
+
+## Título para o vídeo
+Hino 367 - Ao que vive para sempre... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 367 - Ao que vive para sempre...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 367, “Ao que vive para sempre...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 367
+📖 Hinário: Hinário 5
+🎶 Título: Ao que vive para sempre...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao que vive para sempre, seja glória e louvor;
+Ao Senhor, três vezes Santo,
+Deus de tudo Criador;
+Nesta terra louvem-No os santos Seus;
+Nas alturas seja glória ao grande Deus.
+
+2. Ao mandado do Eterno logo tudo apareceu;
+Ele fez o sol e a lua, fez a terra e o céu;
+Sua obra não se pode esquadrinhar,
+Sua glória não se pode imaginar.
+
+3. Salvação e vida eterna preparou o Criador,
+Enviando Jesus Cristo, nosso amado Redentor.
+É perfeita toda a obra do bom Deus;
+São perfeitos todos os caminhos Seus.
+
+4. Ao que vive para sempre, seja glória e louvor;
+Ao Senhor, três vezes Santo,
+Deus de tudo o Criador;
+Nesta terra louvem-No os santos Seus;
+Nas alturas seja glória ao grande Deus.
+
+#Hino367 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 367, hino 367 ccb, Ao que vive para sempre..., ao que vive para sempre..., Hinário 5, hinario 367, ccb hino 367, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 368
+
+## Título para o vídeo
+Hino 368 - Não duvidemos, Deus nos elegeu... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 368 - Não duvidemos, Deus nos elegeu...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 368, “Não duvidemos, Deus nos elegeu...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 368
+📖 Hinário: Hinário 5
+🎶 Título: Não duvidemos, Deus nos elegeu...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Não duvidemos, Deus nos elegeu para Si,
+Em Jesus;
+Confirmará a nossa salvação com poder,
+Graça e luz.
+Salvo não será quem não combater,
+Quem, na caminhada, esmorecer;
+Os vitoriosos reinarão e com Deus viverão.
+
+2. Tem proteção o povo do Senhor,
+Proteção eficaz;
+Seu fundamento é Cristo, o Salvador,
+Que lhe dá vida e paz;
+Por Seu verdadeiro adorador,
+Deus, o Criador, tem profundo amor;
+Bem perto está e cuidará, guardará, salvará.
+
+3. Se Deus, o Pai, estando nós no mal,
+Nos amou perdoou,
+E, por Jesus, Cordeiro divinal,
+Salvação nos mandou,
+Como não dará aos eleitos Seus
+Graça e poder de chegar aos céus?
+Que inefável afeição, celestial eleição!
+
+#Hino368 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 368, hino 368 ccb, Não duvidemos, Deus nos elegeu..., nao duvidemos, deus nos elegeu..., Hinário 5, hinario 368, ccb hino 368, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 369
+
+## Título para o vídeo
+Hino 369 - Sentes bater em teu coração? | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 369 - Sentes bater em teu coração?
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 369, “Sentes bater em teu coração?”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 369
+📖 Hinário: Hinário 5
+🎶 Título: Sentes bater em teu coração?
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo bate e quer entrar,
+Quer te remir, por Seu amor,
+Para te reconciliar
+Com Deus, o Pai, o Formador.
+
+Sentes bater em teu coração?
+Esse é o chamado do Senhor.
+Tens, por Ele, a salvação
+E o perdão do Criador.
+
+2. Jesus Cristo, o Rei da paz,
+A salvação veio te dar;
+Seu amor feliz te faz,
+Pois quer, em Ti, sempre habitar.
+
+3. Vem a Cristo, o Redentor,
+Dá-Lhe, por fé, teu coração;
+Reconhece o Seu amor;
+Tens, em Jesus, a redenção.
+
+#Hino369 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 369, hino 369 ccb, Sentes bater em teu coração?, sentes bater em teu coracao?, Hinário 5, hinario 369, ccb hino 369, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 370
+
+## Título para o vídeo
+Hino 370 - Têm os santos do Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 370 - Têm os santos do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 370, “Têm os santos do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 370
+📖 Hinário: Hinário 5
+🎶 Título: Têm os santos do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Nós aqui estamos para Cristo exaltar
+Por Sua obra redentora;
+O Seu Nome não cessemos de glorificar,
+Sua igreja O adora.
+
+Tem os santos do Senhor, alegria de louvar
+A Jesus, que por amor, veio a terra salvar;
+Nossas almas resgatou,
+Com seu sangue nos lavou;
+Glória a Jesus, Aleluia!
+
+2. A promessa cumprirá o eterno Rei dos reis,
+De nos fazer herdar a glória;
+O Penhor da herança deu a todos os fieis,
+De Cristo, honramos a memória.
+
+3. A esperança já nos deu da redenção final,
+Que firmemente aguardamos
+Essa bem-aventurança eterna é real;
+Ao Redentor nós exaltamos.
+
+#Hino370 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 370, hino 370 ccb, Têm os santos do Senhor, tem os santos do senhor, Hinário 5, hinario 370, ccb hino 370, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 371
+
+## Título para o vídeo
+Hino 371 - Em nome de Jesus, prostrar-me vou... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 371 - Em nome de Jesus, prostrar-me vou...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 371, “Em nome de Jesus, prostrar-me vou...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 371
+📖 Hinário: Hinário 5
+🎶 Título: Em nome de Jesus, prostrar-me vou...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Aos Teus pés me apresento, ó justo Criador;
+A fé e o entendimento concede-me, Senhor.
+
+Em nome de Jesus,
+Prostrar-me vou, Senhor;
+Ó Pai de infinita luz,
+Atende ao meu clamor.
+
+2. Eu Te imploro, ó Deus vivente, em minha oração;
+Vem, com o amor ardente, suprir meu coração.
+
+3. Ó Deus de caridade, contigo está o perdão;
+Suporta, por piedade, a minha imperfeição.
+
+#Hino371 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 371, hino 371 ccb, Em nome de Jesus, prostrar-me vou..., em nome de jesus, prostrar-me vou..., Hinário 5, hinario 371, ccb hino 371, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 372
+
+## Título para o vídeo
+Hino 372 - Sempiterno, fiel Fundamento... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 372 - Sempiterno, fiel Fundamento...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 372, “Sempiterno, fiel Fundamento...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 372
+📖 Hinário: Hinário 5
+🎶 Título: Sempiterno, fiel Fundamento...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Da Igreja, fiel Fundamento
+É Jesus, Alicerce sem par;
+A tormenta e o forte vento
+Não a podem jamais derribar.
+Pela igreja Jesus veio ao mundo
+E morreu para dar a vida lhe dar;
+Com amor tão precioso, profundo,
+Ele a quer desde os céus adornar.
+
+2. A igreja é sempre formosa
+Para Cristo, seu Rei e Senhor;
+É chamada "a Sua Esposa"
+Revestida de graça e amor;
+Combatida por teu inimigo,
+Nesta terra a igreja será,
+Mas, em tudo, Jesus é consigo,
+Vitoriosa daqui sairá.
+
+Sempiterno, fiel Fundamento
+Da igreja é Cristo Jesus,
+N'Ele, os santos encontram alento
+Fé e graça, virtude e luz.
+
+#Hino372 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 372, hino 372 ccb, Sempiterno, fiel Fundamento..., sempiterno, fiel fundamento..., Hinário 5, hinario 372, ccb hino 372, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 373
+
+## Título para o vídeo
+Hino 373 - Cristo Jesus, o Redentor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 373 - Cristo Jesus, o Redentor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 373, “Cristo Jesus, o Redentor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 373
+📖 Hinário: Hinário 5
+🎶 Título: Cristo Jesus, o Redentor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo Jesus, o Redentor,
+Trouxe-me salvação;
+O Seu sublime e grande amor
+Tenho consolação.
+
+2. Quero a Cristo obedecer
+Todo o amor lhe dar;
+Quero entregar-Lhe o meu ser,
+Honra Lhe tributar.
+
+3. Quando findar o meu labor,
+Certo irei ouvir
+Cristo chamar-me com amor:
+Para os Seus bens fruir.”
+
+#Hino373 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 373, hino 373 ccb, Cristo Jesus, o Redentor, cristo jesus, o redentor, Hinário 5, hinario 373, ccb hino 373, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 374
+
+## Título para o vídeo
+Hino 374 - Santo! Santo! Santo! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 374 - Santo! Santo! Santo!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 374, “Santo! Santo! Santo!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 374
+📖 Hinário: Hinário 5
+🎶 Título: Santo! Santo! Santo!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Santo! Santo! Santo! Deus Onipotente!
+Sempre alegremente a Ti exaltarei;
+Santo! Santo! Santo! Deus Onipresente
+E Onisciente! Eu te honrarei!
+
+2. Santo! Santo! Santo! Todos os remidos
+Com louvor Te adoram em todo o lugar.
+Anjos e Arcanjo cantam reunidos,
+Todos se prostram para Te adorar.
+
+3. Santo! Santo! Santo! Deus de amor, piedoso,
+Teu fulgor excelso não pode o homem ver;
+És três vezes Santo, Todo-Poderoso,
+Justo e sublime, Fonte do Saber!
+
+#Hino374 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 374, hino 374 ccb, Santo! Santo! Santo!, santo! santo! santo!, Hinário 5, hinario 374, ccb hino 374, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 375
+
+## Título para o vídeo
+Hino 375 - Haja paz desde os céus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 375 - Haja paz desde os céus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 375, “Haja paz desde os céus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 375
+📖 Hinário: Hinário 5
+🎶 Título: Haja paz desde os céus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. “A paz Eu vos deixo”, falou o Salvador,
+“A paz que o mundo não dá”.
+Fiel é o Senhor que, por grande amor,
+A Palavra em nós cumprirá.
+
+Coro:
+Haja paz desde os céus;
+Haja paz sobre o povo de Deus.
+
+2. Ainda que os montes se movam do lugar
+E a terra não mais produzir
+E tudo, no mundo pareça falhar,
+Os fiéis vão a Cristo seguir.
+
+3. Real fortaleza que não se abalará,
+Jesus veio em nós construir;
+Em Deus, nossa crença fundada está;
+Aguardamos glorioso porvir.
+.
+
+#Hino375 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 375, hino 375 ccb, Haja paz desde os céus..., haja paz desde os ceus..., Hinário 5, hinario 375, ccb hino 375, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 376
+
+## Título para o vídeo
+Hino 376 - Senhor, preciso mais... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 376 - Senhor, preciso mais...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 376, “Senhor, preciso mais...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 376
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, preciso mais...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, preciso mais da Tua luz,
+Luz preciosa que ao céu conduz,
+Que pode as trevas dissipar
+E em retidão fazer andar.
+Vencedor sobre o mal, com Tua luz, serei;
+Nos caminhos da vida eterna andarei;
+A Luz, que é Cristo, o Redentor,
+Me guiará a Ti, Senhor.
+
+2. Senhor, preciso mais da Tua paz,
+Do Teu poder eterno e eficaz;
+Fortalecido em Ti, meu Deus,
+Não falharão os passos meus.
+Vencerei neste mundo, pois Jesus venceu,
+Foi tentado em tudo, mas prevaleceu;
+A Tua paz e Teu poder
+Por certo me farão vencer.
+
+#Hino376 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 376, hino 376 ccb, Senhor, preciso mais..., senhor, preciso mais..., Hinário 5, hinario 376, ccb hino 376, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 377
+
+## Título para o vídeo
+Hino 377 - No céu, Senhor, no céu | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 377 - No céu, Senhor, no céu
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 377, “No céu, Senhor, no céu”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 377
+📖 Hinário: Hinário 5
+🎶 Título: No céu, Senhor, no céu
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. No céu, Senhor, no céu, Contigo lá em glória,
+No Teu eterno reino, alegres cantaremos
+Um hino glorioso, o hino da vitória;
+Senhor, Teu esplendor, no céu, contemplaremos.
+
+2. As portas, lá nos céus, são pérolas preciosas,
+E a praça da cidade é ouro reluzente;
+No céu é tudo puro; riquezas gloriosas
+Desfrutaremos com Jesus, eternamente.
+
+3. O peregrino que almeja, no futuro,
+Ir habitar com o Senhor Jesus, amado,
+Procura ser mais santo, deseja ser mais puro,
+E busca ser a Deus, o Pai, mais consagrado.
+
+4. É glória eterna para o santo peregrino,
+A celestial cidade por Deus preparada;
+Em breve chegaremos ao triunfal destino,
+Onde há repouso do labor e da jornada.
+
+#Hino377 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 377, hino 377 ccb, No céu, Senhor, no céu, no ceu, senhor, no ceu, Hinário 5, hinario 377, ccb hino 377, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 378
+
+## Título para o vídeo
+Hino 378 - Grandioso és Tu | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 378 - Grandioso és Tu
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 378, “Grandioso és Tu”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 378
+📖 Hinário: Hinário 5
+🎶 Título: Grandioso és Tu
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Grandioso és Tu, Jesus, Rei da verdade,
+Nenhuma força pode Te vencer;
+Aniquilaste o jugo da maldade
+E Te assentaste à destra do Poder.
+
+Coro:
+A Ti devemos nossa gratidão,
+Grandioso és Tu, Senhor Jesus;
+Tu nos tiraste da escravidão,
+Grandioso és Tu, Senhor Jesus.
+
+2 Grandioso és Tu, Jesus, ó Rei da Glória,
+De majestade coroado estás;
+Em tudo o Pai te concedeu vitória,
+E a vitória aos Teus fiéis darás.
+
+3. Grandioso és Tu, ó divinal Cordeiro
+Teu Nome, todos hão de confessar;
+Perante Ti, ó Santo e Verdadeiro,
+Todo o joelho há de se dobrar.
+
+#Hino378 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 378, hino 378 ccb, Grandioso és Tu, grandioso es tu, Hinário 5, hinario 378, ccb hino 378, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 379
+
+## Título para o vídeo
+Hino 379 - Perto está o porto da salvação... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 379 - Perto está o porto da salvação...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 379, “Perto está o porto da salvação...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 379
+📖 Hinário: Hinário 5
+🎶 Título: Perto está o porto da salvação...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Perto está o porto da Salvação,
+Perto está o lar eternal;
+Brevemente os filhos de Deus verão
+A Sião celestial.
+
+Coro:
+Grande festa haverá nos céus
+Para os santos do Senhor;
+Aleluia, glória, glória ao nosso Deus!
+Quanto é grande Seu favor!
+
+2. Sobre as águas Cristo Jesus virá,
+Quando o mar se embravecer;
+O furor do vento aplacará
+Pelo imenso Seu poder.
+
+3. Cristo, no Seu reino, exaltará
+Quem viver com fé e valor;
+E com vida eterna coroará
+O fiel e vencedor.
+
+#Hino379 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 379, hino 379 ccb, Perto está o porto da salvação..., perto esta o porto da salvacao..., Hinário 5, hinario 379, ccb hino 379, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 380
+
+## Título para o vídeo
+Hino 380 - Eu espero, firmemente, com Jesus ir descansar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 380 - Eu espero, firmemente, com Jesus ir descansar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 380, “Eu espero, firmemente, com Jesus ir descansar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 380
+📖 Hinário: Hinário 5
+🎶 Título: Eu espero, firmemente, com Jesus ir descansar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eu espero, firmemente, com Jesus ir descansar
+Lá no céu, alegremente, Aleluia!
+Doce paz minh'alma sente tão somente em pensar:
+Que glória que no céu vou desfrutar.
+
+Com Jesus, eternamente viverei
+No repouso onde Ele já entrou;
+Santa paz e alegria sem igual desfrutarei;
+Na pátria dos fiéis habitarei.
+
+2. De Jesus o rosto santo, eu no céu vou
+Contemplar,
+Onde não há dor nem pranto, Aleluia!
+Um sublime e novo canto vão os santos entoar
+Que glória lá no céu vou desfrutar.
+
+3. Quando no céu desejado, vitorioso eu entrar,
+Lá verei Cristo exaltado, Aleluia!
+Para sempre consolado, ouvirei o Seu falar;
+Que glória lá no céu vou desfrutar.
+
+#Hino380 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 380, hino 380 ccb, Eu espero, firmemente, com Jesus ir descansar..., eu espero, firmemente, com jesus ir descansar..., Hinário 5, hinario 380, ccb hino 380, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 381
+
+## Título para o vídeo
+Hino 381 - Mui breve virá, mui breve virá | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 381 - Mui breve virá, mui breve virá
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 381, “Mui breve virá, mui breve virá”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 381
+📖 Hinário: Hinário 5
+🎶 Título: Mui breve virá, mui breve virá
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Breve virá Jesus Cristo, o Cordeiro;
+Premiará com o Seu galardão
+Todo o fiel e sincero obreiro
+Que Lhe consagra o seu coração.
+
+Coro:
+Mui breve virá, mui breve virá,
+Aquele que exerce o juízo, mui breve virá;
+Aos santos dará o paraíso, Jesus, Rei dos reis;
+No tempo esperado e preciso, sim, Cristo virá.
+
+Próximo é o dia da volta gloriosa
+De Jesus Cristo, o Filho de Deus;
+Sua igreja está ansiosa
+Por encontrar-se com Ele nos céus.
+
+Quem suas vestes no sangue precioso
+De Jesus Cristo, por fé, branquear,
+Habitará no país glorioso
+E poderá, com os santos, reinar.
+
+#Hino381 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 381, hino 381 ccb, Mui breve virá, mui breve virá, mui breve vira, mui breve vira, Hinário 5, hinario 381, ccb hino 381, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 382
+
+## Título para o vídeo
+Hino 382 - Creio, creio... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 382 - Creio, creio...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 382, “Creio, creio...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 382
+📖 Hinário: Hinário 5
+🎶 Título: Creio, creio...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Creio nas fiéis promessas do meu Deus,
+Que se cumprirão na terra e nos céus;
+Glória ao Altíssimo darão os Seus!
+Creio nas promessas do Senhor.
+
+Creio, creio,
+No eterno Deus e em Jesus, eu creio;
+Creio, creio,
+Fiéis são as promessas do Senhor.
+
+2. Creio no Senhor que já me resgatou,
+Pela fé em Cristo para o céu eu vou;
+Todos meus pecados Ele cancelou,
+Creio nas promessas do Senhor.
+
+3. Sei que a Palavra do meu Criador
+Cumpre-Se comigo, creio com fervor;
+Ele não me deixa, grande é Seu amor;
+Creio nas promessas do Senhor.
+
+#Hino382 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 382, hino 382 ccb, Creio, creio..., creio, creio..., Hinário 5, hinario 382, ccb hino 382, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 383
+
+## Título para o vídeo
+Hino 383 - Cristo é a Estrela | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 383 - Cristo é a Estrela
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 383, “Cristo é a Estrela”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 383
+📖 Hinário: Hinário 5
+🎶 Título: Cristo é a Estrela
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo Jesus é a Estrela que lá dos céus conduz
+O santo peregrino ao reino da eterna luz.
+
+Cristo é a Estrela, Guia dos Seus fiéis;
+Somos os Seus remidos, glória ao Rei dos reis.
+
+2. É Jesus Cristo a Senda da celestial Sião,
+Pátria mui desejada, onde teremos galardão.
+
+3. Caminho e Verdade e Vida é Jesus,
+Por Ele, nós teremos introdução no lar de luz.
+
+#Hino383 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 383, hino 383 ccb, Cristo é a Estrela, cristo e a estrela, Hinário 5, hinario 383, ccb hino 383, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 384
+
+## Título para o vídeo
+Hino 384 - Nos resgatou e nos lavou | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 384 - Nos resgatou e nos lavou
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 384, “Nos resgatou e nos lavou”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 384
+📖 Hinário: Hinário 5
+🎶 Título: Nos resgatou e nos lavou
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus Cristo, o Cordeiro, dura morte suportou;
+Por amor de nossas almas Sua vida não poupou;
+Com o Seu precioso sangue nos lavou e libertou;
+Glória a Jesus, o Justo que nos resgatou!
+
+Nos resgatou e nos lavou
+Com o Seu precioso sangue, Cristo, o
+Redentor;
+Nos libertou e nos salvou
+Do mundo e do pecado, Cristo Salvador.
+
+2. Pelo sangue do Concerto, liberdade temos nós
+De entrar no santuário e ouvir, de Deus, a voz;
+Esse sangue nos confirma quanto Cristo nos amou;
+Glória a Jesus, o Justo que nos resgatou.
+
+3. Somos por Jesus selados para a nossa
+redenção;
+Sempre avante, caminhemos nesta grande
+vocação;
+Pelo sangue inocente, Cristo a Deus nos adotou;
+Glória a Jesus, o Justo que nos resgatou.
+
+#Hino384 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 384, hino 384 ccb, Nos resgatou e nos lavou, nos resgatou e nos lavou, Hinário 5, hinario 384, ccb hino 384, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 385
+
+## Título para o vídeo
+Hino 385 - "Vinde após Mim" | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 385 - "Vinde após Mim"
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 385, “"Vinde após Mim"”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 385
+📖 Hinário: Hinário 5
+🎶 Título: "Vinde após Mim"
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. “Vinde após Mim”, falou o Senhor;
+Quem O seguir, na luz andará;
+Grandes mistérios do Criador,
+Cristo Jesus lhe mostrará.
+
+2. “Vinde após Mim”, convida Jesus,
+O Salvador, Amigo leal,
+Que, ao fiel, envia a luz
+Para o livrar de todo o mal.
+
+3. Encontrará a senda do bem
+Quem atender ao Filho de Deus;
+Preciosidades o mestre tem
+Para doar aos santos Seus.
+
+4. Nobres na fé por Cristo, serão
+Os Seus fiéis herdeiros dos céus,
+Que, para sempre, exultarão,
+Contemplarão o grande Deus.
+
+#Hino385 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 385, hino 385 ccb, "Vinde após Mim", "vinde apos mim", Hinário 5, hinario 385, ccb hino 385, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 386
+
+## Título para o vídeo
+Hino 386 - Pela morte de Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 386 - Pela morte de Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 386, “Pela morte de Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 386
+📖 Hinário: Hinário 5
+🎶 Título: Pela morte de Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Pela morte de Jesus deu-nos vida o Criador;
+Trouxe paz e trouxe luz, nosso bendito Salvador.
+
+Não foi com ouro que Cristo nos comprou,
+Mas com Seu sangue precioso e remidor,
+E, por Sua graça, nos vivificou;
+Somos co-herdeiros do Redentor.
+
+2. Sua graça nos doou, Jesus Cristo, o Senhor;
+Dos pecados nos lavou; vamos servi-Lo com fervor.
+
+3. Honra e glória ao Senhor, o Autor de todo o bem,
+Que nos guia ao Criador, à eternal Jerusalém.
+
+#Hino386 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 386, hino 386 ccb, Pela morte de Jesus, pela morte de jesus, Hinário 5, hinario 386, ccb hino 386, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 387
+
+## Título para o vídeo
+Hino 387 - Ó Salvador, que recebeste poder | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 387 - Ó Salvador, que recebeste poder
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 387, “Ó Salvador, que recebeste poder”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 387
+📖 Hinário: Hinário 5
+🎶 Título: Ó Salvador, que recebeste poder
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Salvador, que de Deus recebeste
+Todo o poder sobre a terra e os céus,
+Vem aumentar a virtude celeste
+Neste meu ser, para glória de Deus.
+
+2. Ó Redentor, que abriste a porta
+Do santuário eterno de Deus
+Dá ao Teu servo a paz que conforta,
+Que prometeste a todos os Teus.
+
+3. Filho de Deus, Tu venceste a morte
+E vivo estás para sempre, Senhor;
+De Ti espero também esta sorte:
+Ressuscitar para o reino de amor.
+
+4. No transcorrer desta minha existência,
+Quero honrar-Te, ó meu Redentor;
+Quero um dia estar na presença
+Do grande Deus e fiel Criador.
+
+#Hino387 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 387, hino 387 ccb, Ó Salvador, que recebeste poder, o salvador, que recebeste poder, Hinário 5, hinario 387, ccb hino 387, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 388
+
+## Título para o vídeo
+Hino 388 - Na cidade santa | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 388 - Na cidade santa
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 388, “Na cidade santa”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 388
+📖 Hinário: Hinário 5
+🎶 Título: Na cidade santa
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Na cidade santa do eterno Deus,
+Pecador não poderá entrar;
+Lá só entrarão os escolhidos Seus
+Para os bens eternos desfrutar.
+
+Na cidade santa, por Deus preparada,
+Um repouso eterno o fiel terá;
+De eternais riquezas ela é adornada,
+E seu brilho não se apagará.
+
+2. A cidade santa do eterno Rei
+É de incomparável esplendor;
+Nela habitará quem caminhar na lei,
+Na perfeita lei do Redentor.
+
+3. Grande alegria, ao entrarmos lá,
+Sentirá o nosso coração;
+Toda a tristeza aqui se deixará,
+Todos os combates cessarão.
+
+#Hino388 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 388, hino 388 ccb, Na cidade santa, na cidade santa, Hinário 5, hinario 388, ccb hino 388, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 389
+
+## Título para o vídeo
+Hino 389 - Cristo Jesus chama os Seus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 389 - Cristo Jesus chama os Seus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 389, “Cristo Jesus chama os Seus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 389
+📖 Hinário: Hinário 5
+🎶 Título: Cristo Jesus chama os Seus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Cristo Jesus, o divino Pastor,
+Com doce voz, chama os Seus.
+Quer conduzi-los a Deus, Criador,
+Para viverem nos céus.
+
+Coro:
+Cristo Jesus
+Chama os Seus
+Para a luz
+Que os guia ao reino dos céus.
+
+Para lhes dar o repouso eternal,
+Cristo Jesus chama os Seus;
+Ele é o Amigo que não tem igual,
+Ele é o Filho de Deus.
+
+Cristo Jesus, Sumo Sábio e Fiel,
+Com voz de amor, chama os Seus;
+Suas palavras, mais doce que o mel,
+Fazem que amemos a Deus.
+
+#Hino389 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 389, hino 389 ccb, Cristo Jesus chama os Seus, cristo jesus chama os seus, Hinário 5, hinario 389, ccb hino 389, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 390
+
+## Título para o vídeo
+Hino 390 - Eis que vem o Verdadeiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 390 - Eis que vem o Verdadeiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 390, “Eis que vem o Verdadeiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 390
+📖 Hinário: Hinário 5
+🎶 Título: Eis que vem o Verdadeiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eis que vem, por sobre as nuvens,
+Cristo, nosso Rei potente;
+Todo o olho há de vê-Lo em Seu grande esplendor,
+Pois será como o relâmpago
+Que se mostra no oriente
+E até, no ocidente, aparece o seu fulgor.
+
+Eis que vem o Verdadeiro,
+O juiz e Conselheiro;
+Julgará o mundo inteiro
+Com justiça e retidão.
+
+2. Como o sol é o Seu rosto,
+Seu vestido é resplendente
+Flamejante como o fogo são Seus olhos divinais;
+Como a voz de muitas águas, é a Sua voz potente;
+São mais alvos do que a neve,
+Seus cabelos celestiais.
+
+3. Nesse dia glorioso, que se encontra
+Já bem perto,
+Quem, de pé, perante Cristo,
+Poderá permanecer?
+Só os justos e fiéis a Deus,
+Que guardaram o Concerto,
+Subirão à eterna glória para o reino receber.
+
+#Hino390 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 390, hino 390 ccb, Eis que vem o Verdadeiro, eis que vem o verdadeiro, Hinário 5, hinario 390, ccb hino 390, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 391
+
+## Título para o vídeo
+Hino 391 - Um peregrino sou aqui | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 391 - Um peregrino sou aqui
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 391, “Um peregrino sou aqui”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 391
+📖 Hinário: Hinário 5
+🎶 Título: Um peregrino sou aqui
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Um peregrino sou aqui,
+Pois o meu lar está nos céus;
+Em breve irei viver ali,
+Unido aos fiéis de Deus.
+
+Que alegria sem igual
+Há de sentir meu coração!
+Terei repouso eternal
+No fim da peregrinação.
+
+2. Inigualável galardão;
+Espero em breve alcançar
+Da divinal consolação,
+Junto aos fiéis vou desfrutar.
+
+3. Findando o meu peregrinar,
+Irei à pátria eternal;
+Darei louvores, sem cessar,
+A Deus, o Pai celestial.
+
+#Hino391 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 391, hino 391 ccb, Um peregrino sou aqui, um peregrino sou aqui, Hinário 5, hinario 391, ccb hino 391, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 392
+
+## Título para o vídeo
+Hino 392 - Novo hino cantaremos ao Cordeiro divinal... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 392 - Novo hino cantaremos ao Cordeiro divinal...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 392, “Novo hino cantaremos ao Cordeiro divinal...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 392
+📖 Hinário: Hinário 5
+🎶 Título: Novo hino cantaremos ao Cordeiro divinal...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Com Jesus, a Esperança,
+Caminhemos com fervor,
+Todos firmes, jubilando em Seu amor;
+Com o dom da fé iremos,
+Junto ao Cristo Redentor,
+À eternal Jerusalém.
+
+Novo hino cantaremos ao Cordeiro divinal,
+No sublime lar, pátria eternal;
+Sua face lá veremos e Seu brilho sem igual,
+Na eternal Jerusalém.
+
+2. Com Jesus, fiel Guerreiro, pelejemos com valor,
+Resistindo ao astuto tentador;
+Sustentados pela fé, sigamos nosso Redentor,
+À eternal Jerusalém.
+
+3. Com Jesus, a nossa Força, lutaremos sem temor,
+Venceremos este mundo enganador;
+Temos viva esperança, Quem nos guia é o Senhor,
+À eternal Jerusalém.
+
+#Hino392 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 392, hino 392 ccb, Novo hino cantaremos ao Cordeiro divinal..., novo hino cantaremos ao cordeiro divinal..., Hinário 5, hinario 392, ccb hino 392, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 393
+
+## Título para o vídeo
+Hino 393 - Ó bom Jesus, meu caro Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 393 - Ó bom Jesus, meu caro Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 393, “Ó bom Jesus, meu caro Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 393
+📖 Hinário: Hinário 5
+🎶 Título: Ó bom Jesus, meu caro Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó bom Jesus, Teu santo falar
+Sempre comove meu coração;
+Faz-me um vaso para Te honrar;
+Dá-me, Senhor, a Tua unção.
+
+Ó bom Jesus, meu caro Jesus,
+Faz deste vaso, ó Redentor,
+Vaso de honra, graça e luz,
+Para louvar-Te, ó meu Senhor.
+
+2. Neste deserto, caro Jesus,
+Sou peregrino, por Teu amor;
+Vem dirigir-me com Tua luz,
+Sê, ó Jesus, o meu Condutor.
+
+3. Pela Palavra, vem revelar
+Tua vontade, o Teu querer,
+Pois eu desejo no céu entrar
+Para, ao fim, Contigo viver.
+
+#Hino393 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 393, hino 393 ccb, Ó bom Jesus, meu caro Jesus, o bom jesus, meu caro jesus, Hinário 5, hinario 393, ccb hino 393, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 394
+
+## Título para o vídeo
+Hino 394 - Nas moradas do Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 394 - Nas moradas do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 394, “Nas moradas do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 394
+📖 Hinário: Hinário 5
+🎶 Título: Nas moradas do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Nas moradas do Senhor não há pranto,
+Não há dor
+Todos lá desfrutarão o bem superno;
+Lá também desejo estar e a Cristo entoar
+Com os santos, hinos de louvor eterno.
+
+Lá no céu, cantarei
+Novos hinos a Jesus, fiel Cordeiro.
+Todo o pranto findará, toda angústia cessará
+Glória a Deus que, por amor, me fez herdeiro.
+
+2. Meu prazer será sem par lá no céu,
+Ao contemplar,
+De Jesus, a santa face, gloriosa;
+Sinto júbilo em pensar, que com Cristo, irei morar,
+Pois terei no céu a herança preciosa.
+
+3. Na eternal Jerusalém, onde existe só o bem,
+Entrarei com Jesus Cristo, alegremente;
+Junto aos santos cantarei:
+Glória! Glória ao meu Rei!
+Regozijo sentirei eternamente.
+
+#Hino394 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 394, hino 394 ccb, Nas moradas do Senhor, nas moradas do senhor, Hinário 5, hinario 394, ccb hino 394, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 395
+
+## Título para o vídeo
+Hino 395 - "Eis-Me aqui", dirá o Criador | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 395 - "Eis-Me aqui", dirá o Criador
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 395, “"Eis-Me aqui", dirá o Criador”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 395
+📖 Hinário: Hinário 5
+🎶 Título: "Eis-Me aqui", dirá o Criador
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. “Eis-Me aqui”, dirá o Criador
+Aos Seus Fiéis que rogam Seu favor;
+Deus mandará poder celestial
+Para que os Seus triunfem sobre o mal.
+
+2. A geração dos santos do Senhor
+Tem, em seu Deus, potente Defensor;
+Só Ele é Deus, Autor da criação;
+Tudo Ele fez com luz e perfeição.
+
+3. Vamos, irmãos, a Deus nos achegar,
+E nossa fé em Deus depositar;
+Ele é Pai de grande compaixão;
+Temos também de Cristo a intercessão.
+
+4. Voz celestial o justo sentirá
+Dentro de si e rejubilará;
+“Eis-Me aqui”, dirá o Criador
+Ao Seu fiel e santo servidor.
+
+#Hino395 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 395, hino 395 ccb, "Eis-Me aqui", dirá o Criador, "eis-me aqui", dira o criador, Hinário 5, hinario 395, ccb hino 395, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 396
+
+## Título para o vídeo
+Hino 396 - Vamos, ó irmãos, marchar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 396 - Vamos, ó irmãos, marchar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 396, “Vamos, ó irmãos, marchar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 396
+📖 Hinário: Hinário 5
+🎶 Título: Vamos, ó irmãos, marchar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos, ó irmãos, marchar sempre avante para o
+céu,
+Confiantes, nas pisadas de Jesus,
+Pois à frente Ele está e por nós combaterá,
+Desfará as trevas com a Sua luz.
+
+Com Jesus marchemos à eternal Sião,
+Bem cingidos de justiça e retidão,
+Pois à frente Ele está e ao céu nos levará,
+Onde iremos receber galardão.
+
+2. Cristo nos conduz a Deus com a Sua forte mão,
+Valorosos, caminhemos nessa luz,
+Pois à frente Ele está, nossos passos guiará;
+Confiemos em Jesus, que nos conduz.
+
+3. Sempre unidos, ó irmãos, em amor e comunhão,
+Prossigamos nas pisadas de Jesus,
+Pois à frente Ele está, a vitória nos dará,
+Se andarmos, ó irmãos, em Sua luz.
+
+#Hino396 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 396, hino 396 ccb, Vamos, ó irmãos, marchar, vamos, o irmaos, marchar, Hinário 5, hinario 396, ccb hino 396, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 397
+
+## Título para o vídeo
+Hino 397 - Paz, sublime paz | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 397 - Paz, sublime paz
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 397, “Paz, sublime paz”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 397
+📖 Hinário: Hinário 5
+🎶 Título: Paz, sublime paz
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Paz sublime paz sentimos
+Nós povo do Senhor remido por amor
+Por Jesus a quem servimos
+Temos Paz do Criador
+
+Filhos dessa paz gloriosa
+Nos fez o Criador por Cristo o Redentor
+Para nós é Paz preciosa
+Pois é bênção do amor
+
+Paz excelsa encontraremos
+No reino divinal na glória eternal
+Face a face lá veremos
+Deus o Pai celestial
+
+#Hino397 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 397, hino 397 ccb, Paz, sublime paz, paz, sublime paz, Hinário 5, hinario 397, ccb hino 397, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 398
+
+## Título para o vídeo
+Hino 398 - Não tardará a volta do Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 398 - Não tardará a volta do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 398, “Não tardará a volta do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 398
+📖 Hinário: Hinário 5
+🎶 Título: Não tardará a volta do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Marchemos, irmãos, pela senda da verdade!
+O fiel Salvador nos dará, do céu, a proteção,
+Fervor e valor e também a santidade;
+Do Senhor, nosso Deus, alcançamos o perdão.
+Jesus morreu sobre a cruz, para dar-nos liberdade
+De andar e O servir em santificação.
+
+Não tardará a volta do Senhor Jesus!
+Virá, irmãos premiar os Seus Com galardão!
+Mas, os que rejeitarem Sua luz,
+Condenação eterna encontrarão.
+Andai, irmãos,
+Na fé, na paz, no amor do Rei dos reis.
+
+2. Irmãos, em amor, bem unidos caminhemos
+Com Jesus, Salvador, que dará o galardão final.
+Louvor perenal e veraz Lhe tributemos,
+Pelo bem que nos fez nosso Rei celestial;
+Por este bem divinal de amor, receberemos
+No céu, nosso lar, a glória eternal.
+
+#Hino398 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 398, hino 398 ccb, Não tardará a volta do Senhor, nao tardara a volta do senhor, Hinário 5, hinario 398, ccb hino 398, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 399
+
+## Título para o vídeo
+Hino 399 - És a Videira, ó Rei dos reis... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 399 - És a Videira, ó Rei dos reis...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 399, “És a Videira, ó Rei dos reis...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 399
+📖 Hinário: Hinário 5
+🎶 Título: És a Videira, ó Rei dos reis...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. “Sou a videira”, disse Jesus,
+Nosso amado, bom Salvador;
+A Sua seiva em nós produz
+Vida celeste, vida de amor.
+
+És a videira, ó Rei dos reis,
+Somos as varas, nós, Teus fiéis;
+Produziremos, por Teu amor,
+Frutos à glória do Criador.
+
+2. “Sou a videira”, disse Jesus,
+Somos renovos do Seu louvor;
+A Sua seiva vida nos dá,
+Para andarmos em Seu temor.
+
+3. “Sou a videira”, disse Jesus;
+N'Ela enxertados fomos por Deus;
+Ele é Sábio, bom Lavrador,
+Pela Palavra limpa os Seus.
+
+#Hino399 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 399, hino 399 ccb, És a Videira, ó Rei dos reis..., es a videira, o rei dos reis..., Hinário 5, hinario 399, ccb hino 399, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 400
+
+## Título para o vídeo
+Hino 400 - Divina Fonte é Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 400 - Divina Fonte é Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 400, “Divina Fonte é Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 400
+📖 Hinário: Hinário 5
+🎶 Título: Divina Fonte é Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Divina Fonte é Jesus, de purificação!
+Pois, sobre a cruz, por nós verteu
+O sangue da aspersão!
+E nesse sangue tem perdão
+Quem n’Ele crer e se entregar
+E, com sincero coração,
+Seu santo Nome confessar
+
+Consciência em paz, Jesus nos deu
+Perante o grande Deus.
+Virtude e graça lá do céu têm os remidos Seus.
+De gloriosa salvação, herdeiros somos por Jesus;
+Não resta mais condenação
+Bendito seja o Deus da Luz!
+
+O Salvador ressuscitou e para o Pai subiu,
+Do cativeiro libertou aqueles que remiu!
+Ao céu subiu o Remidor
+E os salvos subirão também:
+Contemplarão o Criador na celestial Jerusalém
+
+#Hino400 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 400, hino 400 ccb, Divina Fonte é Jesus, divina fonte e jesus, Hinário 5, hinario 400, ccb hino 400, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 401
+
+## Título para o vídeo
+Hino 401 - Revela Teu querer | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 401 - Revela Teu querer
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 401, “Revela Teu querer”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 401
+📖 Hinário: Hinário 5
+🎶 Título: Revela Teu querer
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Revela, Criador, ao nosso coração,
+O santo Teu querer, a Tua intenção;
+Riquezas perenais de divinal fulgor,
+Concede-nos, Senhor.
+
+Coro:
+Revela, ó bom Pai, rogamos com fervor,
+Teus planos eternais,
+Por Teu Consolador.
+Precioso, para nós, é o santo Teu saber
+Que nos fará vencer.
+
+2. Oh! Faze-nos crescer na imagem de Jesus;
+Queremos prosperar na graça e na luz.
+Desvenda, ó Senhor, mistérios lá dos céus
+E pensamentos Teus.
+
+#Hino401 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 401, hino 401 ccb, Revela Teu querer, revela teu querer, Hinário 5, hinario 401, ccb hino 401, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 402
+
+## Título para o vídeo
+Hino 402 - Ó irmãos, a Deus devemos... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 402 - Ó irmãos, a Deus devemos...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 402, “Ó irmãos, a Deus devemos...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 402
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, a Deus devemos...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, a Deus devemos
+Nossas faltas confessar;
+Ele tem misericórdia e nos pode perdoar;
+Ocultar jamais devemos nossos erros ao Senhor;
+Confessamos nossas faltas,
+Pois é grande o Seu amor.
+
+2. Elevemos ao Eterno nossa voz em oração,
+Com fervor e humildade, com sincero coração;
+Cristo por nós intercede;
+Ele é o nosso Mediador;
+Ó irmãos, não ocultemos nossas faltas ao Senhor.
+
+3. Pelo sangue do Concerto,
+Deus nos quer justificar;
+Nossas vestes sempre brancas
+Poderemos conservar;
+Confessamos nossas faltas rejeitando todo o mal;
+E, ao fim, receberemos a coroa eternal.
+
+#Hino402 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 402, hino 402 ccb, Ó irmãos, a Deus devemos..., o irmaos, a deus devemos..., Hinário 5, hinario 402, ccb hino 402, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 403
+
+## Título para o vídeo
+Hino 403 - Pela fé uma vez... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 403 - Pela fé uma vez...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 403, “Pela fé uma vez...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 403
+📖 Hinário: Hinário 5
+🎶 Título: Pela fé uma vez...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Pela fé uma vez por Jesus dada aos santos,
+Fé perfeita que fez vitoriosos a tantos,
+Não temeram horrores nem espantos
+Os fiéis que seguiram o Senhor.
+
+Nas tristezas, nas lutas e dor,
+Recorriam a Cristo Jesus,
+Que lhes dava virtude e valor,
+Pela fé que os guiava na luz.
+
+2. Os cristãos foram nos tribunais condenados,
+Nas prisões eles foram, sem culpa, lançados,
+E de seus bens terrestres despojados;
+Tudo isso sofreram pela fé.
+
+3. Nessa fé é que nós, crentes, sempre devemos
+Caminhar bem firmados e assim venceremos;
+E um dia, no céu, encontraremos
+Os fieis que amaram ao Senhor.
+
+Lá no céu não teremos mais dor
+E o pranto também cessará,
+Pois o nosso amado Senhor
+Nossas lágrimas enxugará.
+
+#Hino403 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 403, hino 403 ccb, Pela fé uma vez..., pela fe uma vez..., Hinário 5, hinario 403, ccb hino 403, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 404
+
+## Título para o vídeo
+Hino 404 - Por fé, recebe o grande Mestre | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 404 - Por fé, recebe o grande Mestre
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 404, “Por fé, recebe o grande Mestre”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 404
+📖 Hinário: Hinário 5
+🎶 Título: Por fé, recebe o grande Mestre
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Na porta do teu coração,
+Batendo está o Redentor,
+Jesus, Autor da salvação,
+Que traz perdão ao pecador.
+
+Por fé, recebe o grande Mestre
+Que para Deus te levará.
+O Dom precioso e celeste
+A tua alma provará.
+
+2. Em vão batendo não está
+Aquele que morreu na cruz;
+Teu coração pulsando está?
+Depressa abre, é Jesus.
+
+3. A paz, a vida, o amor, por Cristo, em ti habitarão;
+Por ti morreu o Remidor, para te dar a salvação.
+
+#Hino404 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 404, hino 404 ccb, Por fé, recebe o grande Mestre, por fe, recebe o grande mestre, Hinário 5, hinario 404, ccb hino 404, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 405
+
+## Título para o vídeo
+Hino 405 - Só por Cristo temos salvação | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 405 - Só por Cristo temos salvação
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 405, “Só por Cristo temos salvação”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 405
+📖 Hinário: Hinário 5
+🎶 Título: Só por Cristo temos salvação
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Só o sangue de Jesus tem poder de nos livrar,
+E de toda a mancha nos limpar;
+Todo o que lavado for nesse sangue expiador,
+O perdão terá do Criador.
+
+Só por Cristo temos salvação,
+Divinal redenção;
+Entraremos na Sião celeste,
+Reino eterno do bom Deus.
+
+2. Só o sangue de Jesus tem poder de nos salvar
+E da tentação nos libertar;
+Esse sangue tem valor, pois é o preço do amor
+Com que nos remiu o Salvador.
+
+3. Só o sangue de Jesus tem poder de resgatar
+Toda a alma que se quer salvar;
+Vitupério e grande dor foram preço do favor
+Que alcançamos do bom Redentor.
+
+#Hino405 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 405, hino 405 ccb, Só por Cristo temos salvação, so por cristo temos salvacao, Hinário 5, hinario 405, ccb hino 405, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 406
+
+## Título para o vídeo
+Hino 406 - Glória ao grande e poderoso Deus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 406 - Glória ao grande e poderoso Deus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 406, “Glória ao grande e poderoso Deus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 406
+📖 Hinário: Hinário 5
+🎶 Título: Glória ao grande e poderoso Deus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A voz de Cristo te convida: Vem!
+Sedento, a Cristo vem!
+Chamando continua o Salvador,
+Ao homem pecador.
+
+Glória ao grande e poderoso Deus,
+Que mandou a redenção dos céus
+Em Jesus, a Fonte do perdão,
+Eterna Salvação.
+
+2. Sedentos, vinde ao manancial de vida eternal;
+Quem ao convite não se recusar,
+Com Cristo irá reinar.
+
+3. Quem quer a glória ir com o Senhor
+E ver Seu esplendor,
+Contrito, deve receber a luz
+Provinda de Jesus.
+
+#Hino406 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 406, hino 406 ccb, Glória ao grande e poderoso Deus..., gloria ao grande e poderoso deus..., Hinário 5, hinario 406, ccb hino 406, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 407
+
+## Título para o vídeo
+Hino 407 - És bendito eternamente! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 407 - És bendito eternamente!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 407, “És bendito eternamente!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 407
+📖 Hinário: Hinário 5
+🎶 Título: És bendito eternamente!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Oh! Quanto amo Tua lei eterna e divinal!
+E nela eu medito dia e noite, ó Senhor;
+Por Teus conselhos ando na justiça celestial,
+Nas veredas de amor.
+
+És bendito eternamente, glorioso Criador!
+Minha alma, reverente, Te adora ó Senhor.
+
+2. Teus santos testemunhos me alegram, ó Senhor
+As Tuas sãs palavras são mais doces que o mel,
+Pois falam das riquezas do Teu reino de esplendor,
+Preparadas ao fiel.
+
+3. Por Teu celeste Espírito ensina-me, ó Deus,
+E dá-me as virtudes para Te obedecer;
+Desejo ardentemente contemplar-Te lá nos céus
+E, Contigo, então viver
+
+#Hino407 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 407, hino 407 ccb, És bendito eternamente!, es bendito eternamente!, Hinário 5, hinario 407, ccb hino 407, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 408
+
+## Título para o vídeo
+Hino 408 - Jesus Cristo é o Pão celeste (Santa Ceia) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 408 - Jesus Cristo é o Pão celeste (Santa Ceia)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 408, “Jesus Cristo é o Pão celeste (Santa Ceia)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 408
+📖 Hinário: Hinário 5
+🎶 Título: Jesus Cristo é o Pão celeste (Santa Ceia)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus Cristo é o Pão celeste,
+Que por nós desceu dos céus,
+E de bênçãos nos reveste,
+Nos concede paz com Deus;
+Este pão nos traz lembrança
+Da bondade do Salvador,
+Nossa Bem-aventurança, nossa Paz e nosso amor.
+
+2. Comunhão há neste cálix,
+No Seu sangue expiador;
+Que por nós, foi derramado sobre a cruz,
+Com grande dor;
+Anunciemos, pois, a morte do Cordeiro
+Do Eterno Deus,
+Que tomou a dura sorte para nos levar aos céus.
+
+#Hino408 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 408, hino 408 ccb, Jesus Cristo é o Pão celeste (Santa Ceia), jesus cristo e o pao celeste (santa ceia), Hinário 5, hinario 408, ccb hino 408, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 409
+
+## Título para o vídeo
+Hino 409 - Que júbilo sem par haveremos de sentir... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 409 - Que júbilo sem par haveremos de sentir...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 409, “Que júbilo sem par haveremos de sentir...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 409
+📖 Hinário: Hinário 5
+🎶 Título: Que júbilo sem par haveremos de sentir...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Que júbilo sem par haveremos de sentir
+Quando sobre as nuvens nosso rei surgir
+A Si atrairá os eleitos do bom Deus
+Que, com grande regozijo, entrarão nos céus
+
+Coro:
+Breve voltará, Jesus Cristo o Senhor
+Breve voltará em Seu grande esplendor
+Com os santos anjos que recolherão
+Os que já inscritos lá no céu estão.
+
+Do mundo a ilusão não nos deve seduzir
+Pois herança eterna temos no porvir
+O glória perenal que iremos desfrutar
+Todo o ouro deste mundo não nos pode dar
+
+Com glória entrarão na cidade eternal
+Os amados do cordeiro divinal
+Ao que vencer por fé este mundo enganador
+Novo nome lhe dará no céu o Redentor
+
+#Hino409 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 409, hino 409 ccb, Que júbilo sem par haveremos de sentir..., que jubilo sem par haveremos de sentir..., Hinário 5, hinario 409, ccb hino 409, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 410
+
+## Título para o vídeo
+Hino 410 - O sangue precioso | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 410 - O sangue precioso
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 410, “O sangue precioso”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 410
+📖 Hinário: Hinário 5
+🎶 Título: O sangue precioso
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O sangue precioso vertido do Senhor,
+Redime e justifica, quem crer no Salvador.
+
+Com Seu sangue, Cristo nos lavou
+E nos purificou;
+Na cruz, as nossas dívidas pagou.
+
+2. Sejamos sempre gratos, Seu sangue nos lavou;
+Em comunhão, louvemos Jesus, que nos salvou.
+
+3. Em breve nós veremos, em grande esplendor,
+De glória coroado, Jesus, o Remidor.
+
+#Hino410 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 410, hino 410 ccb, O sangue precioso, o sangue precioso, Hinário 5, hinario 410, ccb hino 410, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 411
+
+## Título para o vídeo
+Hino 411 - O vitupério de Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 411 - O vitupério de Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 411, “O vitupério de Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 411
+📖 Hinário: Hinário 5
+🎶 Título: O vitupério de Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ferido foi o Salvador, Jesus, o nosso Rei,
+Foi tido como malfeitor e transgressor da lei;
+Levado foi à morte atroz, de nada reclamou;
+O santo e justo Remidor pagou perante Deus
+A transgressão de todos nós, abrindo-nos os céus.
+
+2. Cruel martírio suportou o amado redentor;
+Na morte a alma derramou, o grande Benfeitor,
+E, para o nosso Deus e Pai, com sangue nos
+comprou;
+Salvou-se grande multidão na obra de Jesus;
+Bendito seja o Rei da paz, que é a nossa Luz.
+
+3. Morreu o Justo pelos maus, por grande amor de
+Deus;
+Saiu da morte com poder é Mediador nos céus;
+O bom prazer do Criador em Cristo prosperou;
+“Amai-vos como Eu vos Amei”, falou o Redentor;
+Amou-nos Deus, o Pai dos céus, mandando o
+Salvador.
+
+#Hino411 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 411, hino 411 ccb, O vitupério de Jesus, o vituperio de jesus, Hinário 5, hinario 411, ccb hino 411, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 412
+
+## Título para o vídeo
+Hino 412 - Senhor, recordamos aqui... (Santa Ceia) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 412 - Senhor, recordamos aqui... (Santa Ceia)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 412, “Senhor, recordamos aqui... (Santa Ceia)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 412
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, recordamos aqui... (Santa Ceia)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, recordamos aqui
+O Teu sacrifício atroz;
+Partindo o pão nos lembramos de Ti,
+Martírio sofreste por nós.
+
+2. O cálix nos dá comunhão
+Do Teu sangue, Cristo Jesus;
+Somente em Ti há real salvação,
+Tu és Quem ao céu nos conduz.
+
+3. Faz-nos dignos, ó Redentor,
+Da celestial comunhão,
+Do Teu corpo e sangue precioso, Senhor;
+Conserva-nos nesta união.
+
+#Hino412 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 412, hino 412 ccb, Senhor, recordamos aqui... (Santa Ceia), senhor, recordamos aqui... (santa ceia), Hinário 5, hinario 412, ccb hino 412, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 413
+
+## Título para o vídeo
+Hino 413 - Foi por mim que morreste | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 413 - Foi por mim que morreste
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 413, “Foi por mim que morreste”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 413
+📖 Hinário: Hinário 5
+🎶 Título: Foi por mim que morreste
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Foi por mim que morreste, Jesus Redentor,
+Por amor, para dar-me a fé;
+Fé em Deus, que me livra do mal ó Senhor,
+E conserva-me sempre de pé.
+
+Ao Cordeiro de Deus, sempre glória darei,
+Pois do céu veio para salvar;
+Ao meu bom Salvador, sempre exaltarei,
+Pelas bênçãos me faz desfrutar.
+
+2. Pelo Teu sacrifício, Jesus Remidor,
+Me abriste o caminho dos céus;
+Dos pecados lavaste minh´alma, Senhor,
+Comunhão tenho agora com Deus.
+
+3. Bom Jesus, por Teu ato sublime de amor,
+Me trouxeste, de Deus, o perdão;
+Levarás minha alma ao lar de esplendor,
+Onde receberei galardão.
+
+#Hino413 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 413, hino 413 ccb, Foi por mim que morreste, foi por mim que morreste, Hinário 5, hinario 413, ccb hino 413, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 414
+
+## Título para o vídeo
+Hino 414 - Teu sangue imaculado | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 414 - Teu sangue imaculado
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 414, “Teu sangue imaculado”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 414
+📖 Hinário: Hinário 5
+🎶 Título: Teu sangue imaculado
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Teu sangue imaculado, bendito Redentor;
+Dá plena confiança de ir ao Criador;
+É um refúgio forte Teu sangue, ó Senhor.
+
+2. Nele eu fui lavado e nada temerei,
+Sempre agradecido, por ele, a Deus serei;
+No sangue do concerto, socorro encontrarei.
+
+3. Eu fui justificado no sangue Teu, Senhor,
+Com ele vem cobrir-me, por Teu imenso amor;
+Por ele, nesta vida posso ser vencedor.
+
+4. Sob o precioso sangue de Cristo, o Remidor,
+Eu vivo protegido e não terei pavor;
+Caminharei avante, firme no Salvador.
+
+#Hino414 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 414, hino 414 ccb, Teu sangue imaculado, teu sangue imaculado, Hinário 5, hinario 414, ccb hino 414, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 415
+
+## Título para o vídeo
+Hino 415 - Na cruz morreu o Cordeiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 415 - Na cruz morreu o Cordeiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 415, “Na cruz morreu o Cordeiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 415
+📖 Hinário: Hinário 5
+🎶 Título: Na cruz morreu o Cordeiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Na cruz morreu o Cordeiro inocente,
+Por meus pecados verteu o Seu sangue;
+O Filho amado do Onipotente
+Por mim sofreu amargura e dor.
+Agonizando, bradou a Seu Pai,
+Com forte voz fez ouvir Seu clamor;
+Chegou a hora de tudo cumprir,
+Para dar vida ao pecador.
+
+2. Sinto um grande pesar em minh’alma,
+Ao recordar-me do Seu sofrimento;
+Como Cordeiro sofreu, tendo calma,
+Para que o homem pudesse viver.
+Como oferta levada ao altar,
+Foi Jesus Cristo Se oferecer
+Em sacrifício a Deus, Pai de amor,
+Para cumprir todo o Seu querer.
+
+3. Cristo Jesus expirou no madeiro,
+Foi o Seu corpo levado à terra;
+Mas, despontando o dia terceiro,
+Não mais a morte O pôde reter.
+Tendo descido um anjo dos céus,
+Não se puderam os guardas suster;
+Aparecendo Jesus Cristo aos Seus,
+Disse: “Me é dado todo o poder.”
+
+#Hino415 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 415, hino 415 ccb, Na cruz morreu o Cordeiro, na cruz morreu o cordeiro, Hinário 5, hinario 415, ccb hino 415, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 416
+
+## Título para o vídeo
+Hino 416 - No calvário... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 416 - No calvário...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 416, “No calvário...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 416
+📖 Hinário: Hinário 5
+🎶 Título: No calvário...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus por nós sofreu, morreu crucificado,
+Foi grande a dor do Salvador,
+Cristo Jesus, o Senhor.
+
+2. No Calvário morreu, cravado no madeiro;
+Cálix de fel, de amargor, por nós provou o Senhor.
+
+3. ''Perdoa-lhes, ó Pai", Jesus morreu, dizendo.
+Grande amor Ele mostrou quando na cruz expirou.
+
+4. Jesus ressuscitou, poder Lhe foi doado;
+Reina, nos céus, o Redentor, à destra do Criador.
+
+#Hino416 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 416, hino 416 ccb, No calvário..., no calvario..., Hinário 5, hinario 416, ccb hino 416, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 417
+
+## Título para o vídeo
+Hino 417 - Recordemo-nos sempre do Mestre | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 417 - Recordemo-nos sempre do Mestre
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 417, “Recordemo-nos sempre do Mestre”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 417
+📖 Hinário: Hinário 5
+🎶 Título: Recordemo-nos sempre do Mestre
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Recordemo-nos sempre do Mestre,
+Que, sem culpa, o martírio sofreu;
+Sendo Filho de Deus, Pai Celeste,
+Pelos nossos pecados morreu.
+
+Comovidos por Seu sofrimento atroz
+Exaltemos o Filho de Deus;
+Relembrando o amor que Ele teve por nós,
+Orações elevemos aos céus
+
+2. Jesus Cristo, orou reverente,
+A missão já chegava ao fim;
+“Se possível", clamou tristemente,
+"Faz passar este cálix de Mim.”
+
+3. A angústia, então, foi mui grande,
+Que por nós o Senhor suportou;
+Seu suor transformou-se em sangue,
+A vontade do Pai aceitou.
+
+#Hino417 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 417, hino 417 ccb, Recordemo-nos sempre do Mestre, recordemo-nos sempre do mestre, Hinário 5, hinario 417, ccb hino 417, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 418
+
+## Título para o vídeo
+Hino 418 - Só Jesus Cristo, santo Cordeiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 418 - Só Jesus Cristo, santo Cordeiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 418, “Só Jesus Cristo, santo Cordeiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 418
+📖 Hinário: Hinário 5
+🎶 Título: Só Jesus Cristo, santo Cordeiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+.
+
+1. Só Jesus Cristo, santo Cordeiro
+Reconciliou-nos com nosso Deus;
+Vertendo sangue sobre o madeiro,
+Nos preparou a glória dos céus.
+
+Pelo Seu sangue, certo estamos
+Que nossas faltas a Deus pagou;
+Com reverência nós exaltamos
+A Jesus Cristo, que nos livrou.
+
+2. Cristo foi morto e sepultado,
+Mas, triunfante ressuscitou;
+Fomos, por Ele, justificados,
+Na obra que na cruz consumou.
+
+3. A Jesus Cristo sempre louvemos,
+Pois, deste mundo, nos separou;
+Toda a glória Lhe tributemos,
+Da pena eterna nos libertou.
+
+#Hino418 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 418, hino 418 ccb, Só Jesus Cristo, santo Cordeiro, so jesus cristo, santo cordeiro, Hinário 5, hinario 418, ccb hino 418, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 419
+
+## Título para o vídeo
+Hino 419 - Sempre lembremo-nos da morte... (Santa Ceia) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 419 - Sempre lembremo-nos da morte... (Santa Ceia)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 419, “Sempre lembremo-nos da morte... (Santa Ceia)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 419
+📖 Hinário: Hinário 5
+🎶 Título: Sempre lembremo-nos da morte... (Santa Ceia)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+.
+1. Sempre lembremo-nos da morte
+Do nosso amado e bom Jesus;
+Sua memória celebremos,
+Seu sacrifício sobre a cruz.
+Tomaremos, comovidos, a Santa Ceia do Senhor;
+Somos agora, Seus remidos
+Por sua obra de grande amor.
+
+2. Neste momento o pão partimos,
+Como Jesus determinou,
+E, nesta comunhão, sentimos
+Quanto o mestre nos amou.
+Ao bebermos deste cálix,
+Por mandamento do Senhor,
+Anunciamos Sua morte até que venha o Redentor.
+
+3. Rememoremos o martírio,
+A humilhação que suportou;
+Sendo, de Deus, o amado Filho,
+Do céu desceu e nos salvou.
+Retornou ao Pai eterno,
+Mas dentro em breve voltará
+Para nos dar perpétua glória
+No reino que preparado está.
+
+#Hino419 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 419, hino 419 ccb, Sempre lembremo-nos da morte... (Santa Ceia), sempre lembremo-nos da morte... (santa ceia), Hinário 5, hinario 419, ccb hino 419, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 420
+
+## Título para o vídeo
+Hino 420 - Pela morte na cruz, nos resgatou... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 420 - Pela morte na cruz, nos resgatou...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 420, “Pela morte na cruz, nos resgatou...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 420
+📖 Hinário: Hinário 5
+🎶 Título: Pela morte na cruz, nos resgatou...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+.
+1. Foi no calvário que Jesus
+As nossas culpas cancelou;
+Sofrendo grande dor na cruz,
+Com Deus nos reconciliou.
+
+Pela morte na cruz, nos resgatou
+O Senhor, que a Deus nos adotou;
+Os Seus dons veio dar
+Para O podermos exaltar.
+
+2. À destra de Deus Pai, está
+Jesus, fiel Intercessor,
+Que sempre nos defenderá,
+Por Seu glorioso e santo amor.
+
+3. Louvor e honra ao Criador,
+Por ter mandado o Salvador
+Justificar o pecador
+E dar-lhe o reino de esplendor.
+
+#Hino420 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 420, hino 420 ccb, Pela morte na cruz, nos resgatou..., pela morte na cruz, nos resgatou..., Hinário 5, hinario 420, ccb hino 420, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 421
+
+## Título para o vídeo
+Hino 421 - Recorda, por fé, minha alma | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 421 - Recorda, por fé, minha alma
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 421, “Recorda, por fé, minha alma”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 421
+📖 Hinário: Hinário 5
+🎶 Título: Recorda, por fé, minha alma
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+.
+1. Recorda por fé, minha alma,
+A angústia do teu Redentor;
+Recorda que muito te ama;
+Por ti padeceu o Senhor.
+
+Louvemos a Deus, Pai eterno,
+Que Suas promessas nos deu;
+Louvemos Jesus Sempiterno,
+O Senhor do universo e do céu.
+
+2. Orando, elevo ao alto,
+Ao trono do bom Redentor,
+O meu coração, que mui grato,
+Jubila por Seu grande amor.
+
+3. Oh! Glória a Deus nas alturas,
+Pois nos enviou o Senhor,
+A fim de sofrer amarguras
+E dar-nos Seu reino de amor.
+
+#Hino421 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 421, hino 421 ccb, Recorda, por fé, minha alma, recorda, por fe, minha alma, Hinário 5, hinario 421, ccb hino 421, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 422
+
+## Título para o vídeo
+Hino 422 - Jesus Cristo, fiel Cordeiro | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 422 - Jesus Cristo, fiel Cordeiro
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 422, “Jesus Cristo, fiel Cordeiro”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 422
+📖 Hinário: Hinário 5
+🎶 Título: Jesus Cristo, fiel Cordeiro
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus Cristo, fiel Cordeiro,
+Por amor, desceu do céu;
+Santo, Puro e Verdadeiro,
+Para nos resgatar, morreu.
+
+Humilhou-se assim Jesus,
+Vitupério, por nós sofreu;
+Pelos nossos pecados padeceu;
+Vida, ao ressurgir, nos deu.
+
+2. Jesus Cristo, fiel Cordeiro,
+Padeceu na cruz por nós;
+Maldição se fez no madeiro,
+Onde teve uma morte atroz.
+
+3. Jesus Cristo, fiel Cordeiro,
+Sobre a morte triunfou;
+Unigênito e Verdadeiro
+O poder, Deus Lhe outorgou.
+
+#Hino422 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 422, hino 422 ccb, Jesus Cristo, fiel Cordeiro, jesus cristo, fiel cordeiro, Hinário 5, hinario 422, ccb hino 422, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 423
+
+## Título para o vídeo
+Hino 423 - Só o sangue precioso e expiador | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 423 - Só o sangue precioso e expiador
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 423, “Só o sangue precioso e expiador”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 423
+📖 Hinário: Hinário 5
+🎶 Título: Só o sangue precioso e expiador
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Só o sangue precioso e expiador,
+Que Jesus derramou sobre a cruz,
+É aceito pelo nosso Criador,
+Para nos conceder graça e luz.
+
+O perdão, salvação,
+Não se pode com o ouro alcançar;
+Só no sangue de Jesus há remissão;
+Só Jesus pode a todos salvar.
+
+2. Pelo sangue precioso de Jesus,
+Achegar-nos podemos a Deus;
+E habitar no reino da divina luz.
+Eternal santuário dos céus.
+
+3. Ouro e prata não concedem salvação,
+Só o sangue de Cristo, o Senhor;
+É o preço do resgate e do perdão
+Concedidos por Deus, Criador.
+
+#Hino423 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 423, hino 423 ccb, Só o sangue precioso e expiador, so o sangue precioso e expiador, Hinário 5, hinario 423, ccb hino 423, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 424
+
+## Título para o vídeo
+Hino 424 - Ó Jesus, por nós morreste | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 424 - Ó Jesus, por nós morreste
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 424, “Ó Jesus, por nós morreste”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 424
+📖 Hinário: Hinário 5
+🎶 Título: Ó Jesus, por nós morreste
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó Jesus, por nós morreste,
+Com Teu sangue nos compraste;
+Do pecado nos salvaste, dentre povos e nações.
+Somos reis e sacerdotes Ao Autor do universo;
+Tu trouxeste amor excelso
+Para os nossos corações.
+Tu trouxeste amor excelso
+Para os nossos corações.
+
+2. Ó Jesus, Tu És o Forte, aboliste a própria morte,
+Preparaste a grande sorte aos Teus santos e fieis;
+Voltarás com majestade, triunfante e glorioso;
+Voltarás celeste Esposo,
+Tu voltarás, ó Rei dos reis.
+Voltarás celeste Esposo,
+Tu voltarás, ó Rei dos reis.
+
+3. Voltarás com grande glória,
+Aos fieis darás vitória,
+Pois honraram a memória do Teu Nome,
+Ó Senhor.
+Já se cumprem as promessas
+Do fiel concerto eterno;
+Glória! Glória ao Superno,
+Glória a Deus, o Criador!
+Glória! Glória ao Superno,
+Glória a Deus, o Criador!
+
+#Hino424 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 424, hino 424 ccb, Ó Jesus, por nós morreste, o jesus, por nos morreste, Hinário 5, hinario 424, ccb hino 424, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 425
+
+## Título para o vídeo
+Hino 425 - Foi sempre humilde e obediente... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 425 - Foi sempre humilde e obediente...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 425, “Foi sempre humilde e obediente...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 425
+📖 Hinário: Hinário 5
+🎶 Título: Foi sempre humilde e obediente...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo supremo, do céu veio ao mundo,
+E trouxe graça, virtude e paz;
+Deu vida aos mortos, curou os enfermos,
+Manifestando poder eficaz.
+
+Foi sempre humilde e obediente
+Até a morte, Jesus, o Senhor;
+Ressuscitou por justiça divina,
+E é no céu o fiel Mediador.
+
+2. Era inocente, mas foi condenado,
+Ao sacrifício da cruz e da dor;
+Não defendeu-Se, manteve-Se humilde,
+Cálice amargo provou o Senhor.
+
+3. Já despontava o dia terceiro,
+Quando o Mestre á vida voltou.
+Apresentou-Se aos Seus seguidores,
+Deu-lhes a paz e os abençoou.
+
+Foi elevado o Rei eterno
+E assentou-Se à destra de Deus;
+Com grande glória será Seu retorno,
+Para levar os eleitos aos céus.
+
+#Hino425 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 425, hino 425 ccb, Foi sempre humilde e obediente..., foi sempre humilde e obediente..., Hinário 5, hinario 425, ccb hino 425, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 426
+
+## Título para o vídeo
+Hino 426 - Lá no céu, o lar de amor (Funeral) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 426 - Lá no céu, o lar de amor (Funeral)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 426, “Lá no céu, o lar de amor (Funeral)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 426
+📖 Hinário: Hinário 5
+🎶 Título: Lá no céu, o lar de amor (Funeral)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Este mundo enganador,
+Só tristezas nos dá;
+Nele há pranto, morte e dor,
+Que na glória não há.
+
+Lá no céu, o lar de amor,
+Não há morte, não há dor,
+Não há pranto e nem tristeza,
+Mas há paz e esplendor.
+
+2. Nossas lágrimas, ao fim, enxugadas serão
+Por Deus Pai, o Criador, na celeste Sião.
+
+3. Na cidade do Senhor, onde é eterna a luz;
+Os fiéis contemplarão nosso amado Jesus.
+
+#Hino426 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 426, hino 426 ccb, Lá no céu, o lar de amor (Funeral), la no ceu, o lar de amor (funeral), Hinário 5, hinario 426, ccb hino 426, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 427
+
+## Título para o vídeo
+Hino 427 - Os que no Senhor dormiram (Funeral) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 427 - Os que no Senhor dormiram (Funeral)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 427, “Os que no Senhor dormiram (Funeral)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 427
+📖 Hinário: Hinário 5
+🎶 Título: Os que no Senhor dormiram (Funeral)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Os que no Senhor dormiram,
+Descansando já estão;
+Aos heróis se reuniram e aguardam a
+Ressurreição.
+
+Nós nos reencontraremos,
+Lá na pátria do Senhor;
+Para sempre louvaremos
+A Jesus, o fiel Redentor.
+
+2. Somos povo peregrino,
+Temos que nos separar;
+No céu, eternal destino,
+Nós iremos com Deus habitar.
+
+3. Os que com Jesus já foram,
+Terminaram de lutar;
+Com os santos já repousam,
+Esperando a trombeta soar.
+
+#Hino427 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 427, hino 427 ccb, Os que no Senhor dormiram (Funeral), os que no senhor dormiram (funeral), Hinário 5, hinario 427, ccb hino 427, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 428
+
+## Título para o vídeo
+Hino 428 - O dia de Cristo bem perto está (Funeral) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 428 - O dia de Cristo bem perto está (Funeral)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 428, “O dia de Cristo bem perto está (Funeral)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 428
+📖 Hinário: Hinário 5
+🎶 Título: O dia de Cristo bem perto está (Funeral)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O dia de Cristo bem perto está;
+Aos santos que dormem, ressuscitará;
+Serão consolados os filhos de Deus,
+Por tempo eterno no reino dos céus.
+
+2. Assim como Cristo subiu para os céus,
+Fará que Os sigam os santos de Deus.
+É Ele o primeiro da ressurreição;
+A mesma vitória os justos terão.
+
+3. Viventes eternos serão, com Jesus,
+Os que caminharam na senda de luz;
+No sono dos justos adormecerão;
+Imortalidade de Deus herdarão.
+
+#Hino428 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 428, hino 428 ccb, O dia de Cristo bem perto está (Funeral), o dia de cristo bem perto esta (funeral), Hinário 5, hinario 428, ccb hino 428, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 429
+
+## Título para o vídeo
+Hino 429 - A trombeta soará (Funeral) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 429 - A trombeta soará (Funeral)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 429, “A trombeta soará (Funeral)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 429
+📖 Hinário: Hinário 5
+🎶 Título: A trombeta soará (Funeral)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. A trombeta soará e do sono acordará,
+Para o reino de esplendor,
+Os que dormem no Senhor,
+Eles se levantarão e nos céus, encontrarão
+Nosso eterno salvador,
+Jesus Cristo, o Redentor.
+
+2. Ver-nos-emos lá nos céu, junto do vivente Deus;
+Lá não há separação, mas eterna união.
+Morte lá não entrará, pois vencida já estará;
+Não há pranto, não há dor nas moradas do
+Senhor.
+
+3. Nem a morte, nem a dor nos separam do amor
+Que em nós Deus derramou, por Jesus,
+Que nos amou.
+Nem presente nem porvir,
+Nada pode destruir
+A esperança de entrar, com Jesus no eterno
+Lar.
+
+#Hino429 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 429, hino 429 ccb, A trombeta soará (Funeral), a trombeta soara (funeral), Hinário 5, hinario 429, ccb hino 429, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 430
+
+## Título para o vídeo
+Hino 430 - Preciosa é, aos olhos do Criador...(Funeral) | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 430 - Preciosa é, aos olhos do Criador...(Funeral)
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 430, “Preciosa é, aos olhos do Criador...(Funeral)”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 430
+📖 Hinário: Hinário 5
+🎶 Título: Preciosa é, aos olhos do Criador...(Funeral)
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Preciosa é, aos olhos do Criador,
+A morte dos Seus filhos amados;
+Serão, por Cristo ressuscitados
+Quando aparecer, cheio de esplendor.
+
+Bem-aventurado quem dorme no
+Senhor,
+Dorme na esperança do reino de
+esplendor.
+
+2. Preciosa é aos olhos do Criador,
+A morte dos que findam a lida
+Serão despertos para vida,
+Vida eternal com o Salvador.
+
+#Hino430 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 430, hino 430 ccb, Preciosa é, aos olhos do Criador...(Funeral), preciosa e, aos olhos do criador...(funeral), Hinário 5, hinario 430, ccb hino 430, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 431
+
+## Título para o vídeo
+Hino 431 - Ó meninos, estamos reunidos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 431 - Ó meninos, estamos reunidos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 431, “Ó meninos, estamos reunidos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 431
+📖 Hinário: Hinário 5
+🎶 Título: Ó meninos, estamos reunidos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó meninos, nós estamos
+Reunidos ante o bom Pastor;
+Ansiosos, esperamos
+Seus conselhos de amor.
+
+Coro:
+
+Nós estamos na presença
+Do veraz, fiel e bom Pastor.
+Desfrutando Suas bençãos
+Que provém do Seu amor
+
+Ó meninos, atendamos
+A Jesus, divino Salvador.
+Pois é dEle que esperamos
+A virtude e o vigor.
+
+Ó meninos, com firmeza
+Nós devemos sempre caminhar,
+É eterna a riqueza
+Que Jesus nos veio dar.
+
+#Hino431 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 431, hino 431 ccb, Ó meninos, estamos reunidos, o meninos, estamos reunidos, Hinário 5, hinario 431, ccb hino 431, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 432
+
+## Título para o vídeo
+Hino 432 - Vem, ó Senhor bondoso | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 432 - Vem, ó Senhor bondoso
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 432, “Vem, ó Senhor bondoso”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 432
+📖 Hinário: Hinário 5
+🎶 Título: Vem, ó Senhor bondoso
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor Jesus, bom Redentor,
+Envia Teu poder;
+Reveste os santos Teus, Senhor,
+De força e saber.
+
+Coro:
+Vem, ó divino Mestre,
+Dá-nos saber celeste;
+Nós somos pequeninos, mas Tu és nosso Rei.
+
+2. Jesus, Cordeiro divinal,
+Imenso é Teu amor;
+E nesse amor celestial
+Vivemos, ó Senhor.
+
+3. Nas nuvens, ó Senhor Jesus,
+Queremos Te encontrar;
+E, no glorioso lar de luz
+Contigo habitar.
+
+#Hino432 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 432, hino 432 ccb, Vem, ó Senhor bondoso, vem, o senhor bondoso, Hinário 5, hinario 432, ccb hino 432, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 433
+
+## Título para o vídeo
+Hino 433 - Na santa escola | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 433 - Na santa escola
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 433, “Na santa escola”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 433
+📖 Hinário: Hinário 5
+🎶 Título: Na santa escola
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Estamos, ó meninos, na escola do Senhor;
+Cantemos santos hinos a Deus, o Criador.
+Na santa escola do Mestre eterno
+Há bem superno.
+
+2. Jesus, o nosso Mestre, ensina com amor
+A eterna lei celeste, que leva ao Criador.
+Na santa escola o Mestre amado e adorado.
+
+3. O santo Evangelho, viemos aprender;
+De Cristo o conselho queremos aprender.
+Na santa escola o Mestre ensina a sã Doutrina.
+
+4. Ó jovens e meninos, devemos conservar
+Os divinais ensinos e neles caminhar.
+Na santa escola o Mestre ouvimos e O servimos.
+
+#Hino433 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 433, hino 433 ccb, Na santa escola, na santa escola, Hinário 5, hinario 433, ccb hino 433, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 434
+
+## Título para o vídeo
+Hino 434 - A minha alma sente paz no Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 434 - A minha alma sente paz no Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 434, “A minha alma sente paz no Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 434
+📖 Hinário: Hinário 5
+🎶 Título: A minha alma sente paz no Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A minha alma sente paz no Senhor,
+Paz eternal, paz sem igual;
+Por essa paz irei ao reino de amor,
+Reino celestial.
+
+Meu coração já sente o grande amor
+Que vem dos céus, que vem dos céus;
+Eternamente eu serei do Senhor,
+Grande é o amor de Deus.
+
+Por Seu amor Jesus tornou-me feliz,
+Muito feliz, muito feliz.
+Irei com Ele ao eterno país,
+Celestial país.
+
+#Hino434 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 434, hino 434 ccb, A minha alma sente paz no Senhor, a minha alma sente paz no senhor, Hinário 5, hinario 434, ccb hino 434, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 435
+
+## Título para o vídeo
+Hino 435 - Ó Jesus, quanto és piedoso! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 435 - Ó Jesus, quanto és piedoso!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 435, “Ó Jesus, quanto és piedoso!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 435
+📖 Hinário: Hinário 5
+🎶 Título: Ó Jesus, quanto és piedoso!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó Jesus, quanto és piedoso,
+Infinito é Teu amor!
+Com o Teu poder glorioso,
+Faz de mim Teu servidor.
+Dedicado e fervoroso,
+Quero amar-Te ó Senhor
+
+Neste mundo sou criança,
+Só por mim não posso andar,
+Mas eu tenho confiança
+De poder no céu entrar
+Tua voz suave e mansa
+Sempre vem me ensinar.
+
+Tenho em mim a esperança
+De alcançar, ó Salvador,
+A sublime e eterna herança
+No Teu reino de esplendor.
+Dá-me fé e segurança,
+Luz, virtude e vigor.
+
+#Hino435 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 435, hino 435 ccb, Ó Jesus, quanto és piedoso!, o jesus, quanto es piedoso!, Hinário 5, hinario 435, ccb hino 435, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 436
+
+## Título para o vídeo
+Hino 436 - Privilégio santo, sem igual... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 436 - Privilégio santo, sem igual...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 436, “Privilégio santo, sem igual...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 436
+📖 Hinário: Hinário 5
+🎶 Título: Privilégio santo, sem igual...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Alegria sinto em servir Jesus
+Alegria que, no mundo, não há igual
+Bem por isso sigo a eterna luz
+Da justiça divinal
+
+Coro:
+Privilégio santo, sem igual
+É andar com meu Senhor
+Caminhar em Seu amor, exaltando ao Criador.
+Desejamos ver retornar dos céus
+Cristo, o Rei e Salvador
+
+Regozigo e real consolação
+Paz divina e celestial amor,
+Me preservam deste mundo de ilusão
+E me unem ao Senhor
+
+Ó amados, caminhemos com Jesus
+Nele temos vida eterna e salvação
+Se aqui manifestarmos Sua luz
+Nos teremos galardão.
+
+#Hino436 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 436, hino 436 ccb, Privilégio santo, sem igual..., privilegio santo, sem igual..., Hinário 5, hinario 436, ccb hino 436, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 437
+
+## Título para o vídeo
+Hino 437 - Os meninos viram Jesus passar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 437 - Os meninos viram Jesus passar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 437, “Os meninos viram Jesus passar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 437
+📖 Hinário: Hinário 5
+🎶 Título: Os meninos viram Jesus passar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Os meninos viram Jesus passar
+Logo O seguiram para proclamar
+Glória ao que veio em nome do Senhor
+Foi engrandecido o Redentor.
+
+Vamos exaltar a Jesus então
+Com os nossos lábios e o coração
+Ó meninos vamos ao Senhor servir
+E a lei perfeita de Deus cumprir
+
+Eis que entre nós Jesus Cristo está
+Ele, que nos vê, nos abençoará
+As virtudes santas quer nos conceder
+Para que possamos o mal vencer
+
+Em silêncio ouçamos o que dirá
+Cristo o nosso mestre que ensinará
+A doutrina santa que conduz aos céus
+Ó meninos vamos amar a Deus.
+
+#Hino437 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 437, hino 437 ccb, Os meninos viram Jesus passar, os meninos viram jesus passar, Hinário 5, hinario 437, ccb hino 437, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 438
+
+## Título para o vídeo
+Hino 438 - Perto está o Salvador... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 438 - Perto está o Salvador...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 438, “Perto está o Salvador...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 438
+📖 Hinário: Hinário 5
+🎶 Título: Perto está o Salvador...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Bem perto está dos seus fiéis
+Jesus, o grande Mestre;
+Jamais nos deixa o Rei dos reis;
+Oh! Que amor celeste!
+
+Coro:
+Perto está o Salvador
+Dos que O têm por seu Pastor;
+Não os deixa o redentor;
+Oh! que amor celeste!
+
+Jesus, o nosso Redentor,
+Do alto nos reveste;
+Nas provas, lutas ou na dor;
+Presente está o Mestre!
+
+Na nossa peregrinação.
+É Cristo Quem nos guia;
+Estende sempre a Sua mão,
+Nos guarda noite e dia.
+
+#Hino438 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 438, hino 438 ccb, Perto está o Salvador..., perto esta o salvador..., Hinário 5, hinario 438, ccb hino 438, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 439
+
+## Título para o vídeo
+Hino 439 - Somos jovens | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 439 - Somos jovens
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 439, “Somos jovens”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 439
+📖 Hinário: Hinário 5
+🎶 Título: Somos jovens
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Somos jovens, mas devemos sempre andar
+No temor do Criador,
+O modelo santo vamos imitar
+Jesus Cristo, o Salvador.
+
+Coro:
+Em amor, com vigor,
+Nós, jovens, vamos caminhar,
+Mostrando a luz do Salvador
+E honrando ao Criador.
+
+2. Cristo é o Luz divina para nós,
+Vemos nEle a perfeição;
+Ouviremos, sempre atentos, Sua voz
+Que consola o coração.
+
+3. Se seguirmos sempre firmes ao Senhor,
+Com sincero coração,
+Ele nos dará, no reino de esplendor,
+O glorioso galardão.
+
+#Hino439 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 439, hino 439 ccb, Somos jovens, somos jovens, Hinário 5, hinario 439, ccb hino 439, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 440
+
+## Título para o vídeo
+Hino 440 - Nos dias da tua peregrinação... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 440 - Nos dias da tua peregrinação...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 440, “Nos dias da tua peregrinação...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 440
+📖 Hinário: Hinário 5
+🎶 Título: Nos dias da tua peregrinação...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Nos dias da tua peregrinação,
+Usa o tempo servindo ao Senhor,
+E, com alegria, cumpre a missão;
+Lembra-te do Criador!
+
+Coro:
+Debaixo do sol tudo é vaidade,
+Recorre a Deus, o Formador;
+Nos breves dias da mocidade,
+Não te esqueças do Senhor!
+
+Os dias preditos logo hão de vir,
+Serve, pois a Deus, o Formador;
+Vinde, ó benditos” tu irás ouvir;
+Lembra-te do Criador!
+
+Mesmo tendo neste mundo, muitos bens,
+E a vida cheia de vigor,
+É maior a herança que na glória, tens;
+Com o santo Criador!
+
+#Hino440 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 440, hino 440 ccb, Nos dias da tua peregrinação..., nos dias da tua peregrinacao..., Hinário 5, hinario 440, ccb hino 440, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 441
+
+## Título para o vídeo
+Hino 441 - Eu sou um cordeirinho | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 441 - Eu sou um cordeirinho
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 441, “Eu sou um cordeirinho”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 441
+📖 Hinário: Hinário 5
+🎶 Título: Eu sou um cordeirinho
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Eu sou um cordeirinho Jesus é o meu pastor
+Desfruto Seu carinho e seu sublime amor
+Nasci no Seu rebanho por graça divinal
+Não sigo a voz do estranho mas só
+A paternal
+
+Eu sou um cordeirinho Jesus é o meu Pastor
+Sou um feliz menino nos braços do Senhor
+A Sua voz conheço também o seu querer
+A Ele obedeço disposto e com prazer
+
+Sozinho no deserto jamais eu posso andar
+Jesus está bem perto a fim de me guardar
+É grande o cuidado que Ele tem por mim
+O meu pastor amado me guia até o fim
+
+#Hino441 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 441, hino 441 ccb, Eu sou um cordeirinho, eu sou um cordeirinho, Hinário 5, hinario 441, ccb hino 441, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 442
+
+## Título para o vídeo
+Hino 442 - Bênçãos, bênçãos Deus derramará | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 442 - Bênçãos, bênçãos Deus derramará
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 442, “Bênçãos, bênçãos Deus derramará”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 442
+📖 Hinário: Hinário 5
+🎶 Título: Bênçãos, bênçãos Deus derramará
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Bênçãos como chuva, se derramarão
+Sobre aquele que a Deus servir;
+E, dos céus, as portas não se fecharão;
+Bens celestes poderá fruir.
+
+Coro:
+Bênçãos, bênçãos Deus derramará,
+Bênçãos que no mundo, iguais não há;
+Ele, aqui, te dá as bênçãos temporais,
+E, por fim, no céu, as eternais.
+
+2. Se obedeceres ao teu Criador,
+Tu serás bendito do Senhor;
+O Seu forte braço Ele estenderá,
+E em teu favor trabalhará.
+
+3. O que Deus te pede, deves tu fazer
+E somente a Ele obedecer,
+Pois Deus é contigo, te ajudará,
+E, dos céus, te abençoará.
+
+#Hino442 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 442, hino 442 ccb, Bênçãos, bênçãos Deus derramará, bencaos, bencaos deus derramara, Hinário 5, hinario 442, ccb hino 442, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 443
+
+## Título para o vídeo
+Hino 443 - Ó meninos, Deus vos convida | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 443 - Ó meninos, Deus vos convida
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 443, “Ó meninos, Deus vos convida”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 443
+📖 Hinário: Hinário 5
+🎶 Título: Ó meninos, Deus vos convida
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó meninos, Deus vos convida
+Para a grande festa nos céus;
+Regozigo eterno e vida
+Achareis no reino de Deus.
+Grande glória lá vos aguarda,
+Benção que aqui não tereis;
+Atendei, pois Cristo não tarda
+Brevemente vós O vereis.
+
+2. Deslumbrante é a beleza
+Das moradas do Criador,
+Que reserva essa riqueza
+Aos remidos por Seu amor.
+Vós vereis na glória celeste,
+Glória onde é tudo esplendor,
+Todos quantos seguem ao Mestre,
+Jesus Cristo, nosso Senhor.
+
+3. Tão somente santificai-vos
+Pela força do nosso Deus;
+De justiça sempre adornai-vos,
+Para a grande festa nos céus,
+Todos juntos nós subiremos,
+Com Jesus, ao Pai celestial;
+Diante dEle entoaremos
+Hinos de louvor eternal.
+
+#Hino443 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 443, hino 443 ccb, Ó meninos, Deus vos convida, o meninos, deus vos convida, Hinário 5, hinario 443, ccb hino 443, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 444
+
+## Título para o vídeo
+Hino 444 - Ó meninos, exaltemos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 444 - Ó meninos, exaltemos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 444, “Ó meninos, exaltemos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 444
+📖 Hinário: Hinário 5
+🎶 Título: Ó meninos, exaltemos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó meninos, exaltemos
+A Jesus, o Salvador;
+Sempre alegres, seguiremos
+Ao amado e bom Pastor,
+Pois na boca das crianças
+É perfeito o louvor
+A Jesus, nossa Esperança
+E a Deus, o Criador.
+
+2 – Nesta terra proclamemos
+Que Jesus é o Salvador;
+Com fervor, manifestemos
+Seu sublime e grande amor;
+Quando juntos estivermos
+Na cidade de esplendor,
+Todos nós contemplaremos
+Nosso Amado Redentor.
+
+#Hino444 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 444, hino 444 ccb, Ó meninos, exaltemos, o meninos, exaltemos, Hinário 5, hinario 444, ccb hino 444, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 445
+
+## Título para o vídeo
+Hino 445 - Ajuntemos um tesouro eterno | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 445 - Ajuntemos um tesouro eterno
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 445, “Ajuntemos um tesouro eterno”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 445
+📖 Hinário: Hinário 5
+🎶 Título: Ajuntemos um tesouro eterno
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ajuntemos ó meninos nosso bom tesouro
+Lá nos céus de amor
+Onde habita nosso Mestre e o Pai eterno nosso
+Criador
+
+Coro:
+Ajuntemos um tesouro eterno
+Onde habita nosso Deus superno
+Nos céus o bens jamais se acabarão
+
+Ricos das eternas bênçãos e dos dons celestes
+Que nos vêm de Deus,
+Caminhemos nas veredas da justiça eterna
+Que nos leva aos céus.
+
+Ao sairmos deste mundo, tudo deixaremos, tudo
+findará
+O tesouro ajuntado na eterna glória sempre durará
+
+#Hino445 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 445, hino 445 ccb, Ajuntemos um tesouro eterno, ajuntemos um tesouro eterno, Hinário 5, hinario 445, ccb hino 445, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 446
+
+## Título para o vídeo
+Hino 446 - Vós, ó jovens do Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 446 - Vós, ó jovens do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 446, “Vós, ó jovens do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 446
+📖 Hinário: Hinário 5
+🎶 Título: Vós, ó jovens do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Vós, ó jovens do Senhor, dai-Lhe honra e louvor,
+Esforçai-vos por servir ao Rei dos reis;
+Revesti-vos, pois, de fé e do Seu imenso amor,
+O que dEle precisardes vós tereis.
+
+Coro:
+Vós, ó jovens do Senhor,
+Oh! Amai-O com fervor,
+O que Ele vos mandar, procurai executar;
+Morareis com Deus em Seu lar;
+Diligentes sede vós, Ele não vos deixa sós,
+Mas convosco estará e as forças vos dará,
+Pois a graça nEle está.
+
+2. Sois remidos, ó irmãos, sois amados de Jesus,
+E sois fortes para suplantar o mal;
+Pelo bom Consolador vós tereis virtude e luz;
+Sim, crescei na estatura divinal.
+
+3. Se vier o tentador com ofertas vos tentar,
+Incitando-vos a males cometer,
+Recorrei ao Salvador, Ele vos virá livrar;
+Vós, ó jovens, não deveis jamais ceder.
+
+#Hino446 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 446, hino 446 ccb, Vós, ó jovens do Senhor, vos, o jovens do senhor, Hinário 5, hinario 446, ccb hino 446, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 447
+
+## Título para o vídeo
+Hino 447 - Estás na senda divinal que te faz brilhar... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 447 - Estás na senda divinal que te faz brilhar...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 447, “Estás na senda divinal que te faz brilhar...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 447
+📖 Hinário: Hinário 5
+🎶 Título: Estás na senda divinal que te faz brilhar...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Estás na senda divinal que te faz brilhar;
+O teu lugar celestial, Deus irá te dar.
+
+Coro:
+Brilha mais e mais,
+Caminha com Jesus;
+Terás em ti a Sua luz,
+Brilhando sempre mais.
+
+2. É teu desejo receber dons do teu Senhor?
+Verás que há no Seu saber santo resplendor.
+
+3. Repouso eterno há nos céus junto ao bom Jesus;
+Por fim verás o grande Deus onde habita a luz.
+
+#Hino447 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 447, hino 447 ccb, Estás na senda divinal que te faz brilhar..., estas na senda divinal que te faz brilhar..., Hinário 5, hinario 447, ccb hino 447, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 448
+
+## Título para o vídeo
+Hino 448 - Sou criança, Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 448 - Sou criança, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 448, “Sou criança, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 448
+📖 Hinário: Hinário 5
+🎶 Título: Sou criança, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Sou criança, Senhor, mas desejo seguir
+Os Teus passos na senda de luz
+Teus conselhos de amor eu almejo ouvir
+Aos Teus pés, ó amável Jesus
+
+Coro:
+Sou criança, mas crente em Jesus
+Meu amado e divino Pastor,
+Que em mim faz brilhar sua luz
+Conduzindo-me ao reino de amor
+
+Sou criança, Senhor, mas fiel quero ser
+À palavra que livra do mal
+Com amor e fervor eu desejo crescer
+Nas virtudes da vida eternal
+
+Sou criança, Senhor, mas zeloso do bem,
+Tuas bênçãos estão sobre de mim
+Caminhando em amor, em justiça também
+Eu serei coroado ao fim.
+
+#Hino448 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 448, hino 448 ccb, Sou criança, Senhor, sou crianca, senhor, Hinário 5, hinario 448, ccb hino 448, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 449
+
+## Título para o vídeo
+Hino 449 - O meu nome no céu escreveste, Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 449 - O meu nome no céu escreveste, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 449, “O meu nome no céu escreveste, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 449
+📖 Hinário: Hinário 5
+🎶 Título: O meu nome no céu escreveste, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. As riquezas celestes eu almejo, Senhor,
+Os tesouros da terra têm pequeno valor.
+Com fervor eu Te rogo, ó eterno Deus meu,
+Que conserves escrito o meu nome no céu.
+
+Coro:
+O meu nome no céu escreveste, Senhor
+No Teu livro da vida, por Teu grande amor.
+
+2. Que ventura sublime! que tesouro sem par!
+Pois verei Teu semblante, ouvirei Teu falar;
+O meu nome não risques, eu imploro, Senhor,
+Entre os Teus escolhidos quero estar, Criador.
+
+3. Tu me predestinaste para ser filho Teu,
+Para ser Teu herdeiro, com os santos, no céu;
+Como posso pagar-Te essa grande mercê?!
+Pois em mim colocaste a esperança e a fé.
+
+#Hino449 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 449, hino 449 ccb, O meu nome no céu escreveste, Senhor, o meu nome no ceu escreveste, senhor, Hinário 5, hinario 449, ccb hino 449, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 450
+
+## Título para o vídeo
+Hino 450 - Vamos, queridos, escolher a boa parte | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 450 - Vamos, queridos, escolher a boa parte
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 450, “Vamos, queridos, escolher a boa parte”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 450
+📖 Hinário: Hinário 5
+🎶 Título: Vamos, queridos, escolher a boa parte
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos, queridos, escolher
+A boa parte para nós,
+Sempre ouvindo, com prazer,
+De Jesus Cristo, a doce voz.
+
+Coro:
+Grande bem, sem igual
+É estar diante do Senhor,
+Sua voz divinal,
+Nos ensina com sublime amor.
+
+2. Não há no mundo nada igual
+Ao regozijo de estar.
+Aos pés do Mestre divinal,
+A quem devemos sempre amar.
+
+3. A boa parte que nos dá
+Cristo Jesus, o Redentor,
+Nada, de nós a tomará,
+Se a guardarmos com amor.
+
+#Hino450 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 450, hino 450 ccb, Vamos, queridos, escolher a boa parte, vamos, queridos, escolher a boa parte, Hinário 5, hinario 450, ccb hino 450, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 451
+
+## Título para o vídeo
+Hino 451 - Não poderei jamais esquecer... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 451 - Não poderei jamais esquecer...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 451, “Não poderei jamais esquecer...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 451
+📖 Hinário: Hinário 5
+🎶 Título: Não poderei jamais esquecer...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Não poderei jamais esquecerei
+Tua mercê, Senhor;
+Deste aos pequenos de conhecer
+Tua grandeza e amor.
+
+Coro:
+Jamais esquecerei
+Tua mercê, ó Criador;
+Por Cristo alcançarei
+Esse tesouro de amor.
+
+Oh! que tesouro de esplendor
+Tu me darás nos céus;
+Não há esperança de igual valor
+Para Teus filhos, ó Deus.
+
+Se eu andar sempre em Teu temor,
+Ao fim eu entrarei
+No reino eterno de esplendor,
+Onde o tesouro terei.
+
+#Hino451 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 451, hino 451 ccb, Não poderei jamais esquecer..., nao poderei jamais esquecer..., Hinário 5, hinario 451, ccb hino 451, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 452
+
+## Título para o vídeo
+Hino 452 - Jesus, ó divinal Pastor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 452 - Jesus, ó divinal Pastor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 452, “Jesus, ó divinal Pastor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 452
+📖 Hinário: Hinário 5
+🎶 Título: Jesus, ó divinal Pastor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jesus ó divinal pastor o Teu rebanho quer te ouvir
+Com teu Espírito, ó Senhor vem este culto presidir
+Nós somos todos cordeirinhos
+Do Teu aprisco ó Redentor
+Só Tu nos tratas com carinho ó glorioso Salvador
+
+Jesus, glorioso e fiel em Ti está o nosso bem;
+Tu és o nosso Emanuel,
+És quem na graça, nos sustém
+Aqui estamos reunidos ao Teu redor fiel Senhor
+Pois, onde estão os Teus remidos
+Também estás ó bom Pastor
+
+Nós Te seguimos, Redentor,
+Pois conhecemos Tua voz
+Vos que nos fala com amor, dizendo:
+“Não vos deixo sós”
+A Pastos sempre verdejantes
+Tu nos conduzes, ó Senhor
+Por isso estamos confiantes,
+Sentindo a Tua paz e amor.
+
+#Hino452 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 452, hino 452 ccb, Jesus, ó divinal Pastor, jesus, o divinal pastor, Hinário 5, hinario 452, ccb hino 452, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 453
+
+## Título para o vídeo
+Hino 453 - Se quisermos, irmãos, do Senhor receber... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 453 - Se quisermos, irmãos, do Senhor receber...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 453, “Se quisermos, irmãos, do Senhor receber...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 453
+📖 Hinário: Hinário 5
+🎶 Título: Se quisermos, irmãos, do Senhor receber...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1 – Se quisermos, irmãos, do Senhor receber
+As virtudes da vida eternal,
+Seja a nossa afeição e o nosso prazer
+Em Jesus e na lei celestial.
+
+Coro:
+Consagrados sejamos a Deus, Criador,
+E Ele, de nós, se agradará;
+Abrirá Sua mão e, com grande amor,
+Boas dádivas nos mandará.
+
+2 – Se quisermos, irmãos, ser benditos de Deus,
+Adoremo-Lo com devoção;
+Seus preceitos de amor Ele envia dos céus,
+Seja Ele a nossa Porção.
+
+3 – Se honrarmos a Deus, Ele nos honrará,
+Nesta terra e na pátria eternal;
+Um diadema, nos céus, Ele concederá,
+Ao entrarmos no lar divinal.
+
+#Hino453 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 453, hino 453 ccb, Se quisermos, irmãos, do Senhor receber..., se quisermos, irmaos, do senhor receber..., Hinário 5, hinario 453, ccb hino 453, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 454
+
+## Título para o vídeo
+Hino 454 - Ó Deus bendito, sou pequenino... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 454 - Ó Deus bendito, sou pequenino...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 454, “Ó Deus bendito, sou pequenino...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 454
+📖 Hinário: Hinário 5
+🎶 Título: Ó Deus bendito, sou pequenino...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó Deus bendito, sou pequenino;
+Mas já caminho pelo teu ensino,
+Sou neste mundo, um peregrino;
+Já me fizeste cidadão dos céus
+
+Vivo alegre, em paz te sigo;
+Nada receio, pois estou contigo;
+Neste deserto, em ti me abrigo;
+Já me fizeste cidadão dos céus.
+
+És minha força, e Segurança;
+És meu apoio, minha Esperança;
+És minha vida e confiança
+Já me fizeste cidadão dos céus.
+
+#Hino454 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 454, hino 454 ccb, Ó Deus bendito, sou pequenino..., o deus bendito, sou pequenino..., Hinário 5, hinario 454, ccb hino 454, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 455
+
+## Título para o vídeo
+Hino 455 - Quão ditoso é caminhar com Jesus! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 455 - Quão ditoso é caminhar com Jesus!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 455, “Quão ditoso é caminhar com Jesus!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 455
+📖 Hinário: Hinário 5
+🎶 Título: Quão ditoso é caminhar com Jesus!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Alegremente seguimos os passos
+Do nosso bom Salvador, nosso Rei,
+Pois acolheu-nos em Seus santos braços,
+Desde crianças nos fez Sua grei.
+
+Coro:
+Quão ditoso é caminhar com Jesus, ó A7
+D
+Somos Sua grei, Ele é o bom Pastor;
+Seguimos, com amor, os preciosos ensinos
+De Deus, Criador.
+
+Nesta jornada, unidos devemos,
+Sempre dispostos, a Cristo seguir;
+E no Seu Nome, vitória teremos,
+Desfrutaremos os bens do porvir.
+
+O Salvador nos conduz nesta vida,
+Para fazer-nos morar lá nos céus;
+E nessa pátria, gloriosa e querida,
+Contemplaremos a face de Deus.
+
+#Hino455 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 455, hino 455 ccb, Quão ditoso é caminhar com Jesus!, quao ditoso e caminhar com jesus!, Hinário 5, hinario 455, ccb hino 455, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 456
+
+## Título para o vídeo
+Hino 456 - Somos jóias preciosas | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 456 - Somos jóias preciosas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 456, “Somos jóias preciosas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 456
+📖 Hinário: Hinário 5
+🎶 Título: Somos jóias preciosas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao voltar com grande glória, Jesus Cristo,
+o Redentor,
+Levará as Suas joias para o reino de esplendor.
+
+Coro:
+Somos joias preciosas
+Do tesouro do Senhor;
+Somos belas, mui formosas,
+Somos joias de valor.
+
+2. Destas joias preciosas Cristo sempre cuidará;
+Sempre belas e brilhantes Ele as conservará.
+
+3. Revestidos de pureza, caminhando em amor.
+Aguardemos, bem atentos, o retorno do Senhor.
+
+#Hino456 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 456, hino 456 ccb, Somos jóias preciosas, somos joias preciosas, Hinário 5, hinario 456, ccb hino 456, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 457
+
+## Título para o vídeo
+Hino 457 - Estou com Jesus, meu Senhor... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 457 - Estou com Jesus, meu Senhor...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 457, “Estou com Jesus, meu Senhor...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 457
+📖 Hinário: Hinário 5
+🎶 Título: Estou com Jesus, meu Senhor...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Comigo está Jesus meu bom mestre
+E salvador
+Me guia com a Luz pelo Seu imenso amor
+Mistérios celestiais Jesus revelará
+No Seu bom caminho andar me fará
+
+Quem me separará do sublime amor de Deus
+Quem me condenará?
+Pois Jesus defende os Seus.
+Unido ao Senhor por celestial amor
+Caminho avante com fé e valor
+
+Das sendas celestiais eu não me afastarei
+Pois amo sempre mais a doutrina
+Do meu Rei;
+Jesus me guiará e forças me dará
+O Mestre amado comigo está.
+
+Final:
+Estou com Jesus meu Senhor:
+Vou vencer!
+Jesus ama os Seus e as coisas
+De Deus lhes faz saber
+A nada aqui temerei pois eu bem sei
+Que tudo estas sob as ordens do
+meu Rei
+
+#Hino457 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 457, hino 457 ccb, Estou com Jesus, meu Senhor..., estou com jesus, meu senhor..., Hinário 5, hinario 457, ccb hino 457, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 458
+
+## Título para o vídeo
+Hino 458 - Sou amado por Jesus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 458 - Sou amado por Jesus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 458, “Sou amado por Jesus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 458
+📖 Hinário: Hinário 5
+🎶 Título: Sou amado por Jesus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Sou amado por Jesus
+A Palavra assim me diz;
+Ele é a minha luz
+E me leva ao Seu país
+
+Coro:
+Cristo me ama
+Sei me ama
+Muito me ama
+Em Cristo sou Feliz
+
+Sou amado por Jesus
+Pois, por mim, na cruz morreu
+Ele agora me conduz
+Para o lar que prometeu
+
+Sou amado por Jesus
+Pois comigo sempre está;
+Seu Conselho em mim conduz
+Força que me susterá.
+
+#Hino458 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 458, hino 458 ccb, Sou amado por Jesus..., sou amado por jesus..., Hinário 5, hinario 458, ccb hino 458, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 459
+
+## Título para o vídeo
+Hino 459 - Vamos nos preparar! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 459 - Vamos nos preparar!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 459, “Vamos nos preparar!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 459
+📖 Hinário: Hinário 5
+🎶 Título: Vamos nos preparar!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Cristo Jesus breve voltará – Vamos nos preparar!
+Ele á glória nos levará – Vamos nos coroar!
+Receberá os remidos Seus,
+Para habitarem no céu dos céus,
+Junto aos anjos e a Deus – Vamos nos preparar.
+
+2. Não cederemos à tentação;
+Vamos, com fé, lutar!
+Rejeitaremos a ilusão, Para não vacilar!
+Quando voltar Cristo, o Salvador,
+Vitorioso, com esplendor,
+Encontrará em nós, valor. Vamos nos preparar.
+
+Final:
+
+Glória! Glória a Cristo, o Rei dos reis!
+Glória! Glória! Cantam os Seus fiéis;
+Glória! Glória! Na terra e nos céus,
+Glória! Glória ao poderoso Deus.
+
+#Hino459 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 459, hino 459 ccb, Vamos nos preparar!, vamos nos preparar!, Hinário 5, hinario 459, ccb hino 459, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 460
+
+## Título para o vídeo
+Hino 460 - Vamos todos juntos cantar | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 460 - Vamos todos juntos cantar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 460, “Vamos todos juntos cantar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 460
+📖 Hinário: Hinário 5
+🎶 Título: Vamos todos juntos cantar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos todos juntos cantar;
+Glória a Jesus! Glória a Jesus!
+Vamos todos juntos louvar
+Ao Senhor Jesus!
+Ele é a nossa Paz, Ele é a nossa Luz;
+Exaltemos, com devoção,
+Ao Senhor Jesus!
+
+2. Somos salvos por Seu amor;
+Glória a Jesus! Glória a Jesus!
+Suportou por nós grande dor
+O Senhor Jesus.
+Quem nos dá perdão? Quem ao céu conduz?
+É o santo Filho de Deus,
+O Senhor Jesus.
+
+3. Mui felizes somos então;
+Glória a Jesus! Glória a Jesus!
+Recebemos consolação
+Do Senhor Jesus.
+No Seu lar de amor, no Seu lar de luz,
+Novo hino vamos cantar
+Ao Senhor Jesus.
+
+#Hino460 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 460, hino 460 ccb, Vamos todos juntos cantar, vamos todos juntos cantar, Hinário 5, hinario 460, ccb hino 460, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 461
+
+## Título para o vídeo
+Hino 461 - Abrigado em Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 461 - Abrigado em Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 461, “Abrigado em Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 461
+📖 Hinário: Hinário 5
+🎶 Título: Abrigado em Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Abrigado em Jesus, lutas não mais temereis;
+Ele é a minha Luz e por Ela andarei.
+
+Coro:
+A Jesus, meu Senhor, minha vida consagrei;
+Em meu bom Redentor, forte abrigo encontrei.
+
+Abrigado em Jesus, posso sempre caminhar
+Pela senda que conduz ao sublime, eterno lar.
+
+Abrigado em Jesus, mesmo quando em aflição;
+Sinto em mim a Sua Luz, que ilumina o coração.
+
+#Hino461 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 461, hino 461 ccb, Abrigado em Jesus, abrigado em jesus, Hinário 5, hinario 461, ccb hino 461, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 462
+
+## Título para o vídeo
+Hino 462 - Quão gloriosa é a história... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 462 - Quão gloriosa é a história...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 462, “Quão gloriosa é a história...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 462
+📖 Hinário: Hinário 5
+🎶 Título: Quão gloriosa é a história...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Gloriosa é a história
+Que nos fala de Jesus;
+Sendo Rei, Senhor da glória,
+Padeceu por nós na cruz.
+
+Coro:
+Quão gloriosa é a história
+De Jesus, o Salvador,
+Que alcançou final vitória
+E no céu é Intercessor.
+
+Veio ao mundo sem pecado,
+O divino Salvador;
+Conservou-Se imaculado
+E venceu o tentador.
+
+O Senhor, crucificado,
+No madeiro expirou;
+Tudo estava consumado;
+Seu espírito entregou.
+
+Foi Jesus glorificado,
+Pois da morte retornou;
+Para o céu foi elevado
+E Deus Pai O exaltou.
+
+#Hino462 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 462, hino 462 ccb, Quão gloriosa é a história..., quao gloriosa e a historia..., Hinário 5, hinario 462, ccb hino 462, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 463
+
+## Título para o vídeo
+Hino 463 - Mocidade! Vamos combater! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 463 - Mocidade! Vamos combater!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 463, “Mocidade! Vamos combater!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 463
+📖 Hinário: Hinário 5
+🎶 Título: Mocidade! Vamos combater!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Com valor, ó jovens, santos do Senhor,
+Vamos proclamar que Cristo é o Salvador;
+Os que nEle crerem, certo alcançarão
+Vida eterna e perdão.
+
+Coro:
+Mocidade! Vamos combater!
+Valorosos somos por Jesus!
+Venceremos pelo Seu poder,
+Manifestaremos Sua luz.
+
+Sempre avante, ó jovens, vamos, com valor,
+Combater, por fé, o astuto tentador;
+Cristo, por Seu braço, nos sustentará
+E vitória nos dará.
+
+Bem-aventurados somos no Senhor.
+Temos alcançado a unção do Criador,
+Pela qual sentimos paz e comunhão
+Para eterna salvação.
+
+#Hino463 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 463, hino 463 ccb, Mocidade! Vamos combater!, mocidade! vamos combater!, Hinário 5, hinario 463, ccb hino 463, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 464
+
+## Título para o vídeo
+Hino 464 - Reunidos nós estamos | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 464 - Reunidos nós estamos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 464, “Reunidos nós estamos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 464
+📖 Hinário: Hinário 5
+🎶 Título: Reunidos nós estamos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Reunidos nós estamos aos Teus pés, ó Criador,
+Ansiosos esperamos Tuas bênçãos, Teu favor,
+Glorificado seja sempre o Teu Nome, ó Senhor,
+E Teu reino anunciado para todo o pecador.
+
+Ó Senhor, só Tu conheces nossa mente e coração,
+Elevamos nossas preces com sincera devoção.
+Nós invocamos o Teu Nome
+E desejamos Te honrar,
+Dá-nos força, Pai eterno para Te glorificar.
+
+Faz que nós consideremos
+Que presente estás, ó Deus,
+Para que nos alegremos nos fiéis conselhos Teus;
+Tua palavra de virtude nós esperamos, ó Senhor,
+N'Ela está a plenitude do Teu santo e imenso amor.
+
+#Hino464 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 464, hino 464 ccb, Reunidos nós estamos, reunidos nos estamos, Hinário 5, hinario 464, ccb hino 464, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 465
+
+## Título para o vídeo
+Hino 465 - Nesta hora reunidos nós estamos ante Deus... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 465 - Nesta hora reunidos nós estamos ante Deus...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 465, “Nesta hora reunidos nós estamos ante Deus...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 465
+📖 Hinário: Hinário 5
+🎶 Título: Nesta hora reunidos nós estamos ante Deus...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Nesta hora reunidos nós estamos ante Deus
+E em nome de Jesus, o Salvador.
+Quer-nos todos reverentes nosso
+Pai que está nos céus;
+Deus, tem por nós imenso amor.
+
+Como filhos obedientes que obedecem ao seu pai,
+Atendamos ao sublime Criador;
+Lá no céu os Seus tesouros conceder-nos Ele vai;
+Deus, tem por nós imenso amor.
+
+Se andamos pela senda da justiça e da luz,
+Tem prazer em nossas almas o Senhor;
+Se aqui nós imitamos o Modelo que é Jesus,
+Deus, tem por nós imenso amor.
+
+Ao eterno Pai celeste honra e glória vamos dar.
+E, atentos, Seus conselhos escutar;
+Suas bênçãos gloriosas nos dará o Criador.
+Deus tem por nós imenso amor.
+
+#Hino465 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 465, hino 465 ccb, Nesta hora reunidos nós estamos ante Deus..., nesta hora reunidos nos estamos ante deus..., Hinário 5, hinario 465, ccb hino 465, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 466
+
+## Título para o vídeo
+Hino 466 - A criança consagrada | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 466 - A criança consagrada
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 466, “A criança consagrada”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 466
+📖 Hinário: Hinário 5
+🎶 Título: A criança consagrada
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A criança consagrada
+A Jesus, meu Salvador,
+É, por Ele, ensinada
+A servir ao Criador.
+
+Cristo chama os pequeninos
+Com ternura e amor,
+Quando a Deus entoam hinos
+É aceito o seu louvor.
+
+Cristo é a Luz divina
+Enviada lá dos céus;
+Ele trouxe a sã doutrina
+Que conduz, por fé, a Deus.
+
+#Hino466 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 466, hino 466 ccb, A criança consagrada, a crianca consagrada, Hinário 5, hinario 466, ccb hino 466, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 467
+
+## Título para o vídeo
+Hino 467 - Vamos com Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 467 - Vamos com Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 467, “Vamos com Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 467
+📖 Hinário: Hinário 5
+🎶 Título: Vamos com Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sigamos, com fervor, Jesus, o Salvador,
+Que, por amor, nos livrou da condenação;
+É Ele o nosso Rei, nós somos Sua grei,
+Que irá, no céu, receber o grande galardão.
+
+Coro:
+
+Vamos com Jesus, Ele nos conduz
+Ao Seu reino de amor;
+Marchemos com valor, á pátria celestial;
+O nosso Rei nos dará a glória eternal.
+
+2. Oh! vamos combater e, pela fé, vencer
+O tentador que nos quer para o mal levar;
+Sigamos ao Senhor com todo o fervor;
+Só Ele tem armas que nos fazem triunfar.
+
+3. Mistérios celestiais, riquezas eternais,
+Jesus, o Rei, por amor, nos desvendará;
+Felizes, pois, nos céus, seremos junto a Deus;
+Naquele lar nosso coração jubilará.
+
+#Hino467 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 467, hino 467 ccb, Vamos com Jesus, vamos com jesus, Hinário 5, hinario 467, ccb hino 467, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 468
+
+## Título para o vídeo
+Hino 468 - Toda a criança... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 468 - Toda a criança...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 468, “Toda a criança...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 468
+📖 Hinário: Hinário 5
+🎶 Título: Toda a criança...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1 – Toda a criança que, com fé e amor,
+Serve ao Deus vivente, santo Criador;
+Cresce na justiça e na retidão,
+Com a lei de Cristo em seu coração.
+
+2 – Toda a criança deve conhecer
+Quanto é glorioso junto a Deus viver
+Grande alegria lhe dará Jesus,
+Ele a protege, Ele a conduz.
+
+3 – Deus, o Pai eterno, ouve a oração,
+Que toda a criança faz com devoção;
+Cristo com Seu braço, firme a sustém
+Para que alcance o eterno bem.
+
+#Hino468 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 468, hino 468 ccb, Toda a criança..., toda a crianca..., Hinário 5, hinario 468, ccb hino 468, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 469
+
+## Título para o vídeo
+Hino 469 - Pai nosso, que estás nos céus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 469 - Pai nosso, que estás nos céus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 469, “Pai nosso, que estás nos céus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 469
+📖 Hinário: Hinário 5
+🎶 Título: Pai nosso, que estás nos céus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó Pai nosso, que estás nos céus,
+Infinito em poder,
+Santo é Teu Nome, ó grande Deus,
+Sem limite é Teu saber.
+
+Coro:
+Glória, glória, glória eterna
+Te daremos, ó Deus, Pai de amor!
+Pois herdeiros nos fizeste, ó Senhor,
+Do Teu reino de esplendor.
+
+Venha a nós Teu reino, ó grande Deus,
+Seja feito o Teu querer
+Nesta terra, como é lá nos céus,
+Pelo imenso Teu poder.
+
+Cada dia dá-nos nosso pão,
+E perdoa nosso mal;
+Ofendidos, damos o perdão,
+Com carinho fraternal.
+
+Ó Senhor, preserva-nos do mal
+E da tentação também;
+Pois é Teu o reino eternal,
+Glória e poder, Amém!
+
+#Hino469 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 469, hino 469 ccb, Pai nosso, que estás nos céus, pai nosso, que estas nos ceus, Hinário 5, hinario 469, ccb hino 469, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 470
+
+## Título para o vídeo
+Hino 470 - Jesus Cristo, Seus fiéis, ensina | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 470 - Jesus Cristo, Seus fiéis, ensina
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 470, “Jesus Cristo, Seus fiéis, ensina”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 470
+📖 Hinário: Hinário 5
+🎶 Título: Jesus Cristo, Seus fiéis, ensina
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jesus Cristo, Seus fiéis ensina;
+Vamos, todos juntos aprender;
+Com a Sua celestial doutrina
+Ele nos reveste do saber;
+Ele guia os pequeninos com carinho e com amor,
+Somos d’Ele os cordeirinhos,
+Jesus Cristo é o bom Pastor.
+São mui sábios os ensinos do divino Redentor.
+
+Jesus Cristo para o céu nos leva;
+Vamos, pois, com Ele caminhar;
+Nesta graça Seu poder conserva,
+Quem irá com Ele habitar.
+No Seu reino de grande glória,
+Nas moradas do eterno Deus,
+Cantaremos a vitória juntos aos remidos Seus.
+Quão suprema é a glória que teremos lá nos céus!
+
+#Hino470 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 470, hino 470 ccb, Jesus Cristo, Seus fiéis, ensina, jesus cristo, seus fieis, ensina, Hinário 5, hinario 470, ccb hino 470, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 471
+
+## Título para o vídeo
+Hino 471 - Que grande bem é andar com Cristo! | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 471 - Que grande bem é andar com Cristo!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 471, “Que grande bem é andar com Cristo!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 471
+📖 Hinário: Hinário 5
+🎶 Título: Que grande bem é andar com Cristo!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que grande bem é andar com Cristo,
+o Mestre!
+Que privilégio é servir a Deus!
+Celeste bênção é a paz celeste,
+A paz que Cristo deu aos Seus.
+
+Coro:
+Que grande bem,
+Eterno bem,
+Recebemos de Deus.
+
+2. É mui feliz aquele que procura
+Aqui no mundo, agradar a Deus,
+Obedecendo à Palavra pura;
+Será honrado lá nos céus.
+
+3. Deus nos dará a bem-aventurança;
+Inexplicável é tão grande amor!
+Seu reino eterno é a nossa herança;
+Bendito seja o Criador!
+
+#Hino471 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 471, hino 471 ccb, Que grande bem é andar com Cristo!, que grande bem e andar com cristo!, Hinário 5, hinario 471, ccb hino 471, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 472
+
+## Título para o vídeo
+Hino 472 - Glorificarei, glorificarei | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 472 - Glorificarei, glorificarei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 472, “Glorificarei, glorificarei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 472
+📖 Hinário: Hinário 5
+🎶 Título: Glorificarei, glorificarei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Desde pequenino, Deus, o Criador,
+Fez-me conhecer a Cristo, o Salvador,
+Tem manifestado em mim o Seu amor,
+Pelo bom Consolador.
+
+Coro:
+Glorificarei! Glorificarei
+Ao Senhor Jesus e a Deus, o Criador;
+Sendo eu pequeno, separado estou,
+Para glória do Senhor.
+
+2. Com perseverança clamo ao Senhor,
+Esperando d’Ele força e fervor;
+Nas tribulações serei um vencedor,
+Pois Deus ouve o meu clamor.
+
+3. A gloriosa pátria hei de alcançar,
+Se seguir a Cristo sem desanimar;
+Nada neste mundo pode se igualar
+Com aquele eterno lar.
+
+#Hino472 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 472, hino 472 ccb, Glorificarei, glorificarei, glorificarei, glorificarei, Hinário 5, hinario 472, ccb hino 472, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 473
+
+## Título para o vídeo
+Hino 473 - Viverei com os fiéis... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 473 - Viverei com os fiéis...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 473, “Viverei com os fiéis...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 473
+📖 Hinário: Hinário 5
+🎶 Título: Viverei com os fiéis...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Forasteiro sou no mundo
+Neste mundo de ilusão;
+Para o céu vou caminhando
+Onde os fiéis entrarão
+
+Coro:
+Viverei com os fiéis
+Para sempre lá dos céus
+Pois, no número dos santos,
+Eu serei contado por Deus
+
+Ansioso eu espero
+Ver a face do Senhor
+Contemplar a formosura
+E a glória do Redentor.
+
+E A
+Com a multidão cantando
+E B7
+E louvando ao Senhor
+E A
+Entrarei, com regozijo,
+E B7 E
+No celeste lar de esplendor
+
+#Hino473 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 473, hino 473 ccb, Viverei com os fiéis..., viverei com os fieis..., Hinário 5, hinario 473, ccb hino 473, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 474
+
+## Título para o vídeo
+Hino 474 - Vida eterna certo alcançarão... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 474 - Vida eterna certo alcançarão...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 474, “Vida eterna certo alcançarão...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 474
+📖 Hinário: Hinário 5
+🎶 Título: Vida eterna certo alcançarão...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Com alegria devemos servir
+A Cristo Jesus, o Salvador.
+Que nos fará bens eternos fruir
+Oh! Glória! Bendito é o Senhor!
+
+Coro:
+
+Vida eterna certo alcançarão
+Lá no céu, os fiéis.
+Coroados, eles bendirão
+A Jesus, o Rei dos Reis.
+
+Com toda alma devemos amar
+A Cristo Jesus, o Salvador;
+Ele, nas provas, nos faz triunfar;
+Oh! Glória, Bendito é o Senhor.
+
+Quando estivermos no lar divinal,
+Com Cristo Jesus, o Salvador,
+Desfrutaremos o bem celestial;
+Oh! Glória, Bendito é o Senhor!
+
+#Hino474 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 474, hino 474 ccb, Vida eterna certo alcançarão..., vida eterna certo alcancarao..., Hinário 5, hinario 474, ccb hino 474, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 475
+
+## Título para o vídeo
+Hino 475 - Se eu for aqui provado | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 475 - Se eu for aqui provado
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 475, “Se eu for aqui provado”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 475
+📖 Hinário: Hinário 5
+🎶 Título: Se eu for aqui provado
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Se eu for aqui provado, clamarei a ti Senhor
+Tu és o meu Socorro e também meu
+defensor
+E só por Teu poder farei o Teu querer
+E vencerei, por fé, o mundo enganador
+
+Se eu for aqui tentado, clamarei a Ti Senhor
+Confiante que ouviras e atenderás ao meu
+clamor
+Se junto a Ti viver e Te obedecer
+Por certo eu serei em tudo vencedor
+
+Se eu for aqui oprimido, clamarei a Ti Senhor
+O santo evangelho me dará o Teu valor
+Com Tua proteção terei a salvação
+E exaltarei Teu grande nome, ó Salvador
+
+Final:
+Já desde a minha infância clamo a ti
+Senhor
+De todo o coração e com sincero amor
+E Tu, meu bom Jesus, és sempre a
+minha luz
+E me conduziras ao lar de esplendor
+
+#Hino475 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 475, hino 475 ccb, Se eu for aqui provado, se eu for aqui provado, Hinário 5, hinario 475, ccb hino 475, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 476
+
+## Título para o vídeo
+Hino 476 - Crianças eram encaminhadas... | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 476 - Crianças eram encaminhadas...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 476, “Crianças eram encaminhadas...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 476
+📖 Hinário: Hinário 5
+🎶 Título: Crianças eram encaminhadas...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Crianças eram encaminhadas
+Aos pés de Cristo, o Redentor,
+A fim de serem abençoadas
+E conhecerem o Seu amor.
+
+"Deixai a Mim vir os pequeninos
+E não impeçais" falou Jesus;
+Quem não se torna também menino
+Não tem entrada no lar de Luz.
+
+Doutrina Santa e excelente
+Ensina o Redentor aos Seus fiéis.
+A Deus sirvamos humildemente,
+Pois foi humilde o Rei dos reis.
+
+#Hino476 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 476, hino 476 ccb, Crianças eram encaminhadas..., criancas eram encaminhadas..., Hinário 5, hinario 476, ccb hino 476, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 477
+
+## Título para o vídeo
+Hino 477 - Vinde, crianças | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 477 - Vinde, crianças
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 477, “Vinde, crianças”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 477
+📖 Hinário: Hinário 5
+🎶 Título: Vinde, crianças
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Vinde, crianças, vinde a Jesus.
+Ele vos chama com voz de amor,
+Para guiar-vos com Sua luz,
+Ao reino de esplendor.
+
+Coro:
+Grande tesouro revelou Jesus
+Aos que caminham na divina luz;
+Esse tesouro Deus prometeu
+Dar aos fiéis, no céu.
+
+Sede prudentes e esperai
+Os ricos bens do lar de esplendor,
+Onde habita Deus, nosso Pai,
+E Cristo, o Salvador.
+
+Vós, neste mundo, encontrareis
+Muita vaidade, muita ilusão;
+Santificai-vos e alcançareis
+No céu, o galardão.
+
+#Hino477 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 477, hino 477 ccb, Vinde, crianças, vinde, criancas, Hinário 5, hinario 477, ccb hino 477, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 478
+
+## Título para o vídeo
+Hino 478 - Cedo retorna o Senhor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 478 - Cedo retorna o Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 478, “Cedo retorna o Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 478
+📖 Hinário: Hinário 5
+🎶 Título: Cedo retorna o Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Cedo vem a fim de premiar os santos Seus,
+Jesus Cristo, nosso Salvador;
+Recompensa para os justos haverá nos céus,
+Reino de glória e amor.
+
+Coro:
+Cedo retorna o Senhor
+E traz o eterno galardão,
+Bem-aventurado quem O serve com amor
+E com sincero coração.
+
+2. Mocidade, vamos todos nos purificar
+Atendendo a Cristo, o bom Pastor.
+Ele quer a todos os Seus santos coroar,
+Com vida eterna e esplendor.
+
+3. Consagrados poderemos, ó fiéis, dizer:
+Ora vem, Jesus, bom Redentor.
+D´Ele sempre recebemos força e poder,
+Para servi-Lo com fervor.
+
+#Hino478 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 478, hino 478 ccb, Cedo retorna o Senhor, cedo retorna o senhor, Hinário 5, hinario 478, ccb hino 478, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 479
+
+## Título para o vídeo
+Hino 479 - Somos jovens consagrados | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 479 - Somos jovens consagrados
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 479, “Somos jovens consagrados”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 479
+📖 Hinário: Hinário 5
+🎶 Título: Somos jovens consagrados
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Somos jovens consagrados a Jesus, o Redentor,
+E, por Ele, ensinados a servir ao Criador.
+
+Coro:
+Que alegria encontramos
+Em servir ao Criador!
+Nós, Seus filhos, O amamos,
+Com sincero e puro amor.
+
+2. Somos jovens obedientes a Jesus, o Salvador,
+Atendemos, reverentes à Palavra do Senhor.
+
+3. Somos jovens dedicados nesta obra do Senhor,
+Fomos todos resgatados por Seu sangue expiador.
+
+#Hino479 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 479, hino 479 ccb, Somos jovens consagrados, somos jovens consagrados, Hinário 5, hinario 479, ccb hino 479, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 480
+
+## Título para o vídeo
+Hino 480 - Jovens, amai o conselho | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino 480 - Jovens, amai o conselho
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino 480, “Jovens, amai o conselho”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: 480
+📖 Hinário: Hinário 5
+🎶 Título: Jovens, amai o conselho
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jovens, amai o conselho,
+O ensino de Cristo Jesus;
+Ele é vosso Modelo
+De vida, justiça e luz.
+
+Coro:
+A Deus e a Cristo, o Senhor,
+Devemos consagração,
+Respeito, honra, profundo amor
+E eterna veneração.
+
+Vasos, por Cristo, escolhidos
+Sereis, para glória de Deus;
+Cristo vos quer revestidos
+Das santas virtudes dos céus.
+
+Jovens que seguem o Mestre,
+Em sua existência terão
+A providência celeste
+E prósperos n´Ele serão.
+
+#Hino480 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 480, hino 480 ccb, Jovens, amai o conselho, jovens, amai o conselho, Hinário 5, hinario 480, ccb hino 480, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C1
+
+## Título para o vídeo
+Hino C1 - Aleluia! Aleluia | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C1 - Aleluia! Aleluia
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C1, “Aleluia! Aleluia”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C1
+📖 Hinário: Hinário 5
+🎶 Título: Aleluia! Aleluia
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor,
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor
+Glória ao Redentor! Aleluia!
+Santo Remidor! Aleluia!
+Nosso Salvador! Aleluia!
+Glória a Jesus!
+
+#HinoC1 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C1, hino C1 ccb, Aleluia! Aleluia, aleluia! aleluia, Hinário 5, hinario C1, ccb hino C1, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# C2
+
+## Título para o vídeo
+Hino C2 - Toda a glória a Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C2 - Toda a glória a Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C2, “Toda a glória a Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C2
+📖 Hinário: Hinário 5
+🎶 Título: Toda a glória a Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Toda a glória a Jesus!
+Toda a honra a Jesus!
+Juntos louvemos a Jesus
+Seu Santo Nome vamos exaltar.
+
+#HinoC2 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C2, hino C2 ccb, Toda a glória a Jesus, toda a gloria a jesus, Hinário 5, hinario C2, ccb hino C2, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C3
+
+## Título para o vídeo
+Hino C3 - Ação de graças darei | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C3 - Ação de graças darei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C3, “Ação de graças darei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C3
+📖 Hinário: Hinário 5
+🎶 Título: Ação de graças darei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ação de graças darei
+A Jesus, meu Pastor, meu Rei;
+As Suas obras contarei,
+Seu Nome exaltarei!
+
+#HinoC3 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C3, hino C3 ccb, Ação de graças darei, acao de gracas darei, Hinário 5, hinario C3, ccb hino C3, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C4
+
+## Título para o vídeo
+Hino C4 - Glória glória nas alturas | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C4 - Glória glória nas alturas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C4, “Glória glória nas alturas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C4
+📖 Hinário: Hinário 5
+🎶 Título: Glória glória nas alturas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Glória, glória nas alturas!
+Glória, glória ao nosso Deus!
+Salvação nos preparou por Jesus, que nos amou;
+Glória ao Deus vivente que está nos céus!
+
+#HinoC4 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C4, hino C4 ccb, Glória glória nas alturas, gloria gloria nas alturas, Hinário 5, hinario C4, ccb hino C4, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C5
+
+## Título para o vídeo
+Hino C5 - Majestoso é Cristo Jesus | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C5 - Majestoso é Cristo Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C5, “Majestoso é Cristo Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C5
+📖 Hinário: Hinário 5
+🎶 Título: Majestoso é Cristo Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Majestoso é Cristo Jesus, o Senhor,
+Majestoso é Cristo Jesus;
+O poder Deus Lhe deu, quer na terra, quer no céu,
+Majestoso é Cristo Jesus!
+
+#HinoC5 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C5, hino C5 ccb, Majestoso é Cristo Jesus, majestoso e cristo jesus, Hinário 5, hinario C5, ccb hino C5, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C6
+
+## Título para o vídeo
+Hino C6 - A Jesus eu cantarei louvor | Hinário 5 CCB | Hinos em Orgão Yamaha
+
+
+## Descrição para o YouTube
+
+Hino C6 - A Jesus eu cantarei louvor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orgão Yamaha.
+
+Este vídeo apresenta o áudio do hino C6, “A Jesus eu cantarei louvor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orgão Yamaha
+🎵 Hino: C6
+📖 Hinário: Hinário 5
+🎶 Título: A Jesus eu cantarei louvor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A Jesus eu cantarei louvor;
+Honra e glória sempre Lhe darei;
+Exaltarei ao meu Senhor;
+O Seu Nome bendirei.
+
+#HinoC6 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C6, hino C6 ccb, A Jesus eu cantarei louvor, a jesus eu cantarei louvor, Hinário 5, hinario C6, ccb hino C6, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orgão Yamaha, hinos em orgão yamaha, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
