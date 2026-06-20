@@ -218,3 +218,5 @@ brew install ffmpeg
 python gerar_videos.py --thumbnail-apenas --numero 53 --projeto orgao_yamaha
 
 python gerar_coletaneas.py --projeto  orgao_yamaha
+
+ python trocar_fundo_thumb.py   --template assets/mascaras/mascara-do-canal-v2.png   --fundo assets/mascaras/borboleta.png   --saida assets/mascaras/thumb_com_borboleta_v2.jpg   --opacidade 0.5   --blur 0   --escurecer 0.95   --verde 0.35   --apagar 0.95   --escala 1   --x 0   --y 0

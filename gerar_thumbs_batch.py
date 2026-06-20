@@ -51,6 +51,7 @@ THUMBS_DIR = ROOT / "thumbs"
 
 # ── Importações dos outros módulos do projeto ────────────────────────────────
 from gerar_thumb_v01 import gerar_thumb as _gerar_thumb_v01
+from gerar_thumb_v02 import gerar_thumb as _gerar_thumb_v02
 from gerar_videos import formatar_numero_completo
 from PIL import Image
 
@@ -143,12 +144,22 @@ def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str, instrumento_path
         tmp_path = tmp.name
 
     try:
-        _gerar_thumb_v01(
-            numero_hino=numero,
-            titulo_hino=nome,
-            output_path=tmp_path,
-            instrumento_path=instrumento_path,
-        )
+        # hinos_de_ninar usa pipeline v02 (máscara do canal Hinos de Ninar + troca de fundo)
+        # todos os outros projetos continuam usando v01
+        if projeto_nome == "hinos_de_ninar":
+            _gerar_thumb_v02(
+                numero_hino=numero,
+                titulo_hino=nome,
+                output_path=tmp_path,
+                instrumento_path=instrumento_path,
+            )
+        else:
+            _gerar_thumb_v01(
+                numero_hino=numero,
+                titulo_hino=nome,
+                output_path=tmp_path,
+                instrumento_path=instrumento_path,
+            )
         Image.open(tmp_path).convert("RGB").save(str(dest_path))
     finally:
         try:
