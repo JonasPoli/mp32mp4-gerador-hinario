@@ -95,13 +95,14 @@ def aplicar_troca_de_fundo(
     mask_novo_fundo = mask.point(lambda p: int(p * opacidade))
 
     # Camada verde escura para "apagar" a flor antiga
-    camada_verde = Image.new("RGBA", (W, H), (3, 35, 18, int(255 * apagar_fundo_antigo)))
-    mask_verde = mask.point(lambda p: int(p * 0.95))
+    camada_verde = Image.new("RGBA", (W, H), (3, 35, 18))
+    mask_verde = mask.point(lambda p: int(p * apagar_fundo_antigo))
     camada_verde.putalpha(mask_verde)
 
     # Filtro verde por cima do novo fundo para manter identidade
-    filtro_verde = Image.new("RGBA", (W, H), (3, 42, 22, int(255 * verde)))
-    filtro_verde.putalpha(mask_novo_fundo)
+    filtro_verde = Image.new("RGBA", (W, H), (3, 42, 22))
+    mask_filtro = mask.point(lambda p: int(p * verde))
+    filtro_verde.putalpha(mask_filtro)
 
     # Aplica máscara no novo fundo
     camada_novo_fundo.putalpha(mask_novo_fundo)

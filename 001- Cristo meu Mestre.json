@@ -1,0 +1,169 @@
+{
+  "hino": "1",
+  "titulo": "Cristo, Meu Mestre",
+  "duracao_mp3": 177.331,
+  "speed_scale": 0.9995,
+  "intro_duration": 14.538,
+  "letra": [
+    {
+      "texto": "Cristo, meu Mestre e meu Senhor,",
+      "inicio": 16.355,
+      "fim": 23.575,
+      "num_linha": 1,
+      "tipo": "verso",
+      "num_verso": 1
+    },
+    {
+      "texto": "Eu te adoro, por fé, com fervor,",
+      "inicio": 23.625,
+      "fim": 30.844,
+      "num_linha": 2,
+      "tipo": "verso",
+      "num_verso": 1
+    },
+    {
+      "texto": "Rogo que guardes meu coração,",
+      "inicio": 30.894,
+      "fim": 38.113,
+      "num_linha": 3,
+      "tipo": "verso",
+      "num_verso": 1
+    },
+    {
+      "texto": "Vem protegê-lo com Tua Unção,",
+      "inicio": 38.163,
+      "fim": 45.382,
+      "num_linha": 4,
+      "tipo": "verso",
+      "num_verso": 1
+    },
+    {
+      "texto": "E defendê-lo, ó meu Guardião.",
+      "inicio": 45.432,
+      "fim": 55.018,
+      "num_linha": 5,
+      "tipo": "verso",
+      "num_verso": 1
+    },
+    {
+      "texto": "Mestre Divino, sempre senti",
+      "inicio": 56.335,
+      "fim": 63.555,
+      "num_linha": 1,
+      "tipo": "verso",
+      "num_verso": 2
+    },
+    {
+      "texto": "Meu coração dependente de Ti",
+      "inicio": 63.605,
+      "fim": 70.824,
+      "num_linha": 2,
+      "tipo": "verso",
+      "num_verso": 2
+    },
+    {
+      "texto": "Bom fundamento dá-lhe, Senhor",
+      "inicio": 70.874,
+      "fim": 78.093,
+      "num_linha": 3,
+      "tipo": "verso",
+      "num_verso": 2
+    },
+    {
+      "texto": "Dá-lhe firmeza, virtude, valor",
+      "inicio": 78.143,
+      "fim": 85.362,
+      "num_linha": 4,
+      "tipo": "verso",
+      "num_verso": 2
+    },
+    {
+      "texto": "E fortaleza, ó meu Protetor",
+      "inicio": 85.412,
+      "fim": 94.998,
+      "num_linha": 5,
+      "tipo": "verso",
+      "num_verso": 2
+    },
+    {
+      "texto": "Vale profundo, cheio de mal",
+      "inicio": 96.315,
+      "fim": 103.535,
+      "num_linha": 1,
+      "tipo": "verso",
+      "num_verso": 3
+    },
+    {
+      "texto": "É este mundo, ó Rei divinal",
+      "inicio": 103.585,
+      "fim": 110.804,
+      "num_linha": 2,
+      "tipo": "verso",
+      "num_verso": 3
+    },
+    {
+      "texto": "Só Tua força pode manter",
+      "inicio": 110.854,
+      "fim": 118.073,
+      "num_linha": 3,
+      "tipo": "verso",
+      "num_verso": 3
+    },
+    {
+      "texto": "Santo e puro, na graça, meu ser",
+      "inicio": 118.123,
+      "fim": 125.342,
+      "num_linha": 4,
+      "tipo": "verso",
+      "num_verso": 3
+    },
+    {
+      "texto": "Sempre seguro, com fé e poder",
+      "inicio": 125.392,
+      "fim": 134.978,
+      "num_linha": 5,
+      "tipo": "verso",
+      "num_verso": 3
+    },
+    {
+      "texto": "Mestre piedoso, com Tua mão",
+      "inicio": 136.295,
+      "fim": 143.515,
+      "num_linha": 1,
+      "tipo": "verso",
+      "num_verso": 4
+    },
+    {
+      "texto": "Faze perfeito o meu coração",
+      "inicio": 143.565,
+      "fim": 150.784,
+      "num_linha": 2,
+      "tipo": "verso",
+      "num_verso": 4
+    },
+    {
+      "texto": "Santo, ardoroso em Te servir",
+      "inicio": 150.834,
+      "fim": 158.053,
+      "num_linha": 3,
+      "tipo": "verso",
+      "num_verso": 4
+    },
+    {
+      "texto": "Sempre voltado aos bens do porvir",
+      "inicio": 158.103,
+      "fim": 165.322,
+      "num_linha": 4,
+      "tipo": "verso",
+      "num_verso": 4
+    },
+    {
+      "texto": "Mestre amado, desejo Te ouvir",
+      "inicio": 165.372,
+      "fim": 174.958,
+      "num_linha": 5,
+      "tipo": "verso",
+      "num_verso": 4
+    }
+  ]
+}

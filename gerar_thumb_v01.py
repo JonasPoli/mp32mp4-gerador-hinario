@@ -884,7 +884,9 @@ def carregar_hinos(csv_path: Path) -> list[tuple[int, str]]:
     """
     Carrega a lista de hinos do arquivo CSV do Hinário 5.
 
-    O CSV usa os cabeçalhos "Número do Hino" e "Nome do Hino".
+    Detecta dinamicamente os cabeçalhos da coluna de número e nome,
+    compatível com o formato antigo ("Número do Hino", "Nome do Hino")
+    e o novo formato simplificado ("numero", "nome").
     Duplicatas de número são ignoradas (mantém o primeiro encontrado).
 
     Args:
@@ -894,12 +896,18 @@ def carregar_hinos(csv_path: Path) -> list[tuple[int, str]]:
         Lista de tuplas (numero_int, nome_str) ordenadas pela posição no CSV.
     """
     hinos = {}
-    with open(csv_path, "r", encoding="utf-8") as f:
+    with open(csv_path, "r", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
+        keys = reader.fieldnames or []
+        num_key  = next((k for k in keys if "número" in k.lower() or "numero" in k.lower()), None)
+        nome_key = next((k for k in keys if "nome" in k.lower() or "título" in k.lower() or "titulo" in k.lower()), None)
+        if not num_key or not nome_key:
+            print(f"  AVISO: colunas de número/nome não encontradas em {csv_path}. Colunas: {keys}")
+            return []
         for row in reader:
             try:
-                num = int(row["Número do Hino"])
-                titulo = row["Nome do Hino"]
+                num = int(row[num_key].strip())
+                titulo = row[nome_key].strip()
                 if num not in hinos:
                     hinos[num] = titulo
             except (ValueError, KeyError):

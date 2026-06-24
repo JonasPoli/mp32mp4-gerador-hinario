@@ -46,8 +46,37 @@ import sqlite3
 import tempfile
 from pathlib import Path
 
-ROOT      = Path(__file__).parent
+ROOT       = Path(__file__).parent
 THUMBS_DIR = ROOT / "thumbs"
+DB         = ROOT / "progresso.db"
+
+
+def _garantir_coluna_thumb():
+    """Adiciona a coluna thumb_file na tabela videos se ainda não existir."""
+    conn = sqlite3.connect(str(DB))
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(videos)")]
+    if "thumb_file" not in cols:
+        conn.execute("ALTER TABLE videos ADD COLUMN thumb_file TEXT")
+        conn.commit()
+        print("[banco] Coluna thumb_file adicionada.")
+    conn.close()
+
+
+_garantir_coluna_thumb()
+
+
+def _salvar_thumb_no_banco(projeto: str, numero: int, thumb_name: str) -> None:
+    """Grava o nome do arquivo de thumbnail na coluna thumb_file do banco."""
+    try:
+        conn = sqlite3.connect(str(DB))
+        conn.execute(
+            "UPDATE videos SET thumb_file = ? WHERE projeto = ? AND numero = ?",
+            (thumb_name, projeto, numero)
+        )
+        conn.commit()
+        conn.close()
+    except Exception as e:
+        print(f"  [aviso] Erro ao salvar thumb_file no banco: {e}")
 
 # ── Importações dos outros módulos do projeto ────────────────────────────────
 from gerar_thumb_v01 import gerar_thumb as _gerar_thumb_v01
@@ -166,6 +195,9 @@ def gerar_thumb_novo(numero: int, nome: str, projeto_nome: str, instrumento_path
             os.unlink(tmp_path)
         except Exception:
             pass
+
+    # Registra o nome da thumb no banco
+    _salvar_thumb_no_banco(projeto_nome, numero, dest_path.name)
 
     return dest_path
 

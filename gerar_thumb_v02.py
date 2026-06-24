@@ -209,16 +209,17 @@ def get_video_frame(
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Parâmetros de troca de fundo (equivalentes ao comando do usuário)
+# Atualizado para Variant O (Focada - 94% opacidade, zoom de 1.20x centralizado)
 TROCA_FUNDO_PARAMS = dict(
-    opacidade=0.5,
+    opacidade=0.94,
     blur=0,
-    escurecer=0.95,
-    saturacao=0.85,
-    verde=0.35,
-    apagar_fundo_antigo=0.95,
-    escala=1.0,
-    posicao_x=0.0,
-    posicao_y=0.0,
+    escurecer=1.0,
+    saturacao=1.2,
+    verde=0.02,
+    apagar_fundo_antigo=0.3,
+    escala=1.2,
+    posicao_x=0.5,
+    posicao_y=0.5,
     proteger_direita=True,
 )
 

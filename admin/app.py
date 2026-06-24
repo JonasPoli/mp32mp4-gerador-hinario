@@ -66,11 +66,16 @@ def carregar_csv_projeto(csv_path: Path) -> dict:
     return hinos
 
 
-# Cache dos hinos por projeto
-HINOS_PROJETOS = {
-    p_name: carregar_csv_projeto(ROOT / p_cfg["csv_path"])
-    for p_name, p_cfg in PROJETOS.items()
-}
+
+def get_hinos_projeto(projeto: str) -> dict:
+    """Retorna {numero: nome} do CSV do projeto, sempre relendo do disco.
+    Isso garante que mudanças no CSV sejam refletidas sem reiniciar o servidor."""
+    p_cfg = PROJETOS.get(projeto, {})
+    csv_rel = p_cfg.get("csv_path", "")
+    if not csv_rel:
+        return {}
+    return carregar_csv_projeto(ROOT / csv_rel)
+
 
 
 def remover_acentos(texto: str) -> str:
@@ -321,7 +326,7 @@ def formatar_numero_completo(numero) -> str:
 def video_para_dict(row, data_postagem: str | None = None) -> dict:
     projeto = row["projeto"]
     numero  = row["numero"]
-    hinos_projeto = HINOS_PROJETOS.get(projeto, {})
+    hinos_projeto = get_hinos_projeto(projeto)
     nome = hinos_projeto.get(numero) or hinos_projeto.get(str(numero)) or hinos_projeto.get(int(numero) if str(numero).isdigit() else None) or f"Hino {numero}"
     
     projeto_cfg = PROJETOS.get(projeto, {})
@@ -331,9 +336,10 @@ def video_para_dict(row, data_postagem: str | None = None) -> dict:
     output = row["output"] or ""
     video_file = Path(output).name if output else ""
  
-    # Thumb
-    thumb_file = f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
-    thumb_exists = (ROOT / "thumbs" / thumb_file).exists()
+    # Thumb: usa o valor do banco se disponível, senão calcula
+    db_thumb = (row["thumb_file"] if "thumb_file" in row.keys() else None) or ""
+    thumb_file = db_thumb or f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
+    thumb_exists = bool(db_thumb) or (ROOT / "thumbs" / thumb_file).exists()
 
     return {
         "numero":        numero,
@@ -650,7 +656,7 @@ def api_export_csv(projeto: str):
     
     projeto_cfg = PROJETOS.get(projeto, {})
     nome_exibicao = projeto_cfg.get("nome_exibicao", projeto)
-    hinos_projeto = HINOS_PROJETOS.get(projeto, {})
+    hinos_projeto = get_hinos_projeto(projeto)
     
     for row in rows:
         numero = row["numero"]
@@ -665,7 +671,9 @@ def api_export_csv(projeto: str):
         nome_hino = hinos_projeto.get(numero, f"Hino {numero}")
         meta = gerar_metadados(numero, nome_hino, projeto, projeto_cfg)
         
-        thumb_file = f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
+        # Thumb: usa o valor do banco se disponível, senão calcula
+        db_thumb = (row["thumb_file"] if "thumb_file" in row.keys() else None) or ""
+        thumb_file = db_thumb or f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
         
         data_postagem = row["data_postagem"] or ""
         date_part, time_part = "", ""
@@ -930,7 +938,7 @@ def criar_projeto():
         json.dump(projetos, f, indent=2, ensure_ascii=False)
 
     # Recarregar PROJETOS em memória
-    global PROJETOS, HINOS_PROJETOS
+    global PROJETOS
     PROJETOS = carregar_projetos()
 
     # 5. Inicializar os vídeos do projeto no banco de dados
@@ -967,7 +975,7 @@ def criar_projeto():
         conn.close()
 
     # Recarregar o cache de hinos
-    HINOS_PROJETOS[projeto_id] = carregar_csv_projeto(ROOT / base_cfg["csv_path"])
+    # (cache dinâmico — get_hinos_projeto() sempre relerá do disco)
 
     return jsonify({"success": True, "projeto_key": projeto_id})
 
@@ -982,7 +990,7 @@ def api_gerar_thumb(projeto: str, numero):
     if projeto not in PROJETOS:
         return jsonify({"error": f"Projeto '{projeto}' não encontrado"}), 404
         
-    hinos_projeto = HINOS_PROJETOS.get(projeto, {})
+    hinos_projeto = get_hinos_projeto(projeto)
     nome = hinos_projeto.get(query_num, f"Hino {query_num}")
     projeto_cfg = PROJETOS[projeto]
     
