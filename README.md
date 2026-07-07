@@ -14,6 +14,13 @@ Pipeline automatizado para geração de vídeos e thumbnails para o **Hinário 5
 | `piano_yamaha` | Hinos em Piano Yamaha | Piano |
 | `coros` | Coros Hinário 5 | Teclado |
 | `hinario4` | Teclado Yamaha PSR (H4) | Teclado |
+| `brass` | Hinos em Brass (Metais) | Metais (trompete, trombone) |
+| `meia_hora` | Hinos de Meia Hora | Órgão Eletrônico Drawbar |
+| `orquestra` | Hinos em Orquestra | Orquestra |
+| `palhetas` | Hinos em Palhetas | Palhetas (oboé, clarinete) |
+| `sopro` | Hinos em Sopro | Instrumentos de sopro |
+| `string` | Hinos em Cordas (Strings) | Cordas (violino, viola, cello) |
+
 
 ---
 
@@ -220,3 +227,7 @@ python gerar_videos.py --thumbnail-apenas --numero 53 --projeto orgao_yamaha
 python gerar_coletaneas.py --projeto  orgao_yamaha
 
  python trocar_fundo_thumb.py   --template assets/mascaras/mascara-do-canal-v2.png   --fundo assets/mascaras/borboleta.png   --saida assets/mascaras/thumb_com_borboleta_v2.jpg   --opacidade 0.5   --blur 0   --escurecer 0.95   --verde 0.35   --apagar 0.95   --escala 1   --x 0   --y 0
+
+
+Rodar para gerar os hinos
+python rodar_legendados_orgao_yamaha.py

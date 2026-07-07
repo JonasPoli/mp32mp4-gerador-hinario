@@ -820,3 +820,230 @@ textarea.field-input {
   .detail-form, .modal-form { grid-template-columns: 1fr; }
   .form-row { flex-direction: column; }
 }
+
+/* ── Config View Redesign ───────────────────────────────────────────── */
+.config-container {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.config-col-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.config-col-preview {
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  top: calc(var(--topbar-h) + 1.75rem);
+}
+
+.config-glass-card {
+  padding: 1.5rem;
+}
+
+/* Accordion Sections */
+.config-section {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+  transition: border-color var(--t-fast), background var(--t-fast);
+}
+
+.config-section:hover {
+  border-color: rgba(124, 92, 252, 0.25);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.config-section[open] {
+  border-color: rgba(124, 92, 252, 0.35);
+  background: rgba(124, 92, 252, 0.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.config-section-summary {
+  padding: 1rem 1.25rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-1);
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  outline: none;
+}
+
+.config-section-summary::-webkit-details-marker {
+  display: none;
+}
+
+.config-section-summary::after {
+  content: '▼';
+  font-size: 0.65rem;
+  color: var(--text-3);
+  transition: transform var(--t-mid);
+}
+
+.config-section[open] .config-section-summary::after {
+  transform: rotate(180deg);
+  color: var(--accent-2);
+}
+
+.config-section-body {
+  padding: 0 1.25rem 1.25rem 1.25rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.03);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Multi-row forms */
+.form-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.form-row-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.grid-coords {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+
+/* Color Picker Row */
+.color-picker-box {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.4rem 0.75rem;
+}
+
+.color-input {
+  -webkit-appearance: none;
+  border: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: none;
+}
+
+.color-input::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+.color-input::-webkit-color-swatch {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+}
+
+.alpha-slider {
+  flex: 1;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 99px;
+  outline: none;
+  cursor: pointer;
+  accent-color: var(--accent);
+}
+
+.alpha-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--text-2);
+  min-width: 24px;
+  text-align: right;
+}
+
+.field-hint {
+  font-size: 0.7rem;
+  color: var(--text-3);
+  margin-top: 0.2rem;
+}
+
+/* Preview Canvas */
+.preview-glass-card {
+  padding: 1.5rem;
+}
+
+.canvas-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  padding: 0.75rem;
+}
+
+#layout-canvas {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  background: #0d0f1a;
+  aspect-ratio: 16/9;
+}
+
+.canvas-legend {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.75rem;
+  color: var(--text-2);
+  margin-top: 0.25rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+}
+
+.legend-color.num-box {
+  background: rgba(34, 197, 94, 0.2);
+  border: 1.5px solid #22c55e;
+}
+
+.legend-color.name-box {
+  background: rgba(124, 92, 252, 0.2);
+  border: 1.5px solid #7c5cfc;
+}
+
+/* Test layout thumb */
+.test-row {
+  display: flex;
+  gap: 0.75rem;
+}
+
+/* Responsive adjustment for config layout */
+@media (max-width: 1100px) {
+  .config-container {
+    grid-template-columns: 1fr;
+  }
+  .config-col-preview {
+    position: static;
+  }
+}
+

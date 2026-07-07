@@ -41,11 +41,13 @@ function switchView(name) {
     search:    'Pesquisa',
     schedule:  'Agendamento de Postagem',
     'new-project': 'Cadastrar Novo Projeto',
+    'project-config': 'Configurações do Projeto',
   };
   $('#page-title').textContent = titles[name] || name;
 
   if (name === 'dashboard') loadDashboard();
   if (name === 'videos')    loadVideos(1);
+  if (name === 'project-config') loadProjectConfig();
 }
 
 $$('.nav-item').forEach(btn => {
@@ -541,6 +543,7 @@ async function init() {
       if (state.currentView === 'dashboard') loadDashboard();
       if (state.currentView === 'videos') loadVideos(1);
       if (state.currentView === 'search') runSearch();
+      if (state.currentView === 'project-config') loadProjectConfig();
     });
     
     const csvBtn = $('#download-csv-btn');
@@ -554,12 +557,7 @@ async function init() {
       });
     }
 
-    const colCsvBtn = $('#download-coletaneas-csv-btn');
-    if (colCsvBtn) {
-      colCsvBtn.addEventListener('click', () => {
-        window.open('/api/coletaneas/export-csv', '_blank');
-      });
-    }
+
     
     switchView('dashboard');
   } catch (err) {
@@ -624,10 +622,334 @@ async function init() {
     });
   }
 
+  // Load resources for configuration dropdowns
+  try {
+    const res = await fetch('/api/resources');
+    const resources = await res.json();
+    
+    // CSV options
+    $('#cfg-csv-path').innerHTML = resources.csvs.map(path => 
+      `<option value="${path}">${path}</option>`
+    ).join('');
+
+    // Pipeline options
+    $('#cfg-pipeline').innerHTML = resources.pipelines.map(pip => 
+      `<option value="${pip}">${pip}</option>`
+    ).join('');
+
+    // Vinheta options
+    $('#cfg-vinheta').innerHTML = [
+      '<option value="">Nenhuma</option>',
+      ...resources.vinhetas.map(path => `<option value="${path}">${path}</option>`)
+    ].join('');
+
+    // Instrument options
+    $('#cfg-instrumento').innerHTML = [
+      '<option value="">Nenhum ícone</option>',
+      ...resources.instrumentos.map(path => `<option value="${path}">${path}</option>`)
+    ].join('');
+
+  } catch (err) {
+    console.error('Erro ao carregar recursos do servidor:', err);
+  }
+
+  // Set up project config form submission
+  const configForm = $('#project-config-form');
+  if (configForm) {
+    configForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!state.activeProject) {
+        toast('Nenhum projeto ativo selecionado.', 'error');
+        return;
+      }
+      
+      const submitBtn = $('#cfg-submit-btn');
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Salvando...';
+
+      const payload = {
+        nome_exibicao: $('#cfg-nome').value.trim(),
+        csv_path: $('#cfg-csv-path').value,
+        inputs_dir: $('#cfg-inputs-dir').value.trim(),
+        thumb_pipeline: $('#cfg-pipeline').value,
+        vinheta: $('#cfg-vinheta').value,
+        instrumento: $('#cfg-instrumento').value,
+        titulo_template: $('#cfg-titulo').value.trim(),
+        palavras_chaves: $('#cfg-palavras-chaves').value.trim(),
+        descricao: $('#cfg-descricao').value.trim(),
+        desenho: {
+          numero: {
+            x: parseInt($('#cfg-num-x').value) || 0,
+            y_top: parseInt($('#cfg-num-ytop').value) || 0,
+            y_bottom: parseInt($('#cfg-num-ybottom').value) || 0,
+            max_width: parseInt($('#cfg-num-maxw').value) || 0,
+            cor: toRgbaArray($('#cfg-num-color').value, $('#cfg-num-alpha').value),
+            brilho: {
+              raio: parseInt($('#cfg-num-glow-r').value) || 0,
+              cor: toRgbaArray($('#cfg-num-glow-color').value, $('#cfg-num-glow-alpha').value)
+            }
+          },
+          nome: {
+            x: parseInt($('#cfg-name-x').value) || 0,
+            y_top: parseInt($('#cfg-name-ytop').value) || 0,
+            y_bottom: parseInt($('#cfg-name-ybottom').value) || 0,
+            max_width: parseInt($('#cfg-name-maxw').value) || 0,
+            max_font_size: parseInt($('#cfg-name-size').value) || 0,
+            align: $('#cfg-name-align').value,
+            cor: toRgbaArray($('#cfg-name-color').value, $('#cfg-name-alpha').value),
+            brilho: {
+              raio: parseInt($('#cfg-name-glow-r').value) || 0,
+              cor: toRgbaArray($('#cfg-name-glow-color').value, $('#cfg-name-glow-alpha').value)
+            }
+          }
+        }
+      };
+
+      try {
+        const res = await fetch(`/api/projects/${state.activeProject}/update`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(payload)
+        });
+        
+        const result = await res.json();
+        if (!res.ok) {
+          throw new Error(result.error || 'Erro ao salvar configurações');
+        }
+        
+        toast('Configurações salvas com sucesso!', 'success');
+        await reloadProjects(state.activeProject, false);
+      } catch (err) {
+        toast('Erro: ' + err.message, 'error');
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = '💾 Salvar Configurações';
+      }
+    });
+  }
+
+  // Coordinate & style change triggers (to update Canvas in real-time)
+  $$('.layout-trigger').forEach(el => {
+    el.addEventListener('input', () => {
+      // Update alpha labels if it's an alpha slider
+      if (el.classList.contains('alpha-slider')) {
+        const valLabel = $(`#${el.id}-val`);
+        if (valLabel) valLabel.textContent = el.value;
+      }
+      drawLayoutOnCanvas();
+    });
+  });
+
+  // Set up thumbnail test button
+  const testThumbBtn = $('#cfg-test-thumb-btn');
+  if (testThumbBtn) {
+    testThumbBtn.addEventListener('click', async () => {
+      if (!state.activeProject) {
+        toast('Nenhum projeto ativo selecionado.', 'error');
+        return;
+      }
+      const testNum = $('#cfg-test-num').value;
+      if (!testNum) {
+        toast('Informe o número do hino de teste.', 'error');
+        return;
+      }
+      
+      testThumbBtn.disabled = true;
+      testThumbBtn.textContent = 'Gerando...';
+      $('#test-result-wrapper').style.display = 'none';
+
+      try {
+        toast(`Solicitando geração de thumbnail de teste para o hino ${testNum}...`, 'info');
+        const res = await fetch(`/api/videos/${state.activeProject}/${testNum}/gerar-thumb`, {
+          method: 'POST'
+        });
+        const result = await res.json();
+        if (!res.ok) {
+          throw new Error(result.error || 'Erro ao gerar miniatura');
+        }
+
+        toast('Thumbnail de teste gerada com sucesso!', 'success');
+        $('#test-result-img').src = `${result.thumb_url}?t=${Date.now()}`;
+        $('#test-result-wrapper').style.display = 'block';
+      } catch (err) {
+        toast('Erro no teste: ' + err.message, 'error');
+      } finally {
+        testThumbBtn.disabled = false;
+        testThumbBtn.textContent = '🖼️ Gerar Teste de Thumb';
+      }
+    });
+  }
+
   switchView('dashboard');
 }
 
-async function reloadProjects(selectKey = null) {
+// ── Color helpers ─────────────────────────────────────────────────────
+function parseRgbaArray(arr) {
+  if (!arr || arr.length < 3) return { hex: '#ffffff', alpha: 255 };
+  const r = arr[0].toString(16).padStart(2, '0');
+  const g = arr[1].toString(16).padStart(2, '0');
+  const b = arr[2].toString(16).padStart(2, '0');
+  const hex = `#${r}${g}${b}`;
+  const alpha = arr.length > 3 ? arr[3] : 255;
+  return { hex, alpha };
+}
+
+function toRgbaArray(hex, alpha) {
+  hex = hex.replace('#', '');
+  if (hex.length === 3) {
+    hex = hex.split('').map(c => c + c).join('');
+  }
+  const r = parseInt(hex.substring(0, 2), 16);
+  const g = parseInt(hex.substring(2, 4), 16);
+  const b = parseInt(hex.substring(4, 6), 16);
+  return [r, g, b, parseInt(alpha) ?? 255];
+}
+
+// ── Canvas Renderer ───────────────────────────────────────────────────
+let mascaraImageCache = {};
+
+function drawLayoutOnCanvas() {
+  const canvas = $('#layout-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const project = state.activeProject;
+  if (!project) return;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  const drawBoxes = () => {
+    // Read input coordinates (with fallbacks)
+    const numX = (parseInt($('#cfg-num-x').value) || 0) / 3;
+    const numYtop = (parseInt($('#cfg-num-ytop').value) || 0) / 3;
+    const numYbottom = (parseInt($('#cfg-num-ybottom').value) || 0) / 3;
+    const numMaxw = (parseInt($('#cfg-num-maxw').value) || 0) / 3;
+
+    const nameX = (parseInt($('#cfg-name-x').value) || 0) / 3;
+    const nameYtop = (parseInt($('#cfg-name-ytop').value) || 0) / 3;
+    const nameYbottom = (parseInt($('#cfg-name-ybottom').value) || 0) / 3;
+    const nameMaxw = (parseInt($('#cfg-name-maxw').value) || 0) / 3;
+
+    // Draw Number Area
+    ctx.fillStyle = 'rgba(34, 197, 94, 0.2)';
+    ctx.strokeStyle = '#22c55e';
+    ctx.lineWidth = 1.5;
+    ctx.fillRect(numX, numYtop, numMaxw, numYbottom - numYtop);
+    ctx.strokeRect(numX, numYtop, numMaxw, numYbottom - numYtop);
+
+    // Draw Name Area
+    ctx.fillStyle = 'rgba(124, 92, 252, 0.2)';
+    ctx.strokeStyle = '#7c5cfc';
+    ctx.fillRect(nameX, nameYtop, nameMaxw, nameYbottom - nameYtop);
+    ctx.strokeRect(nameX, nameYtop, nameMaxw, nameYbottom - nameYtop);
+  };
+
+  const imgUrl = `/api/projects/${project}/mascara?t=${Date.now()}`;
+  
+  if (mascaraImageCache[project]) {
+    const img = mascaraImageCache[project];
+    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+    drawBoxes();
+  } else {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.src = imgUrl;
+    img.onload = () => {
+      mascaraImageCache[project] = img;
+      ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+      drawBoxes();
+    };
+    img.onerror = () => {
+      ctx.fillStyle = '#10121f';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = '#6b6a8a';
+      ctx.font = '12px sans-serif';
+      ctx.fillText('Nenhuma máscara de fundo carregada', 20, 40);
+      drawBoxes();
+    };
+  }
+}
+
+function loadProjectConfig() {
+  if (!state.activeProject) {
+    toast('Nenhum projeto ativo selecionado.', 'error');
+    return;
+  }
+  const cfg = state.projects[state.activeProject];
+  if (!cfg) return;
+
+  // General fields
+  $('#cfg-nome').value = cfg.nome_exibicao || '';
+  $('#cfg-csv-path').value = cfg.csv_path || '';
+  $('#cfg-inputs-dir').value = cfg.inputs_dir || cfg.mp3_dir || '';
+  $('#cfg-pipeline').value = cfg.thumb_pipeline || 'v01';
+  $('#cfg-vinheta').value = cfg.vinheta || '';
+  $('#cfg-instrumento').value = cfg.instrumento || '';
+
+  // YouTube Templates
+  $('#cfg-titulo').value = cfg.titulo_template || '';
+  $('#cfg-palavras-chaves').value = cfg.palavras_chaves || '';
+  $('#cfg-descricao').value = cfg.descricao || '';
+
+  // Desenho defaults
+  const d = cfg.desenho || {};
+  const num = d.numero || { x: 120, y_top: 150, y_bottom: 780, max_width: 580, cor: [26, 45, 90, 255] };
+  const name = d.nome || { x: 780, y_top: 200, y_bottom: 800, max_width: 550, max_font_size: 100, align: 'left', cor: [26, 45, 90, 255] };
+
+  // Numero Coords
+  $('#cfg-num-x').value = num.x ?? 120;
+  $('#cfg-num-ytop').value = num.y_top ?? 150;
+  $('#cfg-num-ybottom').value = num.y_bottom ?? 780;
+  $('#cfg-num-maxw').value = num.max_width ?? 580;
+
+  // Numero Colors
+  const numCor = parseRgbaArray(num.cor);
+  $('#cfg-num-color').value = numCor.hex;
+  $('#cfg-num-alpha').value = numCor.alpha;
+  $('#cfg-num-alpha-val').textContent = numCor.alpha;
+
+  // Numero Glow
+  const numGlow = num.brilho || { raio: 3, cor: [255, 255, 255, 255] };
+  $('#cfg-num-glow-r').value = numGlow.raio ?? 3;
+  const numGlowCor = parseRgbaArray(numGlow.cor);
+  $('#cfg-num-glow-color').value = numGlowCor.hex;
+  $('#cfg-num-glow-alpha').value = numGlowCor.alpha;
+  $('#cfg-num-glow-alpha-val').textContent = numGlowCor.alpha;
+
+  // Nome Coords
+  $('#cfg-name-x').value = name.x ?? 780;
+  $('#cfg-name-ytop').value = name.y_top ?? 200;
+  $('#cfg-name-ybottom').value = name.y_bottom ?? 800;
+  $('#cfg-name-maxw').value = name.max_width ?? 550;
+  $('#cfg-name-size').value = name.max_font_size ?? 100;
+  $('#cfg-name-align').value = name.align || 'left';
+
+  // Nome Colors
+  const nameCor = parseRgbaArray(name.cor);
+  $('#cfg-name-color').value = nameCor.hex;
+  $('#cfg-name-alpha').value = nameCor.alpha;
+  $('#cfg-name-alpha-val').textContent = nameCor.alpha;
+
+  // Nome Glow
+  const nameGlow = name.brilho || { raio: 3, cor: [255, 255, 255, 255] };
+  $('#cfg-name-glow-r').value = nameGlow.raio ?? 3;
+  const nameGlowCor = parseRgbaArray(nameGlow.cor);
+  $('#cfg-name-glow-color').value = nameGlowCor.hex;
+  $('#cfg-name-glow-alpha').value = nameGlowCor.alpha;
+  $('#cfg-name-glow-alpha-val').textContent = nameGlowCor.alpha;
+
+  // Clear test result preview
+  $('#test-result-wrapper').style.display = 'none';
+  $('#test-result-img').removeAttribute('src');
+
+  // Redraw Canvas
+  // Remove project cache to reload mask dynamically if it changed
+  delete mascaraImageCache[state.activeProject];
+  drawLayoutOnCanvas();
+}
+
+async function reloadProjects(selectKey = null, changeView = true) {
   try {
     const res = await fetch('/api/projects');
     const projects = await res.json();
@@ -643,7 +965,9 @@ async function reloadProjects(selectKey = null) {
     }
     
     state.activeProject = selector.value;
-    switchView('dashboard');
+    if (changeView) {
+      switchView('dashboard');
+    }
   } catch (err) {
     toast('Erro ao atualizar lista de projetos: ' + err.message, 'error');
   }
@@ -664,7 +988,6 @@ async function gerarThumbHino(projeto, numero) {
     
     toast('Imagem gerada com sucesso!', 'success');
     
-    // Update the image preview in the UI
     const img = $(`#thumb-preview-img-${numero}`);
     const placeholder = $(`#thumb-preview-placeholder-${numero}`);
     const newSrc = `${result.thumb_url}?t=${Date.now()}`;
@@ -682,3 +1005,4 @@ async function gerarThumbHino(projeto, numero) {
 }
 
 init();
+

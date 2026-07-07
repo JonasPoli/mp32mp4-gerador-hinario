@@ -165,11 +165,27 @@ COLETANEAS = {
 # =============================================================================
 
 def carregar_projetos() -> dict:
-    caminho = ROOT / "projetos.json"
-    if not caminho.exists():
-        raise FileNotFoundError(f"Arquivo projetos.json não encontrado em {caminho}")
-    with open(caminho, "r", encoding="utf-8") as f:
-        return json.load(f)
+    """Busca dinamicamente configurações de projetos na pasta projects/."""
+    projetos = {}
+    projects_dir = ROOT / "projects"
+    if projects_dir.exists():
+        for folder in sorted(projects_dir.iterdir()):
+            if folder.is_dir():
+                cfg_path = folder / "config.json"
+                if cfg_path.exists():
+                    try:
+                        with open(cfg_path, "r", encoding="utf-8") as f:
+                            projetos[folder.name] = json.load(f)
+                    except Exception as e:
+                        print(f"[config] Erro ao carregar config.json de {folder.name}: {e}")
+    
+    # Fallback para o projetos.json legado
+    if not projetos:
+        caminho = ROOT / "projetos.json"
+        if caminho.exists():
+            with open(caminho, "r", encoding="utf-8") as f:
+                projetos = json.load(f)
+    return projetos
 
 
 def carregar_csv(caminho: Path) -> dict:
@@ -395,6 +411,7 @@ def main():
     parser = argparse.ArgumentParser(description="Gerador de coletâneas de hinos para o YouTube.")
     parser.add_argument("--projeto", required=True, help="Nome do projeto configurado em projetos.json")
     parser.add_argument("--forcar", action="store_true", help="Força a regeração de coletâneas que já existem.")
+    parser.add_argument("--apenas-thumbs", action="store_true", dest="apenas_thumbs", help="Gera apenas as thumbnails (capas) das coletâneas, sem concatenar vídeos.")
     args = parser.parse_args()
     
     # Carregar configurações
@@ -408,7 +425,18 @@ def main():
     hinos_nomes = carregar_csv(csv_path)
     
     print(f"Iniciando gerador de coletâneas para o projeto '{args.projeto}'...")
-    coletaneas_dir = OUTPUT_DIR / "coletaneas" / args.projeto
+    
+    # Resolver caminhos específicos do projeto
+    videos_dir = ROOT / "output" / args.projeto
+    coletaneas_dir = ROOT / "output" / args.projeto / "coletaneas"
+    
+    # Fallback para o diretório antigo projects/ se não houver vídeos na pasta output/
+    if not (videos_dir.exists() and any(videos_dir.glob("*.mp4"))):
+        proj_dir = ROOT / "projects" / args.projeto
+        if proj_dir.exists():
+            videos_dir = proj_dir / "outputs" / "videos"
+            coletaneas_dir = proj_dir / "outputs" / "coletaneas"
+        
     coletaneas_dir.mkdir(parents=True, exist_ok=True)
     
     for cid, col in COLETANEAS.items():
@@ -436,18 +464,43 @@ def main():
         print(f"Processando Coletânea {cid}: {titulo}")
         print(f"Hinos: {hinos_list}")
         
-        # 1. Verificar se os vídeos individuais existem no output/
+        # 1. Verificar se os vídeos individuais existem
         videos_locais = []
         videos_faltantes = []
         for hino in hinos_list:
             num_str = formatar_numero_completo(hino)
-            v_path = OUTPUT_DIR / f"hino-{args.projeto}-{num_str}.mp4"
+            v_path = videos_dir / f"hino-{args.projeto}-{num_str}.mp4"
+            if not v_path.exists():
+                # Tentar encontrar arquivo .mp4 que comece com o número (ex: "001- Cristo meu Mestre.mp4")
+                is_coro = num_str.upper().startswith("C")
+                try:
+                    num_val = int(num_str[1:] if is_coro else num_str)
+                except ValueError:
+                    num_val = None
+                
+                if num_val is not None:
+                    found_v = None
+                    for p in videos_dir.glob("*.mp4"):
+                        if p.name.startswith(".") or "-legendado" in p.name:
+                            continue
+                        name_lower = p.name.lower()
+                        if is_coro:
+                            if name_lower.startswith(f"coro {num_val:03d}") or name_lower.startswith(f"c{num_val:03d}") or name_lower.startswith(f"coro {num_val}"):
+                                found_v = p
+                                break
+                        else:
+                            if name_lower.startswith(f"{num_val:03d}") or name_lower.startswith(f"{num_val}-") or name_lower.startswith(f"{num_val} "):
+                                found_v = p
+                                break
+                    if found_v:
+                        v_path = found_v
+
             if v_path.exists():
                 videos_locais.append((hino, v_path))
             else:
-                videos_faltantes.append(f"Hino {hino} (esperado em {v_path.name})")
+                videos_faltantes.append(f"Hino {hino} (esperado em {v_path.name} ou iniciando com {num_str})")
                 
-        if videos_faltantes:
+        if videos_faltantes and not args.apenas_thumbs:
             print(f"AVISO: Pulando coletânea '{titulo}' devido aos seguintes vídeos faltantes:")
             for m in videos_faltantes:
                 print(f"  - {m}")
@@ -460,6 +513,10 @@ def main():
             print(f"  ✓ Capa salva em {capa_output.relative_to(ROOT)}")
         else:
             print(f"Capa já existe ({capa_output.name}), pulando...")
+        
+        # Se --apenas-thumbs, pular concatenação de vídeos e metadados
+        if args.apenas_thumbs:
+            continue
             
         # 3. Concatenar vídeos e calcular os capítulos
         timeline = []

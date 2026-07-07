@@ -49,21 +49,22 @@ except ImportError:
 from mutagen.mp3 import MP3
 from PIL import Image, ImageDraw, ImageFont
 
-# ── Novo pipeline de thumbnails (gerar_thumb_v01) ──────────────────────────────
+# ── Novo pipeline de thumbnails (gerar_thumb.py) ──────────────────────────────
 try:
-    from gerar_thumb_v01 import gerar_thumb as _gerar_thumb_v01
-    _THUMB_V01_DISPONIVEL = True
+    from gerar_thumb import gerar_thumb as _gerar_thumb
+    _THUMB_DISPONIVEL = True
 except ImportError:
-    _THUMB_V01_DISPONIVEL = False
-    print("[aviso] gerar_thumb_v01.py não encontrado — thumbs do hinario5 usarão layout legado")
+    _THUMB_DISPONIVEL = False
+    print("[aviso] gerar_thumb.py não encontrado — usando layout legado")
 
 # =============================================================================
 # Caminhos do projeto
 # =============================================================================
 
 ROOT         = Path(__file__).parent
-FLORES_DIR   = ROOT / "videos_flores"
-PHOTOS_DIR   = ROOT / "Photos-1-001"
+FLORES_DIR   = ROOT / "shared_assets" / "background_clips" / "videos_flores"
+PHOTOS_DIR   = ROOT / "shared_assets" / "background_clips" / "Photos-1-001"
+MOVIEA_DIR   = ROOT / "shared_assets" / "background_clips" / "Temp-moviea"
 OUTPUT_DIR   = ROOT / "output"
 THUMBS_DIR   = ROOT / "thumbs"   # miniaturas PNG para upload no YouTube
 FONTES_DIR   = ROOT / "fontes"
@@ -87,11 +88,27 @@ DOWNLOAD_QUERIES = ["flores", "flowers", "natureza", "nature", "campo", "jardim"
 
 
 def carregar_projetos() -> dict:
-    caminho = ROOT / "projetos.json"
-    if not caminho.exists():
-        raise FileNotFoundError(f"Arquivo projetos.json não encontrado em {caminho}")
-    with open(caminho, "r", encoding="utf-8") as f:
-        return json.load(f)
+    """Busca dinamicamente configurações de projetos na pasta projects/."""
+    projetos = {}
+    projects_dir = ROOT / "projects"
+    if projects_dir.exists():
+        for folder in sorted(projects_dir.iterdir()):
+            if folder.is_dir():
+                cfg_path = folder / "config.json"
+                if cfg_path.exists():
+                    try:
+                        with open(cfg_path, "r", encoding="utf-8") as f:
+                            projetos[folder.name] = json.load(f)
+                    except Exception as e:
+                        print(f"[config] Erro ao carregar config.json de {folder.name}: {e}")
+    
+    # Fallback para o projetos.json legado
+    if not projetos:
+        caminho = ROOT / "projetos.json"
+        if caminho.exists():
+            with open(caminho, "r", encoding="utf-8") as f:
+                projetos = json.load(f)
+    return projetos
 
 
 def carregar_templates_youtube() -> dict:
@@ -557,7 +574,7 @@ def sincronizar_mp3s(conn: sqlite3.Connection, projeto_nome: str, projeto_cfg: d
 
 
 def sincronizar_clipes(conn: sqlite3.Connection):
-    """Insere na tabela clipes os vídeos novos de videos_flores/ e Photos-1-001/."""
+    """Insere na tabela clipes os vídeos novos de videos_flores/, Photos-1-001/ e Temp-moviea/."""
     inseridos = 0
     extensoes = {".mp4", ".mov", ".avi", ".mkv", ".webm"}
 
@@ -566,6 +583,8 @@ def sincronizar_clipes(conn: sqlite3.Connection):
         if not pasta.exists():
             return
         for f in pasta.iterdir():
+            if f.name.startswith("."):
+                continue
             if f.suffix.lower() not in extensoes:
                 continue
             rel = str(f.relative_to(ROOT))
@@ -575,6 +594,9 @@ def sincronizar_clipes(conn: sqlite3.Connection):
             if existe:
                 continue
             dur = duracao_video(f)
+            if dur <= 0.0:
+                print(f"  [banco] Clipe inválido ou sem duração (ffprobe falhou): {f.name}")
+                continue
             conn.execute(
                 "INSERT OR IGNORE INTO clipes (caminho, fonte, duracao_s) VALUES (?, ?, ?)",
                 (rel, fonte, dur),
@@ -583,6 +605,7 @@ def sincronizar_clipes(conn: sqlite3.Connection):
 
     escanear(FLORES_DIR, "videos_flores")
     escanear(PHOTOS_DIR, "photos")
+    escanear(MOVIEA_DIR, "moviea")
     conn.commit()
     if inseridos:
         print(f"[banco] {inseridos} novo(s) clipe(s) registrado(s).")
@@ -821,13 +844,8 @@ def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg:
     num_formatted = formatar_numero_completo(numero)
     thumb_path = THUMBS_DIR / f"hino-{projeto_nome}-{num_formatted}.png"
 
-    # ── Novo pipeline v01 (controlado pelo campo thumb_pipeline no projetos.json) ──
-    usa_v01 = projeto_cfg.get("thumb_pipeline") == "v01" and _THUMB_V01_DISPONIVEL
-    if usa_v01:
-        v01_dir = THUMBS_DIR / "v01"
-        v01_dir.mkdir(parents=True, exist_ok=True)
-        v01_path = v01_dir / f"thumb_v01_{num_formatted}.jpg"
-
+    # ── Novo pipeline de thumbnail (gerar_thumb.py) ──
+    if _THUMB_DISPONIVEL:
         # Converte numero para int de forma segura (ex: "C001" → mantém string p/ coros)
         num_str = str(numero).strip()
         if num_str.upper().startswith("C") and num_str[1:].isdigit():
@@ -840,20 +858,17 @@ def gerar_thumbnail_hino(numero: int, nome: str, projeto_nome: str, projeto_cfg:
                 numero_int = 0
 
         try:
-            _gerar_thumb_v01(
+            mascara_path = projeto_cfg.get("mascara")
+            _gerar_thumb(
                 numero_hino=numero_int,
                 titulo_hino=nome,
-                output_path=str(v01_path),
-                instrumento_path=projeto_cfg.get("instrumento"),   # None = aleatório
-                preset_idx=projeto_cfg.get("thumb_preset"),         # None = aleatório
-                seed=projeto_cfg.get("thumb_seed"),                  # None = aleatório
+                output_path=thumb_path,
+                seed=projeto_cfg.get("thumb_seed"),
+                mascara_path=mascara_path,
             )
-            # Converte o JPG gerado para PNG no caminho legado (usado pelo gerar_frame_video)
-            Image.open(str(v01_path)).convert("RGB").save(str(thumb_path))
-            print(f"  Thumbnail v01 salva em: thumbs/v01/thumb_v01_{num_formatted}.jpg")
             return thumb_path
         except Exception as e:
-            print(f"  [aviso] Erro no pipeline v01, usando legado: {e}")
+            print(f"  [aviso] Erro no pipeline de thumbnail v02: {e}")
             # Fallthrough para o pipeline legado
 
     # ── Pipeline legado (todos os outros projetos) ────────────────────────────
@@ -916,7 +931,7 @@ def gerar_frame_video(numero: int, nome: str, projeto_nome: str, projeto_cfg: di
         "-i", str(thumb_path),
         "-t", str(duracao),
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
-               "pad=1920:1080:(ow-iw)/2:(oh-ih)/2",
+               "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fade=t=in:st=0:d=1.5",
         "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
         "-threads", "2",
         "-r", "30",
@@ -1049,11 +1064,13 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     for p in partes:
         p.unlink(missing_ok=True)
 
-    # --- Cortar exatamente na duração necessária ---
+    # --- Cortar exatamente na duração necessária e aplicar fade-out ---
     video_cortado = out_dir / f"_fundo_{saida.stem}.mp4"
+    fade_start = max(0.0, duracao_total - 1.5)
     subprocess.run([
         "ffmpeg", "-y", "-i", str(video_concat),
         "-t", str(duracao_total),
+        "-vf", f"fade=t=out:st={fade_start}:d=1.5",
         "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
         "-threads", "2",
         str(video_cortado),
@@ -1177,12 +1194,13 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         # Misturar: áudio da vinheta (natural) + MP3 com delay via amix.
         # As faixas não se sobrepõem: vinheta 0→dur_vinheta, MP3 começa em audio_delay_s.
         # [va] — áudio da vinheta preenchido com silêncio até total_dur
-        # [ma] — MP3 atrasado, com fade-in e preenchido até total_dur
+        # [ma] — MP3 atrasado, com fade-in/fade-out e preenchido até total_dur
         # amix com normalize=0 garante que os volumes não sejam reduzidos.
         filter_complex = (
             f"[1:a]apad=whole_dur={total_dur}[va];"
             f"[2:a]adelay={audio_delay_ms}|{audio_delay_ms},"
             f"afade=t=in:st={audio_delay_s}:d=0.5,"
+            f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
             f"apad=whole_dur={total_dur}[ma];"
             f"[va][ma]amix=inputs=2:duration=first:normalize=0[aout]"
         )
@@ -1200,7 +1218,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
             str(saida),
         ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     else:
-        # Sem áudio de vinheta — apenas o MP3 com delay (comportamento original)
+        # Sem áudio de vinheta — apenas o MP3 com delay e fade-out (comportamento original)
         subprocess.run([
             "ffmpeg", "-y",
             "-i", str(video_concat),
@@ -1209,6 +1227,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
             "-map", "1:a:0",
             "-af", f"adelay={audio_delay_ms}|{audio_delay_ms},"
                    f"afade=t=in:st={audio_delay_s}:d=0.5,"
+                   f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
                    f"apad=whole_dur={total_dur}",
             "-c:v", "copy",
             "-c:a", "aac", "-b:a", "192k",
@@ -1520,10 +1539,18 @@ def main():
         projeto_nome = list(projetos.keys())[0]
 
     if projeto_nome not in projetos:
-        print(f"ERRO: Projeto '{projeto_nome}' não está configurado em projetos.json.")
+        print(f"ERRO: Projeto '{projeto_nome}' não está configurado.")
         sys.exit(1)
 
     projeto_cfg = projetos[projeto_nome]
+
+    global OUTPUT_DIR, THUMBS_DIR
+    OUTPUT_DIR = ROOT / "output" / projeto_nome
+    THUMBS_DIR = ROOT / "output" / projeto_nome / "thumbs"
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    THUMBS_DIR.mkdir(parents=True, exist_ok=True)
+    print(f"[config] Diretório de saída do vídeo: {OUTPUT_DIR.relative_to(ROOT)}")
+    print(f"[config] Diretório de saída da thumbnail: {THUMBS_DIR.relative_to(ROOT)}")
 
     # ---- Atalho: --thumbnail-apenas [--numero N] --projeto P ---------------
     if args.thumbnail_apenas:

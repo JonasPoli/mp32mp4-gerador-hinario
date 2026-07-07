@@ -94,3 +94,9 @@ Icon?
 *.swp
 *.swo
 *~
+
+projects/*
+projects/
+
+shared_assets/background_clips
+shared_assets/background_clips/*

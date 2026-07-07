@@ -22,11 +22,8 @@
     <select id="project-select" class="form-input" style="width: 100%; padding: 0.4rem 0.6rem; background: rgba(255,255,255,0.03); border: 1px solid var(--border); color: var(--text-2); border-radius: var(--radius-sm); font-family: inherit; font-size: 0.85rem; cursor: pointer; outline: none; transition: border-color var(--t-fast); margin-bottom: 0.6rem;">
       <!-- Carregado via API -->
     </select>
-    <button id="download-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit; margin-bottom: 0.4rem;">
-      📥 Exportar CSV Hinos
-    </button>
-    <button id="download-coletaneas-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit;">
-      📦 Exportar CSV Coletâneas
+    <button id="download-csv-btn" class="btn-secondary" style="width: 100%; padding: 0.4rem; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; gap: 0.25rem; cursor: pointer; border-radius: var(--radius-sm); font-family: inherit;">
+      📥 Exportar CSV
     </button>
   </div>
   <nav class="sidebar-nav">
@@ -44,6 +41,9 @@
     </button>
     <button class="nav-item" data-view="new-project" id="nav-new-project">
       <span class="nav-icon">➕</span><span>Novo Projeto</span>
+    </button>
+    <button class="nav-item" data-view="project-config" id="nav-project-config">
+      <span class="nav-icon">⚙️</span><span>Configurações</span>
     </button>
   </nav>
   <div class="sidebar-footer">
@@ -275,6 +275,229 @@
           <button type="submit" class="btn-primary" id="proj-submit-btn" style="padding: 0.75rem 1.5rem; font-weight: 600; cursor: pointer; border: none; border-radius: var(--radius-sm); font-family: inherit; font-size: 0.95rem;">Cadastrar Projeto</button>
         </div>
       </form>
+    </div>
+  <!-- ─── VIEW: PROJECT-CONFIG ─── -->
+  <section class="view" id="view-project-config">
+    <div class="config-container">
+      
+      <!-- COLUNA ESQUERDA: FORMULÁRIO -->
+      <div class="config-col-form">
+        <form id="project-config-form" class="glass-card config-glass-card">
+          <h2 class="card-title">⚙️ Configurações do Projeto</h2>
+          <p class="card-desc" style="margin-bottom: 1.25rem;">
+            Edite todos os parâmetros visuais, modelos e diretórios do projeto selecionado na barra lateral.
+          </p>
+
+          <!-- GRUPO 1: IDENTIDADE E RECURSOS -->
+          <details class="config-section" open>
+            <summary class="config-section-summary">📂 Identidade e Recursos</summary>
+            <div class="config-section-body">
+              <div class="form-group">
+                <label class="form-label" for="cfg-nome">Nome de Exibição</label>
+                <input type="text" id="cfg-nome" class="form-input" required />
+              </div>
+              <div class="form-row-2">
+                <div class="form-group">
+                  <label class="form-label" for="cfg-csv-path">Caminho do CSV</label>
+                  <select id="cfg-csv-path" class="form-input" required></select>
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="cfg-pipeline">Pipeline de Thumbnail</label>
+                  <select id="cfg-pipeline" class="form-input" required></select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="cfg-inputs-dir">Diretório de Entrada (MP3)</label>
+                <input type="text" id="cfg-inputs-dir" class="form-input" required />
+              </div>
+              <div class="form-row-2">
+                <div class="form-group">
+                  <label class="form-label" for="cfg-vinheta">Vídeo de Vinheta</label>
+                  <select id="cfg-vinheta" class="form-input"></select>
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="cfg-instrumento">Ícone do Instrumento</label>
+                  <select id="cfg-instrumento" class="form-input"></select>
+                </div>
+              </div>
+            </div>
+          </details>
+
+          <!-- GRUPO 2: MODELOS YOUTUBE -->
+          <details class="config-section">
+            <summary class="config-section-summary">🎬 Modelos YouTube (SEO)</summary>
+            <div class="config-section-body">
+              <div class="form-group">
+                <label class="form-label" for="cfg-titulo">Template de Título</label>
+                <input type="text" id="cfg-titulo" class="form-input" required />
+                <span class="field-hint">Tags: &lt;numero-do-hino&gt;, &lt;nome-do-hino&gt;, &lt;nome-sem-acento&gt;, &lt;nome-do-projeto&gt;</span>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="cfg-palavras-chaves">Palavras-chaves / Tags</label>
+                <textarea id="cfg-palavras-chaves" class="form-input" rows="3" required></textarea>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="cfg-descricao">Descrição Padrão (Template)</label>
+                <textarea id="cfg-descricao" class="form-input mono" rows="8" required></textarea>
+              </div>
+            </div>
+          </details>
+
+          <!-- GRUPO 3: DESENHO NÚMERO -->
+          <details class="config-section">
+            <summary class="config-section-summary">🔢 Layout: Número do Hino</summary>
+            <div class="config-section-body">
+              <div class="grid-coords">
+                <div class="form-group">
+                  <label class="form-label">X (Início Horizontal)</label>
+                  <input type="number" id="cfg-num-x" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Y Superior (Top)</label>
+                  <input type="number" id="cfg-num-ytop" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Y Inferior (Bottom)</label>
+                  <input type="number" id="cfg-num-ybottom" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Largura Máx.</label>
+                  <input type="number" id="cfg-num-maxw" class="form-input layout-trigger" />
+                </div>
+              </div>
+              <div class="form-row-2" style="margin-top: 1rem;">
+                <div class="form-group">
+                  <label class="form-label">Cor do Texto</label>
+                  <div class="color-picker-box">
+                    <input type="color" id="cfg-num-color" class="color-input layout-trigger" />
+                    <input type="range" id="cfg-num-alpha" min="0" max="255" value="255" class="alpha-slider layout-trigger" />
+                    <span class="alpha-value" id="cfg-num-alpha-val">255</span>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Raio do Brilho/Borda</label>
+                  <input type="number" id="cfg-num-glow-r" class="form-input layout-trigger" min="0" max="20" />
+                </div>
+              </div>
+              <div class="form-group" style="margin-top: 1rem;">
+                <label class="form-label">Cor do Brilho/Borda</label>
+                <div class="color-picker-box">
+                  <input type="color" id="cfg-num-glow-color" class="color-input layout-trigger" />
+                  <input type="range" id="cfg-num-glow-alpha" min="0" max="255" value="255" class="alpha-slider layout-trigger" />
+                  <span class="alpha-value" id="cfg-num-glow-alpha-val">255</span>
+                </div>
+              </div>
+            </div>
+          </details>
+
+          <!-- GRUPO 4: DESENHO NOME -->
+          <details class="config-section">
+            <summary class="config-section-summary">🔤 Layout: Nome do Hino</summary>
+            <div class="config-section-body">
+              <div class="grid-coords">
+                <div class="form-group">
+                  <label class="form-label">X (Início Horizontal)</label>
+                  <input type="number" id="cfg-name-x" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Y Superior (Top)</label>
+                  <input type="number" id="cfg-name-ytop" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Y Inferior (Bottom)</label>
+                  <input type="number" id="cfg-name-ybottom" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Largura Máx.</label>
+                  <input type="number" id="cfg-name-maxw" class="form-input layout-trigger" />
+                </div>
+              </div>
+              <div class="form-row-3" style="margin-top: 1rem;">
+                <div class="form-group">
+                  <label class="form-label">Fonte Máx.</label>
+                  <input type="number" id="cfg-name-size" class="form-input layout-trigger" />
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Alinhamento</label>
+                  <select id="cfg-name-align" class="form-input layout-trigger">
+                    <option value="left">Esquerda</option>
+                    <option value="center">Centralizado</option>
+                    <option value="right">Direita</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-row-2" style="margin-top: 1rem;">
+                <div class="form-group">
+                  <label class="form-label">Cor do Texto</label>
+                  <div class="color-picker-box">
+                    <input type="color" id="cfg-name-color" class="color-input layout-trigger" />
+                    <input type="range" id="cfg-name-alpha" min="0" max="255" value="255" class="alpha-slider layout-trigger" />
+                    <span class="alpha-value" id="cfg-name-alpha-val">255</span>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label class="form-label">Raio do Brilho/Borda</label>
+                  <input type="number" id="cfg-name-glow-r" class="form-input layout-trigger" min="0" max="20" />
+                </div>
+              </div>
+              <div class="form-group" style="margin-top: 1rem;">
+                <label class="form-label">Cor do Brilho/Borda</label>
+                <div class="color-picker-box">
+                  <input type="color" id="cfg-name-glow-color" class="color-input layout-trigger" />
+                  <input type="range" id="cfg-name-glow-alpha" min="0" max="255" value="255" class="alpha-slider layout-trigger" />
+                  <span class="alpha-value" id="cfg-name-glow-alpha-val">255</span>
+                </div>
+              </div>
+            </div>
+          </details>
+
+          <div class="form-actions" style="margin-top: 1.5rem;">
+            <button type="submit" class="btn-primary" id="cfg-submit-btn" style="width: 100%; justify-content: center; padding: 0.8rem; font-size: 0.95rem;">💾 Salvar Configurações</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- COLUNA DIREITA: PREVISÃO DE LAYOUT CANVAS & TESTE -->
+      <div class="config-col-preview">
+        <div class="glass-card preview-glass-card">
+          <h2 class="card-title">👁️ Pré-visualização do Layout</h2>
+          <p class="card-desc" style="margin-bottom: 1rem;">
+            O Canvas abaixo mostra as caixas delimitadoras de desenho em tempo real baseadas nas coordenadas 1920x1080 inseridas.
+          </p>
+
+          <div class="canvas-wrapper">
+            <canvas id="layout-canvas" width="640" height="360"></canvas>
+            <div class="canvas-legend">
+              <span class="legend-item"><span class="legend-color num-box"></span>Número</span>
+              <span class="legend-item"><span class="legend-color name-box"></span>Nome</span>
+            </div>
+          </div>
+
+          <div class="thumb-test-panel" style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
+            <h3 class="card-title" style="font-size: 0.9rem; margin-bottom: 0.5rem;">🖼️ Gerar Thumbnail de Teste</h3>
+            <p class="card-desc" style="font-size: 0.8rem; margin-bottom: 1rem;">
+              Salve as configurações primeiro e clique no botão abaixo para rodar o renderizador real no hino de teste.
+            </p>
+            <div class="test-row">
+              <div class="form-group" style="max-width: 100px; flex: 0 0 100px;">
+                <label class="form-label" for="cfg-test-num">Nº Hino</label>
+                <input type="number" id="cfg-test-num" class="form-input" value="53" min="1" max="999" />
+              </div>
+              <button type="button" class="btn-secondary" id="cfg-test-thumb-btn" style="flex: 1; justify-content: center; align-self: flex-end; height: 38px;">
+                🖼️ Gerar Teste de Thumb
+              </button>
+            </div>
+
+            <!-- Contêiner de Imagem de Resultado do Teste -->
+            <div class="test-result-wrapper" id="test-result-wrapper" style="display: none; margin-top: 1rem; text-align: center;">
+              <span class="field-label" style="display: block; margin-bottom: 0.5rem; text-align: left;">Resultado do Renderizador Real:</span>
+              <img id="test-result-img" style="width: 100%; border-radius: var(--radius-sm); border: 1px solid var(--border); max-width: 480px; aspect-ratio: 16/9; object-fit: contain; background: #000;" />
+            </div>
+          </div>
+
+        </div>
+      </div>
+
     </div>
   </section>
 

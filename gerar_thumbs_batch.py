@@ -86,13 +86,26 @@ from PIL import Image
 
 
 def carregar_projetos() -> dict:
-    """
-    Carrega o arquivo projetos.json com as configurações de cada projeto.
+    """Busca dinamicamente configurações de projetos na pasta projects/."""
+    projetos = {}
+    projects_dir = ROOT / "projects"
+    if projects_dir.exists():
+        for folder in sorted(projects_dir.iterdir()):
+            if folder.is_dir():
+                cfg_path = folder / "config.json"
+                if cfg_path.exists():
+                    try:
+                        with open(cfg_path, "r", encoding="utf-8") as f:
+                            projetos[folder.name] = json.load(f)
+                    except Exception as e:
+                        print(f"[config] Erro ao carregar config.json de {folder.name}: {e}")
+    if not projetos:
+        caminho = ROOT / "projetos.json"
+        if caminho.exists():
+            with open(caminho, "r", encoding="utf-8") as f:
+                projetos = json.load(f)
+    return projetos
 
-    Returns:
-        Dicionário com nome_do_projeto → dicionário de configurações.
-    """
-    return json.load(open(ROOT / "projetos.json", encoding="utf-8"))
 
 
 def carregar_hinos_csv(csv_path: Path) -> dict[int, str]:

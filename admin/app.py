@@ -34,12 +34,49 @@ app = Flask(__name__, static_folder=str(ADMIN / "static"), static_url_path="/sta
 # ─────────────────────────────────────────────────────────────────────────────
 
 def carregar_projetos() -> dict:
+    """Busca configurações de projetos no projetos.json global."""
     caminho = ROOT / "projetos.json"
-    with open(caminho, "r", encoding="utf-8") as f:
-        return json.load(f)
+    if caminho.exists():
+        try:
+            with open(caminho, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[config] Erro ao carregar projetos.json: {e}")
+    return {}
+
+
+def salvar_projetos(projetos):
+    """Salva a configuração consolidada no projetos.json global e atualiza as pastas individuais."""
+    caminho = ROOT / "projetos.json"
+    try:
+        with open(caminho, "w", encoding="utf-8") as f:
+            json.dump(projetos, f, indent=2, ensure_ascii=False)
+        print("[config] projetos.json salvo com sucesso.")
+    except Exception as e:
+        print(f"[config] Erro ao salvar projetos.json: {e}")
+    
+    # Sincronizar pastas individuais projects/<key>/config.json
+    for key, cfg in projetos.items():
+        proj_dir = ROOT / "projects" / key
+        proj_dir.mkdir(parents=True, exist_ok=True)
+        (proj_dir / "assets").mkdir(exist_ok=True)
+        (proj_dir / "inputs").mkdir(exist_ok=True)
+        outputs_dir = proj_dir / "outputs"
+        outputs_dir.mkdir(exist_ok=True)
+        (outputs_dir / "videos").mkdir(exist_ok=True)
+        (outputs_dir / "thumbs").mkdir(exist_ok=True)
+        (outputs_dir / "coletaneas").mkdir(exist_ok=True)
+        
+        cfg_path = proj_dir / "config.json"
+        try:
+            with open(cfg_path, "w", encoding="utf-8") as f:
+                json.dump(cfg, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"[config] Erro ao salvar config.json individual para {key}: {e}")
 
 
 PROJETOS = carregar_projetos()
+
 
 
 def carregar_csv_projeto(csv_path: Path) -> dict:
@@ -339,7 +376,12 @@ def video_para_dict(row, data_postagem: str | None = None) -> dict:
     # Thumb: usa o valor do banco se disponível, senão calcula
     db_thumb = (row["thumb_file"] if "thumb_file" in row.keys() else None) or ""
     thumb_file = db_thumb or f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
-    thumb_exists = bool(db_thumb) or (ROOT / "thumbs" / thumb_file).exists()
+    thumb_exists = (
+        bool(db_thumb) or 
+        (ROOT / "thumbs" / thumb_file).exists() or 
+        (ROOT / "output" / projeto / "thumbs" / thumb_file).exists() or 
+        (ROOT / "projects" / projeto / "outputs" / "thumbs" / thumb_file).exists()
+    )
 
     return {
         "numero":        numero,
@@ -449,6 +491,17 @@ def index():
 
 @app.route("/thumbs/<path:filename>")
 def serve_thumb(filename):
+    m = re.match(r"^hino-([a-z0-9_]+)-\w+\.png$", filename)
+    if m:
+        projeto = m.group(1)
+        # Check output directory
+        path_out = ROOT / "output" / projeto / "thumbs"
+        if (path_out / filename).exists():
+            return send_from_directory(str(path_out), filename)
+        # Fallback to projects directory
+        path_proj = ROOT / "projects" / projeto / "outputs" / "thumbs"
+        if (path_proj / filename).exists():
+            return send_from_directory(str(path_proj), filename)
     return send_from_directory(str(ROOT / "thumbs"), filename)
 
 
@@ -460,6 +513,62 @@ def serve_image(filename):
 @app.route("/api/projects")
 def api_projects():
     return jsonify(PROJETOS)
+
+
+@app.route("/api/resources")
+def api_resources():
+    """Retorna listas de recursos disponíveis no servidor (fontes, csvs, vinhetas, instrumentos)."""
+    # CSVs
+    csvs = []
+    fontes_dir = ROOT / "fontes"
+    if fontes_dir.exists():
+        csvs = [f"fontes/{f.name}" for f in fontes_dir.glob("*.csv") if not f.name.startswith('.')]
+    
+    # Vinhetas
+    vinhetas = []
+    vinheta_dir = ROOT / "shared_assets" / "vinheta"
+    if vinheta_dir.exists():
+        vinhetas = [f"vinheta/{f.name}" for f in vinheta_dir.iterdir() if f.suffix in ('.mp4', '.avi', '.mov') and not f.name.startswith('.')]
+    else:
+        v_dir_legacy = ROOT / "vinheta"
+        if v_dir_legacy.exists() and v_dir_legacy.is_dir():
+            vinhetas = [f"vinheta/{f.name}" for f in v_dir_legacy.iterdir() if f.suffix in ('.mp4', '.avi', '.mov') and not f.name.startswith('.')]
+
+    # Instrumentos
+    instrumentos = []
+    inst_dir = ROOT / "assets" / "instrumentos"
+    if inst_dir.exists():
+        instrumentos = [f"assets/instrumentos/{f.name}" for f in inst_dir.glob("*.png") if not f.name.startswith('.')]
+
+    # Pipelines de Thumbnail
+    pipelines = ["v01", "v02"]
+
+    return jsonify({
+        "csvs": csvs,
+        "vinhetas": vinhetas,
+        "instrumentos": instrumentos,
+        "pipelines": pipelines
+    })
+
+
+@app.route("/api/projects/<projeto>/mascara")
+def serve_project_mascara(projeto):
+    """Serve a imagem de máscara ou base configurada para o projeto."""
+    projetos = carregar_projetos()
+    if projeto not in projetos:
+        return jsonify({"error": "Projeto não encontrado"}), 404
+    cfg = projetos[projeto]
+    img_rel = cfg.get("mascara") or cfg.get("imagem_base")
+    if not img_rel:
+        return jsonify({"error": "Nenhuma imagem de máscara configurada para este projeto"}), 404
+    img_path = ROOT / img_rel
+    if not img_path.exists():
+        # Tentativa de fallback
+        img_path = ROOT / "shared_assets" / img_rel
+        if not img_path.exists():
+            return jsonify({"error": f"Imagem não encontrada: {img_rel}"}), 404
+    return send_from_directory(str(img_path.parent), img_path.name)
+
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -505,9 +614,17 @@ def parsear_info_md(info_path: Path) -> dict:
     return resultado
 
 
-def carregar_coletaneas() -> list:
-    """Carrega todas as coletâneas disponíveis no diretório output/coletaneas/."""
-    coletaneas_dir = ROOT / "output" / "coletaneas"
+def carregar_coletaneas(projeto: str) -> list:
+    """Carrega todas as coletâneas de um projeto específico."""
+    # Check output directory
+    coletaneas_dir = ROOT / "output" / projeto / "coletaneas"
+    # Fallback to projects/ outputs directory
+    if not coletaneas_dir.exists():
+        coletaneas_dir = ROOT / "projects" / projeto / "outputs" / "coletaneas"
+    # Legacy fallback to root output/coletaneas
+    if not coletaneas_dir.exists():
+        coletaneas_dir = ROOT / "output" / "coletaneas"
+
     coletaneas = []
     if not coletaneas_dir.exists():
         return coletaneas
@@ -538,13 +655,13 @@ def carregar_coletaneas() -> list:
         coletaneas.append({
             "folder": folder.name,
             "cid": cid,
-            "titulo": meta["titulo"],
+            "titulo": meta["titulo"] or titulo_pasta,
             "descricao": meta["descricao"],
             "tags": meta["tags"],
-            "nome_projeto": meta["nome_projeto"],
+            "nome_projeto": meta["nome_projeto"] or PROJETOS.get(projeto, {}).get("nome_exibicao", projeto),
             "video_file": video_path.name if video_path else "",
             "video_path": str(video_path) if video_path else "",
-            "capa_file": capa_path.name if capa_path.exists() else "",
+            "capa_file": capa_path.name if (capa_path and capa_path.exists()) else "",
             "has_info": info_path.exists(),
         })
     return coletaneas
@@ -553,14 +670,16 @@ def carregar_coletaneas() -> list:
 @app.route("/api/coletaneas")
 def api_coletaneas():
     """Lista todas as coletâneas disponíveis."""
-    coletaneas = carregar_coletaneas()
+    projeto = request.args.get("projeto") or list(PROJETOS.keys())[0]
+    coletaneas = carregar_coletaneas(projeto)
     return jsonify(coletaneas)
 
 
 @app.route("/api/coletaneas/export-csv")
 def api_coletaneas_export_csv():
     """Exporta CSV de todas as coletâneas para upload no YouTube Studio."""
-    coletaneas = carregar_coletaneas()
+    projeto = request.args.get("projeto") or list(PROJETOS.keys())[0]
+    coletaneas = carregar_coletaneas(projeto)
 
     import io
     output = io.StringIO()
@@ -709,6 +828,42 @@ def api_export_csv(projeto: str):
             date_part,
             time_part
         ])
+
+    # Anexar as coletâneas ao fim do CSV do projeto
+    coletaneas = carregar_coletaneas(projeto)
+    for col in coletaneas:
+        video_file = col["video_file"]
+        video_file_clean = ""
+        if video_file:
+            stem = Path(video_file).stem
+            video_file_clean = stem.replace("-", " ").replace("_", " ")
+            
+        tags = col["tags"]
+        if len(tags) > 400:
+            parts = [t.strip() for t in tags.split(",") if t.strip()]
+            valid_parts = []
+            current_len = 0
+            for part in parts:
+                added_len = len(part) + (2 if valid_parts else 0)
+                if current_len + added_len <= 400:
+                    valid_parts.append(part)
+                    current_len += added_len
+                else:
+                    break
+            tags = ", ".join(valid_parts)
+            
+        writer.writerow([
+            f"COL-{col['cid']:02d}" if col['cid'] else "COL",
+            video_file,
+            video_file_clean,
+            col["titulo"],
+            col["descricao"],
+            col["capa_file"],
+            nome_exibicao,
+            tags,
+            "",  # Sem agendamento de data por padrão
+            ""
+        ])
         
     response = app.response_class(
         output.getvalue(),
@@ -830,7 +985,7 @@ def api_schedule():
     # Programar coletâneas (retorna apenas a lista de datas sugeridas, sem banco)
     coletaneas_agendadas = []
     if incluir_coletaneas:
-        coletaneas = carregar_coletaneas()
+        coletaneas = carregar_coletaneas(projeto)
         # Primeira data de coletânea = após todos os hinos individuais
         total_hinos = len(atualizados)
         for j, col in enumerate(coletaneas):
@@ -872,6 +1027,90 @@ def api_update_postagem(numero):
     return jsonify(video_para_dict(row))
 
 
+def calcular_data_postagem_auto(conn, projeto_nome: str, numero, csv_path_str: str) -> str:
+    """Calcula a data de postagem automática para um hino/coro com base no Hino 1."""
+    num_str = str(numero).strip()
+    is_coro = False
+    num_int = 1
+    
+    if num_str.upper().startswith("C"):
+        is_coro = True
+        try:
+            num_int = int(num_str[1:])
+        except ValueError:
+            num_int = 1
+    else:
+        try:
+            num_int = int(num_str)
+        except ValueError:
+            num_int = 1
+            
+    # Buscar o primeiro vídeo do projeto que possui data_postagem
+    row = conn.execute(
+        "SELECT numero, data_postagem FROM videos WHERE projeto = ? AND data_postagem IS NOT NULL AND data_postagem != '' ORDER BY numero LIMIT 1"
+    ).fetchone()
+    
+    # Determinar o max_hino do projeto para calcular offset dos coros
+    p_cfg = PROJETOS.get(projeto_nome, {})
+    max_hino = 480
+    csv_rel = csv_path_str or p_cfg.get("csv_path", "")
+    if csv_rel:
+        csv_path = ROOT / csv_rel
+        if csv_path.exists():
+            try:
+                with open(csv_path, newline="", encoding="utf-8-sig") as f:
+                    reader = csv.DictReader(f)
+                    max_val = 0
+                    for r in reader:
+                        num_key = next((k for k in r.keys() if "número" in k.lower() or "numero" in k.lower()), None)
+                        if num_key:
+                            ns = r[num_key].strip()
+                            if ns.isdigit():
+                                max_val = max(max_val, int(ns))
+                    if max_val:
+                        max_hino = max_val
+            except Exception:
+                pass
+            if not max_hino:
+                max_hino = 450 if "hinario4" in csv_rel or "hinario4" in projeto_nome else 480
+
+    base_date = date.today()
+    base_time = "15:00"
+    
+    if row:
+        dp_str = row["data_postagem"]
+        try:
+            dt = datetime.fromisoformat(dp_str.split('.')[0])
+            base_time = dt.strftime("%H:%M")
+            ref_date = dt.date()
+            ref_num_str = str(row["numero"]).strip()
+            
+            if ref_num_str.upper().startswith("C"):
+                try:
+                    ref_num_int = int(ref_num_str[1:])
+                except ValueError:
+                    ref_num_int = 1
+                ref_offset = max_hino + ref_num_int - 1
+            else:
+                try:
+                    ref_num_int = int(ref_num_str)
+                except ValueError:
+                    ref_num_int = 1
+                ref_offset = ref_num_int - 1
+                
+            base_date = ref_date - timedelta(days=ref_offset)
+        except Exception as e:
+            print(f"[config] Erro ao parsear data base {dp_str}: {e}")
+            
+    if is_coro:
+        offset = max_hino + num_int - 1
+    else:
+        offset = num_int - 1
+        
+    final_date = base_date + timedelta(days=offset)
+    return f"{final_date.isoformat()}T{base_time}:00"
+
+
 @app.route("/api/projects/create", methods=["POST"])
 def criar_projeto():
     # 1. Obter os dados do request
@@ -891,35 +1130,38 @@ def criar_projeto():
         return jsonify({"error": "Hinário deve ser 4 ou 5."}), 400
         
     if not imagem_file:
-        return jsonify({"error": "Imagem de fundo é obrigatória."}), 400
+        return jsonify({"error": "Imagem de fundo/máscara é obrigatória."}), 400
 
     # Carregar projetos existentes
     projetos = carregar_projetos()
     if projeto_id in projetos:
         return jsonify({"error": f"Projeto com ID '{projeto_id}' já existe."}), 400
 
-    # 3. Salvar a imagem de fundo
-    images_dir = ROOT / "images"
-    images_dir.mkdir(exist_ok=True)
+    # 3. Criar estrutura de pastas do projeto
+    proj_dir = ROOT / "projects" / projeto_id
+    proj_assets = proj_dir / "assets"
+    proj_inputs = proj_dir / "inputs"
+    proj_outputs = proj_dir / "outputs"
     
-    filename = imagem_file.filename or ""
-    ext = Path(filename).suffix.lower()
-    if ext not in (".png", ".jpg", ".jpeg"):
-        ext = ".png"
-        
-    imagem_nome = f"{projeto_id}{ext}"
-    imagem_path = images_dir / imagem_nome
+    for p in [proj_dir, proj_assets, proj_inputs, proj_outputs]:
+        p.mkdir(parents=True, exist_ok=True)
+    (proj_outputs / "videos").mkdir(exist_ok=True)
+    (proj_outputs / "thumbs").mkdir(exist_ok=True)
+    (proj_outputs / "coletaneas").mkdir(exist_ok=True)
+
+    # 4. Salvar a imagem de máscara
+    imagem_path = proj_assets / "mascara.png"
     imagem_file.save(str(imagem_path))
 
-    # 4. Criar a configuração do novo projeto
+    # 5. Criar a configuração do novo projeto
     base_hinario = "hinario4" if hinario_versao == "4" else "hinario5"
     if base_hinario not in projetos:
         # Fallback de segurança
         base_cfg = {
             "nome_exibicao": projeto_nome,
             "csv_path": f"fontes/hinario{hinario_versao}.csv",
-            "mp3_dir": "mp3",
-            "imagem_base": f"images/{imagem_nome}",
+            "inputs_dir": f"projects/{projeto_id}/inputs",
+            "mascara": f"projects/{projeto_id}/assets/mascara.png",
             "desenho": {
                 "numero": {"x": 139, "y_top": 169, "y_bottom": 767, "cor": [26, 45, 90, 255]},
                 "nome": {"x": 139, "y_top": 780, "y_bottom": 880, "cor": [26, 45, 90, 255], "max_font_size": 42, "align": "left"}
@@ -930,22 +1172,19 @@ def criar_projeto():
         base_cfg = json.loads(json.dumps(projetos[base_hinario]))
         base_cfg["nome_exibicao"] = projeto_nome
         base_cfg["csv_path"] = "fontes/hinario4_sequential.csv" if hinario_versao == "4" else "fontes/hinario5.csv"
-        base_cfg["imagem_base"] = f"images/{imagem_nome}"
+        base_cfg["inputs_dir"] = f"projects/{projeto_id}/inputs"
+        base_cfg["mascara"] = f"projects/{projeto_id}/assets/mascara.png"
 
-    # Inserir no projetos.json
-    projetos[projeto_id] = base_cfg
-    with open(ROOT / "projetos.json", "w", encoding="utf-8") as f:
-        json.dump(projetos, f, indent=2, ensure_ascii=False)
-
-    # Recarregar PROJETOS em memória
     global PROJETOS
-    PROJETOS = carregar_projetos()
+    PROJETOS[projeto_id] = base_cfg
+    salvar_projetos(PROJETOS)
 
-    # 5. Inicializar os vídeos do projeto no banco de dados
+
+    # 5. Inicializar os vídeos do projeto no banco de dados (escanear pasta de inputs)
     conn = _db()
     try:
         csv_path = ROOT / base_cfg["csv_path"]
-        mp3_dir = ROOT / base_cfg.get("mp3_dir", "mp3")
+        mp3_dir = ROOT / base_cfg["inputs_dir"]
         
         # Load CSV
         hinos_validos = carregar_csv_projeto(csv_path)
@@ -973,9 +1212,6 @@ def criar_projeto():
         print(f"[aviso] Erro ao sincronizar hinos do novo projeto no banco: {db_err}")
     finally:
         conn.close()
-
-    # Recarregar o cache de hinos
-    # (cache dinâmico — get_hinos_projeto() sempre relerá do disco)
 
     return jsonify({"success": True, "projeto_key": projeto_id})
 
@@ -1011,6 +1247,42 @@ def api_gerar_thumb(projeto: str, numero):
         return jsonify({"error": str(e)}), 500
 
 
+@app.route("/api/projects/<projeto>/update", methods=["POST"])
+def atualizar_projeto(projeto):
+    projetos = carregar_projetos()
+    if projeto not in projetos:
+        return jsonify({"error": f"Projeto '{projeto}' não encontrado."}), 404
+
+    try:
+        novos_dados = request.get_json()
+        if not novos_dados:
+            return jsonify({"error": "Dados inválidos."}), 400
+
+        global PROJETOS
+        cfg = PROJETOS.get(projeto, {})
+
+        keys_to_update = [
+            "nome_exibicao", "titulo_template", "descricao", "palavras_chaves",
+            "csv_path", "inputs_dir", "mascara", "imagem_base", "thumb_pipeline",
+            "vinheta", "instrumento"
+        ]
+        for key in keys_to_update:
+            if key in novos_dados:
+                cfg[key] = novos_dados[key]
+        
+        if "desenho" in novos_dados:
+            cfg["desenho"] = novos_dados["desenho"]
+
+        PROJETOS[projeto] = cfg
+        salvar_projetos(PROJETOS)
+
+        return jsonify({"success": True})
+    except Exception as e:
+        return jsonify({"error": f"Falha ao atualizar configuração: {e}"}), 500
+
+
 if __name__ == "__main__":
-    print("🎹 Painel Hinário CCB — http://localhost:5000")
-    app.run(debug=True, port=5000)
+    print("🎹 Painel Hinário CCB — http://localhost:5006")
+    app.run(debug=True, port=5006)
+
+

@@ -101,21 +101,23 @@ def carregar_letra_hino(numero: int, projeto_nome: str = "") -> list[list[str]]:
 
     return estrofes
 
-def encontrar_arquivo_mp3(numero: int, projeto_nome: str = "") -> Path | None:
-    """Busca o arquivo MP3 do hino no diretório mp3/."""
+def encontrar_arquivo_mp3(numero: int, projeto_nome: str = "", mp3_dir: Path | None = None) -> Path | None:
+    """Busca o arquivo MP3 do hino."""
+    if mp3_dir is None:
+        mp3_dir = MP3_DIR
     num_str = str(numero).strip()
     is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
     
     pattern = f"*{int(num_str[1:] if is_coro else num_str):03d}*.mp3"
     
     # Busca com padrão de 3 dígitos
-    for p in MP3_DIR.glob(pattern):
+    for p in mp3_dir.glob(pattern):
         if p.name.startswith("."):
             continue
         return p
     
     # Fallback para busca por número no início do nome
-    for p in MP3_DIR.glob("*.mp3"):
+    for p in mp3_dir.glob("*.mp3"):
         if p.name.startswith("."):
             continue
         if is_coro:
@@ -297,7 +299,7 @@ def gerar_arquivo_ass(mapa_legendas: list[dict], output_ass: Path, hino_nome: st
     # OutlineColour: &H000F3C21 (Verde Escuro CCB - R:33, G:60, B:15 -> &H000F3C21)
     conteudo.append("[V4+ Styles]")
     conteudo.append("Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding")
-    conteudo.append("Style: Default,Montserrat,58,&H00FFFFFF,&H000000FF,&H000F3C21,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,120,1")
+    conteudo.append("Style: Default,Montserrat,87,&H00FFFFFF,&H000000FF,&H000F3C21,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,120,1")
     conteudo.append("")
     
     # Eventos de Diálogo
@@ -314,29 +316,35 @@ def gerar_arquivo_ass(mapa_legendas: list[dict], output_ass: Path, hino_nome: st
     output_ass.write_text("\n".join(conteudo), encoding="utf-8")
 
 def embutir_legenda_no_video(video_origem: Path, ass_path: Path, video_destino: Path):
-    """Chama o FFmpeg para embutir as legendas ASS no vídeo final usando caminhos relativos."""
+    """Chama o FFmpeg para embutir as legendas ASS no vídeo final usando caminhos absolutos."""
     print(f"  [ffmpeg] Embutindo legendas no vídeo...")
+    print(f"    Origem:  {video_origem}")
+    print(f"    ASS:     {ass_path}")
+    print(f"    Destino: {video_destino}")
     
-    # Caminhos relativos a ROOT para evitar problemas de escape de caracteres no FFmpeg
-    rel_video_origem = str(video_origem.relative_to(ROOT))
-    rel_ass_path = str(ass_path.relative_to(ROOT))
-    rel_video_destino = str(video_destino.relative_to(ROOT))
+    # Usar caminhos absolutos para evitar problemas de CWD
+    abs_video_origem = str(video_origem.resolve())
+    abs_ass_path = str(ass_path.resolve())
+    abs_video_destino = str(video_destino.resolve())
     
-    # Escapar caracteres especiais que possam existir no nome relativo
-    rel_ass_path = rel_ass_path.replace(":", "\\:").replace("'", "'\\''")
+    # Escapar o caminho do .ass para o filtro subtitles do FFmpeg
+    # No macOS: barras e dois pontos precisam de escape dentro de filtros
+    ass_escaped = abs_ass_path.replace("\\", "\\\\").replace(":", "\\:").replace("'", "'\\''")
     
     cmd = [
         "ffmpeg", "-y",
-        "-i", rel_video_origem,
-        "-vf", f"subtitles=filename='{rel_ass_path}'",
+        "-i", abs_video_origem,
+        "-vf", f"subtitles=filename='{ass_escaped}'",
         "-c:v", "libx264", "-preset", "fast", "-pix_fmt", "yuv420p",
         "-c:a", "copy",
-        rel_video_destino
+        abs_video_destino
     ]
     
-    result = subprocess.run(cmd, capture_output=True, text=True, cwd=str(ROOT))
+    print(f"    CMD: {' '.join(cmd[:4])} -vf subtitles=... {abs_video_destino}")
+    result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
-        raise RuntimeError(f"FFmpeg failed with code {result.returncode}.\nStderr:\n{result.stderr}")
+        print(f"  [ffmpeg stderr]:\n{result.stderr[-2000:]}")
+        raise RuntimeError(f"FFmpeg failed with code {result.returncode}.")
 
 def main():
     parser = argparse.ArgumentParser(description="Gera e embuti legendas em vídeos de hinos.")
@@ -356,14 +364,68 @@ def main():
     
     print(f"Iniciando processo de legendas para o Hino {numero} (Projeto: {projeto})...")
     
-    # 1. Carrega estrofes/letra ou JSON customizado
-    estrofes = None
-    dados_legenda = None
+    # 1. Carregar configuração do projeto
+    projeto_cfg = {}
+    cfg_path = ROOT / "projects" / projeto / "config.json"
+    if cfg_path.exists():
+        try:
+            with open(cfg_path, "r", encoding="utf-8") as f:
+                projeto_cfg = json.load(f)
+        except Exception as e:
+            print(f"  [aviso] Erro ao carregar config.json de {projeto}: {e}")
+            
+    if not projeto_cfg:
+        # Fallback para projetos.json antigo
+        projetos_cfg_path = ROOT / "projetos.json"
+        if projetos_cfg_path.exists():
+            try:
+                with open(projetos_cfg_path, "r", encoding="utf-8") as f:
+                    projetos_cfg = json.load(f)
+                projeto_cfg = projetos_cfg.get(projeto, {})
+            except Exception as e:
+                print(f"  [aviso] Erro ao carregar projetos.json: {e}")
+
+    # Determinar diretórios específicos do projeto
+    # Usar inputs_dir se definido e existente; caso contrário, usar mp3_dir (usado por gerar_videos.py)
+    _inputs_dir_cfg = projeto_cfg.get("inputs_dir", "")
+    _mp3_dir_cfg = projeto_cfg.get("mp3_dir", "mp3")
+    if _inputs_dir_cfg:
+        _candidate = ROOT / _inputs_dir_cfg
+        if _candidate.exists() and any(_candidate.iterdir()):
+            inputs_dir = _candidate
+        else:
+            print(f"  [aviso] inputs_dir '{_inputs_dir_cfg}' não existe ou está vazia; usando mp3_dir='{_mp3_dir_cfg}'")
+            inputs_dir = ROOT / _mp3_dir_cfg
+    else:
+        inputs_dir = ROOT / _mp3_dir_cfg
+    output_dir = ROOT / "projects" / projeto / "outputs" / "videos"
+    if not output_dir.exists() and not cfg_path.exists():
+        output_dir = OUTPUT_DIR
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Determinar a legenda JSON (parâmetro CLI ou busca automática nos inputs do projeto)
+    legenda_json_path = None
     if args.legenda_json:
         legenda_json_path = Path(args.legenda_json)
-        if not legenda_json_path.exists():
-            print(f"[erro] Arquivo JSON de legendas {legenda_json_path} não existe.")
-            sys.exit(1)
+    else:
+        if inputs_dir.exists():
+            num_fmt = f"{int(numero_str[1:] if numero_str.upper().startswith('C') else numero_str):03d}"
+            if numero_str.upper().startswith('C'):
+                num_fmt = f"C{num_fmt}"
+            # Procurar arquivo que comece com o número do hino e termine com .json
+            # Suporta: "NNN- Nome.json", "NNN Nome.json", "hino_NNN.json", "NNN.json"
+            for p in inputs_dir.glob("*.json"):
+                if (p.name.startswith(f"{numero}-") or p.name.startswith(f"{numero} ")
+                    or p.name.startswith(f"{num_fmt}-") or p.name.startswith(f"{num_fmt} ")
+                    or p.name == f"hino_{num_fmt}.json"
+                    or p.name == f"{num_fmt}.json"):
+                    legenda_json_path = p
+                    break
+
+    # Carregar letra do JSON se encontrado, ou do CSV legado
+    estrofes = None
+    dados_legenda = None
+    if legenda_json_path and legenda_json_path.exists():
         try:
             with open(legenda_json_path, "r", encoding="utf-8") as f:
                 dados_legenda = json.load(f)
@@ -377,8 +439,8 @@ def main():
             print("[erro] Letra não pôde ser carregada.")
             sys.exit(1)
         
-    # 2. Localiza arquivo MP3
-    mp3_path = encontrar_arquivo_mp3(numero, projeto)
+    # 2. Localiza arquivo MP3 (busca dinâmica no inputs_dir do projeto)
+    mp3_path = encontrar_arquivo_mp3(numero, projeto, mp3_dir=inputs_dir)
     if not mp3_path:
         print("[erro] Arquivo MP3 não encontrado.")
         sys.exit(1)
@@ -387,19 +449,6 @@ def main():
         print(f"  Letra carregada: {len(estrofes)} estrofes encontradas.")
     print(f"  Áudio localizado: {mp3_path.name}")
     
-    # 3. Carregar projetos.json para calcular o offset (vinheta + frame)
-    projetos_cfg_path = ROOT / "projetos.json"
-    if projetos_cfg_path.exists():
-        try:
-            with open(projetos_cfg_path, "r", encoding="utf-8") as f:
-                projetos_cfg = json.load(f)
-        except Exception as e:
-            print(f"  [aviso] Erro ao carregar projetos.json: {e}")
-            projetos_cfg = {}
-    else:
-        projetos_cfg = {}
-
-    projeto_cfg = projetos_cfg.get(projeto, {})
     vinheta_cfg = projeto_cfg.get("vinheta", "")
     dur_vinheta = 0.0
     if vinheta_cfg:
@@ -438,28 +487,75 @@ def main():
     if numero_str.upper().startswith('C'):
         num_fmt = f"C{num_fmt}"
         
-    video_original = OUTPUT_DIR / f"hino-{projeto}-{num_fmt}.mp4"
+    # Procurar primeiro no diretório de saída correto (output/projeto/)
+    video_original = ROOT / "output" / projeto / f"hino-{projeto}-{num_fmt}.mp4"
     if not video_original.exists():
-        # tenta sem formatação de 3 dígitos
-        video_original = OUTPUT_DIR / f"hino-{projeto}-{numero}.mp4"
+        video_original = ROOT / "output" / projeto / f"hino-{projeto}-{numero}.mp4"
+    if not video_original.exists():
+        video_original = output_dir / f"hino-{projeto}-{num_fmt}.mp4"
+    if not video_original.exists():
+        video_original = output_dir / f"hino-{projeto}-{numero}.mp4"
+    if not video_original.exists():
+        video_original = ROOT / "output" / f"hino-{projeto}-{num_fmt}.mp4"
+    if not video_original.exists():
+        video_original = ROOT / "output" / f"hino-{projeto}-{numero}.mp4"
         
     if not video_original.exists():
-        print(f"[erro] Vídeo original não encontrado em {OUTPUT_DIR}. Certifique-se de gerar o vídeo primeiro usando gerar_videos.py.")
+        print(f"[erro] Vídeo original não encontrado. Certifique-se de gerar o vídeo primeiro usando gerar_videos.py.")
         tmp_ass.unlink(missing_ok=True)
         sys.exit(1)
         
-    # 6. Define arquivo de saída
+    # 6. Define arquivo de saída — sempre usa formato padronizado hino-{projeto}-{NNN}.mp4
     if args.saida_legendado:
         video_saida = Path(args.saida_legendado)
     else:
-        video_saida = OUTPUT_DIR / f"hino-{projeto}-{num_fmt}-legendado.mp4"
+        video_saida = ROOT / "output" / projeto / f"hino-{projeto}-{num_fmt}.mp4"
         
     video_saida.parent.mkdir(parents=True, exist_ok=True)
     
+    # Se o nome de saída coincide com o vídeo base, usar um temporário intermediário
+    mesmo_arquivo = video_original.resolve() == video_saida.resolve()
+    if mesmo_arquivo:
+        video_saida_temp = video_saida.with_name(f"_legendado_{video_saida.name}")
+    else:
+        video_saida_temp = video_saida
+    
     # 7. Executa o FFmpeg para embutir as legendas
     try:
-        embutir_legenda_no_video(video_original, tmp_ass, video_saida)
-        print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
+        embutir_legenda_no_video(video_original, tmp_ass, video_saida_temp)
+        
+        # Se usou temporário, substituir o original pelo legendado
+        if mesmo_arquivo:
+            video_original.unlink(missing_ok=True)
+            video_saida_temp.rename(video_saida)
+            print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
+        else:
+            print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
+            # Deletar o vídeo base original para que fique apenas o legendado final
+            if video_original.exists():
+                try:
+                    video_original.unlink()
+                    print(f"  [limpeza] Removido vídeo base temporário: {video_original.name}")
+                except Exception as clean_err:
+                    print(f"  [aviso] Falha ao limpar vídeo base '{video_original.name}': {clean_err}")
+        
+        # Atualizar banco de dados: marcar como concluído
+        try:
+            import sqlite3
+            from datetime import datetime, timezone
+            db_path = ROOT / "progresso.db"
+            conn = sqlite3.connect(str(db_path))
+            rel_output = str(video_saida.relative_to(ROOT))
+            now_iso = datetime.now(timezone.utc).isoformat()
+            conn.execute(
+                "UPDATE videos SET output = ?, status = 'concluido', atualizado_em = ? WHERE projeto = ? AND numero = ?",
+                (rel_output, now_iso, projeto, int(numero_str[1:] if numero_str.upper().startswith('C') else numero_str))
+            )
+            conn.commit()
+            conn.close()
+            print(f"  [banco] Status atualizado para 'concluido'.")
+        except Exception as db_err:
+            print(f"  [aviso] Falha ao atualizar banco: {db_err}")
     except Exception as e:
         print(f"\n✗ Erro ao gerar vídeo legendado: {e}")
     finally:
