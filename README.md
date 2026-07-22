@@ -216,18 +216,84 @@ brew install ffmpeg
 ```
 
 
+## Automação e Pipeline Completo
+
+### `rodar_todos_projetos.sh` (atalho `~/hino.sh`)
+Executa o pipeline completo de forma sequencial para todos os projetos configurados em `projetos.json`:
+1. Gera o vídeo base (se ainda não existir).
+2. Sincroniza e embute as legendas ASS no vídeo.
+3. Atualiza o status no banco de dados para `concluido`.
+
+```bash
+./rodar_todos_projetos.sh \
+  --preset-ffmpeg veryfast \
+  --threads-ffmpeg 1 \
+  --low-priority \
+  --pausa-ffmpeg 1.5 \
+  --pausa-entre-hinos 10.0
+```
+
+---
+
+### `adicionar_legendas_batch.sh` — Re-processamento de Legendas em Lote
+Usado exclusivamente para embutir/corrigir legendas em vídeos base que **já existem** gravados no disco, sem recriar a parte visual do vídeo base.
+
+```bash
+./adicionar_legendas_batch.sh \
+  --preset-ffmpeg veryfast \
+  --threads-ffmpeg 1 \
+  --low-priority \
+  --pausa-ffmpeg 1.5 \
+  --pausa-entre-hinos 10.0
+```
+
+> [!CAUTION]
+> ### 🚨 ATENÇÃO: NUNCA RODE OS DOIS SCRIPTS AO MESMO TEMPO
+> **Não execute `rodar_todos_projetos.sh` e `adicionar_legendas_batch.sh` simultaneamente.**
+> 
+> **Motivos de Conflito:**
+> 1. **Conflito no Banco de Dados (`progresso.db`)**: O script em batch reseta o status para `base_pronto`. Leituras e gravações simultâneas no SQLite causam erros de `database is locked`.
+> 2. **Conflito de Arquivos de Vídeo (Race Condition)**: Ambos tentam ler, regravar e renomear os mesmos arquivos MP4 de saída (`output/<projeto>/hino-*.mp4`) simultaneamente, causando corrupção ou falhas de leitura.
+> 3. **Conflito de Arquivos Temporários**: Ambos utilizam a pasta `Temp/` para gerar os arquivos `.ass` temporários de legenda, causando sobrescrita entre processos.
+> 4. **Sobrecarga Térmica/CPU (Risco de Crash)**: Executar duas instâncias do FFmpeg em paralelo dobra a carga do processador e anula os intervalos de pausa (`--pausa-entre-hinos`), podendo ocasionar desarmamento/crash de hardware no Hackintosh por temperatura ou consumo de voltagem.
+
+---
+
+## Controle de Recursos e Estabilidade de Hardware
+
+Para evitar travamentos e congelamentos da máquina (especialmente em sistemas Hackintosh) durante a renderização intensiva de centenas de hinos:
+
+### Parâmetros Recomendados de Resfriamento
+* `--preset-ffmpeg veryfast` (ou `ultrafast`): Reduz o esforço computacional do encoder x264.
+* `--threads-ffmpeg 1`: Limita a quantidade de threads por processo do FFmpeg.
+* `--low-priority`: Executa chamadas com baixa prioridade no SO (`nice` / `taskpolicy -c background` no macOS).
+* `--pausa-ffmpeg 1.5`: Adiciona pausa em segundos após cada invocação do FFmpeg.
+* `--pausa-entre-hinos 10.0`: Pausa a execução entre cada hino para permitir que o cooler resfrie a CPU.
+
+### Monitoramento e Diagnóstico
+* **`monitor_recursos.py`**: Monitor em segundo plano que registra uso de CPU, RAM, Swap e carga nos logs locais. O log é mantido automaticamente com limite máximo de 5 MB (`logs/monitor_recursos.log`).
+* **`analisar_crashes.py`**: Utilitário para ler relatórios de diagnósticos do macOS e correlacionar Kernel Panics com picos de recursos do pipeline.
+
+---
+
+## Regras de Git e Arquivos Ignorados (`.gitignore`)
+
+Para manter o repositório leve e evitar erros no `git push` (limite de 100 MB por arquivo no GitHub):
+* **Logs**: O diretório `logs/` e arquivos `*.log` são estritamente ignorados pelo `.gitignore`.
+* **Arquivos Temporários**: `_tmp_*`, `_test_*`, `Temp/`, `*.ass`, `_parte_*`, `_concat_*` e `_legendado_*` ficam fora do controle de versão e são limpos automaticamente pelo pipeline.
+
+---
+
 ## Rodar rápido
- python gerar_videos.py --pausa-entre-hinos 10 --preset-ffmpeg veryfast --projeto orgao_yamaha
 
+```bash
+# Execução padrão do pipeline completo com resfriamento térmico:
+python rodar_todos_projetos.sh --pausa-entre-hinos 10 --preset-ffmpeg veryfast --threads-ffmpeg 1 --low-priority
 
- python gerar_coletaneas.py --projeto hinos_de_ninar
+# Gerar coletâneas:
+python gerar_coletaneas.py --projeto hinos_de_ninar
 
+# Gerar apenas a thumbnail de um hino específico:
 python gerar_videos.py --thumbnail-apenas --numero 53 --projeto orgao_yamaha
+```
 
-python gerar_coletaneas.py --projeto  orgao_yamaha
-
- python trocar_fundo_thumb.py   --template assets/mascaras/mascara-do-canal-v2.png   --fundo assets/mascaras/borboleta.png   --saida assets/mascaras/thumb_com_borboleta_v2.jpg   --opacidade 0.5   --blur 0   --escurecer 0.95   --verde 0.35   --apagar 0.95   --escala 1   --x 0   --y 0
-
-
-Rodar para gerar os hinos
-python rodar_legendados_orgao_yamaha.py
