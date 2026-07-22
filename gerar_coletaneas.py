@@ -19,8 +19,15 @@ import os
 import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
+
+try:
+    from gerar_thumb import escolher_tema, desenhar_numero, desenhar_titulo, TROCA_FUNDO_PARAMS
+    _HAS_THUMB_PIPELINE = True
+except ImportError:
+    _HAS_THUMB_PIPELINE = False
 
 # =============================================================================
 # Caminhos do projeto
@@ -364,7 +371,110 @@ def draw_wrapped_text(draw, text, font, pos, max_width, fill_color, config_desen
         y += h + 8
 
 
-def gerar_capa_coletanea(titulo_coletanea: str, numeros: list, projeto_cfg: dict, out_path: Path):
+def extrair_frame_de_video(video_path: Path, width=1920, height=1080) -> Image.Image:
+    try:
+        # Obter a duração do vídeo
+        probe = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", str(video_path)],
+            capture_output=True, text=True, timeout=10
+        )
+        duration = float(probe.stdout.strip())
+    except Exception:
+        duration = 30.0
+        
+    # Extrair frame a 25% da duração do vídeo para evitar transições/telas pretas
+    t = duration * 0.25
+    
+    with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp:
+        tmp_path = tmp.name
+    try:
+        subprocess.run(
+            ["ffmpeg", "-ss", str(t), "-i", str(video_path),
+             "-vframes", "1", "-vf",
+             f"scale={width}:{height}:force_original_aspect_ratio=increase,crop={width}:{height}",
+             "-q:v", "2", "-y", tmp_path],
+            capture_output=True, timeout=30
+        )
+        frame = Image.open(tmp_path).convert("RGB")
+        frame.load()
+        return frame
+    except Exception as e:
+        print(f"  [aviso] Erro ao extrair frame de {video_path.name}: {e}")
+        # Retorna fundo verde escuro padrão
+        return Image.new("RGB", (width, height), (3, 35, 18))
+    finally:
+        if os.path.exists(tmp_path):
+            try:
+                os.unlink(tmp_path)
+            except Exception:
+                pass
+
+
+def gerar_capa_coletanea(cid: int, titulo_coletanea: str, numeros: list, projeto_cfg: dict, out_path: Path, video_base_para_frame: Path = None):
+    if _HAS_THUMB_PIPELINE:
+        try:
+            print(f"  [thumb v02] Gerando capa para Coletânea {cid}...")
+            W, H = 1920, 1080
+            
+            # 1. Obter o frame de fundo
+            if video_base_para_frame and video_base_para_frame.exists():
+                frame = extrair_frame_de_video(video_base_para_frame, W, H)
+            else:
+                frame = Image.new("RGB", (W, H), (3, 35, 18))
+                
+            # 2. Obter a máscara
+            mascara_path = projeto_cfg.get("mascara")
+            if mascara_path:
+                mascara_efetiva = ROOT / mascara_path
+            else:
+                mascara_efetiva = ROOT / "assets" / "mascaras" / "mascara-do-canal-hinos-de-ninar.png"
+                
+            # 3. Aplicar troca de fundo
+            if not mascara_efetiva.exists():
+                print(f"  [aviso] Máscara não encontrada em: {mascara_efetiva}")
+                resultado = frame.convert("RGBA")
+            else:
+                from trocar_fundo_thumb import aplicar_troca_de_fundo
+                with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp_frame:
+                    tmp_frame_path = tmp_frame.name
+                with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp_resultado:
+                    tmp_resultado_path = tmp_resultado.name
+                    
+                try:
+                    frame.save(tmp_frame_path, "JPEG", quality=95)
+                    aplicar_troca_de_fundo(
+                        template_path=str(mascara_efetiva),
+                        fundo_path=tmp_frame_path,
+                        saida_path=tmp_resultado_path,
+                        **TROCA_FUNDO_PARAMS,
+                    )
+                    resultado = Image.open(tmp_resultado_path).convert("RGBA")
+                finally:
+                    for p in [tmp_frame_path, tmp_resultado_path]:
+                        if os.path.exists(p):
+                            try:
+                                os.unlink(p)
+                            except Exception:
+                                pass
+                                
+            # 4. Desenhar número do selo (cid)
+            tema = escolher_tema(cid)
+            desenhar_numero(resultado, cid, tema)
+            
+            # 5. Desenhar título da coletânea
+            desenhar_titulo(resultado, titulo_coletanea, tema)
+            
+            # 6. Salvar capa final
+            out_path.parent.mkdir(parents=True, exist_ok=True)
+            resultado_rgb = resultado.convert("RGB")
+            resultado_rgb.save(str(out_path), "JPEG", quality=95)
+            print(f"  ✓ Capa v02 gerada com sucesso: {out_path.name}")
+            return
+        except Exception as e:
+            print(f"  [aviso] Erro no pipeline de thumbnail v02: {e}. Usando layout legado.")
+            
+    # --- Layout legado (fallback se o v02 falhar ou não estiver disponível) ---
     imagem_base_path = ROOT / projeto_cfg.get("imagem_base", "images/sem-numero.png")
     if not imagem_base_path.exists():
         raise FileNotFoundError(f"Imagem base do projeto não encontrada: {imagem_base_path}")
@@ -377,30 +487,22 @@ def gerar_capa_coletanea(titulo_coletanea: str, numeros: list, projeto_cfg: dict
     x = desenho_num.get("x", 120)
     y_top = desenho_num.get("y_top", 150)
     y_bottom = desenho_num.get("y_bottom", 780)
-    max_width = 850  # Expandido de 580 para ocupar melhor o lado esquerdo da imagem
+    max_width = 850
     cor = tuple(desenho_num.get("cor", [26, 45, 90, 255]))
     
-    # Altura máxima disponível
     max_height = y_bottom - y_top
     
-    # 1. Carregar e envelopar o Título da Coletânea
     font_title, wrapped_title, h_title = load_font_and_wrap(draw, titulo_coletanea, max_width, max_height - 250, start_size=85)
-    
-    # 2. Carregar e envelopar a lista de números
     numbers_str = ", ".join(str(n) for n in numeros)
-    # Procurar fonte para os números
     font_numbers, wrapped_numbers, h_numbers = load_font_and_wrap(draw, numbers_str, max_width, 200, start_size=42)
     
-    # Centralização vertical deslocada um pouco para cima (subtraindo 70px) para melhor harmonia visual
     margin = 35
     total_height = h_title + margin + h_numbers
     y_start = max(y_top + 15, y_top + (max_height - total_height) // 2 - 70)
     
-    # Desenhar
     draw_wrapped_text(draw, wrapped_title, font_title, (x, y_start), max_width, cor, desenho_num)
     draw_wrapped_text(draw, wrapped_numbers, font_numbers, (x, y_start + h_title + margin), max_width, cor, desenho_num)
     
-    # Salvar
     img.convert("RGB").save(str(out_path))
 
 # =============================================================================
@@ -439,6 +541,8 @@ def main():
         
     coletaneas_dir.mkdir(parents=True, exist_ok=True)
     
+    coletaneas_geradas = []
+    
     for cid, col in COLETANEAS.items():
         titulo = col["titulo"]
         hinos_list = col["hinos"]
@@ -448,7 +552,7 @@ def main():
         col_dir = coletaneas_dir / folder_name
         col_dir.mkdir(parents=True, exist_ok=True)
         
-        video_output = col_dir / f"{titulo}.mp4"
+        video_output = col_dir / f"{titulo} - {args.projeto}.mp4"
         slug_capa = gerar_slug_coletanea(cid, titulo)
         capa_output = col_dir / f"{slug_capa}.png"
         info_output = col_dir / "info.md"
@@ -494,7 +598,7 @@ def main():
                                 break
                     if found_v:
                         v_path = found_v
-
+ 
             if v_path.exists():
                 videos_locais.append((hino, v_path))
             else:
@@ -509,7 +613,8 @@ def main():
         # 2. Gerar a capa (Thumbnail) da Coletânea se não existir ou se --forcar
         if not capa_output.exists() or args.forcar:
             print(f"Gerando capa '{capa_output.name}'...")
-            gerar_capa_coletanea(titulo, hinos_list, projeto_cfg, capa_output)
+            video_base_para_frame = videos_locais[0][1] if videos_locais else None
+            gerar_capa_coletanea(cid, titulo, hinos_list, projeto_cfg, capa_output, video_base_para_frame)
             print(f"  ✓ Capa salva em {capa_output.relative_to(ROOT)}")
         else:
             print(f"Capa já existe ({capa_output.name}), pulando...")
@@ -543,7 +648,6 @@ def main():
                     timeline.append(f"{timestamp_str} - Hino {hino} - {nome_hino}")
                 
                 # Escrever no arquivo list para o concat
-                # ffmpeg concat prefere caminhos relativos ou absolutos simples
                 f.write(f"file '{v_path.resolve()}'\n")
                 
                 # Obter duração
@@ -585,22 +689,32 @@ def main():
         nome_exibicao = projeto_cfg.get("nome_exibicao", args.projeto)
         yt_title = f"{nome_exibicao} | {titulo} | Hinos CCB"
         
-        formatted_hinos_list = []
-        for h in hinos_list:
-            h_str = str(h).strip()
-            if h_str.upper().startswith("C") and h_str[1:].isdigit():
-                formatted_hinos_list.append(f"Coro {int(h_str[1:])}")
+        # Formatar a lista estruturada de hinos (bullet points) para a descrição
+        lista_hinos_desc = []
+        for hino in hinos_list:
+            num_key = hino
+            hino_str = str(hino).strip()
+            if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+                try:
+                    num_key = int(hino_str[1:])
+                except ValueError:
+                    pass
+            raw_nome = hinos_nomes.get(hino) or hinos_nomes.get(num_key) or f"Hino {hino}"
+            nome_hino = limpar_nome_hino(raw_nome)
+            if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+                lista_hinos_desc.append(f"• Coro {int(hino_str[1:])} - {nome_hino}")
             else:
-                formatted_hinos_list.append(str(h))
-        hinos_contidos_desc = ", ".join(formatted_hinos_list[:-1]) + f" e {formatted_hinos_list[-1]}"
+                lista_hinos_desc.append(f"• Hino {hino} - {nome_hino}")
+        lista_hinos_formatada = "\n".join(lista_hinos_desc)
         
         yt_description = (
             f"{nome_exibicao} — {titulo}\n"
             f"{descricao_intro}\n\n"
             f"🎹 Projeto: {nome_exibicao}\n"
             f"📖 Hinário: Hinário 5\n\n"
-            f"Esta coletânea reúne uma seleção dos hinos: {hinos_contidos_desc}.\n\n"
-            f"Capítulos:\n"
+            f"Hinos contidos nesta coletânea:\n"
+            f"{lista_hinos_formatada}\n\n"
+            f"Capítulos (Timeline):\n"
             f"{capitulos_texto}\n\n"
             f"Que esta melodia instrumental possa trazer paz, comunhão e edificação ao seu coração.\n\n"
             f"Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado."
@@ -662,6 +776,70 @@ def main():
         with open(info_output, "w", encoding="utf-8") as f:
             f.write(md_content)
         print(f"  ✓ Metadados salvos em {info_output.relative_to(ROOT)}")
+
+        # Guardar metadados para exportação do CSV no final
+        coletaneas_geradas.append({
+            "id": cid,
+            "video_file": video_output.name,
+            "titulo": yt_title,
+            "descricao": yt_description,
+            "capa_file": capa_output.name,
+            "nome_projeto": nome_exibicao,
+            "tags": yt_tags
+        })
+
+    # 6. Exportar o CSV de todas as coletâneas se houverem
+    if coletaneas_geradas:
+        csv_output_path = coletaneas_dir / "youtube_upload_coletaneas.csv"
+        print(f"\nExportando CSV geral das coletâneas para: {csv_output_path.relative_to(ROOT)}")
+        with open(csv_output_path, "w", newline="", encoding="utf-8-sig") as csv_f:
+            writer = csv.writer(csv_f)
+            writer.writerow([
+                "ID",
+                "Arquivo de vídeo",
+                "Arquivo de vídeo limpo",
+                "Título",
+                "Descrição",
+                "Miniatura",
+                "Nome do projeto",
+                "Tags",
+                "Data de publicação",
+                "Hora de publicação"
+            ])
+            for col in coletaneas_geradas:
+                v_file = col["video_file"]
+                stem = Path(v_file).stem
+                video_file_clean = stem.replace("-", " ").replace("_", " ")
+                video_file_clean = " ".join(video_file_clean.split())  # normalize spaces
+                
+                # Tags de no máximo 400 caracteres
+                tags = col["tags"]
+                if len(tags) > 400:
+                    parts = [t.strip() for t in tags.split(",") if t.strip()]
+                    valid_parts = []
+                    current_len = 0
+                    for part in parts:
+                        added_len = len(part) + (2 if valid_parts else 0)
+                        if current_len + added_len <= 400:
+                            valid_parts.append(part)
+                            current_len += added_len
+                        else:
+                            break
+                    tags = ", ".join(valid_parts)
+                    
+                writer.writerow([
+                    col["id"],
+                    v_file,
+                    video_file_clean,
+                    col["titulo"],
+                    col["descricao"],
+                    col["capa_file"],
+                    col["nome_projeto"],
+                    tags,
+                    "",  # data
+                    ""   # hora
+                ])
+        print("  ✓ CSV exportado com sucesso!")
 
     print("\n✓ Processamento de todas as coletâneas finalizado!")
 

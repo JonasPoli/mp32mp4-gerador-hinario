@@ -705,6 +705,7 @@ def api_coletaneas_export_csv():
         if video_file:
             stem = Path(video_file).stem
             video_file_clean = stem.replace("-", " ").replace("_", " ")
+            video_file_clean = " ".join(video_file_clean.split())
 
         tags = col["tags"]
         if len(tags) > 400:

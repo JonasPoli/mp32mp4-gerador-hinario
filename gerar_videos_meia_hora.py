@@ -364,6 +364,7 @@ def embutir_legendas(video_base, ass_path, video_saida):
         "-i", abs_video,
         "-vf", f"subtitles=filename='{ass_escaped}'",
         "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+        "-threads", "2",
         "-c:a", "copy",
         abs_saida,
     ], capture_output=True, text=True)

@@ -1,14 +1,21 @@
 #!/usr/bin/env bash
 # =============================================================================
-# rodar_todos_projetos.sh — Gera vídeos base + legendados para múltiplos
-# projetos do Hinário CCB, em sequência.
+# adicionar_legendas_batch.sh — Adiciona legendas em vídeos base já gerados
 #
-# Cada projeto é processado completamente antes de passar ao próximo.
-# Se interrompido, basta rodar novamente — continua de onde parou.
+# Uso para brass e string (padrão):
+#   ./adicionar_legendas_batch.sh \
+#     --preset-ffmpeg veryfast \
+#     --threads-ffmpeg 1 \
+#     --low-priority \
+#     --pausa-ffmpeg 1.5 \
+#     --pausa-entre-hinos 10.0
 #
-# Uso:
-#   ./rodar_todos_projetos.sh              # processa todos os projetos pendentes
-#   ./rodar_todos_projetos.sh --pular-base # só gera legendados (pula vídeo base)
+# Uso para projetos específicos:
+#   ./adicionar_legendas_batch.sh --projetos "brass string palhetas" \
+#     --preset-ffmpeg veryfast --threads-ffmpeg 1 --low-priority
+#
+# Este script NÃO re-gera vídeos base. Apenas embute legendas nos vídeos
+# que já existem mas estão sem legenda (status != concluido no banco).
 # =============================================================================
 
 set -e
@@ -16,15 +23,22 @@ cd "$(dirname "$0")"
 
 PYTHON="${PYTHON:-python3}"
 
-# Separar argumentos específicos deste shell e outros a serem repassados para o python
-PULAR_BASE=""
+# Projetos padrão a processar (somente os que sabemos ter problemas)
+PROJETOS_DEFAULT="brass string"
+PROJETOS=""
 EXTRA_ARGS=()
+PAUSA_ENTRE_HINOS=0.0
 
 while [[ $# -gt 0 ]]; do
     case "$1" in
-        --pular-base)
-            PULAR_BASE="--pular-base"
-            shift
+        --projetos)
+            PROJETOS="$2"
+            shift 2
+            ;;
+        --pausa-entre-hinos)
+            PAUSA_ENTRE_HINOS="$2"
+            EXTRA_ARGS+=("$1" "$2")
+            shift 2
             ;;
         *)
             EXTRA_ARGS+=("$1")
@@ -33,77 +47,66 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-# Inicializar monitor de recursos de hardware
-mkdir -p logs
-MONITOR_PID=""
-cleanup() {
-    if [ -n "$MONITOR_PID" ]; then
-        echo ""
-        echo "  ⏹ Parando o monitor de recursos (PID: $MONITOR_PID)..."
-        kill "$MONITOR_PID" 2>/dev/null || true
-        wait "$MONITOR_PID" 2>/dev/null || true
-        rm -f logs/current_state.json
-    fi
-}
-trap cleanup EXIT INT TERM
-
-echo "  ▶ Iniciando o monitor de recursos de hardware..."
-.venv/bin/python monitor_recursos.py > /dev/null 2>&1 &
-MONITOR_PID=$!
-
-
-# Projetos a processar (na ordem solicitada)
-PROJETOS=(
-    "hinos_de_ninar"
-    "piano_yamaha"
-    "brass"
-    "string"
-    "palhetas"
-    "sopro"
-    "orquestra"
-    "meia_hora"
-)
+if [ -z "$PROJETOS" ]; then
+    PROJETOS="$PROJETOS_DEFAULT"
+fi
 
 echo ""
 echo "══════════════════════════════════════════════════════════════════"
-echo "  🎵  Pipeline de Geração de Vídeos Legendados — Hinário CCB"
+echo "  📝  Adicionando legendas em vídeos existentes"
 echo "══════════════════════════════════════════════════════════════════"
-echo "  Projetos: ${PROJETOS[*]}"
-echo "  Total:    ${#PROJETOS[@]} projetos"
+echo "  Projetos: $PROJETOS"
 echo "══════════════════════════════════════════════════════════════════"
 echo ""
 
-TOTAL_PROJETOS=${#PROJETOS[@]}
-PROJETO_ATUAL=0
+# ── 1. Resetar status dos vídeos afetados ─────────────────────────────────────
+# Muda de 'concluido' para 'base_pronto' para que o gerar_legendas.py
+# possa re-processá-los e marcá-los como 'concluido' de verdade.
+echo "  🔄 Resetando status dos projetos afetados no banco de dados..."
+$PYTHON -c "
+import sqlite3
+conn = sqlite3.connect('progresso.db')
+projetos = '$PROJETOS'.split()
+for proj in projetos:
+    # Contar quantos serão resetados
+    cnt = conn.execute(
+        \"SELECT COUNT(*) FROM videos WHERE projeto=? AND status='concluido'\",
+        (proj,)
+    ).fetchone()[0]
+    
+    # Resetar: concluido -> base_pronto (mantém output/mp3_file intactos)
+    conn.execute(
+        \"UPDATE videos SET status='base_pronto' WHERE projeto=? AND status='concluido'\",
+        (proj,)
+    )
+    conn.commit()
+    print(f'  ✓ {proj}: {cnt} hinos resetados de concluido → base_pronto')
+conn.close()
+"
+echo ""
 
-for PROJETO in "${PROJETOS[@]}"; do
-    PROJETO_ATUAL=$((PROJETO_ATUAL + 1))
+# ── 2. Processar cada projeto ─────────────────────────────────────────────────
+TOTAL_GERAL=0
+ERROS_GERAL=0
+START_GLOBAL=$(date +%s)
 
-    echo ""
+for PROJETO in $PROJETOS; do
     echo "┌──────────────────────────────────────────────────────────────────┐"
-    echo "│  [$PROJETO_ATUAL/$TOTAL_PROJETOS] Projeto: $PROJETO"
+    echo "│  Projeto: $PROJETO"
     echo "└──────────────────────────────────────────────────────────────────┘"
 
-    # Verificar se o diretório de inputs existe
     INPUTS_DIR="projects/$PROJETO/inputs"
     if [ ! -d "$INPUTS_DIR" ]; then
         echo "  ⚠️  Diretório de inputs não encontrado: $INPUTS_DIR — Pulando."
         continue
     fi
 
-    # Contar hinos (MP3s disponíveis)
-    TOTAL_MP3=$(find "$INPUTS_DIR" -maxdepth 1 -name "*.mp3" ! -name "._*" | wc -l | tr -d ' ')
-    echo "  📋 Total de MP3s encontrados: $TOTAL_MP3"
-
-    # Criar diretório de saída
     OUTPUT_PROJ="output/$PROJETO"
     mkdir -p "$OUTPUT_PROJ"
 
-    # Contar JSON de legendas disponíveis
     TOTAL_JSON=$(find "$INPUTS_DIR" -maxdepth 1 -name "*.json" ! -name "._*" | wc -l | tr -d ' ')
     echo "  📄 Total de JSONs de legenda: $TOTAL_JSON"
 
-    # Listar os JSONs de legenda e processar cada um
     PROCESSADOS=0
     PULADOS=0
     ERROS=0
@@ -113,7 +116,6 @@ for PROJETO in "${PROJETOS[@]}"; do
         JSON_NAME=$(basename "$JSON_FILE")
 
         # Extrair número do hino do nome do arquivo
-        # Suporta: hino_001.json, 001.json, 001- Nome.json, Coro 001- Nome.json, coro_001.json
         NUMERO=""
         if [[ "$JSON_NAME" =~ ^hino_([0-9]+)\.json$ ]]; then
             NUMERO=$(echo "${BASH_REMATCH[1]}" | sed 's/^0*//')
@@ -130,7 +132,6 @@ for PROJETO in "${PROJETOS[@]}"; do
         fi
 
         if [ -z "$NUMERO" ]; then
-            echo "  [aviso] Não foi possível extrair número de: $JSON_NAME — Pulando."
             continue
         fi
 
@@ -140,11 +141,9 @@ for PROJETO in "${PROJETOS[@]}"; do
             NUM_FMT=$(printf "%03d" "$NUMERO")
         fi
 
-        # O nome padronizado do legendado é hino-{projeto}-{NNN}.mp4
-        LEGENDADO="$OUTPUT_PROJ/hino-$PROJETO-$NUM_FMT.mp4"
         BASE_VIDEO="$OUTPUT_PROJ/hino-$PROJETO-$NUM_FMT.mp4"
 
-        # Verificar no banco de dados se o hino já foi concluído (com legendas)
+        # Verificar status no banco
         STATUS=$($PYTHON -c "
 import sqlite3
 conn = sqlite3.connect('progresso.db')
@@ -158,48 +157,27 @@ print(r[0] if r else 'pendente')
 conn.close()
 " 2>/dev/null || echo "pendente")
 
-        # Só pula completamente se status=concluido (legendas já embutidas)
-        if [ "$STATUS" = "concluido" ] && [ -f "$LEGENDADO" ]; then
+        # Pular se já está concluído (com legendas)
+        if [ "$STATUS" = "concluido" ] && [ -f "$BASE_VIDEO" ]; then
             PULADOS=$((PULADOS + 1))
             continue
         fi
 
+        # Pular se o vídeo base não existe (nada a legendar)
+        if [ ! -f "$BASE_VIDEO" ]; then
+            continue
+        fi
+
         PROCESSADOS=$((PROCESSADOS + 1))
-        RESTANTES=$((TOTAL_JSON - PROCESSADOS - PULADOS - ERROS))
+        RESTANTES=$((TOTAL_JSON - PROCESSADOS - PULADOS))
 
         echo ""
         echo "  ──────────────────────────────────────────────────────────"
         echo "  [$PROCESSADOS] Hino $NUM_FMT ($PROJETO) — Restantes: ~$RESTANTES"
 
-        # ── 1. Gerar vídeo base (se não existe e não foi pedido para pular) ──
-        if [ "$PULAR_BASE" != "--pular-base" ]; then
-            if [ "$STATUS" = "base_pronto" ] && [ -f "$BASE_VIDEO" ]; then
-                echo "  ✓ Vídeo base já existe (base_pronto): $(basename $BASE_VIDEO)"
-            elif [ ! -f "$BASE_VIDEO" ]; then
-                echo "  ▶ Gerando vídeo base..."
-                echo "{\"projeto\": \"$PROJETO\", \"numero\": \"$NUM_FMT\", \"fase\": \"gerando base\"}" > logs/current_state.json
-                if ! $PYTHON gerar_videos.py --projeto "$PROJETO" --apenas "$NUMERO" --sem-download "${EXTRA_ARGS[@]}"; then
-                    echo "  ✗ Falha ao gerar vídeo base para hino $NUMERO"
-                    ERROS=$((ERROS + 1))
-                    continue
-                fi
-            else
-                echo "  ✓ Vídeo base já existe: $(basename $BASE_VIDEO)"
-            fi
-        fi
-
-        # Verificar se o vídeo base existe antes de continuar
-        if [ ! -f "$BASE_VIDEO" ]; then
-            echo "  ✗ Vídeo base não encontrado: $BASE_VIDEO — Pulando."
-            ERROS=$((ERROS + 1))
-            continue
-        fi
-
-        # ── 2. Embutir legendas ──
+        # Embutir legendas
         echo "  ▶ Embutindo legendas..."
-        echo "{\"projeto\": \"$PROJETO\", \"numero\": \"$NUM_FMT\", \"fase\": \"embutindo legendas\"}" > logs/current_state.json
         if $PYTHON gerar_legendas.py --projeto "$PROJETO" --numero "$NUMERO" "${EXTRA_ARGS[@]}"; then
-            # Calcular ETA
             CURRENT_TIME=$(date +%s)
             ELAPSED=$((CURRENT_TIME - START_TIME))
             if [ $PROCESSADOS -gt 0 ]; then
@@ -214,18 +192,35 @@ conn.close()
             echo "  ✗ Falha ao embutir legenda para hino $NUMERO"
             ERROS=$((ERROS + 1))
         fi
+
+        # Pausa entre hinos para resfriamento
+        if (( $(echo "$PAUSA_ENTRE_HINOS > 0" | bc -l 2>/dev/null || echo 0) )); then
+            sleep "$PAUSA_ENTRE_HINOS"
+        fi
     done 3< <(find "$INPUTS_DIR" -maxdepth 1 -name "*.json" ! -name "._*" -print0 | sort -z)
+
+    TOTAL_GERAL=$((TOTAL_GERAL + PROCESSADOS))
+    ERROS_GERAL=$((ERROS_GERAL + ERROS))
 
     echo ""
     echo "  ────────────────────────────────────────────────────────────"
     echo "  📊 Resumo do projeto '$PROJETO':"
-    echo "     Processados: $PROCESSADOS"
-    echo "     Já existiam: $PULADOS"
-    echo "     Erros:       $ERROS"
+    echo "     Legendados: $PROCESSADOS"
+    echo "     Já tinham:  $PULADOS"
+    echo "     Erros:      $ERROS"
     echo "  ────────────────────────────────────────────────────────────"
 done
 
+END_GLOBAL=$(date +%s)
+ELAPSED_GLOBAL=$((END_GLOBAL - START_GLOBAL))
+ELAPSED_MIN=$((ELAPSED_GLOBAL / 60))
+ELAPSED_HOR=$((ELAPSED_MIN / 60))
+ELAPSED_MIN_REM=$((ELAPSED_MIN % 60))
+
 echo ""
 echo "══════════════════════════════════════════════════════════════════"
-echo "  ✅  Pipeline completo! Todos os projetos foram processados."
+echo "  ✅  Legendas adicionadas!"
+echo "     Total processados: $TOTAL_GERAL"
+echo "     Erros:             $ERROS_GERAL"
+echo "     Tempo total:       ${ELAPSED_HOR}h${ELAPSED_MIN_REM}m"
 echo "══════════════════════════════════════════════════════════════════"

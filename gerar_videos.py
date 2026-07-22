@@ -82,6 +82,9 @@ CPU_LIMITE_PCT   = 90     # pausa se CPU média (5s) ultrapassar este % (0 = des
 RAM_PAUSA_S      = 30     # segundos de pausa quando sob pressão de memória
 FFMPEG_PRESET    = "fast" # preset libx264: ultrafast/superfast/veryfast/faster/fast/medium
 # 'fast' é equilibrado; troque por 'veryfast' se ainda travar
+THREADS_FFMPEG   = 2      # número de threads que o ffmpeg deve usar
+LOW_PRIORITY     = False  # se True, roda o ffmpeg com prioridade baixa (nice/taskpolicy)
+PAUSA_FFMPEG     = 0.0    # pausa em segundos após cada chamada do ffmpeg para resfriar CPU
 
 # Sequência de queries de fallback para download automático
 DOWNLOAD_QUERIES = ["flores", "flowers", "natureza", "nature", "campo", "jardim", "primavera"]
@@ -296,6 +299,47 @@ def log_recursos(prefixo: str = ""):
     print(f"  {prefixo}[recursos] RAM {ram_pct:.1f}% (livre: {ram_livre_mb:.0f} MB) | CPU {cpu:.1f}%")
 
 
+def executar_ffmpeg(cmd: list, **kwargs):
+    """
+    Executa o FFmpeg com controle de threads, preset, prioridade e cooldown.
+    """
+    cmd = list(cmd)
+    try:
+        ffmpeg_idx = cmd.index("ffmpeg")
+    except ValueError:
+        ffmpeg_idx = -1
+
+    if ffmpeg_idx != -1:
+        # 1. Ajustar ou adicionar -threads
+        if "-threads" in cmd:
+            idx = cmd.index("-threads")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = str(THREADS_FFMPEG)
+        else:
+            cmd.insert(ffmpeg_idx + 1, "-threads")
+            cmd.insert(ffmpeg_idx + 2, str(THREADS_FFMPEG))
+
+        # 2. Ajustar ou adicionar -preset
+        if "-preset" in cmd:
+            idx = cmd.index("-preset")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = FFMPEG_PRESET
+
+        # 3. Aplicar prioridade baixa se configurado
+        if LOW_PRIORITY and cmd[0] not in ("taskpolicy", "nice"):
+            if sys.platform == "darwin":
+                cmd = ["taskpolicy", "-c", "background", "nice", "-n", "15"] + cmd
+            else:
+                cmd = ["nice", "-n", "15"] + cmd
+
+    res = subprocess.run(cmd, **kwargs)
+
+    if PAUSA_FFMPEG > 0:
+        time.sleep(PAUSA_FFMPEG)
+
+    return res
+
+
 def remover_acentos(texto: str) -> str:
     """Remove acentos e caracteres especiais, mantendo letras e números."""
     normalizado = unicodedata.normalize("NFD", texto)
@@ -311,7 +355,7 @@ def camel_case(texto: str) -> str:
 
 def extrair_numero_mp3(nome: str) -> str | int | None:
     """Extrai o número do hino do nome do arquivo MP3 (ex.: '290.mp3' → 290, 'Coro 001.mp3' → 'C1')."""
-    m_coro = re.match(r"^Coro\s+(\d+)", nome, re.IGNORECASE)
+    m_coro = re.match(r"^Coro[\s_-]+(\d+)", nome, re.IGNORECASE)
     if m_coro:
         return f"C{int(m_coro.group(1))}"
     m = re.match(r"^(\d+)", nome)
@@ -563,9 +607,9 @@ def sincronizar_mp3s(conn: sqlite3.Connection, projeto_nome: str, projeto_cfg: d
             (projeto_nome, numero, str(mp3.relative_to(ROOT)), projeto_nome, now_iso(), now_iso()),
         )
         inseridos += 1
-    # Hinos presos em 'processando' (interrupção abrupta) voltam para pendente para este projeto
+    # Hinos presos em 'processando' (interrupção abrupta) ou que falharam com 'erro' voltam para pendente para este projeto
     conn.execute(
-        "UPDATE videos SET status = 'pendente', atualizado_em = ? WHERE status = 'processando' AND projeto = ?",
+        "UPDATE videos SET status = 'pendente', atualizado_em = ? WHERE status IN ('processando', 'erro') AND projeto = ?",
         (now_iso(), projeto_nome),
     )
     conn.commit()
@@ -926,7 +970,7 @@ def gerar_frame_video(numero: int, nome: str, projeto_nome: str, projeto_cfg: di
     OUTPUT_DIR.mkdir(exist_ok=True)
     frame_mp4 = OUTPUT_DIR / f"_frame_{projeto_nome}_{numero}.mp4"
     
-    subprocess.run([
+    executar_ffmpeg([
         "ffmpeg", "-y", "-loop", "1",
         "-i", str(thumb_path),
         "-t", str(duracao),
@@ -1027,7 +1071,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     for i, (caminho, _) in enumerate(clipes):
         parte = out_dir / f"_parte_{saida.stem}_{i}.mp4"
         try:
-            subprocess.run([
+            executar_ffmpeg([
                 "ffmpeg", "-y", "-i", caminho,
                 "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                        "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
@@ -1052,7 +1096,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     )
 
     video_concat = out_dir / f"_concat_{saida.stem}.mp4"
-    subprocess.run([
+    executar_ffmpeg([
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0",
         "-i", lista_txt.name,
@@ -1067,7 +1111,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     # --- Cortar exatamente na duração necessária e aplicar fade-out ---
     video_cortado = out_dir / f"_fundo_{saida.stem}.mp4"
     fade_start = max(0.0, duracao_total - 1.5)
-    subprocess.run([
+    executar_ffmpeg([
         "ffmpeg", "-y", "-i", str(video_concat),
         "-t", str(duracao_total),
         "-vf", f"fade=t=out:st={fade_start}:d=1.5",
@@ -1100,7 +1144,7 @@ def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | 
 
     # 1. Normalizar vídeo (sem áudio)
     vinheta_v = saida_dir / f"_vinheta_v_{vinheta_path.stem}.mp4"
-    subprocess.run([
+    executar_ffmpeg([
         "ffmpeg", "-y", "-i", str(vinheta_path),
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
                "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30",
@@ -1123,7 +1167,7 @@ def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | 
     if probe.stdout.strip():
         # Extrair e re-codificar o áudio da vinheta em AAC
         vinheta_a = saida_dir / f"_vinheta_a_{vinheta_path.stem}.aac"
-        subprocess.run([
+        executar_ffmpeg([
             "ffmpeg", "-y", "-i", str(vinheta_path),
             "-vn", "-c:a", "aac", "-b:a", "192k",
             str(vinheta_a),
@@ -1174,14 +1218,21 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
     )
 
     video_concat = out_dir / f"_tmp_{saida.stem}.mp4"
-    subprocess.run([
-        "ffmpeg", "-y",
-        "-f", "concat", "-safe", "0",
-        "-i", lista.name,
-        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
-        "-threads", "2",
-        video_concat.name,
-    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
+    try:
+        executar_ffmpeg([
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", lista.name,
+            "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+            "-threads", "2",
+            video_concat.name,
+        ], check=True, capture_output=True, text=True, cwd=str(out_dir))
+    except subprocess.CalledProcessError as e:
+        print("=== FFMPEG CONCAT ERROR ===")
+        print("STDOUT:", e.stdout)
+        print("STDERR:", e.stderr)
+        print("===========================")
+        raise
     lista.unlink(missing_ok=True)
 
     # Calcular o delay do MP3: começa após vinheta + frame inicial
@@ -1204,7 +1255,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
             f"apad=whole_dur={total_dur}[ma];"
             f"[va][ma]amix=inputs=2:duration=first:normalize=0[aout]"
         )
-        subprocess.run([
+        executar_ffmpeg([
             "ffmpeg", "-y",
             "-i", str(video_concat),   # 0: vídeo
             "-i", str(vinheta_audio),  # 1: áudio da vinheta
@@ -1219,7 +1270,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     else:
         # Sem áudio de vinheta — apenas o MP3 com delay e fade-out (comportamento original)
-        subprocess.run([
+        executar_ffmpeg([
             "ffmpeg", "-y",
             "-i", str(video_concat),
             "-i", str(mp3),
@@ -1450,9 +1501,10 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
         if vinheta_audio_norm:
             vinheta_audio_norm.unlink(missing_ok=True)
 
-        # 6. Registrar sucesso
+        # 6. Registrar sucesso (base_pronto = vídeo base gerado, falta legenda)
+        #    Somente gerar_legendas.py deve marcar como 'concluido'.
         conn.execute(
-            "UPDATE videos SET status = 'concluido', output = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
+            "UPDATE videos SET status = 'base_pronto', output = ?, atualizado_em = ? WHERE projeto = ? AND numero = ?",
             (str(saida.relative_to(ROOT)), now_iso(), projeto_nome, numero),
         )
         conn.commit()
@@ -1516,8 +1568,14 @@ def main():
                         metavar="PRESET",
                         help="Preset do libx264 (ultrafast/superfast/veryfast/faster/fast/medium). "
                              "Padrão: 'fast'. Use 'veryfast' ou 'ultrafast' se o sistema ainda travar.")
+    parser.add_argument("--threads-ffmpeg", type=int, default=None, metavar="THREADS",
+                        help="Número de threads que o FFmpeg deve usar. Padrão: 2.")
+    parser.add_argument("--low-priority", action="store_true",
+                        help="Executa chamadas do FFmpeg com prioridade baixa (nice + taskpolicy no macOS).")
+    parser.add_argument("--pausa-ffmpeg", type=float, default=None, metavar="SEGUNDOS",
+                        help="Pausa opcional em segundos após cada chamada do FFmpeg para resfriar a CPU.")
     parser.add_argument("--ram-limite", type=int, default=None, metavar="PERCENT",
-                        help="Pausa automática quando RAM usada ultrapassar este %% (padrão: 85). Use 0 para desabilitar.")
+                        help="Pausa automática quando RAM usada ultrapassar este % (padrão: 85). Use 0 para desabilitar.")
     parser.add_argument("--thumbnail-apenas", action="store_true",
                         help="Gera apenas a thumbnail do hino informado via --numero, sem tocar no banco de dados ou renderizar vídeo.")
     parser.add_argument("--numero", type=str, metavar="NUMERO",
@@ -1525,13 +1583,22 @@ def main():
     args = parser.parse_args()
 
     # Aplicar overrides de CLI nas constantes globais
-    global FFMPEG_PRESET, RAM_LIMITE_PCT
+    global FFMPEG_PRESET, RAM_LIMITE_PCT, THREADS_FFMPEG, LOW_PRIORITY, PAUSA_FFMPEG
     if args.preset_ffmpeg:
         FFMPEG_PRESET = args.preset_ffmpeg
         print(f"[config] ffmpeg preset: {FFMPEG_PRESET}")
     if args.ram_limite is not None:
         RAM_LIMITE_PCT = args.ram_limite
         print(f"[config] RAM limite: {RAM_LIMITE_PCT}%")
+    if args.threads_ffmpeg is not None:
+        THREADS_FFMPEG = args.threads_ffmpeg
+        print(f"[config] ffmpeg threads: {THREADS_FFMPEG}")
+    if args.low_priority:
+        LOW_PRIORITY = True
+        print(f"[config] prioridade baixa: habilitada (nice + taskpolicy)")
+    if args.pausa_ffmpeg is not None:
+        PAUSA_FFMPEG = args.pausa_ffmpeg
+        print(f"[config] pausa pos-ffmpeg: {PAUSA_FFMPEG}s")
 
     projetos = carregar_projetos()
     projeto_nome = args.projeto or args.hinario

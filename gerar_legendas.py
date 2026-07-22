@@ -16,12 +16,60 @@ import json
 import argparse
 import subprocess
 import numpy as np
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).parent
 LETRAS_DIR = ROOT / "hinos_txt" / "letras_separadas"
 MP3_DIR = ROOT / "mp3"
 OUTPUT_DIR = ROOT / "output"
+
+# ── Controle de recursos ──────────────────────────────────────────────────────
+FFMPEG_PRESET    = "fast"
+THREADS_FFMPEG   = 2
+LOW_PRIORITY     = False
+PAUSA_ENTRE_HINOS = 0.0
+
+def executar_ffmpeg(cmd: list, **kwargs):
+    """
+    Executa o FFmpeg com controle de threads, preset, prioridade e cooldown.
+    """
+    cmd = list(cmd)
+    try:
+        ffmpeg_idx = cmd.index("ffmpeg")
+    except ValueError:
+        ffmpeg_idx = -1
+
+    if ffmpeg_idx != -1:
+        # 1. Ajustar ou adicionar -threads
+        if "-threads" in cmd:
+            idx = cmd.index("-threads")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = str(THREADS_FFMPEG)
+        else:
+            cmd.insert(ffmpeg_idx + 1, "-threads")
+            cmd.insert(ffmpeg_idx + 2, str(THREADS_FFMPEG))
+
+        # 2. Ajustar ou adicionar -preset
+        if "-preset" in cmd:
+            idx = cmd.index("-preset")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = FFMPEG_PRESET
+
+        # 3. Aplicar prioridade baixa se configurado
+        if LOW_PRIORITY and cmd[0] not in ("taskpolicy", "nice"):
+            if sys.platform == "darwin":
+                cmd = ["taskpolicy", "-c", "background", "nice", "-n", "15"] + cmd
+            else:
+                cmd = ["nice", "-n", "15"] + cmd
+
+    res = subprocess.run(cmd, **kwargs)
+
+    if PAUSA_FFMPEG > 0:
+        time.sleep(PAUSA_FFMPEG)
+
+    return res
+
 
 def carregar_letra_hino(numero: int, projeto_nome: str = "") -> list[list[str]]:
     """
@@ -336,12 +384,13 @@ def embutir_legenda_no_video(video_origem: Path, ass_path: Path, video_destino: 
         "-i", abs_video_origem,
         "-vf", f"subtitles=filename='{ass_escaped}'",
         "-c:v", "libx264", "-preset", "fast", "-pix_fmt", "yuv420p",
+        "-threads", "2",
         "-c:a", "copy",
         abs_video_destino
     ]
     
     print(f"    CMD: {' '.join(cmd[:4])} -vf subtitles=... {abs_video_destino}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    result = executar_ffmpeg(cmd, capture_output=True, text=True)
     if result.returncode != 0:
         print(f"  [ffmpeg stderr]:\n{result.stderr[-2000:]}")
         raise RuntimeError(f"FFmpeg failed with code {result.returncode}.")
@@ -352,7 +401,26 @@ def main():
     parser.add_argument("--numero", required=True, help="Número do hino/coro (ex: 53 ou C1)")
     parser.add_argument("--saida-legendado", help="Caminho do arquivo de vídeo de saída")
     parser.add_argument("--legenda-json", help="Caminho para arquivo JSON com legendas sincronizadas")
-    args = parser.parse_args()
+    parser.add_argument("--preset-ffmpeg", type=str, default="fast",
+                        help="Preset do libx264 para o FFmpeg (ultrafast/superfast/veryfast/faster/fast/medium). Padrão: 'fast'.")
+    parser.add_argument("--threads-ffmpeg", type=int, default=2,
+                        help="Número de threads para o FFmpeg. Padrão: 2.")
+    parser.add_argument("--low-priority", action="store_true",
+                        help="Executa o FFmpeg em segundo plano / baixa prioridade (nice + taskpolicy no macOS).")
+    parser.add_argument("--pausa-ffmpeg", type=float, default=0.0,
+                        help="Pausa em segundos após cada chamada do FFmpeg para resfriamento.")
+    parser.add_argument("--pausa-entre-hinos", type=float, default=0.0,
+                        help="Pausa em segundos após concluir a legenda para resfriar a CPU.")
+    args, unknown = parser.parse_known_args()
+    if unknown:
+        print(f"  [config] Argumentos não reconhecidos repassados para gerar_legendas.py ignorados: {unknown}")
+
+    global FFMPEG_PRESET, THREADS_FFMPEG, LOW_PRIORITY, PAUSA_FFMPEG, PAUSA_ENTRE_HINOS
+    FFMPEG_PRESET = args.preset_ffmpeg
+    THREADS_FFMPEG = args.threads_ffmpeg
+    LOW_PRIORITY = args.low_priority
+    PAUSA_FFMPEG = args.pausa_ffmpeg
+    PAUSA_ENTRE_HINOS = args.pausa_entre_hinos
 
     numero_str = args.numero
     try:
@@ -413,12 +481,17 @@ def main():
             if numero_str.upper().startswith('C'):
                 num_fmt = f"C{num_fmt}"
             # Procurar arquivo que comece com o número do hino e termine com .json
-            # Suporta: "NNN- Nome.json", "NNN Nome.json", "hino_NNN.json", "NNN.json"
+            # Suporta: "NNN- Nome.json", "NNN Nome.json", "hino_NNN.json", "NNN.json", "Coro NNN.json", "coro_NNN.json"
+            is_c = numero_str.upper().startswith('C')
+            raw_digit = int(numero_str[1:]) if is_c else int(numero_str)
+            raw_digit_fmt = f"{raw_digit:03d}"
             for p in inputs_dir.glob("*.json"):
                 if (p.name.startswith(f"{numero}-") or p.name.startswith(f"{numero} ")
                     or p.name.startswith(f"{num_fmt}-") or p.name.startswith(f"{num_fmt} ")
                     or p.name == f"hino_{num_fmt}.json"
-                    or p.name == f"{num_fmt}.json"):
+                    or p.name == f"{num_fmt}.json"
+                    or (is_c and (p.name.lower().startswith(f"coro {raw_digit_fmt}") or p.name.lower().startswith(f"coro {raw_digit}")
+                                  or p.name.lower().startswith(f"coro_{raw_digit_fmt}") or p.name.lower().startswith(f"coro_{raw_digit}")))):
                     legenda_json_path = p
                     break
 
@@ -477,8 +550,10 @@ def main():
     else:
         mapa_legendas = calcular_tempos_legendas(estrofes, mp3_path, offset=offset)
     
-    # 4. Escreve arquivo de legendas ASS temporário
-    tmp_ass = ROOT / f"_tmp_legenda_{projeto}_{numero}.ass"
+    # 4. Escreve arquivo de legendas ASS temporário na pasta Temp/
+    temp_dir = ROOT / "Temp"
+    temp_dir.mkdir(exist_ok=True)
+    tmp_ass = temp_dir / f"_tmp_legenda_{projeto}_{numero}.ass"
     gerar_arquivo_ass(mapa_legendas, tmp_ass, f"Hino {numero}")
     print(f"  Legendas calculadas/carregadas e salvas em {tmp_ass.name}")
     
@@ -547,9 +622,10 @@ def main():
             conn = sqlite3.connect(str(db_path))
             rel_output = str(video_saida.relative_to(ROOT))
             now_iso = datetime.now(timezone.utc).isoformat()
+            db_numero = numero_str if numero_str.upper().startswith('C') else int(numero_str)
             conn.execute(
                 "UPDATE videos SET output = ?, status = 'concluido', atualizado_em = ? WHERE projeto = ? AND numero = ?",
-                (rel_output, now_iso, projeto, int(numero_str[1:] if numero_str.upper().startswith('C') else numero_str))
+                (rel_output, now_iso, projeto, db_numero)
             )
             conn.commit()
             conn.close()
@@ -561,6 +637,9 @@ def main():
     finally:
         # Limpar arquivo temporário de legendas
         tmp_ass.unlink(missing_ok=True)
+        if PAUSA_ENTRE_HINOS > 0:
+            print(f"  [cooldown] Pausando {PAUSA_ENTRE_HINOS}s para resfriar a CPU...")
+            time.sleep(PAUSA_ENTRE_HINOS)
 
 if __name__ == "__main__":
     main()
