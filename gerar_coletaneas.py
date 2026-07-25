@@ -17,9 +17,12 @@ import csv
 import json
 import os
 import re
+import sqlite3
 import subprocess
 import sys
 import tempfile
+import time
+from datetime import datetime, timezone
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
@@ -35,7 +38,15 @@ except ImportError:
 
 ROOT = Path(__file__).parent
 OUTPUT_DIR = ROOT / "output"
+DB_PATH = ROOT / "progresso.db"
+LOCK_DIR = Path("/tmp/hinario-locks")
 # COLETANEAS_DIR é definido por projeto dentro de main()
+
+# ── Controle de recursos ──────────────────────────────────────────────────────
+FFMPEG_PRESET    = "fast"
+THREADS_FFMPEG   = 2
+LOW_PRIORITY     = False
+PAUSA_FFMPEG     = 0.0
 
 # Fontes padrão do sistema macOS
 FONT_PATHS = [
@@ -166,6 +177,143 @@ COLETANEAS = {
         "descricao_intro": "Hinos sobre a condição de peregrino neste mundo e o anseio pela pátria celestial. Melodias que elevam o olhar para Sião e para as moradas eternas preparadas por Cristo."
     }
 }
+
+# =============================================================================
+# Controle de Recursos e FFmpeg
+# =============================================================================
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def executar_ffmpeg(cmd: list, **kwargs):
+    """Executa o FFmpeg com controle de threads, preset, prioridade e cooldown."""
+    cmd = list(cmd)
+    try:
+        ffmpeg_idx = cmd.index("ffmpeg")
+    except ValueError:
+        ffmpeg_idx = -1
+
+    if ffmpeg_idx != -1:
+        if "-threads" in cmd:
+            idx = cmd.index("-threads")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = str(THREADS_FFMPEG)
+        else:
+            cmd.insert(ffmpeg_idx + 1, "-threads")
+            cmd.insert(ffmpeg_idx + 2, str(THREADS_FFMPEG))
+
+        if "-preset" in cmd:
+            idx = cmd.index("-preset")
+            if idx + 1 < len(cmd):
+                cmd[idx + 1] = FFMPEG_PRESET
+
+        if LOW_PRIORITY and cmd[0] not in ("taskpolicy", "nice"):
+            if sys.platform == "darwin":
+                cmd = ["taskpolicy", "-c", "background", "nice", "-n", "15"] + cmd
+            else:
+                cmd = ["nice", "-n", "15"] + cmd
+
+    res = subprocess.run(cmd, **kwargs)
+
+    if PAUSA_FFMPEG > 0:
+        time.sleep(PAUSA_FFMPEG)
+
+    return res
+
+
+# =============================================================================
+# Banco de Dados
+# =============================================================================
+
+def abrir_banco() -> sqlite3.Connection:
+    """Abre o banco de dados de progresso com WAL mode."""
+    conn = sqlite3.connect(str(DB_PATH), timeout=30)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA busy_timeout=10000")
+    return conn
+
+
+def registrar_coletanea_no_banco(
+    conn: sqlite3.Connection,
+    projeto: str,
+    cid: int,
+    video_path: Path,
+    thumb_path: Path | None = None,
+):
+    """Registra ou atualiza uma coletânea na tabela `videos` do banco de dados.
+
+    Usa o identificador COL{cid} como numero para diferenciar de hinos normais.
+    """
+    numero = f"COL{cid}"
+    output_rel = str(video_path.relative_to(ROOT)) if video_path.exists() else None
+    thumb_rel = str(thumb_path.relative_to(ROOT)) if thumb_path and thumb_path.exists() else None
+
+    existing = conn.execute(
+        "SELECT 1 FROM videos WHERE projeto = ? AND numero = ?",
+        (projeto, numero),
+    ).fetchone()
+
+    if existing:
+        conn.execute(
+            "UPDATE videos SET status = 'concluido', output = ?, thumb_file = ?, atualizado_em = ? "
+            "WHERE projeto = ? AND numero = ?",
+            (output_rel, thumb_rel, now_iso(), projeto, numero),
+        )
+    else:
+        conn.execute(
+            "INSERT INTO videos (projeto, numero, mp3_file, hinario, status, output, thumb_file, criado_em, atualizado_em) "
+            "VALUES (?, ?, '', ?, 'concluido', ?, ?, ?, ?)",
+            (projeto, numero, projeto, output_rel, thumb_rel, now_iso(), now_iso()),
+        )
+    conn.commit()
+
+
+# =============================================================================
+# Locking para paralelismo
+# =============================================================================
+
+def adquirir_lock(projeto: str, cid: int) -> Path | None:
+    """Tenta adquirir um lock atômico para a coletânea. Retorna o path do lock ou None."""
+    LOCK_DIR.mkdir(parents=True, exist_ok=True)
+    lock_path = LOCK_DIR / f"{projeto}-COL{cid}.lock"
+    try:
+        os.mkdir(str(lock_path))
+        pid_file = lock_path / "pid"
+        pid_file.write_text(str(os.getpid()))
+        return lock_path
+    except FileExistsError:
+        # Verificar se é órfão
+        pid_file = lock_path / "pid"
+        if pid_file.exists():
+            try:
+                old_pid = int(pid_file.read_text().strip())
+                os.kill(old_pid, 0)  # Verifica se o processo existe
+                return None  # Processo ativo, lock válido
+            except (ValueError, ProcessLookupError, PermissionError):
+                # Processo morto — lock órfão
+                try:
+                    pid_file.unlink(missing_ok=True)
+                    os.rmdir(str(lock_path))
+                    os.mkdir(str(lock_path))
+                    pid_file.write_text(str(os.getpid()))
+                    return lock_path
+                except Exception:
+                    return None
+        return None
+
+
+def liberar_lock(lock_path: Path | None):
+    """Libera um lock previamente adquirido."""
+    if lock_path and lock_path.exists():
+        pid_file = lock_path / "pid"
+        pid_file.unlink(missing_ok=True)
+        try:
+            os.rmdir(str(lock_path))
+        except OSError:
+            pass
+
 
 # =============================================================================
 # Funções Auxiliares
@@ -514,7 +662,33 @@ def main():
     parser.add_argument("--projeto", required=True, help="Nome do projeto configurado em projetos.json")
     parser.add_argument("--forcar", action="store_true", help="Força a regeração de coletâneas que já existem.")
     parser.add_argument("--apenas-thumbs", action="store_true", dest="apenas_thumbs", help="Gera apenas as thumbnails (capas) das coletâneas, sem concatenar vídeos.")
+    # Controle de recursos (compatível com rodar_todos_projetos.sh)
+    parser.add_argument("--preset-ffmpeg", type=str, default=None,
+                        help="Preset do libx264 (ultrafast/superfast/veryfast/faster/fast/medium).")
+    parser.add_argument("--threads-ffmpeg", type=int, default=None,
+                        help="Número de threads que o FFmpeg deve usar.")
+    parser.add_argument("--low-priority", action="store_true",
+                        help="Executa FFmpeg com prioridade baixa (nice + taskpolicy no macOS).")
+    parser.add_argument("--pausa-ffmpeg", type=float, default=None,
+                        help="Pausa em segundos após cada chamada do FFmpeg.")
+    parser.add_argument("--pausa-entre-hinos", type=float, default=0.0,
+                        help="Pausa em segundos entre coletâneas (compatibilidade com pipeline).")
     args = parser.parse_args()
+
+    # Aplicar overrides de CLI nas constantes globais
+    global FFMPEG_PRESET, THREADS_FFMPEG, LOW_PRIORITY, PAUSA_FFMPEG
+    if args.preset_ffmpeg:
+        FFMPEG_PRESET = args.preset_ffmpeg
+        print(f"[config] ffmpeg preset: {FFMPEG_PRESET}")
+    if args.threads_ffmpeg is not None:
+        THREADS_FFMPEG = args.threads_ffmpeg
+        print(f"[config] ffmpeg threads: {THREADS_FFMPEG}")
+    if args.low_priority:
+        LOW_PRIORITY = True
+        print(f"[config] prioridade baixa: habilitada")
+    if args.pausa_ffmpeg is not None:
+        PAUSA_FFMPEG = args.pausa_ffmpeg
+        print(f"[config] pausa pos-ffmpeg: {PAUSA_FFMPEG}s")
     
     # Carregar configurações
     projetos = carregar_projetos()
@@ -543,94 +717,176 @@ def main():
     
     coletaneas_geradas = []
     
-    for cid, col in COLETANEAS.items():
-        titulo = col["titulo"]
-        hinos_list = col["hinos"]
-        descricao_intro = col["descricao_intro"]
-        
-        folder_name = f"{cid:02d} - {titulo}"
-        col_dir = coletaneas_dir / folder_name
-        col_dir.mkdir(parents=True, exist_ok=True)
-        
-        video_output = col_dir / f"{titulo} - {args.projeto}.mp4"
-        slug_capa = gerar_slug_coletanea(cid, titulo)
-        capa_output = col_dir / f"{slug_capa}.png"
-        info_output = col_dir / "info.md"
-        capitulos_output = col_dir / "capitulos.txt"
+    # Abrir conexão ao banco de dados
+    conn = abrir_banco()
+    locks_adquiridos = []
+    
+    try:
+        for cid, col in COLETANEAS.items():
+            titulo = col["titulo"]
+            hinos_list = col["hinos"]
+            descricao_intro = col["descricao_intro"]
+            
+            folder_name = f"{cid:02d} - {titulo}"
+            col_dir = coletaneas_dir / folder_name
+            col_dir.mkdir(parents=True, exist_ok=True)
+            
+            video_output = col_dir / f"{titulo} - {args.projeto}.mp4"
+            slug_capa = gerar_slug_coletanea(cid, titulo)
+            capa_output = col_dir / f"{slug_capa}.png"
+            info_output = col_dir / "info.md"
+            capitulos_output = col_dir / "capitulos.txt"
 
-        # Renomear capa.png genérica para slug único, se existir
-        capa_legada = col_dir / "capa.png"
-        if capa_legada.exists() and not capa_output.exists():
-            capa_legada.rename(capa_output)
-            print(f"  → Capa renomeada: capa.png → {capa_output.name}")
-        
-        print(f"\n========================================================")
-        print(f"Processando Coletânea {cid}: {titulo}")
-        print(f"Hinos: {hinos_list}")
-        
-        # 1. Verificar se os vídeos individuais existem
-        videos_locais = []
-        videos_faltantes = []
-        for hino in hinos_list:
-            num_str = formatar_numero_completo(hino)
-            v_path = videos_dir / f"hino-{args.projeto}-{num_str}.mp4"
-            if not v_path.exists():
-                # Tentar encontrar arquivo .mp4 que comece com o número (ex: "001- Cristo meu Mestre.mp4")
-                is_coro = num_str.upper().startswith("C")
-                try:
-                    num_val = int(num_str[1:] if is_coro else num_str)
-                except ValueError:
-                    num_val = None
+            # Renomear capa.png genérica para slug único, se existir
+            capa_legada = col_dir / "capa.png"
+            if capa_legada.exists() and not capa_output.exists():
+                capa_legada.rename(capa_output)
+                print(f"  → Capa renomeada: capa.png → {capa_output.name}")
+            
+            # Tentar lock para paralelismo
+            lock_path = adquirir_lock(args.projeto, cid)
+            if lock_path is None:
+                print(f"\n  ⏭ Coletânea {cid} ({args.projeto}) — em uso por outro processo, pulando.")
+                continue
+            locks_adquiridos.append(lock_path)
+
+            # Pausa entre coletâneas para controle de recursos
+            if args.pausa_entre_hinos > 0 and coletaneas_geradas:
+                time.sleep(args.pausa_entre_hinos)
+
+            print(f"\n========================================================")
+            print(f"Processando Coletânea {cid}: {titulo}")
+            print(f"Hinos: {hinos_list}")
+            
+            # 1. Verificar se os vídeos individuais existem
+            videos_locais = []
+            videos_faltantes = []
+            for hino in hinos_list:
+                num_str = formatar_numero_completo(hino)
+                v_path = videos_dir / f"hino-{args.projeto}-{num_str}.mp4"
+                if not v_path.exists():
+                    is_coro = num_str.upper().startswith("C")
+                    try:
+                        num_val = int(num_str[1:] if is_coro else num_str)
+                    except ValueError:
+                        num_val = None
+                    
+                    if num_val is not None:
+                        found_v = None
+                        for p in videos_dir.glob("*.mp4"):
+                            if p.name.startswith(".") or "-legendado" in p.name:
+                                continue
+                            name_lower = p.name.lower()
+                            if is_coro:
+                                if name_lower.startswith(f"coro {num_val:03d}") or name_lower.startswith(f"c{num_val:03d}") or name_lower.startswith(f"coro {num_val}"):
+                                    found_v = p
+                                    break
+                            else:
+                                if name_lower.startswith(f"{num_val:03d}") or name_lower.startswith(f"{num_val}-") or name_lower.startswith(f"{num_val} "):
+                                    found_v = p
+                                    break
+                        if found_v:
+                            v_path = found_v
+     
+                if v_path.exists():
+                    videos_locais.append((hino, v_path))
+                else:
+                    videos_faltantes.append(f"Hino {hino} (esperado em {v_path.name} ou iniciando com {num_str})")
+                    
+            if videos_faltantes and not args.apenas_thumbs:
+                print(f"AVISO: Pulando coletânea '{titulo}' devido aos seguintes vídeos faltantes:")
+                for m in videos_faltantes:
+                    print(f"  - {m}")
+                liberar_lock(lock_path)
+                locks_adquiridos = [lk for lk in locks_adquiridos if lk != lock_path]
+                continue
                 
-                if num_val is not None:
-                    found_v = None
-                    for p in videos_dir.glob("*.mp4"):
-                        if p.name.startswith(".") or "-legendado" in p.name:
-                            continue
-                        name_lower = p.name.lower()
-                        if is_coro:
-                            if name_lower.startswith(f"coro {num_val:03d}") or name_lower.startswith(f"c{num_val:03d}") or name_lower.startswith(f"coro {num_val}"):
-                                found_v = p
-                                break
-                        else:
-                            if name_lower.startswith(f"{num_val:03d}") or name_lower.startswith(f"{num_val}-") or name_lower.startswith(f"{num_val} "):
-                                found_v = p
-                                break
-                    if found_v:
-                        v_path = found_v
- 
-            if v_path.exists():
-                videos_locais.append((hino, v_path))
+            # 2. Gerar a capa (Thumbnail) da Coletânea se não existir ou se --forcar
+            if not capa_output.exists() or args.forcar:
+                print(f"Gerando capa '{capa_output.name}'...")
+                video_base_para_frame = videos_locais[0][1] if videos_locais else None
+                gerar_capa_coletanea(cid, titulo, hinos_list, projeto_cfg, capa_output, video_base_para_frame)
+                print(f"  ✓ Capa salva em {capa_output.relative_to(ROOT)}")
             else:
-                videos_faltantes.append(f"Hino {hino} (esperado em {v_path.name} ou iniciando com {num_str})")
+                print(f"Capa já existe ({capa_output.name}), pulando...")
+            
+            # Se --apenas-thumbs, pular concatenação de vídeos e metadados
+            if args.apenas_thumbs:
+                liberar_lock(lock_path)
+                locks_adquiridos = [lk for lk in locks_adquiridos if lk != lock_path]
+                continue
                 
-        if videos_faltantes and not args.apenas_thumbs:
-            print(f"AVISO: Pulando coletânea '{titulo}' devido aos seguintes vídeos faltantes:")
-            for m in videos_faltantes:
-                print(f"  - {m}")
-            continue
+            # 3. Concatenar vídeos e calcular os capítulos
+            timeline = []
+            current_time = 0.0
             
-        # 2. Gerar a capa (Thumbnail) da Coletânea se não existir ou se --forcar
-        if not capa_output.exists() or args.forcar:
-            print(f"Gerando capa '{capa_output.name}'...")
-            video_base_para_frame = videos_locais[0][1] if videos_locais else None
-            gerar_capa_coletanea(cid, titulo, hinos_list, projeto_cfg, capa_output, video_base_para_frame)
-            print(f"  ✓ Capa salva em {capa_output.relative_to(ROOT)}")
-        else:
-            print(f"Capa já existe ({capa_output.name}), pulando...")
-        
-        # Se --apenas-thumbs, pular concatenação de vídeos e metadados
-        if args.apenas_thumbs:
-            continue
+            # Criar arquivo de lista para o concat do ffmpeg
+            lista_txt = col_dir / "lista.txt"
+            with open(lista_txt, "w", encoding="utf-8") as f:
+                for hino, v_path in videos_locais:
+                    num_key = hino
+                    hino_str = str(hino).strip()
+                    if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+                        try:
+                            num_key = int(hino_str[1:])
+                        except ValueError:
+                            pass
+                    raw_nome = hinos_nomes.get(hino) or hinos_nomes.get(num_key) or f"Hino {hino}"
+                    nome_hino = limpar_nome_hino(raw_nome)
+                    timestamp_str = formatar_timestamp(current_time)
+                    hino_str = str(hino).strip()
+                    if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+                        timeline.append(f"{timestamp_str} - Coro {int(hino_str[1:])} - {nome_hino}")
+                    else:
+                        timeline.append(f"{timestamp_str} - Hino {hino} - {nome_hino}")
+                    
+                    # Escrever no arquivo list para o concat
+                    f.write(f"file '{v_path.resolve()}'\n")
+                    
+                    # Obter duração
+                    dur = duracao_video(v_path)
+                    current_time += dur
+                    
+            # Gerar os capítulos no formato YouTube
+            capitulos_texto = "\n".join(timeline)
+            with open(capitulos_output, "w", encoding="utf-8") as f:
+                f.write(capitulos_texto + "\n")
+            print(f"  ✓ Capítulos salvos em {capitulos_output.relative_to(ROOT)}")
             
-        # 3. Concatenar vídeos e calcular os capítulos
-        timeline = []
-        current_time = 0.0
-        
-        # Criar arquivo de lista para o concat do ffmpeg
-        lista_txt = col_dir / "lista.txt"
-        with open(lista_txt, "w", encoding="utf-8") as f:
-            for hino, v_path in videos_locais:
+            # 4. Concatenar vídeos via ffmpeg se não existir ou se --forcar
+            if not video_output.exists() or args.forcar:
+                print("Concatenando vídeos com FFmpeg (sem re-codificação, lossless)...")
+                cmd = [
+                    "ffmpeg", "-y",
+                    "-f", "concat",
+                    "-safe", "0",
+                    "-i", str(lista_txt.resolve()),
+                    "-c", "copy",
+                    str(video_output.resolve())
+                ]
+                result = executar_ffmpeg(cmd, capture_output=True, text=True)
+                if result.returncode != 0:
+                    print(f"  ✗ ERRO na concatenação: {result.stderr}")
+                    liberar_lock(lock_path)
+                    locks_adquiridos = [lk for lk in locks_adquiridos if lk != lock_path]
+                    continue
+                else:
+                    print(f"  ✓ Vídeo concatenado salvo em {video_output.relative_to(ROOT)}")
+            else:
+                print("Vídeo concatenado já existe, pulando...")
+                
+            # Remover lista.txt temporário
+            if lista_txt.exists():
+                lista_txt.unlink()
+                
+            # 5. Gerar arquivo MD de metadados para o YouTube (title, description, tags)
+            print("Gerando metadados do YouTube...")
+            nome_exibicao = projeto_cfg.get("nome_exibicao", args.projeto)
+            yt_title = f"{nome_exibicao} | {titulo} | Hinos CCB"
+            
+            # Formatar a lista estruturada de hinos (bullet points) para a descrição
+            lista_hinos_desc = []
+            for hino in hinos_list:
                 num_key = hino
                 hino_str = str(hino).strip()
                 if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
@@ -640,208 +896,163 @@ def main():
                         pass
                 raw_nome = hinos_nomes.get(hino) or hinos_nomes.get(num_key) or f"Hino {hino}"
                 nome_hino = limpar_nome_hino(raw_nome)
-                timestamp_str = formatar_timestamp(current_time)
-                hino_str = str(hino).strip()
                 if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
-                    timeline.append(f"{timestamp_str} - Coro {int(hino_str[1:])} - {nome_hino}")
+                    lista_hinos_desc.append(f"• Coro {int(hino_str[1:])} - {nome_hino}")
                 else:
-                    timeline.append(f"{timestamp_str} - Hino {hino} - {nome_hino}")
-                
-                # Escrever no arquivo list para o concat
-                f.write(f"file '{v_path.resolve()}'\n")
-                
-                # Obter duração
-                dur = duracao_video(v_path)
-                current_time += dur
-                
-        # Gerar os capítulos no formato YouTube
-        capitulos_texto = "\n".join(timeline)
-        with open(capitulos_output, "w", encoding="utf-8") as f:
-            f.write(capitulos_texto + "\n")
-        print(f"  ✓ Capítulos salvos em {capitulos_output.relative_to(ROOT)}")
-        
-        # 4. Concatenar vídeos via ffmpeg se não existir ou se --forcar
-        if not video_output.exists() or args.forcar:
-            print("Concatenando vídeos com FFmpeg (sem re-codificação, lossless)...")
-            cmd = [
-                "ffmpeg", "-y",
-                "-f", "concat",
-                "-safe", "0",
-                "-i", str(lista_txt.resolve()),
-                "-c", "copy",
-                str(video_output.resolve())
+                    lista_hinos_desc.append(f"• Hino {hino} - {nome_hino}")
+            lista_hinos_formatada = "\n".join(lista_hinos_desc)
+            
+            yt_description = (
+                f"{nome_exibicao} — {titulo}\n"
+                f"{descricao_intro}\n\n"
+                f"🎹 Projeto: {nome_exibicao}\n"
+                f"📖 Hinário: Hinário 5\n\n"
+                f"Hinos contidos nesta coletânea:\n"
+                f"{lista_hinos_formatada}\n\n"
+                f"Capítulos (Timeline):\n"
+                f"{capitulos_texto}\n\n"
+                f"Que esta melodia instrumental possa trazer paz, comunhão e edificação ao seu coração.\n\n"
+                f"Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado."
+            )
+            
+            # Tags de no máximo 400 caracteres
+            tag_titulo_slug = remover_acentos(titulo).lower()
+            base_tags = [
+                f"coletanea {tag_titulo_slug}",
+                f"coletânea {titulo.lower()}",
+                "hinos ccb",
+                "hinos da ccb",
+                "ccb hinos",
+                "ccb instrumental",
+                "hinos instrumentais ccb",
+                "música instrumental cristã",
+                "musica instrumental crista",
+                "louvor instrumental",
+                "hinos para meditação",
+                "hinos para adoração",
+                "congregação cristã no brasil",
+                "congregacao crista no brasil",
+                "instrumental ccb",
+                nome_exibicao.lower(),
+                f"hinos {nome_exibicao.lower()}"
             ]
-            # Rodar subprocesso ocultando a saída verbosa
-            result = subprocess.run(cmd, capture_output=True, text=True)
-            if result.returncode != 0:
-                print(f"  ✗ ERRO na concatenação: {result.stderr}")
-            else:
-                print(f"  ✓ Vídeo concatenado salvo em {video_output.relative_to(ROOT)}")
-        else:
-            print("Vídeo concatenado já existe, pulando...")
             
-        # Remover lista.txt temporário
-        if lista_txt.exists():
-            lista_txt.unlink()
+            valid_tags = []
+            current_len = 0
+            for tag in base_tags:
+                tag = tag.strip()
+                if not tag:
+                    continue
+                added = len(tag) + (2 if valid_tags else 0)
+                if current_len + added <= 400:
+                    valid_tags.append(tag)
+                    current_len += added
+                else:
+                    break
+            yt_tags = ", ".join(valid_tags)
             
-        # 5. Gerar arquivo MD de metadados para o YouTube (title, description, tags)
-        print("Gerando metadados do YouTube...")
-        nome_exibicao = projeto_cfg.get("nome_exibicao", args.projeto)
-        yt_title = f"{nome_exibicao} | {titulo} | Hinos CCB"
-        
-        # Formatar a lista estruturada de hinos (bullet points) para a descrição
-        lista_hinos_desc = []
-        for hino in hinos_list:
-            num_key = hino
-            hino_str = str(hino).strip()
-            if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
-                try:
-                    num_key = int(hino_str[1:])
-                except ValueError:
-                    pass
-            raw_nome = hinos_nomes.get(hino) or hinos_nomes.get(num_key) or f"Hino {hino}"
-            nome_hino = limpar_nome_hino(raw_nome)
-            if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
-                lista_hinos_desc.append(f"• Coro {int(hino_str[1:])} - {nome_hino}")
-            else:
-                lista_hinos_desc.append(f"• Hino {hino} - {nome_hino}")
-        lista_hinos_formatada = "\n".join(lista_hinos_desc)
-        
-        yt_description = (
-            f"{nome_exibicao} — {titulo}\n"
-            f"{descricao_intro}\n\n"
-            f"🎹 Projeto: {nome_exibicao}\n"
-            f"📖 Hinário: Hinário 5\n\n"
-            f"Hinos contidos nesta coletânea:\n"
-            f"{lista_hinos_formatada}\n\n"
-            f"Capítulos (Timeline):\n"
-            f"{capitulos_texto}\n\n"
-            f"Que esta melodia instrumental possa trazer paz, comunhão e edificação ao seu coração.\n\n"
-            f"Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado."
-        )
-        
-        # Tags de no máximo 400 caracteres
-        tag_titulo_slug = remover_acentos(titulo).lower()
-        base_tags = [
-            f"coletanea {tag_titulo_slug}",
-            f"coletânea {titulo.lower()}",
-            "hinos ccb",
-            "hinos da ccb",
-            "ccb hinos",
-            "ccb instrumental",
-            "hinos instrumentais ccb",
-            "música instrumental cristã",
-            "musica instrumental crista",
-            "louvor instrumental",
-            "hinos para meditação",
-            "hinos para adoração",
-            "congregação cristã no brasil",
-            "congregacao crista no brasil",
-            "instrumental ccb",
-            nome_exibicao.lower(),
-            f"hinos {nome_exibicao.lower()}"
-        ]
-        
-        valid_tags = []
-        current_len = 0
-        for tag in base_tags:
-            tag = tag.strip()
-            if not tag:
-                continue
-            added = len(tag) + (2 if valid_tags else 0)
-            if current_len + added <= 400:
-                valid_tags.append(tag)
-                current_len += added
-            else:
-                break
-        yt_tags = ", ".join(valid_tags)
-        
-        # Criar o arquivo info.md
-        md_content = (
-            f"# Metadados para o YouTube\n\n"
-            f"## Título\n"
-            f"```text\n"
-            f"{yt_title}\n"
-            f"```\n\n"
-            f"## Descrição\n"
-            f"```text\n"
-            f"{yt_description}\n"
-            f"```\n\n"
-            f"## Tags ({len(yt_tags)} caracteres, máximo 400)\n"
-            f"```text\n"
-            f"{yt_tags}\n"
-            f"```\n"
-        )
-        
-        with open(info_output, "w", encoding="utf-8") as f:
-            f.write(md_content)
-        print(f"  ✓ Metadados salvos em {info_output.relative_to(ROOT)}")
+            # Criar o arquivo info.md
+            md_content = (
+                f"# Metadados para o YouTube\n\n"
+                f"## Título\n"
+                f"```text\n"
+                f"{yt_title}\n"
+                f"```\n\n"
+                f"## Descrição\n"
+                f"```text\n"
+                f"{yt_description}\n"
+                f"```\n\n"
+                f"## Tags ({len(yt_tags)} caracteres, máximo 400)\n"
+                f"```text\n"
+                f"{yt_tags}\n"
+                f"```\n"
+            )
+            
+            with open(info_output, "w", encoding="utf-8") as f:
+                f.write(md_content)
+            print(f"  ✓ Metadados salvos em {info_output.relative_to(ROOT)}")
 
-        # Guardar metadados para exportação do CSV no final
-        coletaneas_geradas.append({
-            "id": cid,
-            "video_file": video_output.name,
-            "titulo": yt_title,
-            "descricao": yt_description,
-            "capa_file": capa_output.name,
-            "nome_projeto": nome_exibicao,
-            "tags": yt_tags
-        })
+            # Guardar metadados para exportação do CSV no final
+            coletaneas_geradas.append({
+                "id": cid,
+                "video_file": video_output.name,
+                "video_path": video_output,
+                "titulo": yt_title,
+                "descricao": yt_description,
+                "capa_file": capa_output.name,
+                "capa_path": capa_output,
+                "nome_projeto": nome_exibicao,
+                "tags": yt_tags
+            })
 
-    # 6. Exportar o CSV de todas as coletâneas se houverem
-    if coletaneas_geradas:
-        csv_output_path = coletaneas_dir / "youtube_upload_coletaneas.csv"
-        print(f"\nExportando CSV geral das coletâneas para: {csv_output_path.relative_to(ROOT)}")
-        with open(csv_output_path, "w", newline="", encoding="utf-8-sig") as csv_f:
-            writer = csv.writer(csv_f)
-            writer.writerow([
-                "ID",
-                "Arquivo de vídeo",
-                "Arquivo de vídeo limpo",
-                "Título",
-                "Descrição",
-                "Miniatura",
-                "Nome do projeto",
-                "Tags",
-                "Data de publicação",
-                "Hora de publicação"
-            ])
-            for col in coletaneas_geradas:
-                v_file = col["video_file"]
-                stem = Path(v_file).stem
-                video_file_clean = stem.replace("-", " ").replace("_", " ")
-                video_file_clean = " ".join(video_file_clean.split())  # normalize spaces
-                
-                # Tags de no máximo 400 caracteres
-                tags = col["tags"]
-                if len(tags) > 400:
-                    parts = [t.strip() for t in tags.split(",") if t.strip()]
-                    valid_parts = []
-                    current_len = 0
-                    for part in parts:
-                        added_len = len(part) + (2 if valid_parts else 0)
-                        if current_len + added_len <= 400:
-                            valid_parts.append(part)
-                            current_len += added_len
-                        else:
-                            break
-                    tags = ", ".join(valid_parts)
-                    
+            # 7. Registrar no banco de dados para exportação CSV
+            registrar_coletanea_no_banco(conn, args.projeto, cid, video_output, capa_output)
+            print(f"  ✓ Coletânea {cid} registrada no banco de dados")
+
+            # Liberar lock desta coletânea
+            liberar_lock(lock_path)
+            locks_adquiridos = [lk for lk in locks_adquiridos if lk != lock_path]
+
+        # 6. Exportar o CSV de todas as coletâneas se houverem
+        if coletaneas_geradas:
+            csv_output_path = coletaneas_dir / "youtube_upload_coletaneas.csv"
+            print(f"\nExportando CSV geral das coletâneas para: {csv_output_path.relative_to(ROOT)}")
+            with open(csv_output_path, "w", newline="", encoding="utf-8-sig") as csv_f:
+                writer = csv.writer(csv_f)
                 writer.writerow([
-                    col["id"],
-                    v_file,
-                    video_file_clean,
-                    col["titulo"],
-                    col["descricao"],
-                    col["capa_file"],
-                    col["nome_projeto"],
-                    tags,
-                    "",  # data
-                    ""   # hora
+                    "ID",
+                    "Arquivo de vídeo",
+                    "Arquivo de vídeo limpo",
+                    "Título",
+                    "Descrição",
+                    "Miniatura",
+                    "Nome do projeto",
+                    "Tags",
+                    "Data de publicação",
+                    "Hora de publicação"
                 ])
-        print("  ✓ CSV exportado com sucesso!")
+                for col in coletaneas_geradas:
+                    v_file = col["video_file"]
+                    stem = Path(v_file).stem
+                    video_file_clean = stem.replace("-", " ").replace("_", " ")
+                    video_file_clean = " ".join(video_file_clean.split())
+                    
+                    tags = col["tags"]
+                    if len(tags) > 400:
+                        parts = [t.strip() for t in tags.split(",") if t.strip()]
+                        valid_parts = []
+                        current_len = 0
+                        for part in parts:
+                            added_len = len(part) + (2 if valid_parts else 0)
+                            if current_len + added_len <= 400:
+                                valid_parts.append(part)
+                                current_len += added_len
+                            else:
+                                break
+                        tags = ", ".join(valid_parts)
+                        
+                    writer.writerow([
+                        col["id"],
+                        v_file,
+                        video_file_clean,
+                        col["titulo"],
+                        col["descricao"],
+                        col["capa_file"],
+                        col["nome_projeto"],
+                        tags,
+                        "",  # data
+                        ""   # hora
+                    ])
+            print("  ✓ CSV exportado com sucesso!")
 
-    print("\n✓ Processamento de todas as coletâneas finalizado!")
+        print("\n✓ Processamento de todas as coletâneas finalizado!")
+
+    finally:
+        # Garantir liberação de todos os locks
+        for lk in locks_adquiridos:
+            liberar_lock(lk)
+        conn.close()
 
 if __name__ == "__main__":
     main()
+

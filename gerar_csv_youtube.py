@@ -113,6 +113,71 @@ def extrair_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: di
 
     return titulo, descricao, tags
 
+def extrair_metadados_coletanea(numero_col: str, projeto: str, projeto_cfg: dict, video_rel: str, thumb_rel: str) -> tuple[str, str, str]:
+    """Extrai metadados de uma coletânea a partir do info.md gerado pelo gerar_coletaneas.py."""
+    # O número é COL1, COL2, etc. — extrair o ID numérico
+    cid_str = numero_col.replace("COL", "")
+    try:
+        cid = int(cid_str)
+    except ValueError:
+        return f"Coletânea {numero_col}", "", ""
+
+    # Tentar ler info.md da coletânea
+    from gerar_coletaneas import COLETANEAS, gerar_slug_coletanea
+    col_def = COLETANEAS.get(cid)
+    if not col_def:
+        return f"Coletânea {numero_col}", "", ""
+
+    titulo_col = col_def["titulo"]
+    nome_exibicao = projeto_cfg.get("nome_exibicao", projeto)
+
+    # Procurar o info.md na pasta da coletânea
+    folder_name = f"{cid:02d} - {titulo_col}"
+    coletaneas_dir = ROOT / "output" / projeto / "coletaneas"
+    info_path = coletaneas_dir / folder_name / "info.md"
+
+    if info_path.exists():
+        # Parse info.md para extrair título, descrição e tags
+        content = info_path.read_text(encoding="utf-8")
+        titulo = ""
+        descricao = ""
+        tags = ""
+
+        import re as _re
+        secoes = _re.split(r'^## ', content, flags=_re.MULTILINE)
+        for secao in secoes:
+            lines = secao.strip().splitlines()
+            if not lines:
+                continue
+            header = lines[0].strip().lower()
+            # Extrair conteúdo entre ```text e ```
+            body_lines = []
+            in_code = False
+            for line in lines[1:]:
+                if line.strip() == "```text":
+                    in_code = True
+                    continue
+                elif line.strip() == "```":
+                    in_code = False
+                    continue
+                if in_code:
+                    body_lines.append(line)
+            body = "\n".join(body_lines).strip()
+
+            if "título" in header or "titulo" in header:
+                titulo = body
+            elif "descrição" in header or "descricao" in header:
+                descricao = body
+            elif "tags" in header:
+                tags = body
+
+        return titulo, descricao, tags
+
+    # Fallback: gerar título básico
+    yt_title = f"{nome_exibicao} | {titulo_col} | Hinos CCB"
+    return yt_title, col_def.get("descricao_intro", ""), ""
+
+
 def main():
     parser = argparse.ArgumentParser(description="Exporta metadados do YouTube para CSV.")
     parser.add_argument("--projeto", required=True, help="Nome do projeto (ex: piano_yamaha)")
@@ -139,12 +204,23 @@ def main():
         print(f"Nenhum vídeo concluído encontrado para o projeto '{projeto}'.")
         sys.exit(0)
 
+    # Separar hinos/coros de coletâneas
+    hinos_rows = []
+    coletaneas_rows = []
+    for row in rows:
+        numero = str(row["numero"])
+        if numero.upper().startswith("COL"):
+            coletaneas_rows.append(row)
+        else:
+            hinos_rows.append(row)
+
     # Definir caminhos das pastas de saída
     proj_outputs = ROOT / "projects" / projeto / "outputs"
     proj_outputs.mkdir(parents=True, exist_ok=True)
     csv_out_path = proj_outputs / "youtube_upload.csv"
 
-    print(f"Exportando metadados de {len(rows)} vídeos concluídos para {csv_out_path.relative_to(ROOT)}...")
+    total = len(hinos_rows) + len(coletaneas_rows)
+    print(f"Exportando metadados de {total} itens ({len(hinos_rows)} hinos/coros + {len(coletaneas_rows)} coletâneas) para {csv_out_path.relative_to(ROOT)}...")
 
     headers = ["hino_numero", "titulo", "descricao", "tags", "caminho_video", "caminho_thumbnail"]
 
@@ -152,17 +228,52 @@ def main():
         writer = csv.writer(f)
         writer.writerow(headers)
 
-        for row in rows:
+        # 1. Hinos e Coros
+        for row in hinos_rows:
             numero = row["numero"]
             video_rel = row["output"]
             thumb_rel = row["thumb_file"]
 
-            nome_raw = hinos_csv.get(numero) or hinos_csv.get(str(numero)) or f"Hino {numero}"
-            nome = limpar_nome_hino(nome_raw)
+            # Para coros com número "C1", "C2" etc., buscar no CSV de coros
+            num_str = str(numero).strip()
+            is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
 
+            if is_coro:
+                # Buscar nome do coro no CSV
+                try:
+                    num_key = int(num_str[1:])
+                except ValueError:
+                    num_key = numero
+                nome_raw = hinos_csv.get(num_key) or hinos_csv.get(numero) or f"Coro {num_str}"
+            else:
+                nome_raw = hinos_csv.get(numero) or hinos_csv.get(str(numero)) or f"Hino {numero}"
+
+            nome = limpar_nome_hino(nome_raw)
             titulo, descricao, tags = extrair_metadados(numero, nome, projeto, projeto_cfg)
 
             # Obter caminhos absolutos
+            video_abs = str(ROOT / video_rel) if video_rel else ""
+            thumb_abs = str(ROOT / thumb_rel) if thumb_rel else ""
+
+            writer.writerow([
+                numero,
+                titulo,
+                descricao,
+                tags,
+                video_abs,
+                thumb_abs
+            ])
+
+        # 2. Coletâneas
+        for row in coletaneas_rows:
+            numero = row["numero"]  # "COL1", "COL2", etc.
+            video_rel = row["output"]
+            thumb_rel = row["thumb_file"]
+
+            titulo, descricao, tags = extrair_metadados_coletanea(
+                str(numero), projeto, projeto_cfg, video_rel, thumb_rel
+            )
+
             video_abs = str(ROOT / video_rel) if video_rel else ""
             thumb_abs = str(ROOT / thumb_rel) if thumb_rel else ""
 
@@ -179,3 +290,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

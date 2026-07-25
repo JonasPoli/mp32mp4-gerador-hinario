@@ -33,10 +33,37 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
+# Coordenação com outros scripts (lock por hino)
+LOCK_DIR="/tmp/hinario-locks"
+mkdir -p "$LOCK_DIR"
+_MY_LOCKS=()
+
+# Limpar locks órfãos (crash/reboot anterior)
+for _stale in "$LOCK_DIR"/*.lock; do
+    [ -d "$_stale" ] || continue
+    _pid_file="$_stale/pid"
+    if [ -f "$_pid_file" ]; then
+        _old_pid=$(cat "$_pid_file" 2>/dev/null)
+        if [ -n "$_old_pid" ] && ! kill -0 "$_old_pid" 2>/dev/null; then
+            rm -f "$_pid_file"
+            rmdir "$_stale" 2>/dev/null && echo "  🧹 Lock órfão removido: $(basename "$_stale")" || true
+        fi
+    else
+        # Lock sem PID — com certeza órfão
+        rmdir "$_stale" 2>/dev/null && echo "  🧹 Lock órfão removido: $(basename "$_stale")" || true
+    fi
+done
+
 # Inicializar monitor de recursos de hardware
 mkdir -p logs
 MONITOR_PID=""
 cleanup() {
+    # Liberar locks de hinos
+    for _lk in "${_MY_LOCKS[@]}"; do
+        rm -f "$_lk/pid" 2>/dev/null
+        rmdir "$_lk" 2>/dev/null || true
+    done
+    # Parar monitor de recursos
     if [ -n "$MONITOR_PID" ]; then
         echo ""
         echo "  ⏹ Parando o monitor de recursos (PID: $MONITOR_PID)..."
@@ -62,6 +89,7 @@ PROJETOS=(
     "sopro"
     "orquestra"
     "meia_hora"
+    "coros"
 )
 
 echo ""
@@ -84,8 +112,13 @@ for PROJETO in "${PROJETOS[@]}"; do
     echo "│  [$PROJETO_ATUAL/$TOTAL_PROJETOS] Projeto: $PROJETO"
     echo "└──────────────────────────────────────────────────────────────────┘"
 
-    # Verificar se o diretório de inputs existe
-    INPUTS_DIR="projects/$PROJETO/inputs"
+    # Verificar se o diretório de inputs existe (ler de config.json se possível)
+    CONFIG_JSON="projects/$PROJETO/config.json"
+    if [ -f "$CONFIG_JSON" ]; then
+        INPUTS_DIR=$($PYTHON -c "import json; d=json.load(open('$CONFIG_JSON')); print(d.get('mp3_dir', d.get('inputs_dir', 'projects/$PROJETO/inputs')))" 2>/dev/null || echo "projects/$PROJETO/inputs")
+    else
+        INPUTS_DIR="projects/$PROJETO/inputs"
+    fi
     if [ ! -d "$INPUTS_DIR" ]; then
         echo "  ⚠️  Diretório de inputs não encontrado: $INPUTS_DIR — Pulando."
         continue
@@ -164,6 +197,16 @@ conn.close()
             continue
         fi
 
+        # Tentar lock por hino (mkdir atômico) — pular se outro processo já está trabalhando
+        HINO_LOCK="$LOCK_DIR/${PROJETO}-${NUMERO}.lock"
+        if ! mkdir "$HINO_LOCK" 2>/dev/null; then
+            echo "  ⏭ Hino $NUM_FMT ($PROJETO) — em uso por outro processo, pulando."
+            PULADOS=$((PULADOS + 1))
+            continue
+        fi
+        echo $$ > "$HINO_LOCK/pid"
+        _MY_LOCKS+=("$HINO_LOCK")
+
         PROCESSADOS=$((PROCESSADOS + 1))
         RESTANTES=$((TOTAL_JSON - PROCESSADOS - PULADOS - ERROS))
 
@@ -181,6 +224,9 @@ conn.close()
                 if ! $PYTHON gerar_videos.py --projeto "$PROJETO" --apenas "$NUMERO" --sem-download "${EXTRA_ARGS[@]}"; then
                     echo "  ✗ Falha ao gerar vídeo base para hino $NUMERO"
                     ERROS=$((ERROS + 1))
+                    rm -f "$HINO_LOCK/pid" 2>/dev/null
+                    rmdir "$HINO_LOCK" 2>/dev/null || true
+                    _MY_LOCKS=("${_MY_LOCKS[@]/$HINO_LOCK}")
                     continue
                 fi
             else
@@ -192,6 +238,9 @@ conn.close()
         if [ ! -f "$BASE_VIDEO" ]; then
             echo "  ✗ Vídeo base não encontrado: $BASE_VIDEO — Pulando."
             ERROS=$((ERROS + 1))
+            rm -f "$HINO_LOCK/pid" 2>/dev/null
+            rmdir "$HINO_LOCK" 2>/dev/null || true
+            _MY_LOCKS=("${_MY_LOCKS[@]/$HINO_LOCK}")
             continue
         fi
 
@@ -214,6 +263,11 @@ conn.close()
             echo "  ✗ Falha ao embutir legenda para hino $NUMERO"
             ERROS=$((ERROS + 1))
         fi
+
+        # Liberar lock deste hino
+        rm -f "$HINO_LOCK/pid" 2>/dev/null
+        rmdir "$HINO_LOCK" 2>/dev/null || true
+        _MY_LOCKS=("${_MY_LOCKS[@]/$HINO_LOCK}")
     done 3< <(find "$INPUTS_DIR" -maxdepth 1 -name "*.json" ! -name "._*" -print0 | sort -z)
 
     echo ""
@@ -225,7 +279,48 @@ conn.close()
     echo "  ────────────────────────────────────────────────────────────"
 done
 
+# =============================================================================
+# Fase 2: Gerar coletâneas (vídeos concatenados) para cada projeto
+# =============================================================================
 echo ""
 echo "══════════════════════════════════════════════════════════════════"
-echo "  ✅  Pipeline completo! Todos os projetos foram processados."
+echo "  📦  Fase 2: Gerando coletâneas de hinos para cada projeto..."
+echo "══════════════════════════════════════════════════════════════════"
+echo ""
+
+for PROJETO in "${PROJETOS[@]}"; do
+    # Pular projetos que não geram coletâneas (coros não têm coletâneas próprias,
+    # e meia_hora já é um tipo de compilação)
+    if [ "$PROJETO" = "coros" ] || [ "$PROJETO" = "meia_hora" ]; then
+        continue
+    fi
+
+    # Verificar se há vídeos concluídos para este projeto antes de gerar coletâneas
+    CONCLUIDOS=$($PYTHON -c "
+import sqlite3
+conn = sqlite3.connect('progresso.db')
+r = conn.execute(\"SELECT COUNT(*) FROM videos WHERE projeto=? AND status='concluido'\", ('$PROJETO',)).fetchone()
+print(r[0] if r else 0)
+conn.close()
+" 2>/dev/null || echo "0")
+
+    if [ "$CONCLUIDOS" -eq 0 ]; then
+        echo "  ⏭ Projeto '$PROJETO' — nenhum vídeo concluído, pulando coletâneas."
+        continue
+    fi
+
+    echo ""
+    echo "  ┌──────────────────────────────────────────────────────────────────┐"
+    echo "  │  Coletâneas: $PROJETO ($CONCLUIDOS vídeos concluídos)"
+    echo "  └──────────────────────────────────────────────────────────────────┘"
+
+    echo "{\"projeto\": \"$PROJETO\", \"fase\": \"gerando coletaneas\"}" > logs/current_state.json
+    $PYTHON gerar_coletaneas.py --projeto "$PROJETO" "${EXTRA_ARGS[@]}" || {
+        echo "  ⚠️  Falha ao gerar coletâneas para o projeto '$PROJETO'."
+    }
+done
+
+echo ""
+echo "══════════════════════════════════════════════════════════════════"
+echo "  ✅  Pipeline completo! Todos os projetos e coletâneas foram processados."
 echo "══════════════════════════════════════════════════════════════════"

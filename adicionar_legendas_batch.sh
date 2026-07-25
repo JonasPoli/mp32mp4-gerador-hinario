@@ -59,33 +59,36 @@ echo "  Projetos: $PROJETOS"
 echo "══════════════════════════════════════════════════════════════════"
 echo ""
 
-# ── 1. Resetar status dos vídeos afetados ─────────────────────────────────────
-# Muda de 'concluido' para 'base_pronto' para que o gerar_legendas.py
-# possa re-processá-los e marcá-los como 'concluido' de verdade.
-echo "  🔄 Resetando status dos projetos afetados no banco de dados..."
-$PYTHON -c "
-import sqlite3
-conn = sqlite3.connect('progresso.db')
-projetos = '$PROJETOS'.split()
-for proj in projetos:
-    # Contar quantos serão resetados
-    cnt = conn.execute(
-        \"SELECT COUNT(*) FROM videos WHERE projeto=? AND status='concluido'\",
-        (proj,)
-    ).fetchone()[0]
-    
-    # Resetar: concluido -> base_pronto (mantém output/mp3_file intactos)
-    conn.execute(
-        \"UPDATE videos SET status='base_pronto' WHERE projeto=? AND status='concluido'\",
-        (proj,)
-    )
-    conn.commit()
-    print(f'  ✓ {proj}: {cnt} hinos resetados de concluido → base_pronto')
-conn.close()
-"
-echo ""
+# ── Coordenação com outros scripts (lock por hino) ────────────────────────────
+LOCK_DIR="/tmp/hinario-locks"
+mkdir -p "$LOCK_DIR"
+_MY_LOCKS=()
 
-# ── 2. Processar cada projeto ─────────────────────────────────────────────────
+# Limpar locks órfãos (crash/reboot anterior)
+for _stale in "$LOCK_DIR"/*.lock; do
+    [ -d "$_stale" ] || continue
+    _pid_file="$_stale/pid"
+    if [ -f "$_pid_file" ]; then
+        _old_pid=$(cat "$_pid_file" 2>/dev/null)
+        if [ -n "$_old_pid" ] && ! kill -0 "$_old_pid" 2>/dev/null; then
+            rm -f "$_pid_file"
+            rmdir "$_stale" 2>/dev/null && echo "  🧹 Lock órfão removido: $(basename "$_stale")" || true
+        fi
+    else
+        # Lock sem PID — com certeza órfão
+        rmdir "$_stale" 2>/dev/null && echo "  🧹 Lock órfão removido: $(basename "$_stale")" || true
+    fi
+done
+
+release_my_locks() {
+    for _lk in "${_MY_LOCKS[@]}"; do
+        rm -f "$_lk/pid" 2>/dev/null
+        rmdir "$_lk" 2>/dev/null || true
+    done
+}
+trap release_my_locks EXIT INT TERM
+
+# ── 1. Processar cada projeto ─────────────────────────────────────────────────
 TOTAL_GERAL=0
 ERROS_GERAL=0
 START_GLOBAL=$(date +%s)
@@ -168,6 +171,16 @@ conn.close()
             continue
         fi
 
+        # Tentar lock por hino (mkdir atômico) — pular se outro processo já está trabalhando
+        HINO_LOCK="$LOCK_DIR/${PROJETO}-${NUMERO}.lock"
+        if ! mkdir "$HINO_LOCK" 2>/dev/null; then
+            echo "  ⏭ Hino $NUM_FMT ($PROJETO) — em uso por outro processo, pulando."
+            PULADOS=$((PULADOS + 1))
+            continue
+        fi
+        echo $$ > "$HINO_LOCK/pid"
+        _MY_LOCKS+=("$HINO_LOCK")
+
         PROCESSADOS=$((PROCESSADOS + 1))
         RESTANTES=$((TOTAL_JSON - PROCESSADOS - PULADOS))
 
@@ -192,6 +205,11 @@ conn.close()
             echo "  ✗ Falha ao embutir legenda para hino $NUMERO"
             ERROS=$((ERROS + 1))
         fi
+
+        # Liberar lock deste hino
+        rm -f "$HINO_LOCK/pid" 2>/dev/null
+        rmdir "$HINO_LOCK" 2>/dev/null || true
+        _MY_LOCKS=("${_MY_LOCKS[@]/$HINO_LOCK}")
 
         # Pausa entre hinos para resfriamento
         if (( $(echo "$PAUSA_ENTRE_HINOS > 0" | bc -l 2>/dev/null || echo 0) )); then
