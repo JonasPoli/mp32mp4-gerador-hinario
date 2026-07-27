@@ -702,9 +702,10 @@ def main():
     
     print(f"Iniciando gerador de coletâneas para o projeto '{args.projeto}'...")
     
-    # Resolver caminhos específicos do projeto
+     # Resolver caminhos específicos do projeto
     videos_dir = ROOT / "output" / args.projeto
     coletaneas_dir = ROOT / "output" / args.projeto / "coletaneas"
+    thumbs_dir = ROOT / "output" / args.projeto / "thumbs"
     
     # Fallback para o diretório antigo projects/ se não houver vídeos na pasta output/
     if not (videos_dir.exists() and any(videos_dir.glob("*.mp4"))):
@@ -712,8 +713,10 @@ def main():
         if proj_dir.exists():
             videos_dir = proj_dir / "outputs" / "videos"
             coletaneas_dir = proj_dir / "outputs" / "coletaneas"
+            thumbs_dir = proj_dir / "outputs" / "thumbs"
         
     coletaneas_dir.mkdir(parents=True, exist_ok=True)
+    thumbs_dir.mkdir(parents=True, exist_ok=True)
     
     coletaneas_geradas = []
     
@@ -727,22 +730,31 @@ def main():
             hinos_list = col["hinos"]
             descricao_intro = col["descricao_intro"]
             
+            # Pasta de metadados (info.md, capitulos.txt) fica em coletaneas/
             folder_name = f"{cid:02d} - {titulo}"
             col_dir = coletaneas_dir / folder_name
             col_dir.mkdir(parents=True, exist_ok=True)
             
-            video_output = col_dir / f"{titulo} - {args.projeto}.mp4"
-            slug_capa = gerar_slug_coletanea(cid, titulo)
-            capa_output = col_dir / f"{slug_capa}.png"
+            # MP4 vai na mesma pasta dos hinos: output/{projeto}/coletanea-{projeto}-{NN}.mp4
+            cid_fmt = f"{cid:02d}"
+            video_output = videos_dir / f"coletanea-{args.projeto}-{cid_fmt}.mp4"
+            # Thumb vai na mesma pasta das thumbs de hinos: output/{projeto}/thumbs/coletanea-{projeto}-{NN}.png
+            capa_output = thumbs_dir / f"coletanea-{args.projeto}-{cid_fmt}.png"
             info_output = col_dir / "info.md"
             capitulos_output = col_dir / "capitulos.txt"
 
-            # Renomear capa.png genérica para slug único, se existir
-            capa_legada = col_dir / "capa.png"
-            if capa_legada.exists() and not capa_output.exists():
-                capa_legada.rename(capa_output)
-                print(f"  → Capa renomeada: capa.png → {capa_output.name}")
-            
+
+            # Verificar se já está tudo pronto (antes de tentar lock)
+            numero_col = f"COL{cid}"
+            ja_no_banco = conn.execute(
+                "SELECT 1 FROM videos WHERE projeto = ? AND numero = ? AND status = 'concluido'",
+                (args.projeto, numero_col),
+            ).fetchone()
+
+            if video_output.exists() and capa_output.exists() and ja_no_banco and not args.forcar:
+                print(f"\n  ✓ Coletânea {cid} ({args.projeto}) — já concluída, pulando.")
+                continue
+
             # Tentar lock para paralelismo
             lock_path = adquirir_lock(args.projeto, cid)
             if lock_path is None:

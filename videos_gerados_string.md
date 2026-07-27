@@ -26310,3 +26310,525 @@ hino 457, hino 457 ccb, Comigo está Jesus, comigo esta jesus, Hinário 5, hinar
 
 ---
 
+# C1
+
+## Título para o vídeo
+Hino C1 - Aleluia! Aleluia | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C1 - Aleluia! Aleluia
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C1, “Aleluia! Aleluia”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C1
+📖 Hinário: Hinário 5
+🎶 Título: Aleluia! Aleluia
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor,
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor
+Glória ao Redentor! Aleluia!
+Santo Remidor! Aleluia!
+Nosso Salvador! Aleluia!
+Glória a Jesus!
+
+#HinoC1 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C1, hino C1 ccb, Aleluia! Aleluia, aleluia! aleluia, Hinário 5, hinario C1, ccb hino C1, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C2
+
+## Título para o vídeo
+Hino C2 - Toda a glória a Jesus | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C2 - Toda a glória a Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C2, “Toda a glória a Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C2
+📖 Hinário: Hinário 5
+🎶 Título: Toda a glória a Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Toda a glória a Jesus!
+Toda a honra a Jesus!
+Juntos louvemos a Jesus
+Seu Santo Nome vamos exaltar.
+
+#HinoC2 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C2, hino C2 ccb, Toda a glória a Jesus, toda a gloria a jesus, Hinário 5, hinario C2, ccb hino C2, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C3
+
+## Título para o vídeo
+Hino C3 - Ação de graças darei | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C3 - Ação de graças darei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C3, “Ação de graças darei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C3
+📖 Hinário: Hinário 5
+🎶 Título: Ação de graças darei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ação de graças darei
+A Jesus, meu Pastor, meu Rei;
+As Suas obras contarei,
+Seu Nome exaltarei!
+
+#HinoC3 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C3, hino C3 ccb, Ação de graças darei, acao de gracas darei, Hinário 5, hinario C3, ccb hino C3, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C4
+
+## Título para o vídeo
+Hino C4 - Glória glória nas alturas | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C4 - Glória glória nas alturas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C4, “Glória glória nas alturas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C4
+📖 Hinário: Hinário 5
+🎶 Título: Glória glória nas alturas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Glória, glória nas alturas!
+Glória, glória ao nosso Deus!
+Salvação nos preparou por Jesus, que nos amou;
+Glória ao Deus vivente que está nos céus!
+
+#HinoC4 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C4, hino C4 ccb, Glória glória nas alturas, gloria gloria nas alturas, Hinário 5, hinario C4, ccb hino C4, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C5
+
+## Título para o vídeo
+Hino C5 - Majestoso é Cristo Jesus | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C5 - Majestoso é Cristo Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C5, “Majestoso é Cristo Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C5
+📖 Hinário: Hinário 5
+🎶 Título: Majestoso é Cristo Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Majestoso é Cristo Jesus, o Senhor,
+Majestoso é Cristo Jesus;
+O poder Deus Lhe deu, quer na terra, quer no céu,
+Majestoso é Cristo Jesus!
+
+#HinoC5 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C5, hino C5 ccb, Majestoso é Cristo Jesus, majestoso e cristo jesus, Hinário 5, hinario C5, ccb hino C5, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C6
+
+## Título para o vídeo
+Hino C6 - A Jesus eu cantarei louvor | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino C6 - A Jesus eu cantarei louvor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino C6, “A Jesus eu cantarei louvor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: C6
+📖 Hinário: Hinário 5
+🎶 Título: A Jesus eu cantarei louvor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A Jesus eu cantarei louvor;
+Honra e glória sempre Lhe darei;
+Exaltarei ao meu Senhor;
+O Seu Nome bendirei.
+
+#HinoC6 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C6, hino C6 ccb, A Jesus eu cantarei louvor, a jesus eu cantarei louvor, Hinário 5, hinario C6, ccb hino C6, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 369
+
+## Título para o vídeo
+Hino 369 - Sentes bater em teu coração? | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 369 - Sentes bater em teu coração?
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 369, “Sentes bater em teu coração?”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 369
+📖 Hinário: Hinário 5
+🎶 Título: Sentes bater em teu coração?
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo bate e quer entrar,
+Quer te remir, por Seu amor,
+Para te reconciliar
+Com Deus, o Pai, o Formador.
+
+Sentes bater em teu coração?
+Esse é o chamado do Senhor.
+Tens, por Ele, a salvação
+E o perdão do Criador.
+
+2. Jesus Cristo, o Rei da paz,
+A salvação veio te dar;
+Seu amor feliz te faz,
+Pois quer, em Ti, sempre habitar.
+
+3. Vem a Cristo, o Redentor,
+Dá-Lhe, por fé, teu coração;
+Reconhece o Seu amor;
+Tens, em Jesus, a redenção.
+
+#Hino369 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 369, hino 369 ccb, Sentes bater em teu coração?, sentes bater em teu coracao?, Hinário 5, hinario 369, ccb hino 369, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 359
+
+## Título para o vídeo
+Hino 359 - Ó irmãos, de Deus diletos | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 359 - Ó irmãos, de Deus diletos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 359, “Ó irmãos, de Deus diletos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 359
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, de Deus diletos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, de Deus diletos,
+Fomos já por graça eleitos;
+Cristo nos fará perfeitos
+Se O servimos pela fé
+
+Coro:
+A nosso Deus cantemos louvor,
+Por Seu amor, por Sua mercê;
+Vamos servir ao bom Criador
+E a Jesus, Autor da fé.
+
+2. Nosso Deus tem nos amado
+E nos tem justificado
+Por Jesus, o consagrado,
+O Cordeiro Remidor.
+
+3. Deus, o Pai, regenerou-nos,
+Em Jesus predestinou-se;
+Seu Espírito enviou-nos,
+Para a eterna redenção.
+
+#Hino359 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 359, hino 359 ccb, Ó irmãos, de Deus diletos, o irmaos, de deus diletos, Hinário 5, hinario 359, ccb hino 359, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 359
+
+## Título para o vídeo
+Hino 359 - Ó irmãos, de Deus diletos | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 359 - Ó irmãos, de Deus diletos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 359, “Ó irmãos, de Deus diletos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 359
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, de Deus diletos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, de Deus diletos,
+Fomos já por graça eleitos;
+Cristo nos fará perfeitos
+Se O servimos pela fé
+
+Coro:
+A nosso Deus cantemos louvor,
+Por Seu amor, por Sua mercê;
+Vamos servir ao bom Criador
+E a Jesus, Autor da fé.
+
+2. Nosso Deus tem nos amado
+E nos tem justificado
+Por Jesus, o consagrado,
+O Cordeiro Remidor.
+
+3. Deus, o Pai, regenerou-nos,
+Em Jesus predestinou-se;
+Seu Espírito enviou-nos,
+Para a eterna redenção.
+
+#Hino359 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 359, hino 359 ccb, Ó irmãos, de Deus diletos, o irmaos, de deus diletos, Hinário 5, hinario 359, ccb hino 359, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 359
+
+## Título para o vídeo
+Hino 359 - Ó irmãos, de Deus diletos | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 359 - Ó irmãos, de Deus diletos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 359, “Ó irmãos, de Deus diletos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 359
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, de Deus diletos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmãos, de Deus diletos,
+Fomos já por graça eleitos;
+Cristo nos fará perfeitos
+Se O servimos pela fé
+
+Coro:
+A nosso Deus cantemos louvor,
+Por Seu amor, por Sua mercê;
+Vamos servir ao bom Criador
+E a Jesus, Autor da fé.
+
+2. Nosso Deus tem nos amado
+E nos tem justificado
+Por Jesus, o consagrado,
+O Cordeiro Remidor.
+
+3. Deus, o Pai, regenerou-nos,
+Em Jesus predestinou-se;
+Seu Espírito enviou-nos,
+Para a eterna redenção.
+
+#Hino359 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 359, hino 359 ccb, Ó irmãos, de Deus diletos, o irmaos, de deus diletos, Hinário 5, hinario 359, ccb hino 359, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 369
+
+## Título para o vídeo
+Hino 369 - Sentes bater em teu coração? | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 369 - Sentes bater em teu coração?
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 369, “Sentes bater em teu coração?”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 369
+📖 Hinário: Hinário 5
+🎶 Título: Sentes bater em teu coração?
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Cristo bate e quer entrar,
+Quer te remir, por Seu amor,
+Para te reconciliar
+Com Deus, o Pai, o Formador.
+
+Sentes bater em teu coração?
+Esse é o chamado do Senhor.
+Tens, por Ele, a salvação
+E o perdão do Criador.
+
+2. Jesus Cristo, o Rei da paz,
+A salvação veio te dar;
+Seu amor feliz te faz,
+Pois quer, em Ti, sempre habitar.
+
+3. Vem a Cristo, o Redentor,
+Dá-Lhe, por fé, teu coração;
+Reconhece o Seu amor;
+Tens, em Jesus, a redenção.
+
+#Hino369 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 369, hino 369 ccb, Sentes bater em teu coração?, sentes bater em teu coracao?, Hinário 5, hinario 369, ccb hino 369, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+

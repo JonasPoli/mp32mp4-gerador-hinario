@@ -30,6 +30,21 @@ THREADS_FFMPEG   = 2
 LOW_PRIORITY     = False
 PAUSA_ENTRE_HINOS = 0.0
 
+def is_video_valid(video_path: Path) -> bool:
+    """Verifica via ffprobe se o vídeo existe, não é 0 bytes e possui cabeçalhos válidos."""
+    if not video_path.exists() or video_path.stat().st_size < 1000:
+        return False
+    try:
+        res = subprocess.run([
+            "ffprobe", "-v", "error",
+            "-show_entries", "format=duration",
+            "-of", "default=noprint_wrappers=1:nokey=1",
+            str(video_path)
+        ], capture_output=True, text=True, timeout=10)
+        return res.returncode == 0 and bool(res.stdout.strip())
+    except Exception:
+        return False
+
 def executar_ffmpeg(cmd: list, **kwargs):
     """
     Executa o FFmpeg com controle de threads, preset, prioridade e cooldown.
@@ -579,41 +594,51 @@ def main():
         print(f"[erro] Vídeo original não encontrado. Certifique-se de gerar o vídeo primeiro usando gerar_videos.py.")
         tmp_ass.unlink(missing_ok=True)
         sys.exit(1)
-        
+
+    # Validar se o vídeo original não está corrompido pós-crash do sistema
+    if not is_video_valid(video_original):
+        print(f"[erro] Vídeo original '{video_original.name}' está corrompido ou incompleto (pós-crash). Removendo para regeração...")
+        video_original.unlink(missing_ok=True)
+        tmp_ass.unlink(missing_ok=True)
+        sys.exit(1)
+
     # 6. Define arquivo de saída — sempre usa formato padronizado hino-{projeto}-{NNN}.mp4
     if args.saida_legendado:
         video_saida = Path(args.saida_legendado)
     else:
         video_saida = ROOT / "output" / projeto / f"hino-{projeto}-{num_fmt}.mp4"
-        
+
     video_saida.parent.mkdir(parents=True, exist_ok=True)
-    
-    # Se o nome de saída coincide com o vídeo base, usar um temporário intermediário
+
+    pid = os.getpid()
+    # Usar temporário isolado por PID para escrita atômica
     mesmo_arquivo = video_original.resolve() == video_saida.resolve()
     if mesmo_arquivo:
-        video_saida_temp = video_saida.with_name(f"_legendado_{video_saida.name}")
+        video_saida_temp = video_saida.with_name(f"_legendado_{pid}_{video_saida.name}")
     else:
-        video_saida_temp = video_saida
-    
+        video_saida_temp = video_saida.with_name(f"_tmp_out_{pid}_{video_saida.name}")
+
     # 7. Executa o FFmpeg para embutir as legendas
+    sucesso = False
     try:
         embutir_legenda_no_video(video_original, tmp_ass, video_saida_temp)
-        
-        # Se usou temporário, substituir o original pelo legendado
+
+        # Substituir/mover atômico
         if mesmo_arquivo:
             video_original.unlink(missing_ok=True)
-            video_saida_temp.rename(video_saida)
-            print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
+            video_saida_temp.replace(video_saida)
         else:
-            print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
-            # Deletar o vídeo base original para que fique apenas o legendado final
+            video_saida_temp.replace(video_saida)
             if video_original.exists():
                 try:
                     video_original.unlink()
                     print(f"  [limpeza] Removido vídeo base temporário: {video_original.name}")
                 except Exception as clean_err:
                     print(f"  [aviso] Falha ao limpar vídeo base '{video_original.name}': {clean_err}")
-        
+
+        print(f"\n✅ Vídeo legendado gerado com sucesso em: {video_saida.relative_to(ROOT)}")
+        sucesso = True
+
         # Atualizar banco de dados: marcar como concluído
         try:
             import sqlite3
@@ -634,12 +659,14 @@ def main():
             print(f"  [aviso] Falha ao atualizar banco: {db_err}")
     except Exception as e:
         print(f"\n✗ Erro ao gerar vídeo legendado: {e}")
+        video_saida_temp.unlink(missing_ok=True)
     finally:
         # Limpar arquivo temporário de legendas
         tmp_ass.unlink(missing_ok=True)
         if PAUSA_ENTRE_HINOS > 0:
             print(f"  [cooldown] Pausando {PAUSA_ENTRE_HINOS}s para resfriar a CPU...")
-            time.sleep(PAUSA_ENTRE_HINOS)
+        if not sucesso:
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()

@@ -36345,3 +36345,963 @@ hino 223, hino 223 ccb, Muitos, por fé, aceitaram Jesus, muitos, por fe, aceita
 
 ---
 
+# 141
+
+## Título para o vídeo
+Hino 141 - Cristo, o Verbo | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 141 - Cristo, o Verbo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 141, “Cristo, o Verbo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 141
+📖 Hinário: Hinário 5
+🎶 Título: Cristo, o Verbo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O verbo estava com Deus, Criador,
+O Verbo também era Deus;
+Das alturas desceu para o Redentor.
+Trazendo a justiça dos céus.
+
+Cristo, o Verbo, dos céus desceu,
+Foi feito carne e vida nos deu;
+Veio ao mundo a fim de vencer,
+Cheio de graça, verdade e poder.
+
+2. O Verbo de Deus entre nós habitou;
+Aqui sua glória se viu;
+O unigênito Filho de Deus se mostrou,
+Depois, para a glória subiu.
+
+3. Aos que receberam Jesus, o Senhor,
+Estão reservados os céus;
+São herdeiros da glória com seu Redentor,
+São todos nascidos de Deus.
+
+#Hino141 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 141, hino 141 ccb, Cristo, o Verbo, cristo, o verbo, Hinário 5, hinario 141, ccb hino 141, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# 134
+
+## Título para o vídeo
+Hino 134 - Teu amor, ó Cordeiro divinal | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 134 - Teu amor, ó Cordeiro divinal
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 134, “Teu amor, ó Cordeiro divinal”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 134
+📖 Hinário: Hinário 5
+🎶 Título: Teu amor, ó Cordeiro divinal
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que obra pode se igualar àquela sobre a cruz?
+Que morte pode resgatar senão a de Jesus?
+
+Teu amor, Teu amor, ó Cordeiro divinal,
+Só agora é que posso entender.
+Tu pagaste a Deus meu pecado, meu mal,
+E fizeste feliz o meu viver.
+
+2. Por toda a minha transgressão morreu Jesus,
+o Rei;
+A Sua imensa compaixão jamais esquecerei.
+
+3. Ó meu Jesus, que Te darei por todo esse amor?
+Meu ser a Ti entregarei, serei Teu servidor.
+
+#Hino134 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 134, hino 134 ccb, Teu amor, ó Cordeiro divinal, teu amor, o cordeiro divinal, Hinário 5, hinario 134, ccb hino 134, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 164
+
+## Título para o vídeo
+Hino 164 - Louvemos sempre alegres | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 164 - Louvemos sempre alegres
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 164, “Louvemos sempre alegres”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 164
+📖 Hinário: Hinário 5
+🎶 Título: Louvemos sempre alegres
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Louvemos sempre alegres a Deus,
+Três vezes Santo,
+Que, por amar-nos tanto, mandou o Salvador.
+Jesus, por Sua morte, pagou nossas ofensas;
+Sofrendo dor imensa, mostrou o Seu amor.
+
+2. Estão os nossos nomes, por Deus,
+Nos céus escritos;
+Cheguemo-nos, contritos, ao Pai de eterno amor.
+Em paz na Sua senda, caminham os remidos,
+Lutando sempre unidos com força e valor.
+
+3. Jesus virá, com glória, fazer o julgamento
+De quem Seu mandamento não quis obedecer;
+Porém, os Seus remidos já têm a esperança
+E a firme confiança de o prêmio receber.
+
+#Hino164 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 164, hino 164 ccb, Louvemos sempre alegres, louvemos sempre alegres, Hinário 5, hinario 164, ccb hino 164, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 171
+
+## Título para o vídeo
+Hino 171 - Vida eterna! Vida eterna! | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 171 - Vida eterna! Vida eterna!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 171, “Vida eterna! Vida eterna!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 171
+📖 Hinário: Hinário 5
+🎶 Título: Vida eterna! Vida eterna!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. As moradas preparadas para os santos
+Do Senhor
+São ornadas de beleza sem igual;
+Nelas nós habitaremos com Jesus, o Redentor,
+E com Deus, o nosso Pai celestial
+.
+
+Vida eterna, vida eterna
+Nós teremos junto ao nosso Deus;
+Regozijo, alegria sempiterna,
+É o premio dos eleitos Seus.
+
+2. É de ouro a cidade gloriosa do Senhor,
+Resplandece para sempre sua Luz;
+Não há nela sol nem lua, pois tem luz do Criador,
+E também a sua lâmpada é Jesus.
+
+3. Com as vestes brancas e entoando
+Hinos de louvor,
+Triunfantes, entraremos lá nos céus;
+Lá veremos todos quantos já dormiram no Senhor,
+Lá veremos, face a face, nosso Deus.
+
+#Hino171 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 171, hino 171 ccb, Vida eterna! Vida eterna!, vida eterna! vida eterna!, Hinário 5, hinario 171, ccb hino 171, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 188
+
+## Título para o vídeo
+Hino 188 - O Mestre habita em mim | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 188 - O Mestre habita em mim
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 188, “O Mestre habita em mim”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 188
+📖 Hinário: Hinário 5
+🎶 Título: O Mestre habita em mim
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Conversão gloriosa operou-se em meu ser,
+Pois Cristo habita em mim;
+Sinto paz que outrora não pude haver,
+O Mestre habita em mim.
+
+Com Cristo em meu coração
+Eu sinto real salvação.
+Venturoso, aguardo a glória de Deus,
+Pois Cristo me leva aos céus.
+
+2. Separado da tenda do mal eu estou,
+Pois Cristo habita em mim;
+Dos pecados passados Deus me perdoou,
+O Mestre habita em mim.
+
+3. Findarei os meus dias na graça de Deus,
+Pois Cristo habita em mim;
+Sentirei Sua paz, pois irei para os céus;
+O Mestre habita em mim.
+
+#Hino188 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 188, hino 188 ccb, O Mestre habita em mim, o mestre habita em mim, Hinário 5, hinario 188, ccb hino 188, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 177
+
+## Título para o vídeo
+Hino 177 - Eu necessito achegar-me | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 177 - Eu necessito achegar-me
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 177, “Eu necessito achegar-me”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 177
+📖 Hinário: Hinário 5
+🎶 Título: Eu necessito achegar-me
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Eu necessito achegar-me
+Ao meu fiel e bondoso Senhor,
+Para poder consolar-me
+Sempre no Seu infinito amor.
+
+Sim, eu necessito entregar-me
+Nos braços do meu Redentor;
+Só em Jesus, poderei abrigar-me,
+Pois é fiel Defensor.
+
+2. Eu necessito ater-me
+Ao bom Jesus, o veraz Redentor;
+Não posso eu só defender-me
+Mas com Jesus eu serei vencedor.
+
+3. Eu necessito prostrar-me
+Ao santos pés do meu bom Redentor;
+Ele ao céu quer levar-me
+Por Seu eterno e sublime amor.
+
+#Hino177 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 177, hino 177 ccb, Eu necessito achegar-me, eu necessito achegar-me, Hinário 5, hinario 177, ccb hino 177, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 211
+
+## Título para o vídeo
+Hino 211 - O Senhor Jesus passava... | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 211 - O Senhor Jesus passava...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 211, “O Senhor Jesus passava...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 211
+📖 Hinário: Hinário 5
+🎶 Título: O Senhor Jesus passava...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. O Senhor Jesus passava, com Ele ia a multidão;
+Eis que um cego, junto ao caminho,
+Esperava por compaixão;
+E, ouvindo que falavam sobre o Nome de Jesus,
+Levantou-se e foi ao bom Mestre,
+Para receber a luz.
+
+2. A Palavra virtuosa tão esperada, escutou;
+A visão lhe foi restaurada e, por fé,
+Também se salvou;
+Libertado por Jesus Cristo,
+Dava glória ao grande Deus;
+Exaltou o Mestre divino e seguiu os passos Seus.
+
+3. Jesus Cristo é o mesmo,
+Entre os fiéis também está,
+E, quem crer, verá Sua glória; Seu favor,
+Por certo, terá.
+Ele é a Luz preciosa que, dos céus, Deus enviou;
+Quem em trevas se encontrava, essa Luz iluminou.
+
+#Hino211 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 211, hino 211 ccb, O Senhor Jesus passava..., o senhor jesus passava..., Hinário 5, hinario 211, ccb hino 211, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 197
+
+## Título para o vídeo
+Hino 197 - Senhor, por Teu poder | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 197 - Senhor, por Teu poder
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 197, “Senhor, por Teu poder”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 197
+📖 Hinário: Hinário 5
+🎶 Título: Senhor, por Teu poder
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Senhor, por Teu poder, vem nos conceder
+Celestial ciência, ó Criador;
+Aqui nos encontramos para aprender
+A Tua sã doutrina cheia de amor.
+
+A Tua igreja Te roga, ó Deus;
+Envia, do alto, Teu Consolador;
+Em nossos corações desperta o fervor,
+Assim caminharemos rumo aos céus.
+
+2. Os nossos corações conheces, ó Deus;
+Em comunhão Contigo estamos, Senhor;
+Tu prometeste para todos os Teus,
+O Teu divino e santo Consolador.
+
+3. Com Teus conselhos santos vem ensinar
+Teus filhos muito amados, ó Criador;
+O nosso entendimento vem renovar
+E faz-nos meditar no Teu grande amor.
+
+#Hino197 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 197, hino 197 ccb, Senhor, por Teu poder, senhor, por teu poder, Hinário 5, hinario 197, ccb hino 197, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 221
+
+## Título para o vídeo
+Hino 221 - A descida do Espírito Santo | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 221 - A descida do Espírito Santo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 221, “A descida do Espírito Santo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 221
+📖 Hinário: Hinário 5
+🎶 Título: A descida do Espírito Santo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Reunidos se encontravam os discípulos do
+Senhor;
+Com fervor eles esperavam, de Deus,
+O Consolador.
+Eis que um som, mui de repente,
+Ecoar ouviu-se lá dos céus,
+Qual um vento veemente: Era o Espírito de Deus.
+
+2. Línguas, como de fogo, viram em si mesmo então
+pousar;
+Sobre eles se repartiram, fazendo-os a Deus
+louvar.
+Em linguagens diferentes, começaram a manifestar
+As grandezas excelentes que Deus Pai lhes fez
+provar.
+
+3. A promessa é feita a tantos quantos Deus,
+Nosso Pai, chamar;
+Com fervor todos os Seus santos
+Devem os Seus dons buscar;
+Se os homens a seus filhos, boas coisas sabem
+ofertar,
+Muito mais o Pai bendito, aos que pedem,
+Pode dar.
+
+#Hino221 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 221, hino 221 ccb, A descida do Espírito Santo, a descida do espirito santo, Hinário 5, hinario 221, ccb hino 221, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 133
+
+## Título para o vídeo
+Hino 133 - Quão bom e quão suave é... | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 133 - Quão bom e quão suave é...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 133, “Quão bom e quão suave é...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 133
+📖 Hinário: Hinário 5
+🎶 Título: Quão bom e quão suave é...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quão bom e quão suave é perante Deus,
+Que vivam os irmãos em doce união;
+É como orvalho santo que desce lá dos céus,
+Trazendo regozijo e consolação.
+
+2. É o celeste orvalho que as bênçãos traz
+E vivifica sempre o nosso coração,
+Porque o Senhor ordena a vida e a paz.
+O santo amor de Deus conduz a perfeição.
+
+3. Fundados estejamos no divino amor
+A fim de compreendermos quão profundo é
+O amor de nosso Mestre, Jesus, o Redentor,
+Que trouxe as nossas almas preciosa fé.
+
+4. Nós somos a herança do eterno Deus,
+Jesus, o Verdadeiro, é a nossa paz;
+“Amai-vos uns aos outros”,
+Diz sempre para os Seus;
+O Seu amor sublime regozijo traz.
+
+#Hino133 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 133, hino 133 ccb, Quão bom e quão suave é..., quao bom e quao suave e..., Hinário 5, hinario 133, ccb hino 133, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+
+# 143
+
+## Título para o vídeo
+Hino 143 - Porfi emos, irmãos, por entrar nos céus | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 143 - Porfi emos, irmãos, por entrar nos céus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 143, “Porfi emos, irmãos, por entrar nos céus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 143
+📖 Hinário: Hinário 5
+🎶 Título: Porfi emos, irmãos, por entrar nos céus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Jesus Cristo no céu preparou
+Um lugar de repouso e esplendor;
+Breve nos fará entrar onde Ele já entrou:
+Nas moradas do eterno Criador.
+
+Porfiemos, irmãos, por entrar lá nos céus;
+Se vencermos o mal, viveremos
+Junto ao grande Deus.
+
+2. Nesta terra tesouros não há,
+Que nos possam aqui segurar;
+Desejamos ir ao céu, onde Cristo nos dará
+Um tesouro que nunca vai findar.
+
+3. Brevemente iremos entrar
+E reinar com os santos no céu;
+Novo hino de louvor juntos vamos entoar
+A Jesus, que a salvação nos deu.
+
+#Hino143 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 143, hino 143 ccb, Porfi emos, irmãos, por entrar nos céus, porfi emos, irmaos, por entrar nos ceus, Hinário 5, hinario 143, ccb hino 143, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 219
+
+## Título para o vídeo
+Hino 219 - Novos céus nós aguardamos | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 219 - Novos céus nós aguardamos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 219, “Novos céus nós aguardamos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 219
+📖 Hinário: Hinário 5
+🎶 Título: Novos céus nós aguardamos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Novos céus nós aguardamos
+E nova terra também;
+Neles nós sempre pensamos;
+Neles está nosso bem;
+Por isso estamos servindo a Deus, o Criador;
+Sua vontade cumprindo, veremos Seu esplendor.
+
+Novos céus Deus aos Seus fiéis dará;
+Nova terra, onde a justiça está;
+Em breve volta o Rei, Cristo Jesus, Senhor;
+Firmes na graça sejamos, firmes na fé e
+No amor.
+
+2. Pelo Espírito andemos
+Dentro da lei do bom Deus;
+O coração inclinemos para as coisas dos céus;
+Do mundo toda a vaidade devemos rejeitar;
+Temos de Deus uma herdade:
+A terra que nos vai dar.
+
+#Hino219 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 219, hino 219 ccb, Novos céus nós aguardamos, novos ceus nos aguardamos, Hinário 5, hinario 219, ccb hino 219, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C1
+
+## Título para o vídeo
+Hino C1 - Aleluia! Aleluia | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C1 - Aleluia! Aleluia
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C1, “Aleluia! Aleluia”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C1
+📖 Hinário: Hinário 5
+🎶 Título: Aleluia! Aleluia
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor,
+Aleluia! Aleluia, Aleluia!, Aleluia!
+Glória ao Redentor
+Glória ao Redentor! Aleluia!
+Santo Remidor! Aleluia!
+Nosso Salvador! Aleluia!
+Glória a Jesus!
+
+#HinoC1 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C1, hino C1 ccb, Aleluia! Aleluia, aleluia! aleluia, Hinário 5, hinario C1, ccb hino C1, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, teclado evangélico
+
+---
+
+# C2
+
+## Título para o vídeo
+Hino C2 - Toda a glória a Jesus | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C2 - Toda a glória a Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C2, “Toda a glória a Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C2
+📖 Hinário: Hinário 5
+🎶 Título: Toda a glória a Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Toda a glória a Jesus!
+Toda a honra a Jesus!
+Juntos louvemos a Jesus
+Seu Santo Nome vamos exaltar.
+
+#HinoC2 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C2, hino C2 ccb, Toda a glória a Jesus, toda a gloria a jesus, Hinário 5, hinario C2, ccb hino C2, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C3
+
+## Título para o vídeo
+Hino C3 - Ação de graças darei | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C3 - Ação de graças darei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C3, “Ação de graças darei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C3
+📖 Hinário: Hinário 5
+🎶 Título: Ação de graças darei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ação de graças darei
+A Jesus, meu Pastor, meu Rei;
+As Suas obras contarei,
+Seu Nome exaltarei!
+
+#HinoC3 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C3, hino C3 ccb, Ação de graças darei, acao de gracas darei, Hinário 5, hinario C3, ccb hino C3, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C4
+
+## Título para o vídeo
+Hino C4 - Glória glória nas alturas | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C4 - Glória glória nas alturas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C4, “Glória glória nas alturas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C4
+📖 Hinário: Hinário 5
+🎶 Título: Glória glória nas alturas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Glória, glória nas alturas!
+Glória, glória ao nosso Deus!
+Salvação nos preparou por Jesus, que nos amou;
+Glória ao Deus vivente que está nos céus!
+
+#HinoC4 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C4, hino C4 ccb, Glória glória nas alturas, gloria gloria nas alturas, Hinário 5, hinario C4, ccb hino C4, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C5
+
+## Título para o vídeo
+Hino C5 - Majestoso é Cristo Jesus | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C5 - Majestoso é Cristo Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C5, “Majestoso é Cristo Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C5
+📖 Hinário: Hinário 5
+🎶 Título: Majestoso é Cristo Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Majestoso é Cristo Jesus, o Senhor,
+Majestoso é Cristo Jesus;
+O poder Deus Lhe deu, quer na terra, quer no céu,
+Majestoso é Cristo Jesus!
+
+#HinoC5 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C5, hino C5 ccb, Majestoso é Cristo Jesus, majestoso e cristo jesus, Hinário 5, hinario C5, ccb hino C5, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# C6
+
+## Título para o vídeo
+Hino C6 - A Jesus eu cantarei louvor | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino C6 - A Jesus eu cantarei louvor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino C6, “A Jesus eu cantarei louvor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: C6
+📖 Hinário: Hinário 5
+🎶 Título: A Jesus eu cantarei louvor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A Jesus eu cantarei louvor;
+Honra e glória sempre Lhe darei;
+Exaltarei ao meu Senhor;
+O Seu Nome bendirei.
+
+#HinoC6 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino C6, hino C6 ccb, A Jesus eu cantarei louvor, a jesus eu cantarei louvor, Hinário 5, hinario C6, ccb hino C6, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+
+# 244
+
+## Título para o vídeo
+Hino 244 - Cristo intercede por ti | Hinário 5 CCB | Hinos em Brass (Metais)
+
+
+## Descrição para o YouTube
+
+Hino 244 - Cristo intercede por ti
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Brass (Metais).
+
+Este vídeo apresenta o áudio do hino 244, “Cristo intercede por ti”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Brass (Metais)
+🎵 Hino: 244
+📖 Hinário: Hinário 5
+🎶 Título: Cristo intercede por ti
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Quando te faltam forças contra o mal,
+Tens o socorro dos céus;
+Cristo Jesus, Cordeiro divinal,
+É intercessor junto a Deus.
+
+Cristo intercede por ti,
+Junto a Deus, o Pai celestial;
+Cristo é o Modelo santo e perfeito,
+Cristo é o Amigo leal.
+
+2. Quando inimigo te vier tentar,
+Clama a Jesus, Redentor;
+Forças, por certo, Ele irá te dar
+E te fará vencedor.
+
+3. Quando estiveres em tribulação,
+Clama ao Filho de Deus,
+E certamente te socorrerão
+Anjos mandados dos céus.
+
+#Hino244 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 244, hino 244 ccb, Cristo intercede por ti, cristo intercede por ti, Hinário 5, hinario 244, ccb hino 244, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Brass (Metais), hinos em brass (metais), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+

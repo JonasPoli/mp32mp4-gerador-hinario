@@ -354,13 +354,17 @@ def camel_case(texto: str) -> str:
 
 
 def extrair_numero_mp3(nome: str) -> str | int | None:
-    """Extrai o número do hino do nome do arquivo MP3 (ex.: '290.mp3' → 290, 'Coro 001.mp3' → 'C1')."""
+    """Extrai o número do hino do nome do arquivo MP3 (ex.: '290.mp3' → 290, 'hino_290.mp3' → 290, 'Coro 001.mp3' → 'C1')."""
     m_coro = re.match(r"^Coro[\s_-]+(\d+)", nome, re.IGNORECASE)
     if m_coro:
         return f"C{int(m_coro.group(1))}"
     m = re.match(r"^(\d+)", nome)
     if m:
         return int(m.group(1))
+    # Suporte a nomes com prefixo (ex.: hino_288.mp3)
+    m_prefixed = re.match(r"^[A-Za-z]+[_-](\d+)", nome)
+    if m_prefixed:
+        return int(m_prefixed.group(1))
     return None
 
 
@@ -1056,6 +1060,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     qualquer quantidade de clipes, sem SIGSEGV causado por filter_complex longo.
     Corta no final para exatamente duracao_total segundos.
     """
+    pid = os.getpid()
     if len(clipes) == 1:
         caminho, dur = clipes[0]
         clipes_expandidos = []
@@ -1069,7 +1074,7 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
     partes: list[Path] = []
     out_dir = saida.parent
     for i, (caminho, _) in enumerate(clipes):
-        parte = out_dir / f"_parte_{saida.stem}_{i}.mp4"
+        parte = out_dir / f"_parte_{saida.stem}_{pid}_{i}.mp4"
         try:
             executar_ffmpeg([
                 "ffmpeg", "-y", "-i", caminho,
@@ -1089,37 +1094,40 @@ def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
         raise RuntimeError("Todos os clipes selecionados falharam na normalização.")
 
     # --- Concatenar via concat demuxer (sem limite de clipes, sem SIGSEGV) ---
-    lista_txt = out_dir / f"_lista_{saida.stem}_bg.txt"
+    lista_txt = out_dir / f"_lista_{saida.stem}_{pid}_bg.txt"
     lista_txt.write_text(
         "\n".join(f"file '{p.name}'" for p in partes) + "\n",
         encoding="utf-8",
     )
 
-    video_concat = out_dir / f"_concat_{saida.stem}.mp4"
-    executar_ffmpeg([
-        "ffmpeg", "-y",
-        "-f", "concat", "-safe", "0",
-        "-i", lista_txt.name,
-        "-c", "copy",
-        video_concat.name,
-    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
-
-    lista_txt.unlink(missing_ok=True)
-    for p in partes:
-        p.unlink(missing_ok=True)
+    video_concat = out_dir / f"_concat_{saida.stem}_{pid}.mp4"
+    try:
+        executar_ffmpeg([
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", lista_txt.name,
+            "-c", "copy",
+            video_concat.name,
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, cwd=str(out_dir))
+    finally:
+        lista_txt.unlink(missing_ok=True)
+        for p in partes:
+            p.unlink(missing_ok=True)
 
     # --- Cortar exatamente na duração necessária e aplicar fade-out ---
-    video_cortado = out_dir / f"_fundo_{saida.stem}.mp4"
+    video_cortado = out_dir / f"_fundo_{saida.stem}_{pid}.mp4"
     fade_start = max(0.0, duracao_total - 1.5)
-    executar_ffmpeg([
-        "ffmpeg", "-y", "-i", str(video_concat),
-        "-t", str(duracao_total),
-        "-vf", f"fade=t=out:st={fade_start}:d=1.5",
-        "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
-        "-threads", "2",
-        str(video_cortado),
-    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    video_concat.unlink(missing_ok=True)
+    try:
+        executar_ffmpeg([
+            "ffmpeg", "-y", "-i", str(video_concat),
+            "-t", str(duracao_total),
+            "-vf", f"fade=t=out:st={fade_start}:d=1.5",
+            "-c:v", "libx264", "-preset", FFMPEG_PRESET, "-pix_fmt", "yuv420p",
+            "-threads", "2",
+            str(video_cortado),
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    finally:
+        video_concat.unlink(missing_ok=True)
 
     return video_cortado
 
@@ -1142,8 +1150,9 @@ def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | 
     if not vinheta_path.exists():
         raise FileNotFoundError(f"Arquivo de vinheta não encontrado: {vinheta_path}")
 
-    # 1. Normalizar vídeo (sem áudio)
-    vinheta_v = saida_dir / f"_vinheta_v_{vinheta_path.stem}.mp4"
+    pid = os.getpid()
+    # 1. Normalizar vídeo (sem áudio) isolado por PID para evitar colisões no mesmo projeto
+    vinheta_v = saida_dir / f"_vinheta_v_{vinheta_path.stem}_{pid}.mp4"
     executar_ffmpeg([
         "ffmpeg", "-y", "-i", str(vinheta_path),
         "-vf", "scale=1920:1080:force_original_aspect_ratio=decrease,"
@@ -1166,7 +1175,7 @@ def preparar_vinheta(vinheta_path: Path, saida_dir: Path) -> tuple[Path, Path | 
     vinheta_a: Path | None = None
     if probe.stdout.strip():
         # Extrair e re-codificar o áudio da vinheta em AAC
-        vinheta_a = saida_dir / f"_vinheta_a_{vinheta_path.stem}.aac"
+        vinheta_a = saida_dir / f"_vinheta_a_{vinheta_path.stem}_{pid}.aac"
         executar_ffmpeg([
             "ffmpeg", "-y", "-i", str(vinheta_path),
             "-vn", "-c:a", "aac", "-b:a", "192k",
@@ -1185,25 +1194,11 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
                        vinheta_mp4: Path | None = None,
                        vinheta_audio: Path | None = None):
     """
-    Concatena [vinheta +] frame inicial + vídeo de fundo, adiciona áudio e salva.
-
-    Faixas de áudio no vídeo final:
-      - Se vinheta_audio for fornecida: o áudio original da vinheta é preservado
-        e misturado (amix) com o MP3 do hino (que começa após dur_vinheta + FRAME_DURATION).
-        As duas faixas não se sobrepõem: a vinheta ocupa 0→dur_vinheta e o MP3
-        começa em dur_vinheta + FRAME_DURATION.
-      - Se não houver áudio na vinheta: comportamento original — apenas o MP3
-        com adelay.
-
-    O vídeo da vinheta (vinheta_mp4) deve ser passado SEM áudio (normalizado por
-    preparar_vinheta) para que o concat demuxer funcione uniformemente com o
-    frame e o fundo, que também não possuem faixa de áudio.
-
-    Usa nomes relativos no arquivo de lista do ffmpeg concat para evitar
-    erros com caminhos contendo caracteres especiais (acentos, ç etc.).
+    Concatena [vinheta +] frame inicial + vídeo de fundo, adiciona áudio e salva de forma ATÔMICA.
     """
+    pid = os.getpid()
     out_dir = saida.parent
-    lista = out_dir / f"_lista_{saida.stem}.txt"
+    lista = out_dir / f"_lista_{saida.stem}_{pid}.txt"
 
     # Monta a lista de partes (todas sem áudio): [vinheta_v], frame, fundo
     entradas = []
@@ -1217,7 +1212,7 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         encoding="utf-8",
     )
 
-    video_concat = out_dir / f"_tmp_{saida.stem}.mp4"
+    video_concat = out_dir / f"_tmp_{saida.stem}_{pid}.mp4"
     try:
         executar_ffmpeg([
             "ffmpeg", "-y",
@@ -1233,7 +1228,8 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
         print("STDERR:", e.stderr)
         print("===========================")
         raise
-    lista.unlink(missing_ok=True)
+    finally:
+        lista.unlink(missing_ok=True)
 
     # Calcular o delay do MP3: começa após vinheta + frame inicial
     dur_vinheta = duracao_video(vinheta_mp4) if vinheta_mp4 is not None else 0.0
@@ -1241,52 +1237,54 @@ def montar_video_final(frame_mp4: Path, fundo_mp4: Path,
     audio_delay_ms = int(audio_delay_s * 1000)
     total_dur = audio_delay_s + dur_mp3
 
-    if vinheta_audio is not None:
-        # Misturar: áudio da vinheta (natural) + MP3 com delay via amix.
-        # As faixas não se sobrepõem: vinheta 0→dur_vinheta, MP3 começa em audio_delay_s.
-        # [va] — áudio da vinheta preenchido com silêncio até total_dur
-        # [ma] — MP3 atrasado, com fade-in/fade-out e preenchido até total_dur
-        # amix com normalize=0 garante que os volumes não sejam reduzidos.
-        filter_complex = (
-            f"[1:a]apad=whole_dur={total_dur}[va];"
-            f"[2:a]adelay={audio_delay_ms}|{audio_delay_ms},"
-            f"afade=t=in:st={audio_delay_s}:d=0.5,"
-            f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
-            f"apad=whole_dur={total_dur}[ma];"
-            f"[va][ma]amix=inputs=2:duration=first:normalize=0[aout]"
-        )
-        executar_ffmpeg([
-            "ffmpeg", "-y",
-            "-i", str(video_concat),   # 0: vídeo
-            "-i", str(vinheta_audio),  # 1: áudio da vinheta
-            "-i", str(mp3),            # 2: MP3 do hino
-            "-map", "0:v:0",
-            "-filter_complex", filter_complex,
-            "-map", "[aout]",
-            "-c:v", "copy",
-            "-c:a", "aac", "-b:a", "192k",
-            "-t", f"{total_dur:.3f}",
-            str(saida),
-        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    else:
-        # Sem áudio de vinheta — apenas o MP3 com delay e fade-out (comportamento original)
-        executar_ffmpeg([
-            "ffmpeg", "-y",
-            "-i", str(video_concat),
-            "-i", str(mp3),
-            "-map", "0:v:0",
-            "-map", "1:a:0",
-            "-af", f"adelay={audio_delay_ms}|{audio_delay_ms},"
-                   f"afade=t=in:st={audio_delay_s}:d=0.5,"
-                   f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
-                   f"apad=whole_dur={total_dur}",
-            "-c:v", "copy",
-            "-c:a", "aac", "-b:a", "192k",
-            "-t", f"{total_dur:.3f}",
-            str(saida),
-        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    # Usar destino temporário com PID para garantir escrita atômica no arquivo final 'saida'
+    saida_tmp = out_dir / f"_tmp_out_{saida.stem}_{pid}.mp4"
 
-    video_concat.unlink(missing_ok=True)
+    try:
+        if vinheta_audio is not None:
+            filter_complex = (
+                f"[1:a]apad=whole_dur={total_dur}[va];"
+                f"[2:a]adelay={audio_delay_ms}|{audio_delay_ms},"
+                f"afade=t=in:st={audio_delay_s}:d=0.5,"
+                f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
+                f"apad=whole_dur={total_dur}[ma];"
+                f"[va][ma]amix=inputs=2:duration=first:normalize=0[aout]"
+            )
+            executar_ffmpeg([
+                "ffmpeg", "-y",
+                "-i", str(video_concat),   # 0: vídeo
+                "-i", str(vinheta_audio),  # 1: áudio da vinheta
+                "-i", str(mp3),            # 2: MP3 do hino
+                "-map", "0:v:0",
+                "-filter_complex", filter_complex,
+                "-map", "[aout]",
+                "-c:v", "copy",
+                "-c:a", "aac", "-b:a", "192k",
+                "-t", f"{total_dur:.3f}",
+                str(saida_tmp),
+            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        else:
+            executar_ffmpeg([
+                "ffmpeg", "-y",
+                "-i", str(video_concat),
+                "-i", str(mp3),
+                "-map", "0:v:0",
+                "-map", "1:a:0",
+                "-af", f"adelay={audio_delay_ms}|{audio_delay_ms},"
+                       f"afade=t=in:st={audio_delay_s}:d=0.5,"
+                       f"afade=t=out:st={total_dur - 1.5}:d=1.5,"
+                       f"apad=whole_dur={total_dur}",
+                "-c:v", "copy",
+                "-c:a", "aac", "-b:a", "192k",
+                "-t", f"{total_dur:.3f}",
+                str(saida_tmp),
+            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+        # Renomear de forma atômica: só substitui 'saida' se o FFmpeg concluiu com sucesso!
+        saida_tmp.replace(saida)
+    finally:
+        video_concat.unlink(missing_ok=True)
+        saida_tmp.unlink(missing_ok=True)
 
 
 # =============================================================================
