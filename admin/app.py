@@ -16,6 +16,7 @@ import json
 import re
 import sqlite3
 import unicodedata
+import sys
 from datetime import date, timedelta, datetime, timezone
 from pathlib import Path
 
@@ -25,6 +26,19 @@ ROOT  = Path(__file__).parent.parent          # /Volumes/Dados/work/hinário
 DB    = ROOT / "progresso.db"
 ADMIN = Path(__file__).parent                 # pasta admin/
 LETRAS_DIR = ROOT / "hinos_txt" / "letras_separadas"
+
+if str(ROOT) not in sys.path:
+    sys.path.append(str(ROOT))
+try:
+    from gerar_coletaneas import COLETANEAS, limpar_nome_hino
+except ImportError:
+    COLETANEAS = {}
+    def limpar_nome_hino(nome: str) -> str:
+        res = str(nome).strip()
+        if res.lower().endswith(".mp3"):
+            res = res[:-4].strip()
+        res = re.sub(r"^Coro\s+\d+\s*-\s*", "", res, flags=re.IGNORECASE)
+        return res.strip()
 
 app = Flask(__name__, static_folder=str(ADMIN / "static"), static_url_path="/static")
 
@@ -363,16 +377,50 @@ def formatar_numero_completo(numero) -> str:
 def video_para_dict(row, data_postagem: str | None = None) -> dict:
     projeto = row["projeto"]
     numero  = row["numero"]
+
+    num_str = str(numero).strip()
+    if num_str.upper().startswith("COL"):
+        m_cid = re.search(r'\d+', num_str)
+        cid = int(m_cid.group(0)) if m_cid else 0
+        coletaneas = carregar_coletaneas(projeto)
+        col = next((c for c in coletaneas if c["cid"] == cid), None)
+
+        output = row["output"] or (col["video_path"] if col else "")
+        video_file = col["video_file"] if (col and col["video_file"]) else (Path(output).name if output else "")
+        db_thumb = (row["thumb_file"] if "thumb_file" in row.keys() else None) or ""
+        thumb_file = db_thumb or (col["capa_file"] if col else "")
+
+        titulo = col["titulo"] if col else f"Coletânea {numero}"
+        descricao = col["descricao"] if col else ""
+        tags = col["tags"] if col else ""
+
+        return {
+            "numero":        numero,
+            "projeto":       projeto,
+            "hinario":       row["hinario"],
+            "status":        row["status"],
+            "mp3_file":      "",
+            "video_file":    video_file,
+            "thumb_file":    thumb_file,
+            "titulo":        titulo,
+            "descricao":     descricao,
+            "tags":          tags,
+            "criado_em":     row["criado_em"] or "",
+            "atualizado_em": row["atualizado_em"] or "",
+            "data_postagem": data_postagem or (row["data_postagem"] if "data_postagem" in row.keys() else ""),
+            "erro_msg":      row["erro_msg"] or "",
+        }
+
     hinos_projeto = get_hinos_projeto(projeto)
     nome = hinos_projeto.get(numero) or hinos_projeto.get(str(numero)) or hinos_projeto.get(int(numero) if str(numero).isdigit() else None) or f"Hino {numero}"
-    
+
     projeto_cfg = PROJETOS.get(projeto, {})
     meta = gerar_metadados(numero, nome, projeto, projeto_cfg)
- 
+
     # Arquivo de vídeo gerado
     output = row["output"] or ""
     video_file = Path(output).name if output else ""
- 
+
     # Thumb: usa o valor do banco se disponível, senão calcula
     db_thumb = (row["thumb_file"] if "thumb_file" in row.keys() else None) or ""
     thumb_file = db_thumb or f"hino-{projeto}-{formatar_numero_completo(numero)}.png"
@@ -396,7 +444,7 @@ def video_para_dict(row, data_postagem: str | None = None) -> dict:
         "tags":          meta["tags"],
         "criado_em":     row["criado_em"] or "",
         "atualizado_em": row["atualizado_em"] or "",
-        "data_postagem": data_postagem or row["data_postagem"] if "data_postagem" in row.keys() else "",
+        "data_postagem": data_postagem or (row["data_postagem"] if "data_postagem" in row.keys() else ""),
         "erro_msg":      row["erro_msg"] or "",
     }
 
@@ -491,7 +539,7 @@ def index():
 
 @app.route("/thumbs/<path:filename>")
 def serve_thumb(filename):
-    m = re.match(r"^hino-([a-z0-9_]+)-\w+\.png$", filename)
+    m = re.match(r"^(?:hino|coletanea)-([a-z0-9_]+)-[\w-]+\.png$", filename)
     if m:
         projeto = m.group(1)
         # Check output directory
@@ -588,6 +636,8 @@ def gerar_slug_coletanea(cid: int, titulo: str) -> str:
 def parsear_info_md(info_path: Path) -> dict:
     """Parseia um arquivo info.md de coletânea e retorna dict com titulo, descricao, tags e nome_projeto."""
     resultado = {"titulo": "", "descricao": "", "tags": "", "nome_projeto": ""}
+    if not info_path:
+        return resultado
     if not info_path.exists():
         return resultado
     try:
@@ -614,6 +664,90 @@ def parsear_info_md(info_path: Path) -> dict:
     return resultado
 
 
+def gerar_metadados_coletanea_fallback(cid: int, projeto: str, titulo_pasta: str = "") -> dict:
+    """Gera metadados completos (título, descrição, tags) para uma coletânea caso o info.md não exista."""
+    col_def = COLETANEAS.get(cid, {})
+    titulo_base = col_def.get("titulo") or titulo_pasta or f"Coletânea {cid:02d}"
+
+    projeto_cfg = PROJETOS.get(projeto, {})
+    nome_exibicao = projeto_cfg.get("nome_exibicao", projeto)
+    yt_title = f"{nome_exibicao} | {titulo_base} | Hinos CCB"
+
+    descricao_intro = col_def.get("descricao_intro", "")
+    hinos_list = col_def.get("hinos", [])
+    hinos_nomes = get_hinos_projeto(projeto)
+
+    lista_hinos_desc = []
+    for hino in hinos_list:
+        num_key = hino
+        hino_str = str(hino).strip()
+        if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+            try:
+                num_key = int(hino_str[1:])
+            except ValueError:
+                pass
+        raw_nome = hinos_nomes.get(hino) or hinos_nomes.get(num_key) or f"Hino {hino}"
+        nome_hino = limpar_nome_hino(raw_nome)
+        if hino_str.upper().startswith("C") and hino_str[1:].isdigit():
+            lista_hinos_desc.append(f"• Coro {int(hino_str[1:])} - {nome_hino}")
+        else:
+            lista_hinos_desc.append(f"• Hino {hino} - {nome_hino}")
+    lista_hinos_formatada = "\n".join(lista_hinos_desc)
+
+    descricao = (
+        f"{nome_exibicao} — {titulo_base}\n"
+        f"{descricao_intro}\n\n"
+        f"🎹 Projeto: {nome_exibicao}\n"
+        f"📖 Hinário: Hinário 5\n\n"
+        f"Hinos contidos nesta coletânea:\n"
+        f"{lista_hinos_formatada}\n\n"
+        f"Que esta melodia instrumental possa trazer paz, comunhão e edificação ao seu coração.\n\n"
+        f"Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado."
+    )
+
+    tag_titulo_slug = remover_acentos(titulo_base).lower()
+    base_tags = [
+        f"coletanea {tag_titulo_slug}",
+        f"coletânea {titulo_base.lower()}",
+        "hinos ccb",
+        "hinos da ccb",
+        "ccb hinos",
+        "ccb instrumental",
+        "hinos instrumentais ccb",
+        "música instrumental cristã",
+        "musica instrumental crista",
+        "louvor instrumental",
+        "hinos para meditação",
+        "hinos para adoração",
+        "congregação cristã no brasil",
+        "congregacao crista no brasil",
+        "instrumental ccb",
+        nome_exibicao.lower(),
+        f"hinos {nome_exibicao.lower()}"
+    ]
+
+    valid_tags = []
+    current_len = 0
+    for tag in base_tags:
+        tag = tag.strip()
+        if not tag:
+            continue
+        added = len(tag) + (2 if valid_tags else 0)
+        if current_len + added <= 400:
+            valid_tags.append(tag)
+            current_len += added
+        else:
+            break
+    tags = ", ".join(valid_tags)
+
+    return {
+        "titulo": yt_title,
+        "descricao": descricao,
+        "tags": tags,
+        "nome_projeto": nome_exibicao
+    }
+
+
 def carregar_coletaneas(projeto: str) -> list:
     """Carrega todas as coletâneas de um projeto específico."""
     # Check output directory
@@ -625,44 +759,134 @@ def carregar_coletaneas(projeto: str) -> list:
     if not coletaneas_dir.exists():
         coletaneas_dir = ROOT / "output" / "coletaneas"
 
+    # Buscar registros no banco de dados para coletâneas deste projeto
+    db_col_map = {}
+    try:
+        conn = _db()
+        rows = conn.execute(
+            "SELECT numero, output, thumb_file FROM videos WHERE projeto = ? AND numero LIKE 'COL%'",
+            (projeto,)
+        ).fetchall()
+        conn.close()
+        for r in rows:
+            m = re.search(r'\d+', str(r["numero"]))
+            if m:
+                cid_num = int(m.group(0))
+                db_col_map[cid_num] = r
+    except Exception as e:
+        print(f"[aviso] Erro ao consultar coletâneas no DB: {e}")
+
+    # Mapear pastas existentes no disco por cid
+    folder_map = {}
+    if coletaneas_dir.exists():
+        for folder in sorted(coletaneas_dir.iterdir()):
+            if folder.is_dir() and not folder.name.startswith('.'):
+                m_cid = re.match(r'^(\d+)\s*-\s*(.+)$', folder.name)
+                if m_cid:
+                    cid_num = int(m_cid.group(1))
+                    folder_map[cid_num] = folder
+
     coletaneas = []
-    if not coletaneas_dir.exists():
-        return coletaneas
-    for folder in sorted(coletaneas_dir.iterdir()):
-        if not folder.is_dir() or folder.name.startswith('.'):
-            continue
-        info_path = folder / "info.md"
+    cids_conhecidos = list(COLETANEAS.keys()) if COLETANEAS else list(range(1, 24))
 
-        # Detectar o ID numérico do prefixo do nome da pasta (ex: '01 - Coletânea...')
-        m_cid = re.match(r'^(\d+)\s*-\s*(.+)$', folder.name)
-        cid = int(m_cid.group(1)) if m_cid else 0
-        titulo_pasta = m_cid.group(2).strip() if m_cid else folder.name
+    for cid in cids_conhecidos:
+        folder = folder_map.get(cid)
+        folder_name = folder.name if folder else f"{cid:02d} - {COLETANEAS.get(cid, {}).get('titulo', f'Coletânea {cid:02d}')}"
+        info_path = folder / "info.md" if folder else None
 
-        # Buscar capa pelo slug determinístico, com fallback para capa.png
-        slug = gerar_slug_coletanea(cid, titulo_pasta) if cid else ""
-        capa_path = folder / f"{slug}.png" if slug else None
-        if capa_path is None or not capa_path.exists():
-            capa_path = folder / "capa.png"
+        titulo_pasta = folder.name if folder else ""
+        slug = gerar_slug_coletanea(cid, COLETANEAS.get(cid, {}).get('titulo', '')) if cid else ""
 
         # Encontrar arquivo de vídeo (.mp4)
         video_path = None
-        for f in folder.iterdir():
-            if f.suffix == ".mp4" and not f.name.startswith('.'):
-                video_path = f
-                break
+        video_file = ""
 
-        meta = parsear_info_md(info_path)
+        # 1. Checar pelo banco de dados
+        if cid in db_col_map and db_col_map[cid]["output"]:
+            out_rel = db_col_map[cid]["output"]
+            candidate = ROOT / out_rel
+            if candidate.exists():
+                video_path = candidate
+                video_file = candidate.name
+
+        # 2. Checar caminhos padrão no disco
+        if not video_file and cid:
+            cid_fmt = f"{cid:02d}"
+            candidatos_video = [
+                ROOT / "output" / projeto / f"coletanea-{projeto}-{cid_fmt}.mp4",
+                ROOT / "projects" / projeto / "outputs" / "videos" / f"coletanea-{projeto}-{cid_fmt}.mp4",
+                ROOT / "output" / projeto / "videos" / f"coletanea-{projeto}-{cid_fmt}.mp4",
+            ]
+            for cand in candidatos_video:
+                if cand.exists():
+                    video_path = cand
+                    video_file = cand.name
+                    break
+
+        # 3. Fallback: procurar arquivo .mp4 dentro da pasta da coletânea
+        if not video_file and folder:
+            for f in folder.iterdir():
+                if f.suffix == ".mp4" and not f.name.startswith('.'):
+                    video_path = f
+                    video_file = f.name
+                    break
+
+        # 4. Se ainda não tem video_file (ex: vídeo ainda não concatenado), projetar o nome esperado
+        if not video_file and cid:
+            cid_fmt = f"{cid:02d}"
+            video_file = f"coletanea-{projeto}-{cid_fmt}.mp4"
+
+        # Encontrar arquivo de capa (thumbnail)
+        capa_file = ""
+        capa_path = None
+
+        if cid in db_col_map and db_col_map[cid]["thumb_file"]:
+            thumb_rel = db_col_map[cid]["thumb_file"]
+            candidate = ROOT / thumb_rel
+            if candidate.exists():
+                capa_path = candidate
+                capa_file = candidate.name
+
+        if not capa_file and cid:
+            cid_fmt = f"{cid:02d}"
+            candidatos_capa = [
+                ROOT / "output" / projeto / "thumbs" / f"coletanea-{projeto}-{cid_fmt}.png",
+                ROOT / "projects" / projeto / "outputs" / "thumbs" / f"coletanea-{projeto}-{cid_fmt}.png",
+                ROOT / "output" / "thumbs" / f"coletanea-{projeto}-{cid_fmt}.png",
+            ]
+            if folder:
+                candidatos_capa.extend([folder / f"{slug}.png", folder / "capa.png"])
+            for cand in candidatos_capa:
+                if cand.exists():
+                    capa_path = cand
+                    capa_file = cand.name
+                    break
+
+        # 5. Se ainda não tem capa_file, projetar o nome da miniatura esperado
+        if not capa_file and cid:
+            cid_fmt = f"{cid:02d}"
+            capa_file = f"coletanea-{projeto}-{cid_fmt}.png"
+
+        # Metadados
+        meta = parsear_info_md(info_path) if (info_path and info_path.exists()) else {}
+        fallback = gerar_metadados_coletanea_fallback(cid, projeto, titulo_pasta)
+
+        titulo = meta.get("titulo") or fallback["titulo"]
+        descricao = meta.get("descricao") or fallback["descricao"]
+        tags = meta.get("tags") or fallback["tags"]
+        nome_projeto = meta.get("nome_projeto") or fallback["nome_projeto"]
+
         coletaneas.append({
-            "folder": folder.name,
+            "folder": folder_name,
             "cid": cid,
-            "titulo": meta["titulo"] or titulo_pasta,
-            "descricao": meta["descricao"],
-            "tags": meta["tags"],
-            "nome_projeto": meta["nome_projeto"] or PROJETOS.get(projeto, {}).get("nome_exibicao", projeto),
-            "video_file": video_path.name if video_path else "",
+            "titulo": titulo,
+            "descricao": descricao,
+            "tags": tags,
+            "nome_projeto": nome_projeto,
+            "video_file": video_file,
             "video_path": str(video_path) if video_path else "",
-            "capa_file": capa_path.name if (capa_path and capa_path.exists()) else "",
-            "has_info": info_path.exists(),
+            "capa_file": capa_file,
+            "has_info": bool(info_path and info_path.exists()),
         })
     return coletaneas
 
@@ -780,6 +1004,8 @@ def api_export_csv(projeto: str):
     
     for row in rows:
         numero = row["numero"]
+        if str(numero).upper().startswith("COL"):
+            continue
         output_path = row["output"] or ""
         video_file = Path(output_path).name if output_path else ""
         

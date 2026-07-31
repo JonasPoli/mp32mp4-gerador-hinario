@@ -326,6 +326,38 @@
     "inputs_dir": "projects/orquestra/inputs",
     "mascara": "projects/orquestra/assets/mascara.png"
   },
+  "orquestra2": {
+    "nome_exibicao": "Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)",
+    "csv_path": "fontes/hinario5.csv",
+    "mp3_dir": "projects/orquestra2/inputs",
+    "thumb_pipeline": "v01",
+    "vinheta": "vinheta/vinheta-hinario-04-v1.mp4",
+    "titulo_template": "Hino <numero-do-hino> - <nome-do-hino> | Hinário 5 CCB | <nome-do-projeto>",
+    "palavras_chaves": "hino <numero-do-hino>, hino <numero-do-hino> ccb, <nome-do-hino>, <nome-sem-acento>, hinário 5, hinario 5, ccb hino <numero-do-hino>, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos em orquestra, orquestra ccb, orquestra 2, orquestra 2 ccb, hinos orquestrados, órgão e orquestra, coral e orquestra, cordas ccb, sopro ccb, palhetas ccb, metais ccb, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental, hinos evangélicos orquestrados, hino <numero-do-hino> instrumental, orquestra evangélica, música orquestral cristã",
+    "descricao": "Hino <numero-do-hino> - <nome-do-hino>\nHinário 5 - Congregação Cristã no Brasil\n\nExecução instrumental - <nome-do-projeto>.\n\nEste vídeo apresenta o áudio do hino <numero-do-hino>, \"<nome-do-hino>\", executado por uma orquestra da CCB. O arranjo conta com frases tocadas em orquestra, órgão e coral mixados com naipes específicos como cordas, sopro, palhetas e metais, proporcionando uma experiência rica e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.\n\nQue esta melodia possa trazer paz, comunhão e edificação ao seu coração.\n\n🎻 Execução: Orquestra CCB (Órgão, Coral, Cordas, Sopro, Palhetas e Metais)\n🎵 Hino: <numero-do-hino>\n📖 Hinário: Hinário 5\n🎶 Título: <nome-do-hino>\n\nInscreva-se no canal para acompanhar mais hinos instrumentais da CCB.\n\n#Hino<numero-do-hino> #Hinario5 #CCB #Orquestra #OrquestraCCB #InstrumentalCCB",
+    "desenho": {
+      "numero": {
+        "x": 120,
+        "y_top": 150,
+        "y_bottom": 780,
+        "max_width": 580,
+        "cor": [26, 45, 90, 255],
+        "brilho": { "raio": 3, "cor": [255, 255, 255, 255] }
+      },
+      "nome": {
+        "x": 780,
+        "y_top": 200,
+        "y_bottom": 800,
+        "max_width": 550,
+        "cor": [26, 45, 90, 255],
+        "max_font_size": 100,
+        "align": "left",
+        "brilho": { "raio": 3, "cor": [255, 255, 255, 255] }
+      }
+    },
+    "inputs_dir": "projects/orquestra2/inputs",
+    "mascara": "projects/orquestra2/assets/mascara.png"
+  },
   "palhetas": {
     "nome_exibicao": "Hinos em Palhetas",
     "csv_path": "fontes/hinario5.csv",

@@ -26496,3 +26496,64 @@ hino 478, hino 478 ccb, Cedo retorna o Senhor, cedo retorna o senhor, Hinário 5
 
 ---
 
+# 294
+
+## Título para o vídeo
+Hino 294 - Avante! Coragem! Marchemos | Hinário 5 CCB | Hinos em Palhetas
+
+
+## Descrição para o YouTube
+
+Hino 294 - Avante! Coragem! Marchemos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Palhetas.
+
+Este vídeo apresenta o áudio do hino 294, “Avante! Coragem! Marchemos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Palhetas
+🎵 Hino: 294
+📖 Hinário: Hinário 5
+🎶 Título: Avante! Coragem! Marchemos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Avante! Coragem! Marchemos com fé
+E com todo o fervor,
+Soldados nós somos de Cristo, o nosso Senhor;
+Avante! Veremos a glória de Cristo, fiel Redentor,
+Teremos completa vitória com o Salvador
+
+Coragem, irmãos, sempre avante!
+Devemos lutar pela fé;
+Nosso ânimo seja constante,
+Deus tudo provê.
+
+2. Avante! Lutar nós devemos,
+Cingidos de força e vigor,
+Amparo de Deus nós teremos,
+Por Seu grande amor;
+Voluntariamente sirvamos a Cristo, o Rei vencedor,
+Nós somos, por fé, Seus soldados,
+Mostremos valor.
+
+3. Avante! lutemos unidos,
+Marchando com todo o fervor
+Cingidos de toda armadura de Deus, Criador,
+Seguindo os passos de Cristo,
+Vitória se alcançará,
+É Ele veraz fortaleza, que nos salvará.
+
+#Hino294 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 294, hino 294 ccb, Avante! Coragem! Marchemos, avante! coragem! marchemos, Hinário 5, hinario 294, ccb hino 294, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Palhetas, hinos em palhetas, hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista, louvor instrumental
+
+---
+

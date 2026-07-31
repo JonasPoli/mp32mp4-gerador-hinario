@@ -152,6 +152,7 @@ Cada hino possui um arquivo `.json` com a legenda sincronizada:
 |---------|-------|--------|-------------|---------|--------|
 | `brass` | 480 | ✅ | ⚠️ pendente | ✅ | Pendente |
 | `orquestra` | 480 | ✅ | ⚠️ pendente | ✅ | Pendente |
+| `orquestra2` | — | ✅ | ⚠️ pendente | ✅ | Pendente (Aguardando MP3/JSON) |
 | `palhetas` | 479 | ✅ | ⚠️ pendente | ✅ | Pendente |
 | `sopro` | 480 | ✅ | ⚠️ pendente | ✅ | Pendente |
 | `string` | 479 | ✅ | ⚠️ pendente | ✅ | Pendente |

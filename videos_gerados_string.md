@@ -26832,3 +26832,63 @@ hino 369, hino 369 ccb, Sentes bater em teu coração?, sentes bater em teu cora
 
 ---
 
+# 288
+
+## Título para o vídeo
+Hino 288 - Ó irmãos, com Cristo avante | Hinário 5 CCB | Hinos em Cordas (Strings)
+
+
+## Descrição para o YouTube
+
+Hino 288 - Ó irmãos, com Cristo avante
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Cordas (Strings).
+
+Este vídeo apresenta o áudio do hino 288, “Ó irmãos, com Cristo avante”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Cordas (Strings)
+🎵 Hino: 288
+📖 Hinário: Hinário 5
+🎶 Título: Ó irmãos, com Cristo avante
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó irmão, com Cristo avante,
+Todo o mal iremos vencer;
+Com Sua mão poderosa, não nos deixará perecer;
+Quando lutas nós enfrentarmos, o Senhor pelejará;
+O Seu Nome invocaremos;
+Seu socorro nos mandará.
+
+2. Quando fracos estivermos
+E sem forças para lutar,
+Pela fé nós prosseguiremos, pois Jesus virá ajudar;
+Cristo é nossa grande Esperança,
+É a nossa Salvação,
+N’Ele encontraremos as forças
+Para estarmos em retidão.
+
+3. Muitas provas nesta jornada
+Nós teremos que enfrentar,
+Mas Jesus, o Mestre amado,
+Nos fará ao fim triunfar.
+Sendo nossa vida guiada pelo sábio Condutor,
+Certamente nós chegaremos
+Ao eterno lar de esplendor.
+
+Hinos Sacros – Hinário 5 CCB
+
+#Hino288 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 288, hino 288 ccb, Ó irmãos, com Cristo avante, o irmaos, com cristo avante, Hinário 5, hinario 288, ccb hino 288, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Cordas (Strings), hinos em cordas (strings), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã, musica instrumental crista
+
+---
+

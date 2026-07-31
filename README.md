@@ -17,6 +17,7 @@ Pipeline automatizado para geração de vídeos e thumbnails para o **Hinário 5
 | `brass` | Hinos em Brass (Metais) | Metais (trompete, trombone) |
 | `meia_hora` | Hinos de Meia Hora | Órgão Eletrônico Drawbar |
 | `orquestra` | Hinos em Orquestra | Orquestra |
+| `orquestra2` | Hinos em Orquestra CCB | Orquestra, Órgão, Coral e Naipes |
 | `palhetas` | Hinos em Palhetas | Palhetas (oboé, clarinete) |
 | `sopro` | Hinos em Sopro | Instrumentos de sopro |
 | `string` | Hinos em Cordas (Strings) | Cordas (violino, viola, cello) |

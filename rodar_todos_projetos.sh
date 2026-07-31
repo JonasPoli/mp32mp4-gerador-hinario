@@ -110,6 +110,7 @@ else
         "palhetas"
         "sopro"
         "orquestra"
+        "orquestra2"
         "meia_hora"
         "coros"
     )
