@@ -62,9 +62,11 @@ except ImportError:
 # =============================================================================
 
 ROOT         = Path(__file__).parent
-FLORES_DIR   = ROOT / "shared_assets" / "background_clips" / "videos_flores"
-PHOTOS_DIR   = ROOT / "shared_assets" / "background_clips" / "Photos-1-001"
-MOVIEA_DIR   = ROOT / "shared_assets" / "background_clips" / "Temp-moviea"
+BG_CLIPS_DIR = ROOT / "shared_assets" / "background_clips"
+FLORES_DIR   = BG_CLIPS_DIR / "videos_flores"
+PHOTOS_DIR   = BG_CLIPS_DIR / "Photos-1-001"
+MOVIEA_DIR   = BG_CLIPS_DIR / "Temp-moviea"
+PACOTE_DIR   = BG_CLIPS_DIR / "pacote-videos"
 OUTPUT_DIR   = ROOT / "output"
 THUMBS_DIR   = ROOT / "thumbs"   # miniaturas PNG para upload no YouTube
 FONTES_DIR   = ROOT / "fontes"
@@ -622,7 +624,7 @@ def sincronizar_mp3s(conn: sqlite3.Connection, projeto_nome: str, projeto_cfg: d
 
 
 def sincronizar_clipes(conn: sqlite3.Connection):
-    """Insere na tabela clipes os vídeos novos de videos_flores/, Photos-1-001/ e Temp-moviea/."""
+    """Insere na tabela clipes os vídeos novos de todas as subpastas em background_clips/."""
     inseridos = 0
     extensoes = {".mp4", ".mov", ".avi", ".mkv", ".webm"}
 
@@ -651,9 +653,15 @@ def sincronizar_clipes(conn: sqlite3.Connection):
             )
             inseridos += 1
 
-    escanear(FLORES_DIR, "videos_flores")
-    escanear(PHOTOS_DIR, "photos")
-    escanear(MOVIEA_DIR, "moviea")
+    if BG_CLIPS_DIR.exists():
+        for subpasta in BG_CLIPS_DIR.iterdir():
+            if subpasta.is_dir() and not subpasta.name.startswith("."):
+                escanear(subpasta, subpasta.name)
+    else:
+        escanear(FLORES_DIR, "videos_flores")
+        escanear(PHOTOS_DIR, "photos")
+        escanear(MOVIEA_DIR, "moviea")
+
     conn.commit()
     if inseridos:
         print(f"[banco] {inseridos} novo(s) clipe(s) registrado(s).")

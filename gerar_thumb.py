@@ -75,8 +75,9 @@ from trocar_fundo_thumb import aplicar_troca_de_fundo
 
 # ─── CAMINHOS ─────────────────────────────────────────────────────────────────
 BASE_DIR       = Path(__file__).parent
-VIDEOS_DIR_1   = BASE_DIR / "shared_assets" / "background_clips" / "videos_flores"
-VIDEOS_DIR_2   = BASE_DIR / "shared_assets" / "background_clips" / "Photos-1-001"
+BG_CLIPS_DIR   = BASE_DIR / "shared_assets" / "background_clips"
+VIDEOS_DIR_1   = BG_CLIPS_DIR / "videos_flores"
+VIDEOS_DIR_2   = BG_CLIPS_DIR / "Photos-1-001"
 FONTES_DIR     = BASE_DIR / "shared_assets" / "fonts"
 CSV_FILE       = FONTES_DIR / "hinario5.csv"
 OUTPUT_DIR     = BASE_DIR / "thumbs" / "v01"
@@ -659,7 +660,8 @@ def gerar_thumb(
         mascara_efetiva = BASE_DIR / mascara_efetiva
 
     # ── LAYER 1: Frame de vídeo ───────────────────────────────────────────────
-    frame = get_video_frame([VIDEOS_DIR_1, VIDEOS_DIR_2], W, H, frame_path=frame_path)
+    v_dirs = [d for d in BG_CLIPS_DIR.iterdir() if d.is_dir() and not d.name.startswith(".")] if BG_CLIPS_DIR.exists() else [VIDEOS_DIR_1, VIDEOS_DIR_2]
+    frame = get_video_frame(v_dirs, W, H, frame_path=frame_path)
     if frame is None:
         print("  AVISO: Nenhum vídeo encontrado. Usando fundo verde escuro.")
         frame = Image.new("RGB", (W, H), (3, 35, 18))

@@ -24126,3 +24126,2494 @@ hino 435, hino 435 ccb, Ó Jesus, quanto és piedoso!, o jesus, quanto es piedos
 
 ---
 
+# 436
+
+## Título para o vídeo
+Hino 436 - Alegria sinto em servir Jesus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 436 - Alegria sinto em servir Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 436, “Alegria sinto em servir Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 436
+📖 Hinário: Hinário 5
+🎶 Título: Alegria sinto em servir Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Alegria sinto em servir Jesus
+Alegria que, no mundo, não há igual
+Bem por isso sigo a eterna luz
+Da justiça divinal
+
+Coro:
+Privilégio santo, sem igual
+É andar com meu Senhor
+Caminhar em Seu amor, exaltando ao Criador.
+Desejamos ver retornar dos céus
+Cristo, o Rei e Salvador
+
+Regozigo e real consolação
+Paz divina e celestial amor,
+Me preservam deste mundo de ilusão
+E me unem ao Senhor
+
+Ó amados, caminhemos com Jesus
+Nele temos vida eterna e salvação
+Se aqui manifestarmos Sua luz
+Nos teremos galardão.
+
+#Hino436 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 436, hino 436 ccb, Alegria sinto em servir Jesus, alegria sinto em servir jesus, Hinário 5, hinario 436, ccb hino 436, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 437
+
+## Título para o vídeo
+Hino 437 - Os meninos viram Jesus passar | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 437 - Os meninos viram Jesus passar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 437, “Os meninos viram Jesus passar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 437
+📖 Hinário: Hinário 5
+🎶 Título: Os meninos viram Jesus passar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Os meninos viram Jesus passar
+Logo O seguiram para proclamar
+Glória ao que veio em nome do Senhor
+Foi engrandecido o Redentor.
+
+Vamos exaltar a Jesus então
+Com os nossos lábios e o coração
+Ó meninos vamos ao Senhor servir
+E a lei perfeita de Deus cumprir
+
+Eis que entre nós Jesus Cristo está
+Ele, que nos vê, nos abençoará
+As virtudes santas quer nos conceder
+Para que possamos o mal vencer
+
+Em silêncio ouçamos o que dirá
+Cristo o nosso mestre que ensinará
+A doutrina santa que conduz aos céus
+Ó meninos vamos amar a Deus.
+
+#Hino437 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 437, hino 437 ccb, Os meninos viram Jesus passar, os meninos viram jesus passar, Hinário 5, hinario 437, ccb hino 437, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 438
+
+## Título para o vídeo
+Hino 438 - Oh! Que amor celeste! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 438 - Oh! Que amor celeste!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 438, “Oh! Que amor celeste!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 438
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Que amor celeste!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Bem perto está dos seus fiéis
+Jesus, o grande Mestre;
+Jamais nos deixa o Rei dos reis;
+Oh! Que amor celeste!
+
+Coro:
+Perto está o Salvador
+Dos que O têm por seu Pastor;
+Não os deixa o redentor;
+Oh! que amor celeste!
+
+Jesus, o nosso Redentor,
+Do alto nos reveste;
+Nas provas, lutas ou na dor;
+Presente está o Mestre!
+
+Na nossa peregrinação.
+É Cristo Quem nos guia;
+Estende sempre a Sua mão,
+Nos guarda noite e dia.
+
+#Hino438 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 438, hino 438 ccb, Oh! Que amor celeste!, oh! que amor celeste!, Hinário 5, hinario 438, ccb hino 438, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 439
+
+## Título para o vídeo
+Hino 439 - Somos jovens | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 439 - Somos jovens
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 439, “Somos jovens”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 439
+📖 Hinário: Hinário 5
+🎶 Título: Somos jovens
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Somos jovens, mas devemos sempre andar
+No temor do Criador,
+O modelo santo vamos imitar
+Jesus Cristo, o Salvador.
+
+Coro:
+Em amor, com vigor,
+Nós, jovens, vamos caminhar,
+Mostrando a luz do Salvador
+E honrando ao Criador.
+
+2. Cristo é o Luz divina para nós,
+Vemos nEle a perfeição;
+Ouviremos, sempre atentos, Sua voz
+Que consola o coração.
+
+3. Se seguirmos sempre firmes ao Senhor,
+Com sincero coração,
+Ele nos dará, no reino de esplendor,
+O glorioso galardão.
+
+#Hino439 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 439, hino 439 ccb, Somos jovens, somos jovens, Hinário 5, hinario 439, ccb hino 439, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 440
+
+## Título para o vídeo
+Hino 440 - Lembra-te do teu Criador! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 440 - Lembra-te do teu Criador!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 440, “Lembra-te do teu Criador!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 440
+📖 Hinário: Hinário 5
+🎶 Título: Lembra-te do teu Criador!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Nos dias da tua peregrinação,
+Usa o tempo servindo ao Senhor,
+E, com alegria, cumpre a missão;
+Lembra-te do Criador!
+
+Coro:
+Debaixo do sol tudo é vaidade,
+Recorre a Deus, o Formador;
+Nos breves dias da mocidade,
+Não te esqueças do Senhor!
+
+Os dias preditos logo hão de vir,
+Serve, pois a Deus, o Formador;
+Vinde, ó benditos” tu irás ouvir;
+Lembra-te do Criador!
+
+Mesmo tendo neste mundo, muitos bens,
+E a vida cheia de vigor,
+É maior a herança que na glória, tens;
+Com o santo Criador!
+
+#Hino440 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 440, hino 440 ccb, Lembra-te do teu Criador!, lembra-te do teu criador!, Hinário 5, hinario 440, ccb hino 440, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 441
+
+## Título para o vídeo
+Hino 441 - Eu sou um cordeirinho | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 441 - Eu sou um cordeirinho
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 441, “Eu sou um cordeirinho”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 441
+📖 Hinário: Hinário 5
+🎶 Título: Eu sou um cordeirinho
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Eu sou um cordeirinho Jesus é o meu pastor
+Desfruto Seu carinho e seu sublime amor
+Nasci no Seu rebanho por graça divinal
+Não sigo a voz do estranho mas só
+A paternal
+
+Eu sou um cordeirinho Jesus é o meu Pastor
+Sou um feliz menino nos braços do Senhor
+A Sua voz conheço também o seu querer
+A Ele obedeço disposto e com prazer
+
+Sozinho no deserto jamais eu posso andar
+Jesus está bem perto a fim de me guardar
+É grande o cuidado que Ele tem por mim
+O meu pastor amado me guia até o fim
+
+#Hino441 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 441, hino 441 ccb, Eu sou um cordeirinho, eu sou um cordeirinho, Hinário 5, hinario 441, ccb hino 441, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 442
+
+## Título para o vídeo
+Hino 442 - Bênçãos, bênçãos Deus derramará | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 442 - Bênçãos, bênçãos Deus derramará
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 442, “Bênçãos, bênçãos Deus derramará”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 442
+📖 Hinário: Hinário 5
+🎶 Título: Bênçãos, bênçãos Deus derramará
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Bênçãos como chuva, se derramarão
+Sobre aquele que a Deus servir;
+E, dos céus, as portas não se fecharão;
+Bens celestes poderá fruir.
+
+Coro:
+Bênçãos, bênçãos Deus derramará,
+Bênçãos que no mundo, iguais não há;
+Ele, aqui, te dá as bênçãos temporais,
+E, por fim, no céu, as eternais.
+
+2. Se obedeceres ao teu Criador,
+Tu serás bendito do Senhor;
+O Seu forte braço Ele estenderá,
+E em teu favor trabalhará.
+
+3. O que Deus te pede, deves tu fazer
+E somente a Ele obedecer,
+Pois Deus é contigo, te ajudará,
+E, dos céus, te abençoará.
+
+#Hino442 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 442, hino 442 ccb, Bênçãos, bênçãos Deus derramará, bencaos, bencaos deus derramara, Hinário 5, hinario 442, ccb hino 442, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 443
+
+## Título para o vídeo
+Hino 443 - Ó meninos, Deus vos convida | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 443 - Ó meninos, Deus vos convida
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 443, “Ó meninos, Deus vos convida”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 443
+📖 Hinário: Hinário 5
+🎶 Título: Ó meninos, Deus vos convida
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó meninos, Deus vos convida
+Para a grande festa nos céus;
+Regozigo eterno e vida
+Achareis no reino de Deus.
+Grande glória lá vos aguarda,
+Benção que aqui não tereis;
+Atendei, pois Cristo não tarda
+Brevemente vós O vereis.
+
+2. Deslumbrante é a beleza
+Das moradas do Criador,
+Que reserva essa riqueza
+Aos remidos por Seu amor.
+Vós vereis na glória celeste,
+Glória onde é tudo esplendor,
+Todos quantos seguem ao Mestre,
+Jesus Cristo, nosso Senhor.
+
+3. Tão somente santificai-vos
+Pela força do nosso Deus;
+De justiça sempre adornai-vos,
+Para a grande festa nos céus,
+Todos juntos nós subiremos,
+Com Jesus, ao Pai celestial;
+Diante dEle entoaremos
+Hinos de louvor eternal.
+
+#Hino443 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 443, hino 443 ccb, Ó meninos, Deus vos convida, o meninos, deus vos convida, Hinário 5, hinario 443, ccb hino 443, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 444
+
+## Título para o vídeo
+Hino 444 - Ó meninos, exaltemos | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 444 - Ó meninos, exaltemos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 444, “Ó meninos, exaltemos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 444
+📖 Hinário: Hinário 5
+🎶 Título: Ó meninos, exaltemos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ó meninos, exaltemos
+A Jesus, o Salvador;
+Sempre alegres, seguiremos
+Ao amado e bom Pastor,
+Pois na boca das crianças
+É perfeito o louvor
+A Jesus, nossa Esperança
+E a Deus, o Criador.
+
+2 – Nesta terra proclamemos
+Que Jesus é o Salvador;
+Com fervor, manifestemos
+Seu sublime e grande amor;
+Quando juntos estivermos
+Na cidade de esplendor,
+Todos nós contemplaremos
+Nosso Amado Redentor.
+
+#Hino444 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 444, hino 444 ccb, Ó meninos, exaltemos, o meninos, exaltemos, Hinário 5, hinario 444, ccb hino 444, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 445
+
+## Título para o vídeo
+Hino 445 - Ajuntemos um tesouro eterno | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 445 - Ajuntemos um tesouro eterno
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 445, “Ajuntemos um tesouro eterno”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 445
+📖 Hinário: Hinário 5
+🎶 Título: Ajuntemos um tesouro eterno
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ajuntemos ó meninos nosso bom tesouro
+Lá nos céus de amor
+Onde habita nosso Mestre e o Pai eterno nosso
+Criador
+
+Coro:
+Ajuntemos um tesouro eterno
+Onde habita nosso Deus superno
+Nos céus o bens jamais se acabarão
+
+Ricos das eternas bênçãos e dos dons celestes
+Que nos vêm de Deus,
+Caminhemos nas veredas da justiça eterna
+Que nos leva aos céus.
+
+Ao sairmos deste mundo, tudo deixaremos, tudo
+findará
+O tesouro ajuntado na eterna glória sempre durará
+
+#Hino445 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 445, hino 445 ccb, Ajuntemos um tesouro eterno, ajuntemos um tesouro eterno, Hinário 5, hinario 445, ccb hino 445, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 446
+
+## Título para o vídeo
+Hino 446 - Vós, ó jovens do Senhor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 446 - Vós, ó jovens do Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 446, “Vós, ó jovens do Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 446
+📖 Hinário: Hinário 5
+🎶 Título: Vós, ó jovens do Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Vós, ó jovens do Senhor, dai-Lhe honra e louvor,
+Esforçai-vos por servir ao Rei dos reis;
+Revesti-vos, pois, de fé e do Seu imenso amor,
+O que dEle precisardes vós tereis.
+
+Coro:
+Vós, ó jovens do Senhor,
+Oh! Amai-O com fervor,
+O que Ele vos mandar, procurai executar;
+Morareis com Deus em Seu lar;
+Diligentes sede vós, Ele não vos deixa sós,
+Mas convosco estará e as forças vos dará,
+Pois a graça nEle está.
+
+2. Sois remidos, ó irmãos, sois amados de Jesus,
+E sois fortes para suplantar o mal;
+Pelo bom Consolador vós tereis virtude e luz;
+Sim, crescei na estatura divinal.
+
+3. Se vier o tentador com ofertas vos tentar,
+Incitando-vos a males cometer,
+Recorrei ao Salvador, Ele vos virá livrar;
+Vós, ó jovens, não deveis jamais ceder.
+
+#Hino446 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 446, hino 446 ccb, Vós, ó jovens do Senhor, vos, o jovens do senhor, Hinário 5, hinario 446, ccb hino 446, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 447
+
+## Título para o vídeo
+Hino 447 - Brilha mais e mais | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 447 - Brilha mais e mais
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 447, “Brilha mais e mais”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 447
+📖 Hinário: Hinário 5
+🎶 Título: Brilha mais e mais
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Estás na senda divinal que te faz brilhar;
+O teu lugar celestial, Deus irá te dar.
+
+Coro:
+Brilha mais e mais,
+Caminha com Jesus;
+Terás em ti a Sua luz,
+Brilhando sempre mais.
+
+2. É teu desejo receber dons do teu Senhor?
+Verás que há no Seu saber santo resplendor.
+
+3. Repouso eterno há nos céus junto ao bom Jesus;
+Por fim verás o grande Deus onde habita a luz.
+
+#Hino447 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 447, hino 447 ccb, Brilha mais e mais, brilha mais e mais, Hinário 5, hinario 447, ccb hino 447, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 448
+
+## Título para o vídeo
+Hino 448 - Sou criança, Senhor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 448 - Sou criança, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 448, “Sou criança, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 448
+📖 Hinário: Hinário 5
+🎶 Título: Sou criança, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Sou criança, Senhor, mas desejo seguir
+Os Teus passos na senda de luz
+Teus conselhos de amor eu almejo ouvir
+Aos Teus pés, ó amável Jesus
+
+Coro:
+Sou criança, mas crente em Jesus
+Meu amado e divino Pastor,
+Que em mim faz brilhar sua luz
+Conduzindo-me ao reino de amor
+
+Sou criança, Senhor, mas fiel quero ser
+À palavra que livra do mal
+Com amor e fervor eu desejo crescer
+Nas virtudes da vida eternal
+
+Sou criança, Senhor, mas zeloso do bem,
+Tuas bênçãos estão sobre de mim
+Caminhando em amor, em justiça também
+Eu serei coroado ao fim.
+
+#Hino448 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 448, hino 448 ccb, Sou criança, Senhor, sou crianca, senhor, Hinário 5, hinario 448, ccb hino 448, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 449
+
+## Título para o vídeo
+Hino 449 - O meu nome no céu escreveste, Senhor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 449 - O meu nome no céu escreveste, Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 449, “O meu nome no céu escreveste, Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 449
+📖 Hinário: Hinário 5
+🎶 Título: O meu nome no céu escreveste, Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. As riquezas celestes eu almejo, Senhor,
+Os tesouros da terra têm pequeno valor.
+Com fervor eu Te rogo, ó eterno Deus meu,
+Que conserves escrito o meu nome no céu.
+
+Coro:
+O meu nome no céu escreveste, Senhor
+No Teu livro da vida, por Teu grande amor.
+
+2. Que ventura sublime! que tesouro sem par!
+Pois verei Teu semblante, ouvirei Teu falar;
+O meu nome não risques, eu imploro, Senhor,
+Entre os Teus escolhidos quero estar, Criador.
+
+3. Tu me predestinaste para ser filho Teu,
+Para ser Teu herdeiro, com os santos, no céu;
+Como posso pagar-Te essa grande mercê?!
+Pois em mim colocaste a esperança e a fé.
+
+#Hino449 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 449, hino 449 ccb, O meu nome no céu escreveste, Senhor, o meu nome no ceu escreveste, senhor, Hinário 5, hinario 449, ccb hino 449, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 450
+
+## Título para o vídeo
+Hino 450 - Vamos, queridos, escolher a boa parte | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 450 - Vamos, queridos, escolher a boa parte
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 450, “Vamos, queridos, escolher a boa parte”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 450
+📖 Hinário: Hinário 5
+🎶 Título: Vamos, queridos, escolher a boa parte
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos, queridos, escolher
+A boa parte para nós,
+Sempre ouvindo, com prazer,
+De Jesus Cristo, a doce voz.
+
+Coro:
+Grande bem, sem igual
+É estar diante do Senhor,
+Sua voz divinal,
+Nos ensina com sublime amor.
+
+2. Não há no mundo nada igual
+Ao regozijo de estar.
+Aos pés do Mestre divinal,
+A quem devemos sempre amar.
+
+3. A boa parte que nos dá
+Cristo Jesus, o Redentor,
+Nada, de nós a tomará,
+Se a guardarmos com amor.
+
+#Hino450 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 450, hino 450 ccb, Vamos, queridos, escolher a boa parte, vamos, queridos, escolher a boa parte, Hinário 5, hinario 450, ccb hino 450, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 451
+
+## Título para o vídeo
+Hino 451 - Jamais esquecerei Tua mercê | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 451 - Jamais esquecerei Tua mercê
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 451, “Jamais esquecerei Tua mercê”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 451
+📖 Hinário: Hinário 5
+🎶 Título: Jamais esquecerei Tua mercê
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Não poderei jamais esquecerei
+Tua mercê, Senhor;
+Deste aos pequenos de conhecer
+Tua grandeza e amor.
+
+Coro:
+Jamais esquecerei
+Tua mercê, ó Criador;
+Por Cristo alcançarei
+Esse tesouro de amor.
+
+Oh! que tesouro de esplendor
+Tu me darás nos céus;
+Não há esperança de igual valor
+Para Teus filhos, ó Deus.
+
+Se eu andar sempre em Teu temor,
+Ao fim eu entrarei
+No reino eterno de esplendor,
+Onde o tesouro terei.
+
+#Hino451 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 451, hino 451 ccb, Jamais esquecerei Tua mercê, jamais esquecerei tua merce, Hinário 5, hinario 451, ccb hino 451, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 452
+
+## Título para o vídeo
+Hino 452 - Jesus, ó divinal Pastor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 452 - Jesus, ó divinal Pastor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 452, “Jesus, ó divinal Pastor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 452
+📖 Hinário: Hinário 5
+🎶 Título: Jesus, ó divinal Pastor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jesus ó divinal pastor o Teu rebanho quer te ouvir
+Com teu Espírito, ó Senhor vem este culto presidir
+Nós somos todos cordeirinhos
+Do Teu aprisco ó Redentor
+Só Tu nos tratas com carinho ó glorioso Salvador
+
+Jesus, glorioso e fiel em Ti está o nosso bem;
+Tu és o nosso Emanuel,
+És quem na graça, nos sustém
+Aqui estamos reunidos ao Teu redor fiel Senhor
+Pois, onde estão os Teus remidos
+Também estás ó bom Pastor
+
+Nós Te seguimos, Redentor,
+Pois conhecemos Tua voz
+Vos que nos fala com amor, dizendo:
+“Não vos deixo sós”
+A Pastos sempre verdejantes
+Tu nos conduzes, ó Senhor
+Por isso estamos confiantes,
+Sentindo a Tua paz e amor.
+
+#Hino452 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 452, hino 452 ccb, Jesus, ó divinal Pastor, jesus, o divinal pastor, Hinário 5, hinario 452, ccb hino 452, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 453
+
+## Título para o vídeo
+Hino 453 - Consagrados sejamos a Deus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 453 - Consagrados sejamos a Deus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 453, “Consagrados sejamos a Deus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 453
+📖 Hinário: Hinário 5
+🎶 Título: Consagrados sejamos a Deus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1 – Se quisermos, irmãos, do Senhor receber
+As virtudes da vida eternal,
+Seja a nossa afeição e o nosso prazer
+Em Jesus e na lei celestial.
+
+Coro:
+Consagrados sejamos a Deus, Criador,
+E Ele, de nós, se agradará;
+Abrirá Sua mão e, com grande amor,
+Boas dádivas nos mandará.
+
+2 – Se quisermos, irmãos, ser benditos de Deus,
+Adoremo-Lo com devoção;
+Seus preceitos de amor Ele envia dos céus,
+Seja Ele a nossa Porção.
+
+3 – Se honrarmos a Deus, Ele nos honrará,
+Nesta terra e na pátria eternal;
+Um diadema, nos céus, Ele concederá,
+Ao entrarmos no lar divinal.
+
+#Hino453 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 453, hino 453 ccb, Consagrados sejamos a Deus, consagrados sejamos a deus, Hinário 5, hinario 453, ccb hino 453, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 454
+
+## Título para o vídeo
+Hino 454 - Cidadão dos céus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 454 - Cidadão dos céus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 454, “Cidadão dos céus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 454
+📖 Hinário: Hinário 5
+🎶 Título: Cidadão dos céus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó Deus bendito, sou pequenino;
+Mas já caminho pelo teu ensino,
+Sou neste mundo, um peregrino;
+Já me fizeste cidadão dos céus
+
+Vivo alegre, em paz te sigo;
+Nada receio, pois estou contigo;
+Neste deserto, em ti me abrigo;
+Já me fizeste cidadão dos céus.
+
+És minha força, e Segurança;
+És meu apoio, minha Esperança;
+És minha vida e confiança
+Já me fizeste cidadão dos céus.
+
+#Hino454 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 454, hino 454 ccb, Cidadão dos céus, cidadao dos ceus, Hinário 5, hinario 454, ccb hino 454, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 455
+
+## Título para o vídeo
+Hino 455 - Quão ditoso é caminhar com Jesus! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 455 - Quão ditoso é caminhar com Jesus!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 455, “Quão ditoso é caminhar com Jesus!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 455
+📖 Hinário: Hinário 5
+🎶 Título: Quão ditoso é caminhar com Jesus!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Alegremente seguimos os passos
+Do nosso bom Salvador, nosso Rei,
+Pois acolheu-nos em Seus santos braços,
+Desde crianças nos fez Sua grei.
+
+Coro:
+Quão ditoso é caminhar com Jesus, ó A7
+D
+Somos Sua grei, Ele é o bom Pastor;
+Seguimos, com amor, os preciosos ensinos
+De Deus, Criador.
+
+Nesta jornada, unidos devemos,
+Sempre dispostos, a Cristo seguir;
+E no Seu Nome, vitória teremos,
+Desfrutaremos os bens do porvir.
+
+O Salvador nos conduz nesta vida,
+Para fazer-nos morar lá nos céus;
+E nessa pátria, gloriosa e querida,
+Contemplaremos a face de Deus.
+
+#Hino455 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 455, hino 455 ccb, Quão ditoso é caminhar com Jesus!, quao ditoso e caminhar com jesus!, Hinário 5, hinario 455, ccb hino 455, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 456
+
+## Título para o vídeo
+Hino 456 - Somos jóias preciosas | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 456 - Somos jóias preciosas
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 456, “Somos jóias preciosas”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 456
+📖 Hinário: Hinário 5
+🎶 Título: Somos jóias preciosas
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Ao voltar com grande glória, Jesus Cristo,
+o Redentor,
+Levará as Suas joias para o reino de esplendor.
+
+Coro:
+Somos joias preciosas
+Do tesouro do Senhor;
+Somos belas, mui formosas,
+Somos joias de valor.
+
+2. Destas joias preciosas Cristo sempre cuidará;
+Sempre belas e brilhantes Ele as conservará.
+
+3. Revestidos de pureza, caminhando em amor.
+Aguardemos, bem atentos, o retorno do Senhor.
+
+#Hino456 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 456, hino 456 ccb, Somos jóias preciosas, somos joias preciosas, Hinário 5, hinario 456, ccb hino 456, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 457
+
+## Título para o vídeo
+Hino 457 - Comigo está Jesus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 457 - Comigo está Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 457, “Comigo está Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 457
+📖 Hinário: Hinário 5
+🎶 Título: Comigo está Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Comigo está Jesus meu bom mestre
+E salvador
+Me guia com a Luz pelo Seu imenso amor
+Mistérios celestiais Jesus revelará
+No Seu bom caminho andar me fará
+
+Quem me separará do sublime amor de Deus
+Quem me condenará?
+Pois Jesus defende os Seus.
+Unido ao Senhor por celestial amor
+Caminho avante com fé e valor
+
+Das sendas celestiais eu não me afastarei
+Pois amo sempre mais a doutrina
+Do meu Rei;
+Jesus me guiará e forças me dará
+O Mestre amado comigo está.
+
+Final:
+Estou com Jesus meu Senhor:
+Vou vencer!
+Jesus ama os Seus e as coisas
+De Deus lhes faz saber
+A nada aqui temerei pois eu bem sei
+Que tudo estas sob as ordens do
+meu Rei
+
+#Hino457 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 457, hino 457 ccb, Comigo está Jesus, comigo esta jesus, Hinário 5, hinario 457, ccb hino 457, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 458
+
+## Título para o vídeo
+Hino 458 - Cristo me ama | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 458 - Cristo me ama
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 458, “Cristo me ama”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 458
+📖 Hinário: Hinário 5
+🎶 Título: Cristo me ama
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Sou amado por Jesus
+A Palavra assim me diz;
+Ele é a minha luz
+E me leva ao Seu país
+
+Coro:
+Cristo me ama
+Sei me ama
+Muito me ama
+Em Cristo sou Feliz
+
+Sou amado por Jesus
+Pois, por mim, na cruz morreu
+Ele agora me conduz
+Para o lar que prometeu
+
+Sou amado por Jesus
+Pois comigo sempre está;
+Seu Conselho em mim conduz
+Força que me susterá.
+
+#Hino458 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 458, hino 458 ccb, Cristo me ama, cristo me ama, Hinário 5, hinario 458, ccb hino 458, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 459
+
+## Título para o vídeo
+Hino 459 - Vamos nos preparar! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 459 - Vamos nos preparar!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 459, “Vamos nos preparar!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 459
+📖 Hinário: Hinário 5
+🎶 Título: Vamos nos preparar!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Cristo Jesus breve voltará – Vamos nos preparar!
+Ele á glória nos levará – Vamos nos coroar!
+Receberá os remidos Seus,
+Para habitarem no céu dos céus,
+Junto aos anjos e a Deus – Vamos nos preparar.
+
+2. Não cederemos à tentação;
+Vamos, com fé, lutar!
+Rejeitaremos a ilusão, Para não vacilar!
+Quando voltar Cristo, o Salvador,
+Vitorioso, com esplendor,
+Encontrará em nós, valor. Vamos nos preparar.
+
+Final:
+
+Glória! Glória a Cristo, o Rei dos reis!
+Glória! Glória! Cantam os Seus fiéis;
+Glória! Glória! Na terra e nos céus,
+Glória! Glória ao poderoso Deus.
+
+#Hino459 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 459, hino 459 ccb, Vamos nos preparar!, vamos nos preparar!, Hinário 5, hinario 459, ccb hino 459, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 460
+
+## Título para o vídeo
+Hino 460 - Vamos todos juntos cantar | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 460 - Vamos todos juntos cantar
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 460, “Vamos todos juntos cantar”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 460
+📖 Hinário: Hinário 5
+🎶 Título: Vamos todos juntos cantar
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Vamos todos juntos cantar;
+Glória a Jesus! Glória a Jesus!
+Vamos todos juntos louvar
+Ao Senhor Jesus!
+Ele é a nossa Paz, Ele é a nossa Luz;
+Exaltemos, com devoção,
+Ao Senhor Jesus!
+
+2. Somos salvos por Seu amor;
+Glória a Jesus! Glória a Jesus!
+Suportou por nós grande dor
+O Senhor Jesus.
+Quem nos dá perdão? Quem ao céu conduz?
+É o santo Filho de Deus,
+O Senhor Jesus.
+
+3. Mui felizes somos então;
+Glória a Jesus! Glória a Jesus!
+Recebemos consolação
+Do Senhor Jesus.
+No Seu lar de amor, no Seu lar de luz,
+Novo hino vamos cantar
+Ao Senhor Jesus.
+
+#Hino460 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 460, hino 460 ccb, Vamos todos juntos cantar, vamos todos juntos cantar, Hinário 5, hinario 460, ccb hino 460, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 461
+
+## Título para o vídeo
+Hino 461 - Abrigado em Jesus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 461 - Abrigado em Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 461, “Abrigado em Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 461
+📖 Hinário: Hinário 5
+🎶 Título: Abrigado em Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Abrigado em Jesus, lutas não mais temereis;
+Ele é a minha Luz e por Ela andarei.
+
+Coro:
+A Jesus, meu Senhor, minha vida consagrei;
+Em meu bom Redentor, forte abrigo encontrei.
+
+Abrigado em Jesus, posso sempre caminhar
+Pela senda que conduz ao sublime, eterno lar.
+
+Abrigado em Jesus, mesmo quando em aflição;
+Sinto em mim a Sua Luz, que ilumina o coração.
+
+#Hino461 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 461, hino 461 ccb, Abrigado em Jesus, abrigado em jesus, Hinário 5, hinario 461, ccb hino 461, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 462
+
+## Título para o vídeo
+Hino 462 - Gloriosa é a história | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 462 - Gloriosa é a história
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 462, “Gloriosa é a história”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 462
+📖 Hinário: Hinário 5
+🎶 Título: Gloriosa é a história
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Gloriosa é a história
+Que nos fala de Jesus;
+Sendo Rei, Senhor da glória,
+Padeceu por nós na cruz.
+
+Coro:
+Quão gloriosa é a história
+De Jesus, o Salvador,
+Que alcançou final vitória
+E no céu é Intercessor.
+
+Veio ao mundo sem pecado,
+O divino Salvador;
+Conservou-Se imaculado
+E venceu o tentador.
+
+O Senhor, crucificado,
+No madeiro expirou;
+Tudo estava consumado;
+Seu espírito entregou.
+
+Foi Jesus glorificado,
+Pois da morte retornou;
+Para o céu foi elevado
+E Deus Pai O exaltou.
+
+#Hino462 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 462, hino 462 ccb, Gloriosa é a história, gloriosa e a historia, Hinário 5, hinario 462, ccb hino 462, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 463
+
+## Título para o vídeo
+Hino 463 - Mocidade! Vamos combater! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 463 - Mocidade! Vamos combater!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 463, “Mocidade! Vamos combater!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 463
+📖 Hinário: Hinário 5
+🎶 Título: Mocidade! Vamos combater!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Com valor, ó jovens, santos do Senhor,
+Vamos proclamar que Cristo é o Salvador;
+Os que nEle crerem, certo alcançarão
+Vida eterna e perdão.
+
+Coro:
+Mocidade! Vamos combater!
+Valorosos somos por Jesus!
+Venceremos pelo Seu poder,
+Manifestaremos Sua luz.
+
+Sempre avante, ó jovens, vamos, com valor,
+Combater, por fé, o astuto tentador;
+Cristo, por Seu braço, nos sustentará
+E vitória nos dará.
+
+Bem-aventurados somos no Senhor.
+Temos alcançado a unção do Criador,
+Pela qual sentimos paz e comunhão
+Para eterna salvação.
+
+#Hino463 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 463, hino 463 ccb, Mocidade! Vamos combater!, mocidade! vamos combater!, Hinário 5, hinario 463, ccb hino 463, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 464
+
+## Título para o vídeo
+Hino 464 - Reunidos nós estamos | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 464 - Reunidos nós estamos
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 464, “Reunidos nós estamos”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 464
+📖 Hinário: Hinário 5
+🎶 Título: Reunidos nós estamos
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Reunidos nós estamos aos Teus pés, ó Criador,
+Ansiosos esperamos Tuas bênçãos, Teu favor,
+Glorificado seja sempre o Teu Nome, ó Senhor,
+E Teu reino anunciado para todo o pecador.
+
+Ó Senhor, só Tu conheces nossa mente e coração,
+Elevamos nossas preces com sincera devoção.
+Nós invocamos o Teu Nome
+E desejamos Te honrar,
+Dá-nos força, Pai eterno para Te glorificar.
+
+Faz que nós consideremos
+Que presente estás, ó Deus,
+Para que nos alegremos nos fiéis conselhos Teus;
+Tua palavra de virtude nós esperamos, ó Senhor,
+N'Ela está a plenitude do Teu santo e imenso amor.
+
+#Hino464 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 464, hino 464 ccb, Reunidos nós estamos, reunidos nos estamos, Hinário 5, hinario 464, ccb hino 464, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 465
+
+## Título para o vídeo
+Hino 465 - Deus tem por nós imenso amor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 465 - Deus tem por nós imenso amor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 465, “Deus tem por nós imenso amor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 465
+📖 Hinário: Hinário 5
+🎶 Título: Deus tem por nós imenso amor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Nesta hora reunidos nós estamos ante Deus
+E em nome de Jesus, o Salvador.
+Quer-nos todos reverentes nosso
+Pai que está nos céus;
+Deus, tem por nós imenso amor.
+
+Como filhos obedientes que obedecem ao seu pai,
+Atendamos ao sublime Criador;
+Lá no céu os Seus tesouros conceder-nos Ele vai;
+Deus, tem por nós imenso amor.
+
+Se andamos pela senda da justiça e da luz,
+Tem prazer em nossas almas o Senhor;
+Se aqui nós imitamos o Modelo que é Jesus,
+Deus, tem por nós imenso amor.
+
+Ao eterno Pai celeste honra e glória vamos dar.
+E, atentos, Seus conselhos escutar;
+Suas bênçãos gloriosas nos dará o Criador.
+Deus tem por nós imenso amor.
+
+#Hino465 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 465, hino 465 ccb, Deus tem por nós imenso amor, deus tem por nos imenso amor, Hinário 5, hinario 465, ccb hino 465, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 466
+
+## Título para o vídeo
+Hino 466 - A criança consagrada | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 466 - A criança consagrada
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 466, “A criança consagrada”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 466
+📖 Hinário: Hinário 5
+🎶 Título: A criança consagrada
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+A criança consagrada
+A Jesus, meu Salvador,
+É, por Ele, ensinada
+A servir ao Criador.
+
+Cristo chama os pequeninos
+Com ternura e amor,
+Quando a Deus entoam hinos
+É aceito o seu louvor.
+
+Cristo é a Luz divina
+Enviada lá dos céus;
+Ele trouxe a sã doutrina
+Que conduz, por fé, a Deus.
+
+#Hino466 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 466, hino 466 ccb, A criança consagrada, a crianca consagrada, Hinário 5, hinario 466, ccb hino 466, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 467
+
+## Título para o vídeo
+Hino 467 - Vamos com Jesus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 467 - Vamos com Jesus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 467, “Vamos com Jesus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 467
+📖 Hinário: Hinário 5
+🎶 Título: Vamos com Jesus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Sigamos, com fervor, Jesus, o Salvador,
+Que, por amor, nos livrou da condenação;
+É Ele o nosso Rei, nós somos Sua grei,
+Que irá, no céu, receber o grande galardão.
+
+Coro:
+
+Vamos com Jesus, Ele nos conduz
+Ao Seu reino de amor;
+Marchemos com valor, á pátria celestial;
+O nosso Rei nos dará a glória eternal.
+
+2. Oh! vamos combater e, pela fé, vencer
+O tentador que nos quer para o mal levar;
+Sigamos ao Senhor com todo o fervor;
+Só Ele tem armas que nos fazem triunfar.
+
+3. Mistérios celestiais, riquezas eternais,
+Jesus, o Rei, por amor, nos desvendará;
+Felizes, pois, nos céus, seremos junto a Deus;
+Naquele lar nosso coração jubilará.
+
+#Hino467 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 467, hino 467 ccb, Vamos com Jesus, vamos com jesus, Hinário 5, hinario 467, ccb hino 467, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 468
+
+## Título para o vídeo
+Hino 468 - Toda a criança... | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 468 - Toda a criança...
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 468, “Toda a criança...”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 468
+📖 Hinário: Hinário 5
+🎶 Título: Toda a criança...
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1 – Toda a criança que, com fé e amor,
+Serve ao Deus vivente, santo Criador;
+Cresce na justiça e na retidão,
+Com a lei de Cristo em seu coração.
+
+2 – Toda a criança deve conhecer
+Quanto é glorioso junto a Deus viver
+Grande alegria lhe dará Jesus,
+Ele a protege, Ele a conduz.
+
+3 – Deus, o Pai eterno, ouve a oração,
+Que toda a criança faz com devoção;
+Cristo com Seu braço, firme a sustém
+Para que alcance o eterno bem.
+
+#Hino468 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 468, hino 468 ccb, Toda a criança..., toda a crianca..., Hinário 5, hinario 468, ccb hino 468, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 469
+
+## Título para o vídeo
+Hino 469 - Pai nosso, que estás nos céus | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 469 - Pai nosso, que estás nos céus
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 469, “Pai nosso, que estás nos céus”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 469
+📖 Hinário: Hinário 5
+🎶 Título: Pai nosso, que estás nos céus
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Ó Pai nosso, que estás nos céus,
+Infinito em poder,
+Santo é Teu Nome, ó grande Deus,
+Sem limite é Teu saber.
+
+Coro:
+Glória, glória, glória eterna
+Te daremos, ó Deus, Pai de amor!
+Pois herdeiros nos fizeste, ó Senhor,
+Do Teu reino de esplendor.
+
+Venha a nós Teu reino, ó grande Deus,
+Seja feito o Teu querer
+Nesta terra, como é lá nos céus,
+Pelo imenso Teu poder.
+
+Cada dia dá-nos nosso pão,
+E perdoa nosso mal;
+Ofendidos, damos o perdão,
+Com carinho fraternal.
+
+Ó Senhor, preserva-nos do mal
+E da tentação também;
+Pois é Teu o reino eternal,
+Glória e poder, Amém!
+
+#Hino469 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 469, hino 469 ccb, Pai nosso, que estás nos céus, pai nosso, que estas nos ceus, Hinário 5, hinario 469, ccb hino 469, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 470
+
+## Título para o vídeo
+Hino 470 - Jesus Cristo, Seus fiéis, ensina | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 470 - Jesus Cristo, Seus fiéis, ensina
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 470, “Jesus Cristo, Seus fiéis, ensina”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 470
+📖 Hinário: Hinário 5
+🎶 Título: Jesus Cristo, Seus fiéis, ensina
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jesus Cristo, Seus fiéis ensina;
+Vamos, todos juntos aprender;
+Com a Sua celestial doutrina
+Ele nos reveste do saber;
+Ele guia os pequeninos com carinho e com amor,
+Somos d’Ele os cordeirinhos,
+Jesus Cristo é o bom Pastor.
+São mui sábios os ensinos do divino Redentor.
+
+Jesus Cristo para o céu nos leva;
+Vamos, pois, com Ele caminhar;
+Nesta graça Seu poder conserva,
+Quem irá com Ele habitar.
+No Seu reino de grande glória,
+Nas moradas do eterno Deus,
+Cantaremos a vitória juntos aos remidos Seus.
+Quão suprema é a glória que teremos lá nos céus!
+
+#Hino470 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 470, hino 470 ccb, Jesus Cristo, Seus fiéis, ensina, jesus cristo, seus fieis, ensina, Hinário 5, hinario 470, ccb hino 470, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 471
+
+## Título para o vídeo
+Hino 471 - Que grande bem é andar com Cristo! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 471 - Que grande bem é andar com Cristo!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 471, “Que grande bem é andar com Cristo!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 471
+📖 Hinário: Hinário 5
+🎶 Título: Que grande bem é andar com Cristo!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Que grande bem é andar com Cristo,
+o Mestre!
+Que privilégio é servir a Deus!
+Celeste bênção é a paz celeste,
+A paz que Cristo deu aos Seus.
+
+Coro:
+Que grande bem,
+Eterno bem,
+Recebemos de Deus.
+
+2. É mui feliz aquele que procura
+Aqui no mundo, agradar a Deus,
+Obedecendo à Palavra pura;
+Será honrado lá nos céus.
+
+3. Deus nos dará a bem-aventurança;
+Inexplicável é tão grande amor!
+Seu reino eterno é a nossa herança;
+Bendito seja o Criador!
+
+#Hino471 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 471, hino 471 ccb, Que grande bem é andar com Cristo!, que grande bem e andar com cristo!, Hinário 5, hinario 471, ccb hino 471, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 472
+
+## Título para o vídeo
+Hino 472 - Glorifi carei, glorifi carei | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 472 - Glorifi carei, glorifi carei
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 472, “Glorifi carei, glorifi carei”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 472
+📖 Hinário: Hinário 5
+🎶 Título: Glorifi carei, glorifi carei
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Desde pequenino, Deus, o Criador,
+Fez-me conhecer a Cristo, o Salvador,
+Tem manifestado em mim o Seu amor,
+Pelo bom Consolador.
+
+Coro:
+Glorificarei! Glorificarei
+Ao Senhor Jesus e a Deus, o Criador;
+Sendo eu pequeno, separado estou,
+Para glória do Senhor.
+
+2. Com perseverança clamo ao Senhor,
+Esperando d’Ele força e fervor;
+Nas tribulações serei um vencedor,
+Pois Deus ouve o meu clamor.
+
+3. A gloriosa pátria hei de alcançar,
+Se seguir a Cristo sem desanimar;
+Nada neste mundo pode se igualar
+Com aquele eterno lar.
+
+#Hino472 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 472, hino 472 ccb, Glorifi carei, glorifi carei, glorifi carei, glorifi carei, Hinário 5, hinario 472, ccb hino 472, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 473
+
+## Título para o vídeo
+Hino 473 - Forasteiro sou no mundo | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 473 - Forasteiro sou no mundo
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 473, “Forasteiro sou no mundo”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 473
+📖 Hinário: Hinário 5
+🎶 Título: Forasteiro sou no mundo
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Forasteiro sou no mundo
+Neste mundo de ilusão;
+Para o céu vou caminhando
+Onde os fiéis entrarão
+
+Coro:
+Viverei com os fiéis
+Para sempre lá dos céus
+Pois, no número dos santos,
+Eu serei contado por Deus
+
+Ansioso eu espero
+Ver a face do Senhor
+Contemplar a formosura
+E a glória do Redentor.
+
+E A
+Com a multidão cantando
+E B7
+E louvando ao Senhor
+E A
+Entrarei, com regozijo,
+E B7 E
+No celeste lar de esplendor
+
+#Hino473 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 473, hino 473 ccb, Forasteiro sou no mundo, forasteiro sou no mundo, Hinário 5, hinario 473, ccb hino 473, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 474
+
+## Título para o vídeo
+Hino 474 - Oh! Glória! Bendito é o Senhor! | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 474 - Oh! Glória! Bendito é o Senhor!
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 474, “Oh! Glória! Bendito é o Senhor!”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 474
+📖 Hinário: Hinário 5
+🎶 Título: Oh! Glória! Bendito é o Senhor!
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Com alegria devemos servir
+A Cristo Jesus, o Salvador.
+Que nos fará bens eternos fruir
+Oh! Glória! Bendito é o Senhor!
+
+Coro:
+
+Vida eterna certo alcançarão
+Lá no céu, os fiéis.
+Coroados, eles bendirão
+A Jesus, o Rei dos Reis.
+
+Com toda alma devemos amar
+A Cristo Jesus, o Salvador;
+Ele, nas provas, nos faz triunfar;
+Oh! Glória, Bendito é o Senhor.
+
+Quando estivermos no lar divinal,
+Com Cristo Jesus, o Salvador,
+Desfrutaremos o bem celestial;
+Oh! Glória, Bendito é o Senhor!
+
+#Hino474 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 474, hino 474 ccb, Oh! Glória! Bendito é o Senhor!, oh! gloria! bendito e o senhor!, Hinário 5, hinario 474, ccb hino 474, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 475
+
+## Título para o vídeo
+Hino 475 - Se eu for aqui provado | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 475 - Se eu for aqui provado
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 475, “Se eu for aqui provado”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 475
+📖 Hinário: Hinário 5
+🎶 Título: Se eu for aqui provado
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Se eu for aqui provado, clamarei a ti Senhor
+Tu és o meu Socorro e também meu
+defensor
+E só por Teu poder farei o Teu querer
+E vencerei, por fé, o mundo enganador
+
+Se eu for aqui tentado, clamarei a Ti Senhor
+Confiante que ouviras e atenderás ao meu
+clamor
+Se junto a Ti viver e Te obedecer
+Por certo eu serei em tudo vencedor
+
+Se eu for aqui oprimido, clamarei a Ti Senhor
+O santo evangelho me dará o Teu valor
+Com Tua proteção terei a salvação
+E exaltarei Teu grande nome, ó Salvador
+
+Final:
+Já desde a minha infância clamo a ti
+Senhor
+De todo o coração e com sincero amor
+E Tu, meu bom Jesus, és sempre a
+minha luz
+E me conduziras ao lar de esplendor
+
+#Hino475 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 475, hino 475 ccb, Se eu for aqui provado, se eu for aqui provado, Hinário 5, hinario 475, ccb hino 475, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 476
+
+## Título para o vídeo
+Hino 476 - "Deixai a Mim vir os pequeninos..." | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 476 - "Deixai a Mim vir os pequeninos..."
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 476, “"Deixai a Mim vir os pequeninos..."”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 476
+📖 Hinário: Hinário 5
+🎶 Título: "Deixai a Mim vir os pequeninos..."
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Crianças eram encaminhadas
+Aos pés de Cristo, o Redentor,
+A fim de serem abençoadas
+E conhecerem o Seu amor.
+
+"Deixai a Mim vir os pequeninos
+E não impeçais" falou Jesus;
+Quem não se torna também menino
+Não tem entrada no lar de Luz.
+
+Doutrina Santa e excelente
+Ensina o Redentor aos Seus fiéis.
+A Deus sirvamos humildemente,
+Pois foi humilde o Rei dos reis.
+
+#Hino476 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 476, hino 476 ccb, "Deixai a Mim vir os pequeninos...", "deixai a mim vir os pequeninos...", Hinário 5, hinario 476, ccb hino 476, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação
+
+---
+
+# 477
+
+## Título para o vídeo
+Hino 477 - Vinde, crianças | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 477 - Vinde, crianças
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 477, “Vinde, crianças”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 477
+📖 Hinário: Hinário 5
+🎶 Título: Vinde, crianças
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Vinde, crianças, vinde a Jesus.
+Ele vos chama com voz de amor,
+Para guiar-vos com Sua luz,
+Ao reino de esplendor.
+
+Coro:
+Grande tesouro revelou Jesus
+Aos que caminham na divina luz;
+Esse tesouro Deus prometeu
+Dar aos fiéis, no céu.
+
+Sede prudentes e esperai
+Os ricos bens do lar de esplendor,
+Onde habita Deus, nosso Pai,
+E Cristo, o Salvador.
+
+Vós, neste mundo, encontrareis
+Muita vaidade, muita ilusão;
+Santificai-vos e alcançareis
+No céu, o galardão.
+
+#Hino477 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 477, hino 477 ccb, Vinde, crianças, vinde, criancas, Hinário 5, hinario 477, ccb hino 477, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao, música instrumental cristã
+
+---
+
+# 478
+
+## Título para o vídeo
+Hino 478 - Cedo retorna o Senhor | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 478 - Cedo retorna o Senhor
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 478, “Cedo retorna o Senhor”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 478
+📖 Hinário: Hinário 5
+🎶 Título: Cedo retorna o Senhor
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Cedo vem a fim de premiar os santos Seus,
+Jesus Cristo, nosso Salvador;
+Recompensa para os justos haverá nos céus,
+Reino de glória e amor.
+
+Coro:
+Cedo retorna o Senhor
+E traz o eterno galardão,
+Bem-aventurado quem O serve com amor
+E com sincero coração.
+
+2. Mocidade, vamos todos nos purificar
+Atendendo a Cristo, o bom Pastor.
+Ele quer a todos os Seus santos coroar,
+Com vida eterna e esplendor.
+
+3. Consagrados poderemos, ó fiéis, dizer:
+Ora vem, Jesus, bom Redentor.
+D´Ele sempre recebemos força e poder,
+Para servi-Lo com fervor.
+
+#Hino478 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 478, hino 478 ccb, Cedo retorna o Senhor, cedo retorna o senhor, Hinário 5, hinario 478, ccb hino 478, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 479
+
+## Título para o vídeo
+Hino 479 - Somos jovens consagrados | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 479 - Somos jovens consagrados
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 479, “Somos jovens consagrados”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 479
+📖 Hinário: Hinário 5
+🎶 Título: Somos jovens consagrados
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+1. Somos jovens consagrados a Jesus, o Redentor,
+E, por Ele, ensinados a servir ao Criador.
+
+Coro:
+Que alegria encontramos
+Em servir ao Criador!
+Nós, Seus filhos, O amamos,
+Com sincero e puro amor.
+
+2. Somos jovens obedientes a Jesus, o Salvador,
+Atendemos, reverentes à Palavra do Senhor.
+
+3. Somos jovens dedicados nesta obra do Senhor,
+Fomos todos resgatados por Seu sangue expiador.
+
+#Hino479 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 479, hino 479 ccb, Somos jovens consagrados, somos jovens consagrados, Hinário 5, hinario 479, ccb hino 479, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+
+# 480
+
+## Título para o vídeo
+Hino 480 - Jovens, amai o conselho | Hinário 5 CCB | Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+
+
+## Descrição para o YouTube
+
+Hino 480 - Jovens, amai o conselho
+Hinário 5 - Congregação Cristã no Brasil
+
+Execução instrumental - Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes).
+
+Este vídeo apresenta o áudio do hino 480, “Jovens, amai o conselho”, tocado em teclado, com uma interpretação simples e reverente para momentos de meditação, estudo, louvor e acompanhamento musical.
+
+Que esta melodia possa trazer paz, comunhão e edificação.
+
+🎹 Instrumento: Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes)
+🎵 Hino: 480
+📖 Hinário: Hinário 5
+🎶 Título: Jovens, amai o conselho
+
+Inscreva-se no canal para acompanhar mais hinos instrumentais da CCB no teclado.
+
+📜 Letra:
+
+Jovens, amai o conselho,
+O ensino de Cristo Jesus;
+Ele é vosso Modelo
+De vida, justiça e luz.
+
+Coro:
+A Deus e a Cristo, o Senhor,
+Devemos consagração,
+Respeito, honra, profundo amor
+E eterna veneração.
+
+Vasos, por Cristo, escolhidos
+Sereis, para glória de Deus;
+Cristo vos quer revestidos
+Das santas virtudes dos céus.
+
+Jovens que seguem o Mestre,
+Em sua existência terão
+A providência celeste
+E prósperos n´Ele serão.
+
+#Hino480 #Hinario5 #CCB
+
+
+## Tags para YouTube
+
+hino 480, hino 480 ccb, Jovens, amai o conselho, jovens, amai o conselho, Hinário 5, hinario 480, ccb hino 480, hinos ccb, hinos da ccb, congregação cristã no brasil, congregacao crista no brasil, hinos tocados no teclado, hino no teclado, Hinos em Orquestra CCB (Orquestra, Órgão, Coral e Naipes), hinos em orquestra ccb (orquestra, órgão, coral e naipes), hinos ccb teclado, hino instrumental ccb, ccb instrumental, hinário ccb, hinario ccb, hinos para meditação, hinos para meditacao
+
+---
+

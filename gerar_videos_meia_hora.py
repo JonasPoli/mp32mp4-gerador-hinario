@@ -58,9 +58,10 @@ ROOT          = Path(__file__).parent
 PROJETO_NOME  = "meia_hora"
 PROJETO_DIR   = ROOT / "projects" / PROJETO_NOME
 MP3_DIR       = ROOT / "mp3" / "orgao_eletronico_drawbar"
-FLORES_DIR    = ROOT / "shared_assets" / "background_clips" / "videos_flores"
-PHOTOS_DIR    = ROOT / "shared_assets" / "background_clips" / "Photos-1-001"
-MOVIEA_DIR    = ROOT / "shared_assets" / "background_clips" / "Temp-moviea"
+BG_CLIPS_DIR  = ROOT / "shared_assets" / "background_clips"
+FLORES_DIR    = BG_CLIPS_DIR / "videos_flores"
+PHOTOS_DIR    = BG_CLIPS_DIR / "Photos-1-001"
+MOVIEA_DIR    = BG_CLIPS_DIR / "Temp-moviea"
 OUTPUT_DIR    = ROOT / "output" / PROJETO_NOME
 THUMBS_DIR    = OUTPUT_DIR / "thumbs"
 DB_PATH       = ROOT / "progresso.db"
@@ -262,9 +263,15 @@ def sincronizar_clipes(conn):
                          (rel, fonte, dur))
             inseridos += 1
 
-    escanear(FLORES_DIR, "videos_flores")
-    escanear(PHOTOS_DIR, "photos")
-    escanear(MOVIEA_DIR, "moviea")
+    if BG_CLIPS_DIR.exists():
+        for subpasta in BG_CLIPS_DIR.iterdir():
+            if subpasta.is_dir() and not subpasta.name.startswith("."):
+                escanear(subpasta, subpasta.name)
+    else:
+        escanear(FLORES_DIR, "videos_flores")
+        escanear(PHOTOS_DIR, "photos")
+        escanear(MOVIEA_DIR, "moviea")
+
     conn.commit()
     if inseridos:
         print(f"[banco] {inseridos} novo(s) clipe(s) de fundo registrado(s).")
