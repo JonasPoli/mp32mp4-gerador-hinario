@@ -313,8 +313,8 @@ conn.close()
     echo "  ────────────────────────────────────────────────────────────"
 
     # ── Fase 1b: Verificar e retry hinos faltantes ──────────────────
-    # Pular coros e meia_hora (não têm 480 hinos)
-    if [ "$PROJETO" != "coros" ] && [ "$PROJETO" != "meia_hora" ]; then
+    # Pular coros (não tem 480 hinos)
+    if [ "$PROJETO" != "coros" ]; then
         FALTANTES=$($PYTHON -c "
 import sqlite3
 conn = sqlite3.connect('progresso.db')
