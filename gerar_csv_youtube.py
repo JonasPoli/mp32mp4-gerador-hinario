@@ -28,7 +28,8 @@ from gerar_videos import (
     remover_acentos,
     carregar_letra_hino,
     formatar_numero_completo,
-    carregar_templates_youtube
+    carregar_templates_youtube,
+    ajustar_metadados_coro
 )
 
 def extrair_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict) -> tuple[str, str, str]:
@@ -110,6 +111,8 @@ def extrair_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: di
             )
         else:
             descricao = descricao.rstrip() + "\n\n📜 Letra:\n\n" + letra
+
+    titulo, descricao, tags = ajustar_metadados_coro(titulo, descricao, tags, numero)
 
     return titulo, descricao, tags
 

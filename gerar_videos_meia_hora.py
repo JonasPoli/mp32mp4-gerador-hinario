@@ -30,8 +30,9 @@ import subprocess
 import sys
 import time
 import unicodedata
-from datetime import datetime, timezone
 from pathlib import Path
+
+from gerar_videos import ajustar_metadados_coro
 
 try:
     import psutil
@@ -209,6 +210,14 @@ def _criar_tabelas(conn):
         CREATE TABLE IF NOT EXISTS config (
             chave TEXT PRIMARY KEY,
             valor TEXT
+        );
+        CREATE TABLE IF NOT EXISTS historico_clipes (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            projeto       TEXT NOT NULL,
+            numero        TEXT NOT NULL,
+            clipe_caminho TEXT NOT NULL,
+            duracao_s     REAL,
+            usado_em_ts   TEXT NOT NULL
         );
     """)
     c_cursor = conn.execute("PRAGMA table_info(clipes)")
@@ -644,6 +653,36 @@ def selecionar_clipes(conn, duracao_necessaria, numero):
         total += dur
     return selecionados
 
+def registrar_log_clipes(conn, projeto_nome, numero, clipes):
+    ts = now_iso()
+    log_dir = ROOT / "logs"
+    log_dir.mkdir(exist_ok=True)
+    log_file = log_dir / "background_clips.log"
+
+    lines_to_log = [
+        f"[{ts}] [PROJETO: {projeto_nome}] Hino {numero} - {len(clipes)} clipe(s) de fundo selecionado(s):"
+    ]
+
+    for idx, (caminho_str, dur) in enumerate(clipes, 1):
+        try:
+            rel_caminho = str(Path(caminho_str).relative_to(ROOT))
+        except ValueError:
+            rel_caminho = caminho_str
+
+        conn.execute(
+            "INSERT INTO historico_clipes (projeto, numero, clipe_caminho, duracao_s, usado_em_ts) VALUES (?, ?, ?, ?, ?)",
+            (projeto_nome, str(numero), rel_caminho, dur, ts)
+        )
+        lines_to_log.append(f"  {idx:02d}. {rel_caminho} ({dur:.1f}s)")
+
+    conn.commit()
+
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write("\n".join(lines_to_log) + "\n\n")
+    except Exception as e:
+        print(f"  [aviso] Falha ao escrever em {log_file.name}: {e}")
+
 def compor_video_fundo(clipes, duracao_total, saida):
     if len(clipes) == 1:
         caminho, dur = clipes[0]
@@ -808,6 +847,8 @@ def gerar_metadados(numero, nome, projeto_cfg):
                 break
         tags = ", ".join(valid)
 
+    titulo, descricao, tags = ajustar_metadados_coro(titulo, descricao, tags, numero)
+
     return (f"# {numero}\n\n## Título para o vídeo\n{titulo}\n\n\n"
             f"## Descrição para o YouTube\n\n{descricao}\n\n\n"
             f"## Tags para YouTube\n\n{tags}\n\n---\n")
@@ -964,7 +1005,10 @@ def processar_hino(numero, mp3_path, nome, conn, projeto_cfg, pausa_entre_hinos=
 
         print("  Selecionando clipes de fundo...")
         clipes = selecionar_clipes(conn, dur_mp3_val, numero)
-        print(f"  {len(clipes)} clipe(s) selecionado(s).")
+        print(f"  {len(clipes)} clipe(s) selecionado(s):")
+        for idx, (caminho_str, dur) in enumerate(clipes, 1):
+            print(f"    {idx:02d}. {Path(caminho_str).name} ({dur:.1f}s)")
+        registrar_log_clipes(conn, PROJETO_NOME, numero, clipes)
 
         print("  Compondo vídeo de fundo...")
         verificar_recursos()

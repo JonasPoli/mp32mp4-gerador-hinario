@@ -245,6 +245,55 @@ def formatar_template(template: str, variables: dict) -> str:
     return res
 
 
+def ajustar_metadados_coro(titulo: str, descricao: str, tags: str, numero) -> tuple[str, str, str]:
+    """Ajusta o título, a descrição e as tags quando o item é um Coro (ex: C1, C03, C003).
+
+    Transformações aplicadas para Coros:
+    - Título: 'Hino C3' -> 'Coro 03'
+    - Descrição: 'Hino C3' / 'hino C3' -> 'Coro 03'
+    - Emojis/Campos: '🎵 Hino: C3' -> '🎵 Coro: 03'
+    - Hashtags: '#HinoC3' -> '#Coro3' (sem zero à esquerda no hashtag)
+    - Tags: 'hino C3' -> 'Coro 03', 'hino C3 ccb' -> 'Coro 03 ccb', 'ccb hino C3' -> 'ccb Coro 03'
+      (mantendo 'hinario C3' inalterado)
+    """
+    num_str = str(numero).strip()
+    is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
+    if not is_coro:
+        return titulo, descricao, tags
+
+    coro_num = int(num_str[1:])
+    coro_padded = f"{coro_num:02d}"
+    coro_raw = str(coro_num)
+
+    variantes = list(dict.fromkeys([
+        num_str,
+        num_str.upper(),
+        num_str.lower(),
+        f"C{coro_num}",
+        f"c{coro_num}",
+        f"C{coro_padded}",
+        f"c{coro_padded}",
+        coro_raw,
+        coro_padded,
+    ]))
+
+    for var in variantes:
+        titulo = re.sub(rf'\bHino\s+{re.escape(var)}\b', f'Coro {coro_padded}', titulo, flags=re.IGNORECASE)
+
+    for var in variantes:
+        descricao = re.sub(rf'🎵\s*Hino:\s*{re.escape(var)}\b', f'🎵 Coro: {coro_padded}', descricao, flags=re.IGNORECASE)
+        descricao = re.sub(rf'#Hino{re.escape(var)}\b', f'#Coro{coro_raw}', descricao, flags=re.IGNORECASE)
+        descricao = re.sub(rf'\bhino\s+{re.escape(var)}\b', f'Coro {coro_padded}', descricao, flags=re.IGNORECASE)
+        descricao = re.sub(rf'\bHino\s+{re.escape(var)}\b', f'Coro {coro_padded}', descricao)
+
+    for var in variantes:
+        tags = re.sub(rf'\bhino\s+{re.escape(var)}\s+ccb\b', f'Coro {coro_padded} ccb', tags, flags=re.IGNORECASE)
+        tags = re.sub(rf'\bccb\s+hino\s+{re.escape(var)}\b', f'ccb Coro {coro_padded}', tags, flags=re.IGNORECASE)
+        tags = re.sub(rf'\bhino\s+{re.escape(var)}\b', f'Coro {coro_padded}', tags, flags=re.IGNORECASE)
+
+    return titulo, descricao, tags
+
+
 # =============================================================================
 # Utilitários
 # =============================================================================
@@ -570,6 +619,15 @@ def _criar_tabelas(conn: sqlite3.Connection):
         CREATE TABLE IF NOT EXISTS config (
             chave TEXT PRIMARY KEY,
             valor TEXT
+        );
+
+        CREATE TABLE IF NOT EXISTS historico_clipes (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            projeto       TEXT NOT NULL,
+            numero        TEXT NOT NULL,
+            clipe_caminho TEXT NOT NULL,
+            duracao_s     REAL,
+            usado_em_ts   TEXT NOT NULL
         );
     """)
     conn.commit()
@@ -1060,6 +1118,42 @@ def selecionar_clipes(conn: sqlite3.Connection, duracao_necessaria: float,
     return selecionados
 
 
+def registrar_log_clipes(conn: sqlite3.Connection, projeto_nome: str, numero: int, clipes: list[tuple[str, float]]):
+    """
+    Registra na tabela 'historico_clipes' e no arquivo 'logs/background_clips.log'
+    a lista completa de clipes de fundo selecionados para a geração de um vídeo.
+    """
+    ts = now_iso()
+    log_dir = ROOT / "logs"
+    log_dir.mkdir(exist_ok=True)
+    log_file = log_dir / "background_clips.log"
+
+    lines_to_log = [
+        f"[{ts}] [PROJETO: {projeto_nome}] Hino {numero} - {len(clipes)} clipe(s) de fundo selecionado(s):"
+    ]
+
+    for idx, (caminho_str, dur) in enumerate(clipes, 1):
+        try:
+            rel_caminho = str(Path(caminho_str).relative_to(ROOT))
+        except ValueError:
+            rel_caminho = caminho_str
+
+        conn.execute(
+            "INSERT INTO historico_clipes (projeto, numero, clipe_caminho, duracao_s, usado_em_ts) VALUES (?, ?, ?, ?, ?)",
+            (projeto_nome, str(numero), rel_caminho, dur, ts)
+        )
+        lines_to_log.append(f"  {idx:02d}. {rel_caminho} ({dur:.1f}s)")
+
+    conn.commit()
+
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write("\n".join(lines_to_log) + "\n\n")
+    except Exception as e:
+        print(f"  [aviso] Falha ao escrever em {log_file.name}: {e}")
+
+
+
 def compor_video_fundo(clipes: list[tuple[str, float]], duracao_total: float,
                        saida: Path) -> Path:
     """
@@ -1379,6 +1473,8 @@ def gerar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict
         else:
             descricao = descricao.rstrip() + "\n\n📜 Letra:\n\n" + letra
 
+    titulo, descricao, tags = ajustar_metadados_coro(titulo, descricao, tags, numero)
+
     return f"""# {numero}
 
 ## Título para o vídeo
@@ -1485,7 +1581,10 @@ def processar_hino(numero: int, mp3_path: Path, nome: str,
         # 3. Selecionar e compor vídeo de fundo
         print("  Selecionando clipes de fundo...")
         clipes = selecionar_clipes(conn, dur_mp3, sem_download, projeto_nome, numero)
-        print(f"  {len(clipes)} clipe(s) selecionado(s).")
+        print(f"  {len(clipes)} clipe(s) selecionado(s):")
+        for idx, (caminho_str, dur) in enumerate(clipes, 1):
+            print(f"    {idx:02d}. {Path(caminho_str).name} ({dur:.1f}s)")
+        registrar_log_clipes(conn, projeto_nome, numero, clipes)
 
         print("  Compondo vídeo de fundo...")
         verificar_recursos()

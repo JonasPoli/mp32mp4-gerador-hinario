@@ -40,6 +40,12 @@ except ImportError:
         res = re.sub(r"^Coro\s+\d+\s*-\s*", "", res, flags=re.IGNORECASE)
         return res.strip()
 
+try:
+    from gerar_videos import ajustar_metadados_coro
+except ImportError:
+    def ajustar_metadados_coro(t, d, tg, n):
+        return t, d, tg
+
 app = Flask(__name__, static_folder=str(ADMIN / "static"), static_url_path="/static")
 
 
@@ -344,7 +350,25 @@ def gerar_metadados(numero: int, nome: str, projeto_nome: str, projeto_cfg: dict
     # Incluir letra do hino/coro na descrição
     letra = buscar_letra_hino(numero)
     if letra:
-        descricao = descricao + "\n\n🎵 Letra:\n" + letra
+        linhas_desc = descricao.splitlines()
+        idx_hashtag = next(
+            (i for i, ln in enumerate(linhas_desc) if ln.strip().startswith("#")),
+            None
+        )
+        if idx_hashtag is not None:
+            parte_apresentacao = "\n".join(linhas_desc[:idx_hashtag]).rstrip()
+            parte_hashtags = "\n".join(linhas_desc[idx_hashtag:])
+            descricao = (
+                parte_apresentacao
+                + "\n\n"
+                + parte_hashtags
+                + "\n\n🎵 Letra:\n"
+                + letra
+            )
+        else:
+            descricao = descricao.rstrip() + "\n\n🎵 Letra:\n" + letra
+
+    titulo, descricao, tags = ajustar_metadados_coro(titulo, descricao, tags, numero)
 
     # Garantir limite de 500 caracteres, removendo as últimas tags se passar
     if len(tags) > 500:
@@ -412,7 +436,16 @@ def video_para_dict(row, data_postagem: str | None = None) -> dict:
         }
 
     hinos_projeto = get_hinos_projeto(projeto)
-    nome = hinos_projeto.get(numero) or hinos_projeto.get(str(numero)) or hinos_projeto.get(int(numero) if str(numero).isdigit() else None) or f"Hino {numero}"
+    num_str = str(numero).strip()
+    is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
+    if is_coro:
+        try:
+            num_key = int(num_str[1:])
+        except ValueError:
+            num_key = numero
+        nome = hinos_projeto.get(numero) or hinos_projeto.get(num_str) or hinos_projeto.get(num_key) or f"Coro {num_str}"
+    else:
+        nome = hinos_projeto.get(numero) or hinos_projeto.get(num_str) or hinos_projeto.get(int(numero) if num_str.isdigit() else None) or f"Hino {numero}"
 
     projeto_cfg = PROJETOS.get(projeto, {})
     meta = gerar_metadados(numero, nome, projeto, projeto_cfg)
@@ -1014,7 +1047,17 @@ def api_export_csv(projeto: str):
             stem = Path(video_file).stem
             video_file_clean = stem.replace("-", " ").replace("_", " ")
             
-        nome_hino = hinos_projeto.get(numero, f"Hino {numero}")
+        num_str = str(numero).strip()
+        is_coro = num_str.upper().startswith("C") and num_str[1:].isdigit()
+        if is_coro:
+            try:
+                num_key = int(num_str[1:])
+            except ValueError:
+                num_key = numero
+            nome_hino = hinos_projeto.get(numero) or hinos_projeto.get(num_str) or hinos_projeto.get(num_key) or f"Coro {num_str}"
+        else:
+            nome_hino = hinos_projeto.get(numero) or hinos_projeto.get(num_str) or f"Hino {numero}"
+
         meta = gerar_metadados(numero, nome_hino, projeto, projeto_cfg)
         
         # Thumb: usa o valor do banco se disponível, senão calcula
