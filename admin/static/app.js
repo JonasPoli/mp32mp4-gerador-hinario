@@ -548,12 +548,57 @@ async function init() {
     
     const csvBtn = $('#download-csv-btn');
     if (csvBtn) {
-      csvBtn.addEventListener('click', () => {
+      csvBtn.addEventListener('click', async () => {
         if (!state.activeProject) {
           toast('Nenhum projeto ativo selecionado.', 'error');
           return;
         }
-        window.open(`/api/projects/${state.activeProject}/export-csv`, '_blank');
+        const projeto = state.activeProject;
+        const filename = `videos_${projeto}.csv`;
+
+        // Abre o "Salvar como" direto pela página (antes do fetch, enquanto o clique ainda vale como gesto),
+        // sem passar pelo gerenciador de downloads do Chrome, que só mostra um diálogo por vez e pode travar.
+        let fileHandle = null;
+        if (window.showSaveFilePicker) {
+          try {
+            fileHandle = await window.showSaveFilePicker({
+              suggestedName: filename,
+              types: [{ description: 'CSV', accept: { 'text/csv': ['.csv'] } }],
+            });
+          } catch (err) {
+            if (err.name === 'AbortError') return; // usuário cancelou
+            // Outros erros: segue para o download comum
+          }
+        }
+
+        csvBtn.disabled = true;
+        try {
+          const res = await fetch(`/api/projects/${encodeURIComponent(projeto)}/export-csv`);
+          if (!res.ok) {
+            const err = await res.json().catch(() => ({}));
+            throw new Error(err.error || `HTTP ${res.status}`);
+          }
+          const blob = await res.blob();
+          if (fileHandle) {
+            const writable = await fileHandle.createWritable();
+            await writable.write(blob);
+            await writable.close();
+            toast(`CSV salvo: ${fileHandle.name}`, 'success');
+          } else {
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            setTimeout(() => URL.revokeObjectURL(a.href), 10000);
+            toast('CSV exportado.', 'success');
+          }
+        } catch (err) {
+          toast('Erro ao exportar CSV: ' + err.message, 'error');
+        } finally {
+          csvBtn.disabled = false;
+        }
       });
     }
 
